@@ -1,0 +1,18 @@
+q1: Why are the men speaking poorly of each other?
+a: To persuade people
+i: To entertain people
+q2: What is the relation between the men?
+a: They are candidates of the same election
+i: They are residents of the same neighborhood
+q3: Why is the man on the right's voice growing louder at the end of the video?
+a: He is getting angry
+i: He is getting excited
+q4: How does the blonde man deliver his insults?
+a: In a passive-agressive manner
+i: In a straight-forward manner
+q5: What does the man's comments at 0:10 imply about the other man?
+a: That he's immature
+i: That he's funny
+q6: What does the blonde man's expression at 0:32 convey?
+a: Satisfaction
+i: Humiliation

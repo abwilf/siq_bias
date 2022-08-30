@@ -1,0 +1,18 @@
+q1: How does the man in glasses feel about the question asked?
+a: It was pointless
+i: It was pivotal
+q2: Why does the man in glasses mention how he answered the same question in his interview? 
+a: He is being facetious
+i: He is being informative
+q3: What is the tone of the man asking the question?
+a: Professional
+i: Obnoxious
+q4: 
+a: 
+i: 
+q5: Why is one candidate's answer highlighted?
+a: It was the most dishonest
+i: It was the most professional
+q6: Does the host dislike Ted Cruz?
+a: Yes
+i: No

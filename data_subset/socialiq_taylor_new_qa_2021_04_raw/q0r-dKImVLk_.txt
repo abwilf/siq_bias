@@ -1,0 +1,18 @@
+q1: Why does the woman at 0:04 open her eyes wide?
+a: She is nervous
+i: She is shocked 
+q2: Why is the woman at 0:49 panting? 
+a: She is exhausted
+i: She is asthmatic
+q3: What is the experience of the woman in pink on the game show?
+a: Unfortunate
+i: Lucky
+q4: How does the woman appear when being blasted by air?
+a: In agony
+i: In bliss
+q5: Why does the man tell the woman happy birthday?
+a: She is about to receive a cake to her face
+i: She is about to turn one year older
+q6: I the woman in blue feel bad for having the woman in pink receive more torture?
+a: No
+i: Yes

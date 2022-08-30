@@ -1,0 +1,18 @@
+q1: How does the music affect the energy of the room?
+a: It adds suspense
+i: It adds terror
+q2: Why does the man gesture his hand at 0:03?
+a: The phone didn't unlock as he expected
+i: The phone didn't ring as he expected
+q3: Why does the man put on glasses?
+a: To imitate the other man
+i: To see the other man
+q4: How does the man react to his glasses being mocked?
+a: He thinks it's funny
+i: He thinks it's discriminatory
+q5: What is the woman in red's reaction to the phone unlocking?
+a: She thought it was impressive
+i: She thought it was boring
+q6: What does the bald man placing his hands on his head indicate?
+a: His shock
+i: His frustration

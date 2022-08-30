@@ -1,0 +1,18 @@
+q1: What was the woman's thought towards getting a degree in something where there's not a great career track afterwards?
+a: She was demeaning towards those peoples' ability to make money
+i: She thought they'd be very successful
+q2: What is the attitude of the people sitting at the desk?
+a: Skeptical & judgemental
+i: Understanding & open-minded
+q3: Why was the man giving the speech behind the podium frustrated?
+a: He felt as though people were lying about him
+i: He felt as though people don't think he's capable
+q4: What was the reaction of the people behind the desk to the speech given by the man behind the podium?
+a: They thought it was hypocritical
+i: They thought it was powerful
+q5: What is the theme of the conversation between the people sitting at the desk?
+a: Sarcastic & unhelpful
+i: Genuine & progressive
+q6: Why did the woman in the black and white get offended?
+a: The man with the blue pocket-square asked if she ever tried to stab someone
+i: The woman in black asked if she ever tried to stab someone

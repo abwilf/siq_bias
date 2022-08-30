@@ -1,0 +1,18 @@
+q1: How does the man in glasses feel about the question asked?
+a: It was pointless
+i: It was necessary
+q2: 
+a: 
+i: 
+q3: What is the behavior of the man asking the question?
+a: Professional
+i: Obnoxious
+q4: Does the man know for a fact that the question won't be answered honestly?
+a: No, it is an assumption
+i: Yes, it is likely 
+q5: Why is one candidate's answer highlighted?
+a: It was the most dishonest
+i: It was the most hilarious
+q6: Does the host like Ted Cruz?
+a: No
+i: Yes

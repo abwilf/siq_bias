@@ -1,0 +1,18 @@
+q1: What is the attitude of the blonde woman when giving the man an apron?
+a: Flippant
+i: Thoughtful
+q2: Why does the woman on the left side-eye the woman on the right?
+a: Her comment about a cultural dish
+i: Her comment about a cultural celebration
+q3: Who is the main cook of the show?
+a: Katie
+i: Ronnie
+q4: In what manner is the woman with blonde hair treating her special guest?
+a: Rudely
+i: Benevolently
+q5: Why does the blonde woman stare forward and bite her lip?
+a: The man keeps correcting her
+i: The man keeps berating her
+q6: Why does the brunette woman giggle at the man?
+a: She is surprised by his thoughtful comment
+i: She is surprised by his flirtatious comment

@@ -1,0 +1,18 @@
+q1: Why does the man on the right ask which floor they are visiting?
+a: The house is large
+i: The house is creepy 
+q2: Which man is more knowledgable on real estate?
+a: The man in the brown jacket
+i: The man in the black sweater
+q3: Which man is more impressed by the house?
+a: The man in the black sweater
+i: The man in the brown jacket
+q4: Why does the man ask how much the place is?
+a: He assumes it is expensive
+i: He assumes it is cheap
+q5: Why does the man point up at the end of the video?
+a: He wants the other man to look at the building
+i: He wants the other man to look at the sky
+q6: Why does the man slap the other man's chest?
+a: Out of friendliness
+i: Out of anger

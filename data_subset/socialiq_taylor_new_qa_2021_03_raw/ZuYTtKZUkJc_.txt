@@ -1,0 +1,18 @@
+q1: Why does the man on stage yell out to the crowd?
+a: He is trying to get them pumped
+i: He is trying to get them scared
+q2: How does Blake feel about trash talk on stage?
+a: It is more intense
+i: It is more relaxing
+q3: What is the atmosphere of the crowded room?
+a: Excited
+i: Solemn
+q4: Why do the two men put their faces close to one another?
+a: They are about to compete
+i: They are about to whisper
+q5: How do the two men have similar mindsets about the battle? 
+a: They both feel confident 
+i: They both feel inferior
+q6: Which man is athletic?
+a: The younger man
+i: The bald man

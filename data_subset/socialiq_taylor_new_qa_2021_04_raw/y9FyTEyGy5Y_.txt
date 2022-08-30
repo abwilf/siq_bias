@@ -1,0 +1,18 @@
+q1: How does the woman on the left welcome the woman on the right?
+a: By letting her vacation at her home
+i: By letting her live in her home
+q2: Why is the woman on the left impressed with the woman on the right?
+a: She is a foreign exchange student
+i: She is a foreign ambassador 
+q3: How do the women know each other?
+a: Through the woman on the left's daughter
+i: Through the woman on the right's daughter
+q4: 
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

@@ -1,0 +1,18 @@
+q1: Why does the man look to the woman while listening to the radio?
+a: He wants to see her reaction
+i: He likes to see her happiness
+q2: How does the woman appear while hearing the radio announcement?
+a: She looks concerned
+i: She looks unbothered
+q3: What is the tone of the woman on the phone?
+a: Commanding
+i: Relaxing
+q4: Why does the man pack garden equipment into the car?
+a: For his defense
+i: For his hobby
+q5: How does the woman in the car criticize the man?
+a: She berates his choice of weapons
+i: She berates his driving skills
+q6: Why does the man want the girl to practice with the tool?
+a: He wants her to be able to defend herself
+i: He wants her to be able to fix her sink

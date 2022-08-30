@@ -1,0 +1,18 @@
+q1: What is the tone of the woman's questions?
+a: Respectful
+i: Aggressive
+q2: How does the officer react to the woman's first question?
+a: By denying the accusation
+i: He confirming the accusation
+q3: Why does the man explain their process?
+a: To defend his department
+i: To defend his mother
+q4: How can the man's defense of the accusation be described?
+a: As firm
+i: As weak 
+q5: 
+a: 
+i: 
+q6: Why does the man snicker?
+a: He thinks the question is ridiculous
+i: He thinks the question is funny

@@ -1,0 +1,18 @@
+q1: Why are the pair going to discuss their religious upbringing?
+a: They want to be informative
+i: They want to be persuasive
+q2: Why do the pair not mention their current beliefs?
+a: Their beliefs are personal
+i: The beliefs are not progressive
+q3: What is the relationship between the pair?
+a: Brother and sister
+i: Doctor and patient
+q4: Why do the pair not want to name the cult?
+a: To avoid controversy
+i: To avoid judgement
+q5: How do the pair feel about people with beliefs different than their own?
+a: They respect them
+i: They reject them
+q6: What is the nature of the pair's discussion?
+a: Religious
+i: Political

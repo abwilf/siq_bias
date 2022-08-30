@@ -1,0 +1,18 @@
+q1: Why did the audience laugh after the man with a black shirt answered a question about his brown and black dog?
+a: His answer was light-hearted and funny.
+i: He stumbled over his words and they were making fun of him.
+q2: Are the men scared of the dogs?
+a: No, they show no signs of fear and are happy to be with the animals.
+i: Yes, they back away from the dogs and act scared of them.
+q3: Why does the man in black look down at the dog while the man on the right asks a question?
+a: The man on the right is asking a quesiton about the dog, so the man in black watches the dog to help him think out his response.
+i: He is nervous about the dog and making sure it does not come closer to him.
+q4: What is the tone of the video?
+a: It is a laid back, light-hearted and fun video.
+i: It is somber and sad.
+q5: How does the crowd show that they like the dogs?
+a: They laugh, clap, and make other noises that show they like the dogs.
+i: They come onto the stage and hug the dogs.
+q6: Which of the man is the host?
+a: The one on the right because he is leading the conversation, hands out the awards, and asks the questions.
+i: The one on the left because he speaks the least of the three.

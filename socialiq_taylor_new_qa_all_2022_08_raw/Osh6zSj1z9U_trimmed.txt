@@ -1,0 +1,18 @@
+q1: Why does the man clap at the protesters at 00:33?
+a: He is entertained by them and showing support.
+i: He thinks they're stupid so he is trying to irritate them.
+q2: Why does the man point at 00:23?
+a: He is pointing toward what he is talking about and looking at.
+i: He is gesturing with no purpose at all.
+q3: What is the tone of the video?
+a: It is light-hearted and good natured.
+i: It is sad and dark.
+q4: Why is the man at the end rolling around in a hoop?
+a: He is preforming to entertain the people watching.
+i: He was bored and wanted to entertain himself.
+q5: How does the man feel about what he is about to do at the end of the video?
+a: He is excited, but in a calm manner.
+i: He is agitated and nervous.
+q6: How do the protesters at 00:33 react to the man clapping?
+a: They nod along, showing they appreciate him.
+i: They ignore him completely.

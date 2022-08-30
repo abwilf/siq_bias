@@ -1,0 +1,18 @@
+q1: Why are the men speaking poorly of each other?
+a: To persuade people 
+i: To entertain people
+q2: What is the relation between the men?
+a: They are candidates of the same election
+i: They are residents of the same neighborhood
+q3:
+a: 
+i:
+q4: How does the blonde man deliver his insults?
+a: Passive-agressively
+i: Straight-forward
+q5: What does the man speaking at 0:10 imply about the other man based on his insults?
+a: That he's childish
+i: That he's funny
+q6: What does the blonde man's expression at 0:32 convey?
+a: Satisfaction
+i: Humiliation

@@ -1,0 +1,18 @@
+q1: Why does the woman laugh for an extended period of time?
+a: She is stalling
+i: She is drunk
+q2: Why does the woman feel pressured by the man's question?
+a: It is a controversial matter
+i: It is an inappropriate topic
+q3: How does the woman express her discomfort?
+a: With exaggerated expressions and gestures
+i: With exaggerated jokes and 
+q4: Who experiences an awkward moment in the video?
+a: The woman
+i: The man
+q5: 
+a:
+i:
+q6: What is the nature of the man's question?
+a: Serious
+i: Noncholant

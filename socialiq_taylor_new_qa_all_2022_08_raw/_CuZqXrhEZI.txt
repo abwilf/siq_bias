@@ -1,0 +1,19 @@
+
+q1: How does the woman feel as she walks in the door?
+a: She is angry and frustrated
+i: She is happy to see the man
+q2: Do the man and the woman agree?
+a: No, they don't agree on the topic at hand.
+i: Yes, they agree with each other.
+q3: How does the man feel about getting married to the woman?
+a: He wants to wait to get married.
+i: He wants to get married to the woman right away.
+q4: What is the nature of the relationship between the man and the woman.
+a: They are in a romantic relationship
+i: They are ex boyfriend and girlfriend.
+q5: Why does the woman turn away from the man?
+a: She is upset with his answer.
+i: She is getting something from the other side of the room.
+q6: How does the man react to the woman in distress?
+a: He is calm and comforting.
+i: He is frustrated with her.

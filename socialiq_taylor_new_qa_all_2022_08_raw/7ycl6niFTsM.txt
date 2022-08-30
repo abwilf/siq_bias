@@ -1,0 +1,19 @@
+
+q1: Is the woman with the jacket comfortable being photographed?
+a:Yes, she is relaxed and comfortable.
+i:No, she is anxious and uneasy.
+q2:Why does the blonde woman touch the brunette's hair?
+a:She is placing it how she wants it for the photograph.
+i: The two women are having an intimate moment.
+q3: Why does the woman take the camera away from her eye at the end of the video?
+a: She is taken aback by what the dark haired lady said.
+i: She is trying to get a better visual of her subject.
+q4: How does the tone shift at the end of the video?
+a: The tone goes from relaxed to more tense.
+i: The tone goes from relaxed to more intimate.
+q5: What is the tone between the two women?
+a: They are relaxed with one another as they talk.
+i:They are uneasy with one another because they don't know each other.
+q6:Which of the two women is more open?
+a:The woman in white is more open because she willingly answers all of the other woman's questions. 
+i:The woman in the jacket is more open because she woman in white has a harsh tone and begrudgenly answers her questions

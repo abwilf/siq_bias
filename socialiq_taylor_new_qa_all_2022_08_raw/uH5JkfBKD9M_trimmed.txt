@@ -1,0 +1,15 @@
+q1: Why does the man with the bat fall to the ground at :18?
+a:The pitcher throws a wild pitch.
+i:The pitcher hit him in the knee cap.
+q2: Why does the man snap and point at the man in the suit and glasses at :27?
+a:He wants him to answer his question.	
+i:He wants to direct him to the door.
+q3: How does the man in the suit and glasses react to being pointed at at :27?
+a: The man in the suit and glasses is surprised because he didn't think the man with brown hair would want him to speak.
+a: The man in the suit and glasses is happy and eager to share his opinion.
+q5: How does the man in the glasses with a yellow tie react when the other man leaves.
+a:He is surprised because he expected the other man to watch the game.
+i:He is not surprised because he knew the other man had to head to the office soon.
+q6:Why does the woman laugh at the end?
+a:Because she made a joke.
+i:Because she thought the movie trailer was funny.

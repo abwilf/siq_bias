@@ -1,0 +1,18 @@
+q1: What is the attitude of the bald man?
+a: He is serious but calm
+i: He is nervous but excited
+q2: What does the bald man value about the relationships?
+a: Knowing his colleagues on a first name basis
+i: Being friends with the man he is talking to
+q3: How does the man feel about being a team?
+a: He is proud that the team functions well together
+i: He is dissapointed in the efforts of the team
+q4: How does the man in the dotted tie help the bald man in the conversation?
+a: By reminding him who the FBI chief was
+i: By reminding him what he is talking about
+q5: What was the public's reaction to the videos of the packages being dropped?
+a: The public helped the authorities identify suspects
+i: The public hepled the authorities clean up the mess
+q6: What is the relationship between the two men?
+a: The man in the dotted tie is the interviewer, the bald man is the interviewee
+i: The man in the dotted tie is the interviewee, the bald man is the interviewer

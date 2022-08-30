@@ -1,0 +1,18 @@
+q1: Why were the two men laughing?
+a: The situation they are talking about with each other is making them laugh.
+i: One of the men messed up what he was saying in a funny way.
+q2: What is the relationship between the men?
+a: They seem to be very close and comfortable with each other.
+i: They seem to be strangers that just met each other, as they act formal with one another.
+q3: What is the tone of the video?
+a: It is upbeat, excited and entertaining.
+i: It is sad and serious.
+q4: Are the two men angry with each other while they fight?
+a: No, they are just having fun and playing.
+i: Yes, they are mad and trying to hurt each other.
+q5: Why does the man fall to the ground at the end?
+a: He is playing and pretending to be defeated.
+i: He is so upset by what has happened he collapsed.
+q6: Why does one man grab the other man at the end of the video?
+a: He is helping the other man to his feet.
+i: He is fighting with the man.

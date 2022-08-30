@@ -1,0 +1,18 @@
+q1: How did the woman feel depressed?
+a: She felt alienated by the bullies at school
+i: She was upset that her relationship failed
+q2: Why does the woman emphasize that tampons are tiny pieces of cotton?
+a: She wants to communicate that it is a silly thing to be bullied about
+i: She wants to make sure the audience knows what tampons are made out of
+q3: How did the woman feel about being called a slut?
+a: She was horrified
+i: She was disgusted
+q4: How does the woman feel about the relationship between her tampons and her sexual activity?
+a: She feels as though it's ridiculous to draw a connection between the two things
+i: She feels as though the relationship is very beneficial
+q5: Why did she beg her parents to let her transfer schools?
+a: She was depressed by her bullies
+i: She was depressed because she was menstruating
+q6: How did the woman feel about transferring schools?
+a: She was completely relieved 
+i: She was intimidated to leave the old school

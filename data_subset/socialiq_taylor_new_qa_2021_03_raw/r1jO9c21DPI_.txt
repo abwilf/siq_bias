@@ -1,0 +1,18 @@
+q1: What are the girls enthusiastic about?
+a: Their school supplies
+i: Their school friends
+q2: Why would people be surprised that high schoolers color?
+a: It is a childish activity
+i: It is a boring activity 
+q3: What are the girl's revealing?
+a: The contents of their backpacks
+i: The secrets of their pasts
+q4: Why does the girl emphasize that the notebooks are Bethany Mota edition?
+a: She thinks that makes them more impressive
+i: She thinks that makes them less impressive
+q5: How does the girl on the left feel about the girl on the right's description of her folder ripping?
+a: She relates
+i: She judges
+q6: What is the relationship of the girls?
+a: They are classmates
+i: They are bandmates

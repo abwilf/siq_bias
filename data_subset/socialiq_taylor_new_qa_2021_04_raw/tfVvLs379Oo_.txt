@@ -1,0 +1,18 @@
+q1: What does the man on the left aim to do?
+a: Humor people
+i: Educate people
+q2: Which person is more laid back?
+a: The man in blue
+i: The man in grey
+q3: What does the man on the right aim to do?
+a: Educate people
+i: Humor people
+q4: Are the men in the video religious?
+a: Yes
+i: No
+q5: How does the man on the right behave toward the other man?
+a: Pretentiously
+i: Humbly
+q6: Why does the man imitate the drafting of papers?
+a: To make a point
+i: To make a mockery

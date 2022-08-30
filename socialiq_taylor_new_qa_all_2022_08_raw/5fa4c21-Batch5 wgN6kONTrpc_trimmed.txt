@@ -1,0 +1,23 @@
+q1: Is the man wearing a checkered shirt confident about his innocence? 
+a: No, he feels hesitant when he gives answers. 
+i: Yes, he does not back down from his claims. 
+
+q2: Does the judge seem like he feels sympathy for the man in the purple shirt?
+a: Yes, he recognizes that the man in the purple shirt is young and has a lot to learn.
+i: No, he feels unsympathetic towards the man because he cannot own up to his actions.
+
+q3: Why do the people in the audience laugh when the man with glasses imitates the man wearing a checkered shirt? 
+a: They feel the tension in the courtroom lessen a bit when the judge pokes fun at the man. 
+i: They think that it is funny to see the man getting bullied. 
+
+q4: How is the lady, who accompanies the gentleman, handling the proceedings?
+a: She wants to be in the gentleman's corner, yet she also knows when the jig is up.
+i: She wants to be in the gentleman's corner, and she does verbally intervene to defend the gentleman, at times.
+
+q5: How does the man wearing glasses feel towards the man wearing a checkered shirt? 
+a: Mostly in a fatherly-manner, the man who wears the glasses wants to teach the checkered-shirted man a lesson. 
+i: Mostly in a spiteful-manner, the man who wears the glasses is angry that the man other broke the law — therefore not respecting him because of it. 
+
+q6: Does the man in the purple shirt feel happy in this video?
+a: No, he feels somewhatly-embarrassed about his actions. 
+i: Yes, he is confident and very much assured he will emerge victorious. 

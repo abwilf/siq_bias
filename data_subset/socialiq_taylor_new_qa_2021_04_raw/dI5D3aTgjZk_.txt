@@ -1,0 +1,18 @@
+q1: Why does the man want the audience to applaud as the woman enters the room?
+a: To make her feel welcome
+i: To make her feel awkward
+q2: How do the pair feel to see each other?
+a: They are happy
+i: They are neutral
+q3: Why does the woman pump her fist with each word?
+a: She is displaying her excitement
+i: She is displaying her anger
+q4: Was the woman's excitement for eating puppies genuine?
+a: No, she wanted to be entertaining
+i: No, she wanted to be sarcastic
+q5: How does the woman react to being told that's not how it works?
+a: Calmly
+i: Immaturely
+q6: What does the way the pair greets each other suggest?
+a: They are acquaintances
+i: They are passive-agressive people

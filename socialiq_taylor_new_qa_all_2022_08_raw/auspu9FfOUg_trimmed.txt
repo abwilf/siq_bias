@@ -1,0 +1,18 @@
+q1: Are the people in this video sincere?
+a: No, they are only acting.
+i: Yes, this is a real interaction they are having.
+q2: How does the woman react when the man in yellow shouts at 00:37?
+a: She is surprised and frightened because it was sudden and loud.
+i: She acts very happy that the man shouted.
+q3: Why was the man in the red hat hiding behin the tree?
+a: He was hiding to make a more impactful entrance to entertain the audience.
+i: He was hiding because he was scared.
+q4: How do the man in yellow and woman with curly hair react when the man in the red hat appears?
+a: They seem shocked and excited to see him.
+i: They seem uninterested and indifferent.
+q5: Why do the people throw their hands at each other in the air?
+a: They are trying to high-five because they are proud of each other and showing comradarie. 
+i: They are trying to fight each other.
+q6: Why don't the people in the background talk?
+a: They are background actors and are not supposed to say anything since the focus is not on them.
+i: They are upset about what is happening so they don't want to speak.

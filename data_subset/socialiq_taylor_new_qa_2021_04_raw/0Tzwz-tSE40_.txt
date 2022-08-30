@@ -1,0 +1,18 @@
+q1: How does the man express his views?
+a: Adamantly
+i: Weakly
+q2: Why does the woman have to quiet the audience?
+a: The man's views are controversial
+i: The man's views are supported
+q3: What is the woman making a joke attempting to do?
+a: Defuse the audience
+i: Anger the audience
+q4: How does the woman challenge the audience?
+a: She prompts them to think by asking deep questions
+i: She prompts them to think by sharing her morals
+q5: Why is the audience upset with the man?
+a: He is not progressive
+i: He is wearing makeup
+q6: What does the woman sitting near the man with her hand on his shoulder represent?
+a: Protection
+i: Attraction

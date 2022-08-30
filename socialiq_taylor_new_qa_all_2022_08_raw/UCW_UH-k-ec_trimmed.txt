@@ -1,0 +1,18 @@
+q1: What is the atmosphere between the two men like?
+a: The atmosphere solemn, but also a bit comedic
+i: The atmosphere is upbeat and genuine
+q2: Why does the man with the beard put his head in his hands?
+a: He is sad and in disbelief.
+i: he is covering his laughter.
+q3:How does the man in the collared shirt respond to the other man's answer to his question?
+a: The man in the collared shirt was surprised and stunned by it
+i: The man in the collared shirt was amused by it
+q4:
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

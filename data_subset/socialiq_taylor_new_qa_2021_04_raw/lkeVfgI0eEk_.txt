@@ -1,0 +1,18 @@
+q1: What is the nature of the discussion?
+a: Religious
+i: Scientific
+q2: How does the man feel about his religious upbringing?
+a: He is indifferent
+i: He is resentful
+q3: How does the man feel about parents denying their children healthcare?
+a: He is disgusting by their decision
+i: He commends their decision
+q4: At what point does the man believe religion is extreme?
+a: When it affects health decisions
+i: When it affects relationship decisions
+q5: How does the man feel about state laws to prosecute parents?
+a: They are warranted
+i: They are pointless
+q6: Has the man's adult life been affected by his religious upbringing?
+a: No, he does not feel it was abusive
+i: Yes, he feels it was abusive

@@ -1,0 +1,23 @@
+q1: How do the people feel towards one another?
+a: The people appear to enjoy each others' company.
+i: The people appear to not enjoy eacah others' company.
+
+q2: Why is the man with the hat excited?
+a: He is excited because he is learning about his ancestry.
+i: He is excited because he discovered he was adopted.
+
+q3: Do the people in the video feel excited?
+a: Yes, they are excited to learn the results of a test
+i: No, they are nervous to find out the results of a test
+
+q4: What caused the man in brown to raise a child he found on the doorstep?
+a: The man didn't actually find a child on his doorstep, he was being sarcastic.
+i: The man thinks felt bad for the child on his doorstep and decided to raise it.
+
+q5: Why does the woman in black cheer and clap?
+a: She likes Finland and was pleased to learn the man has some Finnish ancestry.
+i: She dislikes Finland and was pleased to learn the man barely has Finnish ancestry.
+
+q6: Why do the two older people tell the person with the hat that he was found on the doorstep?
+a: They think it is a ridiculous and funny thing to say, and were making a joke
+i: They were actually being serious about it, and felt like it was something that the man in the hat should know

@@ -1,0 +1,18 @@
+q1: Why does the man slightly smile when mentioning sunshine?
+a: It is desired 
+i: It is unlikely
+q2: What does the man's chuckle at 0:44 indicate?
+a: That the chance of reaching that temperature is unlikely
+i: That the chance of receiving more rain is likely
+q3: How does the man present his predictions?
+a: With confidence
+i: With uncertainty
+q4: 
+a: 
+i:  
+q5: What is the purpose behind the man's movements and gestures?
+a: To be engaging
+i: To be distracting
+q6: 
+a:
+i:

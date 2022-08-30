@@ -1,0 +1,19 @@
+q1: What is the camera person's reaction to seeing the toddler at the end of the video?
+a: He chases him
+i: He grabs him
+q2: Why does the man smirk at 0:21?
+a: He is pleased with his new camera
+i: He is pleased with his photograph quality
+q3: How does the man at 0:31 exhibit confidence?
+a: By doing yoga moves in a public fountain
+i: By doing karate moves in a public restaurant
+q4: What is the toddler's behavior toward the people in the video?
+a: He avoids them
+i: He embraces them
+q5: Why is the woman squatting?
+a: She wants to be at the toddler's height
+i: She wants to avoid being noticed
+q6: How is the woman squatting intended to make the toddler feel?
+a: Comfortable
+i: Afraid
+

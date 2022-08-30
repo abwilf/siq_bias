@@ -1,0 +1,18 @@
+q1:How does the man feel about his time in france?
+a:He enjoyed his time in France despite the cost of living.
+i:He didn't enjoy it as it was too expensive.
+q2: How does the man feel about French cuisine?
+a: He recommends people to try it.
+i: He didn't like the cuisine which is one of the reasons he came back home.
+q3: Why does the man gesture with his hands at :34?
+a: He is emphasizing the difference between two different things. 
+i: He is talking about seeing a street artist juggling in France.
+q4: Does the man seem confident?
+a: No, he seems nervous and struggles a bit with his words.
+i: Yes, he talks with self assurance without second guessing himself.
+q5: How does the man emphasize that France is different from his home?
+a: France is more expensive than his home.
+i: France does not have any North American imported food. 
+q6:
+a:
+i:

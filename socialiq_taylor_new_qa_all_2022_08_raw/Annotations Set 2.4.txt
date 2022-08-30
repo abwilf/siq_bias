@@ -1,0 +1,18 @@
+q1: When does the woman in the blue shirt get excited?
+a: When her friend in the black dress makes an appearance
+i: When she gets to sell a lot of jewlery
+q2: How do the women feel about the show?
+a: They feel the show is hectic
+i: They feel the show is tame
+q3: Why do the women feel the way they do about the show?
+a: They feel the show is hectic because of how fast it goes
+i: They feel the show is tame because of how easy it is
+q4: How do the women feel about the price of the jewlery?
+a: They are in awe of the price
+i: They are disappointed by the price
+q5: Why do the women feel the way they do about the price of the jewlery?
+a: They are in awe of the price because it is lower than they expected
+i: They are in awe of the price because it is higher than they expected
+q6: What are the women trying to do on the show?
+a: The women want to sell a lot of jewlery
+i: The women want to reunite with friends

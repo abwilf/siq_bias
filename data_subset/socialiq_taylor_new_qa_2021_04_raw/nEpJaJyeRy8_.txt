@@ -1,0 +1,18 @@
+q1: How do the women witnessing the arguement feel?
+a: Awkward
+i: Defensive
+q2: What causes the girl's eyes to widen at 0:15?
+a: The escalation of the arguement
+i: The growing volume of the music
+q3: Why does the woman want tea and popcorn?
+a: She is entertained
+i: She is starving
+q4: How do the people in the arguement behave?
+a: Aggressively
+i: Respectfully
+q5: Why does the woman in white gesture to the woman in green?
+a: She wants them to leave the room
+i: She wants them to defuse the arguement
+q6: Who does the woman in white imply her support for?
+a: The woman
+i: The man

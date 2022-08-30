@@ -1,0 +1,18 @@
+q1: Why are the people gathered?
+a: To play a game
+i: To develop a game
+q2: Why does the woman apologize to Ryan?
+a: She insulted him
+i: She bumped him
+q3: How do the people behave toward each other?
+a: Friendly
+i: Competitively
+q4: Who is the most clever player in the video?
+a: The woman in purple
+i: The man in blue
+q5: How does the man react to the woman challenging his assassin?
+a: With laughter
+i: With dishonesty
+q6: What shocks the man at 0:25?
+a: The woman's game strategy
+i: The woman's game score

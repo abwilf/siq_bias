@@ -1,0 +1,19 @@
+q1: Why is the woman in black included in the discussion?
+a: She is to be very knowledgeable about the topic being discussed.
+i: She is there to provide an alternative solution for the topic being discussed.
+
+q2: What is the purpose of the woman in red's hand motions at 0:56?
+a: She moves her hands to demonstrate what she is saying, that the story keeps "bubbling up."
+i: She moves her hands to alert the man that it is his turn to speak.
+
+q3: Why does the man laugh?
+a: He is amused by the story being described as "bubbling up." 
+i: He is being polite and doesn't find the description amusing.  
+
+q5: How do the man and the woman in red act when the woman in black is speaking?
+a: The man and the woman in red are attentive to the woman in black.
+a: The man and the woman in red are talking over the woman in black.
+
+q6: What makes the woman in black scowl at the start?
+a: She learned new information that she finds troubling.
+i: She learned that information was being withheld.

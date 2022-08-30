@@ -1,0 +1,18 @@
+q1: What does the woman telling Lou to go ahead indicate?
+a: Respect
+i: Intimidation
+q2: How did the woman feel during her medical training?
+a: Amazed
+i: Bored
+q3: Which actor is more outgoing?
+a: The woman on the right
+i: The man on the right
+q4: Who is the least enthusiastic person in the video?
+a: The man on the right
+i: The man on the left
+q5: What is the theme of the show being discussed?
+a: Medical
+i: Political
+q6: Why does Lou open his mouth to speak and then pause?
+a: He doesn't want to interrupt
+i: He doesn't want to be wrong

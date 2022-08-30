@@ -1,0 +1,18 @@
+q1: What is the man's intention behind discussing the hamdog? 
+a: To be silly
+i: To be insulting
+q2: What does the man imply about America?
+a: It has the unhealthiest foods
+i: It has the unhealthiest children
+q3: How does the man feel about Australia being the inventor of the hamdog?
+a: Disappointed
+i: Fascinated
+q4: Is the man's concern for the hamdog genuine?
+a: No
+i: Yes
+q5: Why does an American flag wave on the screen?
+a: For dramatics
+i: For the holiday
+q6: 
+a:
+i:

@@ -1,0 +1,23 @@
+q1: What compelled the man in the purple shirt to adjust his position in his chair at 0:29?
+a: He was mentally preparing himself to quickly interject his thoughts in the conversation he was having with his co-host.
+i: He was mentally preparing himself to quickly inform his co-host it was time for them to wrap this segment up.
+
+q2: How does the gentleman in the vest feel about the purple-shirted man's interposing?
+a: The vested gentleman is calmly receptive and open to this.
+i: The vested gentleman is apprehensive and guarded about this.
+
+q3: Is the man in the purple shirt interested in what the man on the right says?
+a: No, he seems very distracted as the man on the right speaks.
+i: Yes, he maintains constant eye contact and listens intently.
+
+q4: The gentlemen are fine with filming this presentation.
+a: Yes, they are enthusiastic about sharing their ideas for their audience.
+i: Yes, they are cracking many jokes while sharing their ideas for their audience.
+
+q5: Why did the gentleman dress as they had?
+a: They wanted to give the impression, they are making a semi-formal, not-too-serious presentation, conducive for open discussion.
+i: They wanted to give the impression, they are making serious, formal presentation, not open for discussion.
+
+q6: The vested gentleman stands behind the ideas he puts forth.
+a: Very much so — he speaks confidently, never pausing.
+i: Not particularly, no — he hesistates, and goes off topic a couple of times.

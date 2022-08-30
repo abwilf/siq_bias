@@ -1,0 +1,18 @@
+q1: Why does the man on stage disappear?
+a: To convey fear
+i: To convey disinterest
+q2: How does the man respond to threats?
+a: With promises of destruction
+i: With promises of reconciliation
+q3: Is the man frightened by the threats?
+a: No, he will retaliate
+i: No, he will prevent them
+q4: Why does the man say shut up?
+a: He is pretending that he is hiding
+i: He is pretending that he is sleeping
+q5: What is the behavior of the man on stage?
+a: He is being facetious
+i: He is being sincere
+q6: Is the man with the red tie arrogant?
+a: Yes, he believes he is the most powerful
+i: Yes, he believes he is the most handsome

@@ -1,0 +1,18 @@
+q1: 
+a: 
+i: 
+q2: Which person is more serious?
+a: The man in blue
+i: The man in grey
+q3: What does the man on the right aim to do?
+a: Educate people
+i: Humor people
+q4: How does the man on the left react to the other man's first correction?
+a: With a joke
+i: With an insult
+q5: How does the man on the right behave toward the other man?
+a: With pretentiousness
+i: With admiration
+q6: Why does the man imitate the drafting of papers?
+a: To make a point
+i: To make a mockery

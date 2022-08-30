@@ -1,0 +1,19 @@
+
+q1:Why does the man put his hand up to his face?
+a: He is imitating talking on the phone.
+i: He is trying to think of what to say next.
+q2:What is the tone of the woman?
+a:She is patient and supportive
+i:She is upset with the man.
+q3: Why does the woman touch the mans shoulder?
+a:She is comforting him
+i:She is telling him he needs to calm down.
+q4: How does the man feel about the woman he is talking about?
+a:He is disappointed that she lied to him.
+i:He is sad that she is away on vacation.
+q5: Does the woman understand the man's concerns?
+a: Yes, she completely understands his concerns as she has been there herself.
+i:No, she doesn't understand his concerns and thinks they are silly.
+q6:How does the woman show that she empathsizes with him?
+a: She offers to spend time with him and her facial expressions show that she is empathetic towards the man..
+i: She offers to make him dinner before he leaves which shows her empathy.

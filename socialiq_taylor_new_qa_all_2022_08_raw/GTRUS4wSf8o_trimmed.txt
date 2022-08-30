@@ -1,0 +1,18 @@
+q1: How did the man feel about what the woman was describing?
+a: He thought it was convenient.
+i: He thought it was over dramatic.
+q2: Did the audience enjoy the man?
+a: Yes, they laughed at what he said often.
+i: No, they felt second-hand embarrassment for him.
+q3: Is the man funny?
+a: Yes, the man has good use of mockery and irony.
+i: No, the man has a serious demeanor.
+q4: What is the tone of the video?
+a: The video is light and humorous.
+i: The video is educational.
+q5: Why does the man hold his hands out in front of him?
+a: He is using his hands to gesture and emphasize what he is saying.
+i: He is trying to keep himself balanced.
+q6: Why does the man raise the volume of his voice at 0:36?
+a: He is acting exasperated and surprised to be comedic.
+i: He grows angrier the more he converses with the woman.

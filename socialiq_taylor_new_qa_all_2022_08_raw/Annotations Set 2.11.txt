@@ -1,0 +1,18 @@
+q1: What is the woman in the collared shirt's attitude when she says "wow" at the start of the video?
+a: Provoked and facetious
+i: Interested and attentive
+q2: Why does the woman feel adverse towards the woman in the purple dress?
+a: The woman in the purple dress is being ignorant of the woman in the collared shirt's culture
+i: The woman in the purple dress is insulting the woman in the collared shirt's intelligence
+q3: How does the woman in the collared shirt react to the woman in the purple dress?
+a: With sacastic criticism
+i: With inane insults
+q4: What is the attitude of the woman in the purple dress?
+a: Lecturing and self-assured
+i: Anxious and reserved
+q5: Why is the conversation awkward?
+a: The audience reacts with humor because they don't realize the woman in the collard shirt is serious about her disagreement
+i: The audience reacts with humor because they expected the two women to disagree
+q6: Why are the palms of the woman in the gold shirt sweaty?
+a: She is nervous to hear about her geneology 
+i: She is nervous to be on television

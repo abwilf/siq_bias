@@ -1,0 +1,18 @@
+q1: What activity does the woman enjoy?
+a: Reading
+i: Writing
+q2: How does the woman show her Christmas enthusiasm?
+a: She dresses as a reindeer
+i: She dresses as a snowman
+q3: Why is the woman answering questions?
+a: To share about her preferences
+i: To share about her degree
+q4: Why does the woman assume people already know her favorite holiday drink? 
+a: She's shared it
+i: She's arrogant
+q5: Does the woman like Christmas?
+a: Yes
+i: No
+q6: How does the woman feel about Harry Potter?
+a: She is a fan
+i: She is a critic

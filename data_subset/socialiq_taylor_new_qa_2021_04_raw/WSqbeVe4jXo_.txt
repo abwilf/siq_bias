@@ -1,0 +1,18 @@
+q1: What is the nature of the woman's story?
+a: Heartwarming
+i: Tragic
+q2: How does the blonde woman react to hearing that the woman struggled during the last mile?
+a: With sympathy
+i: With laughter
+q3: What can be concluded about the officer from his response to recognition?
+a: He is a humble man
+i: He is an overdramatic man (i've removed overdramatic from spread)
+q4: What is the attitude of the women toward the officer?
+a: They have respect for him
+i: They have disdain for him 
+q5: How did the officer feel about helping the woman?
+a: That it was his duty
+i: That it was a burden
+q6: Why did the officer help the woman?
+a: He is caring
+i: He is unfair

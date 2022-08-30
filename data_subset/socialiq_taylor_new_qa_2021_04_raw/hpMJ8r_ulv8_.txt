@@ -1,0 +1,18 @@
+q1: What is the man asking questions interested in?
+a: The presidential election
+i: The municipal election
+q2: Why does the man want to the know the other man's opinions on the candidates?
+a: Because of his expertise
+i: Because of their camaraderie
+q3: 
+a: 
+i: 
+q4: 
+a: 
+i: 
+q5:
+a: 
+i:  
+q6: 
+a:
+i:

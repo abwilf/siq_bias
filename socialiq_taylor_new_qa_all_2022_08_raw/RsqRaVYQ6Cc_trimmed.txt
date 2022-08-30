@@ -1,0 +1,18 @@
+q1: What is the tone of the people in this video?	
+a: They are happy and excited.
+i: They are serious and upset.
+q2: Why did the main vlogger laugh when he saw the people through the glass wall?
+a: He thought that the way it distorted their faces was funny.
+i: He was amazed that so many people were there excited to see him.
+q3: How did the crowd waiting outside react when seeing the vlogger filming them? 
+a: They were excited so they cheered and screamed
+i: They booed the vlogger because they are there to see someone else
+q4: Why does the man bring attention to the shoes at 0:33
+a: The vlogger does this because he likes them
+i: The vlogger does this to promote and encourage sales
+q5: How is everyone getting along?
+a:Everyone is getting along well and seem to enjoy each other's company.
+i:Everyone is annoyed at the vlogger getting in their faces with the camera.
+q6: How does the 'mom' in the video react to the vlog?
+a: She seems amused
+i: She seems concerned 

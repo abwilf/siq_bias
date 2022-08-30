@@ -1,0 +1,18 @@
+q1: Why is the woman at 0:04 open her eyes wide?
+a: She is nervous
+i: She is  
+q2: 
+a: 
+i: 
+q3: What is the experience on the game show of the woman in pink?
+a: Awful 
+i: Lucky
+q4: How does the woman appear when being blasted by air?
+a: In agony
+i: In bliss
+q5: Who is the most unfortunate person on the show?
+a: The woman in pink
+i: The woman in blue
+q6: How does the woman in blue feel about having to cause things to the woman in pink?
+a: She feels indifferent
+i: She feels guilty

@@ -1,0 +1,18 @@
+q1: How does the woman feel towards the man?
+a: She cares for him deeply, but she also seems slightly frustrated with him.
+i: She deeply resents the man and treats him poorly.
+q2: How does the woman feel when the man interrupts her?
+a: She becomes nervous about what he is going to say next.
+i: She becomes angry at him for interrupting.
+q3: How does the woman feel towards the end of the video?
+a: She feels sad and conflicted, due to the way the man is answering her.
+i: She feels excited and happy.
+q4: Why does the man look to the side while he speaks to the woman?
+a: He is worried about how she will react to what he is saying so it is hard for him to say it.
+i: He is watching something beside them to make sure they are not in danger.
+q5: What is the tone of the conversation?
+a: It is serious and a bit anxiety ridden.
+i: It is happy and silly.
+q6: Why does the woman smile in the beginning?
+a: She feels happy toward the man and is about to tell him something good.
+i: The man made a joke that made her smile.

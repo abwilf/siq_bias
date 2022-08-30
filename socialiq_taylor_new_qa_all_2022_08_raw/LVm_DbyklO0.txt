@@ -1,0 +1,19 @@
+
+q1:How does the man in yellow feel about the situation?
+a:He is touched and thoroughly enjoying it
+i: He thinks it's disgusting and shouldn't be allowed in the workplace.
+q2: Why does the man gasp at the very beginning of the video?
+a: He is feigning surpise that the box he is holding.
+i: He can't believe the woman with long blonde hair showed up at his work.
+q3: Why does the woman bite her lip?
+a: She bites her lips because she is trying to remain in controll of her enthusiasm.
+i: She bites her lips because she is trying not to cry.
+q4: How do the other employees reach to the man and woman kissing?
+a: They enjoy the show they are putting on.
+i: They think it's cringe worthy.
+q5: What is the relationship between the man in the blue shirt and the woman with long blonde hair?
+a: They are in a romantic relationship. 
+i: The long blonde haired woman is his boss.
+q6: How does the woman feel about being proposed to?
+a: She is very excited and happy.
+i: She is embarassed because he asked her in a public location.

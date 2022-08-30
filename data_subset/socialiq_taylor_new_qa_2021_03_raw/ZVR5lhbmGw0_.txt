@@ -1,0 +1,18 @@
+q1: Was the man on the left born in America?
+a: No
+i: Yes
+q2: What is the nature of the man on the left having the other man touch his muscles?
+a: Playful
+i: Boasting
+q3: Is the man afraid of Trump becoming President?
+a: No, he feels secure in America
+i: Yes, he feels uneasy in America
+q4: Why does the man rub both hands back over his hair?
+a: The question makes him nervous
+i: The audience makes him nervous
+q5: 
+a: 
+i: 
+q6: What can be inferred about the man from his statement about flexing?
+a: He is modest
+i: He is self-conscious

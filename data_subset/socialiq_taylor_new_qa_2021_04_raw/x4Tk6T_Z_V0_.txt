@@ -1,0 +1,18 @@
+q1: How does the man in yellow feel about the protestors?
+a: He feels they are justified
+i: He feels they are crazy
+q2: What differs between the men being interviewed?
+a: Their opinion on troops being present
+i: Their opinion on celebrities being present
+q3: What is of concern in the video?
+a: Safety
+i: Weather
+q4: How does the man in yellow feel about troops being present?
+a: He feels they bring tension
+i: He feels they bring security
+q5: What do the man in yellow's shifting eyes indicate as the man in black starts to speak?
+a: His disagreement
+i: His anxiety 
+q6: How does the man in black feel about troops being present?
+a: He feels they bring security
+i: He feels they bring tension

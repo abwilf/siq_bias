@@ -1,0 +1,19 @@
+q1: How does the man on the left feel about his position in the race?
+a: Confident
+i: Worried
+q2: What does stating that the man has had a lot of money thrown at him suggest?
+a: He is supported
+i: He is poor
+q3: What is the man on the left's goal?
+a: To be favored
+i: To be famous
+q4: Can the man on the right's political stance be determined in the video?
+a: No
+i: Yes
+q5: What is the tone of the conversation?
+a: Serious
+i: Playful
+q6: How does the man behave?
+a: Arrogantly
+i: Supportive
+

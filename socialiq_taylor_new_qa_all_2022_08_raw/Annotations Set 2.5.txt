@@ -1,0 +1,18 @@
+q1: What is the teacher's attitude at the very start of the video?
+a: Inquisitive and expecting
+i: Angry and disappointed
+q2: What is the attitude of the boy in the yellow shirt?
+a: He is nervous and anxious
+i: He is excited and rembunctious
+q3: How does the boy in the blue shirt show that he is listening?
+a: He turns around in his chair and intently watches the boy in the yellow shirt deliver his statement
+i: He expects the boy in the yellow shirt to know he is listening becuase they are close in proximity
+q4: Which strategy does the teacher think is important?
+a: Questioning
+i: Talking
+q5: What does the teacher want the childeren to decide about their equity cards?
+a: She wants them to decide who should speak
+i: She wants them to decide who will return them
+q6: How do the children seem to feel about their equity cards?
+a: They seem excited to be able to make the choice for themselves
+i: They seem annoyed that they have to make the choice for themselves

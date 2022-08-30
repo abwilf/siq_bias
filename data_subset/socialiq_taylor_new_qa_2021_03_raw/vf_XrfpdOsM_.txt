@@ -1,0 +1,18 @@
+q1: How does the man on the left feel about the future of the country?
+a: Hopeful
+i: Defeated
+q2: Why does the man clarify that his response isn't rhetoric?
+a: He wants to be genuine
+i: He wants to be misleading
+q3: What inspires the man on the left?
+a: Young people of different races
+i: Young people of different occupations
+q4: What does the man on the left desire for the country?
+a: Equality
+i: Capitalism
+q5: How does the man on the right react to the man on the left's answer to his first question?
+a: He is dismissive
+i: He is excited
+q6: What is the nature of the discussion?
+a: Political
+i: Scientific

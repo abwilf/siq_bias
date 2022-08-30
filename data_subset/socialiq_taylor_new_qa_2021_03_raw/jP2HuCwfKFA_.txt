@@ -1,0 +1,18 @@
+q1: How does the man look inside the bag and shake it out?
+a: Jokingly
+i: Rudely
+q2: 
+a:  
+i: 
+q3: Why does the man cry while looking at the gift?
+a: He is touched
+i: He is sad
+q4: How does the man feel when receiving his gift?
+a: Loved
+i: Unappreciated
+q5: How can the girl's anxiousness be identified?
+a: By her clapping her fists
+i: By her chewing her lips
+q6: Why is the girl anxious?
+a: For the man's reaction
+i: For the man's letter

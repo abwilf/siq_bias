@@ -1,0 +1,18 @@
+q1: Why do the men shake hands at the beginning of the video?
+a: The guest is about to exit the stage
+i: The guest is about to introduce his robot
+q2: What is the man's reaction to lifting the snake bot?
+a: Surprise due to its light weight
+i: Relief due to its light weight
+q3: Why does the man in black tap the other man's shoulder?
+a: To show thanks
+i: To show authority
+q4: How does the man in black react to the second robot?
+a: He is overwhelmed
+i: He is underwhelmed
+q5: Why causes the man in black's disbelief at the end of the video?
+a: The robot's advancement
+i: The robot's 
+q6: What does the host express while meeting the second guest? 
+a: Appreciation
+i: Unsatisfaction

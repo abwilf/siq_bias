@@ -1,0 +1,18 @@
+q1: Why does the woman follow the instruction of the man?
+a: He is knowledgeable
+i: He is pushy  
+q2: What industry does the man work in?
+a: Medical
+i: Music
+q3: Why is the man bending his fingers together?
+a: To visually represent what is happening in the woman's body
+i: To visually represent 
+q4: Does the woman trust the man?
+a: Yes, she follows his instruction
+i: Yes, she asks his opinion
+q5: 
+a:
+i: 
+q6: What is the relationship between the man and woman?
+a: Doctor and patient
+i: Husband and wife

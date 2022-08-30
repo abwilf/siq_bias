@@ -1,0 +1,18 @@
+q1:What is the tone of the woman in the beginning?
+a: She is worried.
+i: She is Angry.
+q2: Why does the man kneel in front of the woman?
+a: He is trying to calm her down.
+i: He is professing his love for her.
+q3: How does the mood shift from the beginning of the video to the end of the video?
+a:The mood changes from panicked and hectic to calm and organized at the end.
+i: The mood goes from angry to normal and carefree at the end.
+q4: Does the man seem capable of handing stress well? 
+a: Yes, he can remain calm and collected in stressful situations.
+i: No, the woman is having to calm him down so he does not handle stressful situations well.
+q5: Who is the most dominant in the conversation?
+a: The man is the most dominant as the woman listens as he reassures her.
+i:The woman is more dominant and tells the man what to do.
+q6: Why is the woman nodding at the man?
+a: She is panicking and she is agreeing with his plan
+i: She is giving him a hint that she wants him to leave her alone.

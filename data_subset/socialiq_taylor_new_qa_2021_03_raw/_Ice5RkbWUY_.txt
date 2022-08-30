@@ -1,0 +1,18 @@
+q1: What is the atmosphere of the crowded room?
+a: Solemn
+i: Excited
+q2: How does the woman console the man at the beginning of the video?
+a: By holding his head
+i: By holding his hand
+q3: How do the people treat the crying man?
+a: With care
+i: With disregard
+q4: What causes other people in the room to be sad?
+a: Their compassion
+i: Their traumas 
+q5: Why does the man at 0:04 hold his hands to his head?
+a: He is in disbelief
+i: He is in agony
+q6: What is the spirit of the letter read?
+a: Encouraging
+i: Happy

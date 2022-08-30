@@ -1,0 +1,18 @@
+q1: Why is the man on the right surprised that the man on the left drives an Uber?
+a: He has a lot of money
+i: He has a lot of arrogance
+q2: What is the man on the left answering questions about?
+a: His company
+i: His movie
+q3: Does the man have innovative ideas?
+a: Yes, he has expanded to food delivery
+i: Yes, he has expanded to furniture delivery
+q4: Why does the man choose to drive Uber?
+a: For enjoyment
+i: For money 
+q5: What does the man on the right convey in his response at 0:36?
+a: Doubt
+i: Pride
+q6: How does the Uber driver feel about what passengers do in his car?
+a: Unconcerned
+i: Disgusted

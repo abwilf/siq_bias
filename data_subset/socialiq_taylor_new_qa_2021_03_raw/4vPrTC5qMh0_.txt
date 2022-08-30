@@ -1,0 +1,18 @@
+q1: How does the crowd express their interest in the game?
+a: By cheering
+i: By concentrating
+q2: Why does the man at 0:06 shake his head?
+a: He is disappointed in the younger players
+i: He is scolded by the younger players
+q3: Who is winning the basketball game?
+a: The older player
+i: The younger players
+q4: Who is the most competitive person on the basketball court?
+a: The man with white hair
+i: The man with brown hair
+q5: Why does a crowd member touch hands with the man with white hair?
+a: They are showing him support
+i: They are passing him something
+q6: Does the older man play fair?
+a: No, he steals the ball from other players
+i: No, he throws the ball into other players

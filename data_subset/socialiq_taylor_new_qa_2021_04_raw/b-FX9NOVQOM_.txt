@@ -1,0 +1,18 @@
+q1: Do the people agree with the woman talking?
+a: Yes
+i: No
+q2: What is the mentality of the woman talking?
+a: Collectivism
+i: Individualism
+q3: Is the woman caring?
+a: Yes, she wants to protect others
+i: No, she wants to protect herself
+q4: Who is the most outspoken person in the group?
+a: The woman in the middle
+i: The woman in on the right
+q5: What is the woman in the middle passionate about?
+a: Making a change
+i: Making a fortune
+q6: How does the woman view the system? 
+a: As a source of corruption
+i: As a source of protection

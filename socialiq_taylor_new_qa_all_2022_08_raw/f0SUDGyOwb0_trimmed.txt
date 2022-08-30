@@ -1,0 +1,18 @@
+q1: How does the interviewee interact with the other man?
+a: He thoroughly explains himself and uses metaphors to help the interviewer understand better.
+i: He barely gives the other man any attention and does not answer the questions fully. 
+q2: How does the interviewer off-camera present himself?
+a: He is confident, but modest.
+i: He is scared and shy toward the man he is interviewing.
+q3: How does the man at the desk act?
+a: He acts extremely confident and curious about the man off-camera.
+i: He acts angry and agressive toward the man off-camera, and seems unlikable. 
+q4: Why are the men asking each other questions?
+a: They are curious about each other and learning about each other's lives and accomplishments.
+i: They are arguing and trying to resolve the argument.
+q5: Why is the man at the desk playing with his hands?
+a: He is listening to the other man speak and it is an absentminded action while he concentrates.
+i: He is nervous about having to speak soon and is doing it out of anxiety.
+q6: Why does the man move his arms and hands around as he speaks?
+a: He is gesturing to emphasize what he is talking about.
+i: He is trying to reach something on the desk in front of him.

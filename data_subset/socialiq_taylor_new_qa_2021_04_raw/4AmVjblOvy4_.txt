@@ -1,0 +1,18 @@
+q1: What do the woman's gestures at the beginning of the video indicate?
+a: Her disgust of the liquor
+i: Her approval of the liquor
+q2: Why is the woman rubbing her eyes?
+a: The alcohol was too strong
+i: The light was too bright
+q3: Who is more tolerable of liquor?
+a: The woman on the right
+i: The woman on the left
+q4: What indicates the women's level of comfort with one another?
+a: They are going to share makeup
+i: They are going to share diaries
+q5: Why does the blonde woman frown and furrow her brow at 0:45?
+a: The brunette didn't say what the blonde woman expected
+i: The brunette didn't drink what the blonde woman brought
+q6: How does the blonde woman describe whiskey?
+a: In a whimsical manner
+i: In a disgusted manner

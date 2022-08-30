@@ -1,0 +1,18 @@
+q1: How does the man feel about the woman having taken all her children to England?
+a: He is impressed
+i: He is unamused
+q2: What is the woman's sentiment toward London?
+a: She loves it
+i: She loathes it
+q3: How does the woman feel connected with England?
+a: Through English culture
+i: Through English movies
+q4: Why does the man hesitate when mentioning the woman's accent?
+a: He doesn't want to offend her
+i: He doesn't want to interrupt her
+q5: What is the woman's intention behind speaking with an accent?
+a: To amuse people
+i: To intimidate people
+q6: Why does the man emphasize the last couple of months at the beginning of the video?
+a: He thought it was a long time to visit another country
+i: He thought it was a short time to visit another country

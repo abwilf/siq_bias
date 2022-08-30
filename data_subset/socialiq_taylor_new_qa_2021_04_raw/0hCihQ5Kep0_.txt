@@ -1,0 +1,19 @@
+q1: Why does the woman prefer the center shown in the video?
+a: She values its ammeneties
+i: She values its location
+q2: What led the woman to release the object she holds at 0:14?
+a: The boy earned it as a reward
+i: The boy forced it from her hand
+q3: What does the girl's behavior while sitting on the woman's lap indicate?
+a: Their comfort
+i: Their awkwardness
+q4: What does the girl's behavior at 0:26 portray?
+a: Shyness
+i: Ambition
+q5: Why is the teacher spinning and clapping at 0:37?
+a: She's leading a dance
+i: She's leading a prayer
+q6: What do the teachers value about the learning center?
+a: It helps students make progress
+i: It helps students understand equality
+

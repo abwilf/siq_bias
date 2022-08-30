@@ -1,0 +1,18 @@
+q1: Why are the pair collaborating?
+a: To celebrate the girl's makeup line
+i: To celebrate the girl's clothing line
+q2: Which person will be having their makeup done?
+a: The guy will be doing the girl's
+i: The girl will be doing the guy's
+q3: How does the guy react to being told he is the first to collaborate with the girl?
+a: He is flattered
+i: He is skeptical
+q4: Why does the girl wink at the camera the first time?
+a: She wants to encourage people to buy her products
+i: She wants to pressure people to buy her products
+q5: What will the girl's makeup be inspired by?
+a: A holiday
+i: A stage actress
+q6: How does the girl show the guy care?
+a: She removes the piece of fluff from his face
+i: She removes the piece of hair from his eyes

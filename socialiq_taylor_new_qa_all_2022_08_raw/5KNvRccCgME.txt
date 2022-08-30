@@ -1,0 +1,18 @@
+q1: Is the man in the light blue comfortable with the questioning?
+a: Yes, the man is relaxed and comfortable during the questioning.
+i: No, He is worried and scared during the questioning.
+q2: How does the woman react to finding out the man has not called his in laws?
+a: She is surprised that he has not called them yet.
+i: She is not surprised he hasn't called them yet because he is forgetful.
+q3: Does the woman and the man in the dark blue trust the man in the light blue?
+a: No, they don't trust the man which is why they are asking questions.
+i: Yes, they trust the man, the questions are just a formality.
+q4: What is the tone of the woman?
+a: she is inquisitive and curious.
+i: She is annoyed at the man for being difficult.
+q5: Why does the man in the navy shirt interrupt the conversation?
+a: The man in the navy shirt interrupts because he feels doubtful about the things that the man in the light blue shirt is saying to him and wants to question him about what he is saying
+i: The man in the navy shirts interrupts the conversation because he doesn't like where it's going and wants to steer the conversation in a different direction.
+q6:
+a:
+i:

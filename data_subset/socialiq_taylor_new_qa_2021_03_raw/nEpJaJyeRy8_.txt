@@ -1,0 +1,18 @@
+q1: Which people in the video dislike each other?
+a: The girl in grey and man in blue
+i: The girl in green and man in blue
+q2: What causes the girl's eyes to widen at 0:15?
+a: The level of insults
+i: The level of flirting
+q3: How does the woman at 0:30 feel about the scuffle?
+a: Entertained
+i: Persuaded
+q4: How does the woman behave in the arguement?
+a: Aggressively
+i: Respectfully
+q5: Why does the woman in white gesture to the woman in green?
+a: She wants them to leave
+i: She wants them to chat
+q6: Who does the woman in white imply her support for?
+a: The woman
+i: The man

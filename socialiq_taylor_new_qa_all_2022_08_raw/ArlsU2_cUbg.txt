@@ -1,0 +1,19 @@
+
+q1: How does the woman react to being asked for an autograph?
+a: She is a bit suprised that she is being asked for an autograph
+i: She is visibily annoyed that she is being disturbed for an autograph.
+q2: How does the man in the coat feel about the woman?
+a: He likes and is interested in the woman
+i: He initially liked her but changed his mind after hearing what her autograph said.
+q3: How do the man in the blue shirt and the woman get along?
+a: They get along well and seem to like one another
+i: The man is put off by the womans attitude.
+q4: What is the tone of the woman?
+a: She is sharp and sarcastic.
+i: He is enthusiastic and joyful.
+q5: How does the man in the blue shirt react to the interaction between the woman and the man in the coat?
+a: He is amused and some what taken aback by the conversation between the two.
+i: He is bothered that the man in the coat interuppted his conversation with the lady.
+q6: How does the woman show that she was amused by what the man says at :14?
+a: She smirks and exhales sharply
+i: She shows a big smile and laughs 

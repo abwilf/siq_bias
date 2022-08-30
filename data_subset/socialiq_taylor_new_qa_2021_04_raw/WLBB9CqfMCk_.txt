@@ -1,0 +1,18 @@
+q1: Why does the man in the black jacket rub his hands together?
+a: He is ready to hear the results
+i: He is ready to read the results
+q2: How do the groups on stage show support of other contestants?
+a: They clap for the winners
+i: They praise the winners
+q3: Why is the woman in grey so emotional?
+a: She is relieved her team won
+i: She is devastated her team lost
+q4: Who is the most emotional person on stage?
+a: The girl in grey
+i: The girl in blue
+q5: How does the woman address the contestants are crying?
+a: With appreciation
+i: With concern
+q6: Why are the people gathered on stage?
+a: To receive awards
+i: To receive counselling

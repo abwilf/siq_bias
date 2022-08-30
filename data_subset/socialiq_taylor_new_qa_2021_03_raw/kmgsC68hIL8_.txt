@@ -1,0 +1,18 @@
+q1: What is the purpose behind the man's words?
+a: To make people laugh
+i: To make people gasp
+q2: Why does the man disagree that people will want to use the money to rennovate their kitchen?
+a: It's not a priority
+i: It's not interesting 
+q3: Is the man in favor of the republican party?
+a: No
+i: Yes
+q4: Why does the man imitate someone receiving the money?
+a: To emphasize the ridiculousness
+i: To emphasize the vagueness
+q5: What does the man think of republicans cutting children's healthcare?
+a: It's hyporcritical
+i: It's warranted
+q6: What is the tone of the man at the end of the video?
+a: Sarcastic
+i: Arrogant 

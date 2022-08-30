@@ -1,0 +1,18 @@
+q1: What is the nature of the video?
+a: Judicial
+i: Political
+q2: How does the judge feel about the case?
+a: Certain
+i: Indecisive
+q3: How does the defendant show his unease?
+a: By chuckling
+i: By tapping
+q4: How does the woman accompanying the defendant appear at the end of the video?
+a: Amused
+i: Nervous
+q5: Why does the defendant make excuses?
+a: To avoid responsibility
+i: To avoid questioning
+q6: What does the judge display by playing the video?
+a: The defendant's guilt
+i: The defendant's innocence

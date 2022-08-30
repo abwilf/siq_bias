@@ -1,0 +1,18 @@
+q1: Why are the men visiting Austin?
+a: To perform 
+i: To vacation
+q2: How do the men react to the comment about Austin's weather?
+a: They laugh out of agreeance
+i: They laugh out of discomfort
+q3: Do the men perform professionally?
+a: No, their professional work is teaching music
+i: No, their professional work is teaching film
+q4: What drives the men to perform without pay?
+a: Passion
+i: Pressure
+q5: What are the men burdened by?
+a: Debt
+i: Illness
+q6: What is the nature of the discussion?
+a: Financial
+i: Religious

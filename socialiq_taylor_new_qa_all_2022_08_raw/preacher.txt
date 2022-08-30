@@ -1,0 +1,18 @@
+q1:Does the man seem shy about speaking?
+a:No, he expressed himself with confidence and authority.
+i:Yes, he is cowering and seems anxious.
+q2:Why is the man shouting?
+a:He is trying to get his message across and believes in it strongly.
+i:He does not think he will be heard if he does not talk loudly.
+q3:What is the tone of the man's speech?
+a:It is authoritative and meant to be inspirational.
+i:It is sad and meant to evoke sadness in others.
+q4:Why does the man gesture throughout the video?
+a:He is emphasizing what he is saying.
+i:He is just being random and doing so without meaning.
+q5:Why does the man keep looking at the camera?
+a:He is trying to make a connection with the audience that will be watching digitally.
+i:He is trying to make sure that the camera is pointing in the right direction.
+q6:What purpose does the book have to the man?
+a:It is a prop for his speech and he reads from parts of it to spread his message.
+i:He does not like the book so he picked it up to throw it.

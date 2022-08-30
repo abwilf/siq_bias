@@ -1,0 +1,18 @@
+q1: Does the man like Trump? 
+a: No
+i: Yes
+q2: What is the nature of the man on the left having the other man touch his muscles?
+a: Playful
+i: Boasting
+q3: Is the man afraid of Trump becoming President?
+a: No, he feels safe in America
+i: Yes, he feels at risk in America
+q4: Why does the man rub both hands back over his hair?
+a: The question makes him nervous
+i: The audience makes him nervous
+q5: Why does the man mention Trump wasn't president when he became a citizen?
+a: He wants to clarify that he doesn't support him
+i: He wants to emphasize that it was difficult without him
+q6: What can be inferred about the man on the left from his statement about flexing?
+a: He is a humble person
+i: He is self-conscious person

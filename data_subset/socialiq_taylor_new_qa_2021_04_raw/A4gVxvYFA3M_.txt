@@ -1,0 +1,18 @@
+q1: How does the man show his engagement in the woman's story?
+a: By laughing
+i: By gasping
+q2: Why does the woman pull her hand into a fist at 0:14?
+a: She is demonstrating an attempt at keeping composure
+i: She is demonstrating a punch at someone's face
+q3: What is the purpose of the woman repeat the man's comment at 0:24?
+a: For emphasis
+i: For clarification
+q4: Why does the man turn away as the woman explains her eye injury?
+a: It is difficult for him to hear
+i: It is difficult for him to pay attention
+q5: Which person in the video suffered a recent injury?
+a: The brunette woman
+i: The blonde man
+q6: What does the woman discuss her experience working as?
+a: An actress
+i: A makeup artist

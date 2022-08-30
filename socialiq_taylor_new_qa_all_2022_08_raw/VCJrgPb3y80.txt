@@ -1,0 +1,19 @@
+
+q1: Why does the man in the black suit stop himself from yelling at the man in grey?
+a: The man in the black suit is trying to be reasonable and rational.
+i:The man in the black suit stops yelling because the man in grey shirt intimidated him.
+q2: Does the man in the grey seem open to criticism?
+a: No, he does not which is what the man in the suit is trying to tell him.
+i: Yes, he is happy the hear any criticism as it will help him out in the long run.
+q3:Why does the man in grey rush at the man in the suit?
+a: The man in suit admitted to betraying the man in grey.
+i: The man in the suit insulted his football skills.
+q4: Does the man in the black suit regret his past decision?
+a: Yes, he feels really bad about what he did and wishes he could change it.
+i: No, he has no sympathy for what he did because he doesn't like the man in grey to begin with.
+q5: Why does the man in the suit want to talk to the man in grey?
+a: He wants to prevent the man in grey from doing something he will later regret.
+i: He wants the man in grey to apologize for what he did.
+q6: How does the man in the black suit react to being grabbed by the man in grey?
+a: He remains calm and isn't afraid of the man in grey.
+i: He is scared and worried the man in the grey will hurt him.

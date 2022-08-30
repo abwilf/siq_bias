@@ -1,0 +1,19 @@
+
+q1: What is the tone of the man in white at the beginning of the video?
+a: He is eager and enthusiastic to get started
+i: He does not want to participate in the meeting.
+q2: Why do the woman in red look and the man with the red tie look at one another :17?
+a: They look at one another because the woman in red is confused and the man in the red tie is giving her assurance
+i: They look at one another because they both think the man in white is an idiot.
+q3: Who is the most dominate in this situation?
+a: The man in the white is the most dominate person in this situation.
+i:The man in the red tie is the most dominate in this situation.
+q4: Is the man in the red tie confident?
+a: No, given that he struggles trying to reply to the man in white, he is not confident.
+i: Yes, he is able to hold his own against the man in white which indicates he is confident.
+q5: Why does the man sitting next to the man in white yell?
+a: He yells because he doesn't understand why the 2 men are laughing.
+i:He is angry that the meeting isn't going the way he wants.
+q6: Is the man in white genuine in his laughter?
+a:No, he is mocking the man in the red tie. 
+i: Yes, he thinks what the man in the red tie said is funny.

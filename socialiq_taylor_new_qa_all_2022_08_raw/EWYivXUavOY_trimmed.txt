@@ -1,0 +1,18 @@
+q1: Does the woman care about the snake?
+a: Yes, she is gentle with it, knows a lot about it, and is concerned for its wellbeing.
+i: No, she is indifferent to it completely.
+q2: Is the woman engaging?
+a: Yes, she speaks clearly and looks at the camera as she speaks.
+i: No, she does not look at the camera and barely speaks at all.
+q3: Is the woman frightened of the snake?
+a: No, she does not seem nervous and is holding the snake confidently.
+i: Yes, she is holding the snake but in a scared and unconfident way.
+q4: Why is the woman speaking to the camera?
+a: She is telling an audience who will watch the video a story about the snake.
+i: She is explaining to the audience a tutorial of how to get rid of snakes in a garden.
+q5: What do the woman's tone and facial expression convey while she is speaking at 00:44?
+a: She is showing surprise at the memory and information she is exlpaining in the moment.
+i: She is showing that she is depressed.
+q6: Does the woman seem nice?
+a: Yes, she cares for the animal kindly and is engaging with the audience in a confident, kind manner.
+i: No, she is being hostile toward both the snake and the audience while she speaks.

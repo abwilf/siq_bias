@@ -1,0 +1,18 @@
+q1: What do the woman's questions allow the cop?
+a: A chance to address the accusations
+i: A chance to avoid the accusations 
+q2: How does the officer react to the woman's first question?
+a: By denying the accusation
+i: By confirming the accusation
+q3: Why does the man explain the process?
+a: To defend his department
+i: To defend his mother
+q4: How can the man's defense of the accusation be described?
+a: As firm
+i: As surprising
+q5: How are the woman's questions asked?
+a: In a straight-forward manner
+i: In an accusatory manner
+q6: Why does the man snicker?
+a: He thinks the question is ridiculous
+i: He thinks the question is funny

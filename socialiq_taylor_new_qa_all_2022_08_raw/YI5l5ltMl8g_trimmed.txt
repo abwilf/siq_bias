@@ -1,0 +1,18 @@
+q1: How does the audience react to the woman?
+a: They laugh and cheer at her  story.
+i: They don't make much noise and seem bored by her story.
+q2: Why does the lady seem taken aback at :16?
+a: She is surprised at what the man said to her.
+i: She is acting out part of her story.
+q3: Why does the woman fist pump at :28?
+a: She is recalling being ready for her moment.
+i: She is excited she got a part in a movie.
+q4: Do the man and woman get along?
+a: Yes, they are joking around with one another.
+i: No, they are stiff around each other.
+q5: Does the man know the woman?
+a:Yes, he is a fan of hers.
+i:No, it is the first time he's met and heard of her. 
+q6:When the man decides to settle to be like a certain character, how does the woman react?
+a: The woman is sarcastic since he is not settling for someone that is not noble.
+i: The woman genuinely thinks the man is noble for settling for that character.

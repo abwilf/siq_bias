@@ -1,0 +1,18 @@
+q1: Are the women working well together?
+a: Yes they seem to agree and take turns and enjoy the task.
+i: No they are arguing over the steps and unhappy.
+q2: Why is the woman in red helping the woman in grey?
+a: Because this project requires more than two hands. 
+i: The woman in grey told the woman in red to help her.
+q3: Why are the women doing the task that they are?
+a: They are demonstrating for an audience how to make what they are making.
+i: They are being punished and their punishment is to do this task.
+q4: Do the women share a common goal?
+a: Yes, they are both working on the same thing to teach an audience how to also do the project.
+i: No, they are both focusing on separate things and one does not want to teach the audience anything.
+q5: What is the atmosphere of the video?
+a: The video is cozy, relaxed, and upbeat.
+i: The video is aggressive and frightening.
+q6: Why doesn't the woman in silver look at the camera while she speaks?
+a: She is busy concentrating on what she is doing while explaining it.
+i: She is too shy to look at the camera.

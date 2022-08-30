@@ -1,0 +1,18 @@
+q1: Why are the men visiting Austin?
+a: To perform 
+i: To bond
+q2: Do the men agree that Austin has better weather?
+a: Yes
+i: No
+q3: Do the men perform professionally?
+a: No, their professional work is teaching music
+i: No, their professional work is teaching film
+q4: What drives the men to perform without pay?
+a: Passion
+i: Pressure
+q5: What are the men burdened by?
+a: Debt
+i: Illness
+q6: What is the nature of the discussion?
+a: Financial
+i: Religious

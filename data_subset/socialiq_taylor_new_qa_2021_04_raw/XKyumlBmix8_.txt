@@ -1,0 +1,18 @@
+q1: Why does the woman follow the instruction of the man?
+a: He is knowledgeable
+i: He is pushy
+q2: What industry does the man work in?
+a: Medical
+i: Music
+q3: Why is the man bending his fingers together?
+a: As a visual representation of what is happening in the woman's body
+i: As a visual representation of what is happening under the Earth's surface
+q4: What is evidence that the woman trusts the man?
+a: She follows his instruction
+i: She donates to his department
+q5: Why does the man tell the woman what to do?
+a: He is trying to help her feel better
+i: He is trying to wrongly influence her
+q6: What is the relationship between the man and woman?
+a: Doctor and patient
+i: Husband and wife

@@ -1,0 +1,18 @@
+q1: How do the girls on the right feel as they enter the room?
+a: Excited
+i: Nervous
+q2: Why does the girl in the middle roll her eyes at 0:18?
+a: The other girl is boasting
+i: The other girl is competitive
+q3: Who is the most skeptical audience member?
+a: The girl in blue
+i: The girl in red
+q4: What is the girl in black and white's behavior when they announce it's science related?
+a: She acts smug
+i: She acts disappointed
+q5: Are the girls uninterested after realizing the presenters don't know the details of their project?
+a: No
+i: Yes
+q6: Why does the presenter on the left look to the presenter on the right after lying?
+a: She wants her to agree with what she said
+i: She wants her to correct what she said

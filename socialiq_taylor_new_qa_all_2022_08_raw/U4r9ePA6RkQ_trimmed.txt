@@ -1,0 +1,18 @@
+q1: What is the tone of the room while the man is opening his gift? 
+a:They are happy and giggly
+i:They are envious that they weren't also rewarded 
+q2: How does the man react to his gift?
+a: He is calm, yet happy  
+i: He seems disappointed, yet tries to show gratitude
+q3:Why does the man point at the balloons?
+a: He is admiring their color
+i: He wants the girl to pass him one
+q4:Why does the woman clap her hands at :45?
+a:She is amused by what the man said.
+i:She is cheering the man on
+q5: Why does the man take the glasses off?
+a: He is overwhelmed by what he is seeing.	
+i: He no longer needs them as the sun is setting
+q6: What is the mans reaction after putting on the glasses?
+a: The man is in shock and disbelief
+i: The man is happy for the relief to his eyes

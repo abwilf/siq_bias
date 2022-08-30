@@ -1,0 +1,19 @@
+
+q1: What is the tone between the man and the woman in the beginning of the video?
+a: They are both a friendly with one another.
+i:The woman is standoffish because she does not know who the man is.
+q2: Why do the man and woman shake hands?
+a:They are introducing themselves.
+i:The woman is thanking the man for his help.
+q3: Why does the woman in blue rest her head on her hand?
+a: Because She is sleeping.
+i:Because She is bored
+q4: Why does the man point to the side at :47?
+a: He points to show the direction in which he lives.
+i:He points because he is giving her directions.
+q5: How does the man react to being told the woman is an actress?
+a: He is surprised that she is an actress.
+i: He is not surprised that she is an actress because she is really pretty.
+q6: Why does the woman grab a pen and notebook?
+a: She wants to get the man's information so she can give him a token of appreciation for helping her.
+i: She is writing down her phone number to give to the man.

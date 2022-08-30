@@ -1,0 +1,18 @@
+q1: What is the man with red face's attitude toward the conversation?
+a: Calm but serious & lecturing
+i: Provoked but excited & lighthearted
+q2: What is the man in the vest's attitude while he is on the couch?
+a: He is dismissive
+i: He is tired
+q3: What is the woman with red hair trying to accomplish when she talks to the man on the couch?
+a: She is acknowledging his uncharacteristic behavior
+i: She is acknowledging his feelings
+q4: How do the feelings of the man in the vest progress throughout the video?
+a: From dismissive to annoyed
+i: From tired to lively
+q5: What is the group's reaction to the picture the man in the vest shows them?
+a: Somber and grieving
+i: Happy and releived
+q6: What is the man in the leather jacket's reaction to what the man with the red face had to say?
+a: He reinforced what the man with the red face said by saying "boom"
+i: He disagreed with what the man with the red face said by saying "boom"

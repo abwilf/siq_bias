@@ -1,0 +1,18 @@
+q1:Why is the man shouting?
+a:He is passionate about what he is speaking about.
+i:He is very angry at the people in the seats behind him.
+q2:How does the man show he is confident about the topic?
+a:He is loud and confident while he is speaking about the topic.
+i:He speaks slowly and clearly, pausing in between each sentence.
+q3:Why does the woman with the microphone sit on the staircase?
+a:She wants to get closer and more personal with the person she is about to speak to.
+i:She is tired and want to take a break from standing.
+q4:Why does the man use gestures?
+a:He is emphasizing what he is speaking about.
+i:He is dancing around the stage.
+q5:How does the audience react to the yelling man?
+a:They are interested and watch him attentively
+i:They are bored and annoyed, and tell him to stop talking.
+q6:Why does the woman with the microphone ask questions?
+a:She is an interviewer and the host of the show, wanting to continue the dialogue.
+i:She is confused about what is happening and is trying to get clarification.

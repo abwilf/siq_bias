@@ -1,0 +1,18 @@
+q1: How does the child in the hat feel at the start of the video?
+a: The child in the hat feels confused and incredulous
+i: The child feels angry and disgruntled
+q2: How does the girl in the dotted pink shirt feel?
+a: The girl in the pink dotted shirt feels confused
+i: The girl in the pink dotted shirt feels sad
+q3: How does the girl in the yellow shirt react? 
+a: The girl in the yellow shirt was amused 
+i: The girl in the yellow shirt was annoyed 
+q4: How do the children feel about their attempts to recreate the video?
+a: They feel unsure and are amused by their vain attempts
+i: They feel confident and are amused by their success
+q5: How do the childrens' opinions change throughout the video 
+a: The childrens' opinons start with skepticism and end with appreciation
+i: The children's opsions start with appreciation and end with skepticism
+q6: What does the boy in the blue sweatshirt think about the girl from the video?
+a: The boy in the blue sweatshirt thinks the girl is talented
+i: The boy in the blue sweatshirt thinks the girl is stupid

@@ -1,0 +1,19 @@
+
+q1: Why does the man with curly hair look in the mirror?
+a: He is motioning to the man behind the mirror.
+i: He is making sure he looks presentable.
+q2: What is the tone of the bald man?
+a:He is very flippant about being interrogated.
+i:He is very worried about being interrogated.
+q3: What is the dynamic between the curly haired man and the blonde woman?
+a: They are work partners.
+i: They are romantic partners. 
+q4: What is the tone ofthe curly haired man while interrogating the man holding the cards?
+a:He is impatient and frustrated with the man.
+i: He is patiently waiting for the man to answer the questions.
+q5:Why does the bald man snap his fingers over his head?
+a: He is giving a sassy attitude to the man watching him in the other room.
+i: He is snapping at the curly haired man because he is impatient.
+q6: How does the blonde woman feel about the man holding the cards?
+a:She finds him charming.
+i: She is enamoured by him 

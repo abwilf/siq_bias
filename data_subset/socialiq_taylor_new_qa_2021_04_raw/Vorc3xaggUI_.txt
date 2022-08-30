@@ -1,0 +1,18 @@
+q1: What is a sign the man on the left is being playful?
+a: He sticks out his tongue
+i: He crosses his eyes
+q2: Why does the man on the right repeat his statement at the beginning of the video?
+a: To convey his shock
+i: To convey his fear 
+q3: How does the man on the left feel about the quotes said by the other man?
+a: He is unfamiliar with them
+i: He is couldn't comprehend them
+q4: Why do the men shake hands?
+a: To cement a movie date
+i: To cement a business deal
+q5: Why is the man surprised that the other man doesn't know much about Elizabeth Taylor?
+a: She is a famous actor
+i: She is a famous democrat
+q6: Why does the man on the left raise his hands when asked about his album?
+a: He doesn't know what to say about it
+i: He doesn't know anything about it

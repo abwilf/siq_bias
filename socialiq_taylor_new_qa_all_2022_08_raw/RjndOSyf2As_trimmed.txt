@@ -1,0 +1,18 @@
+q1: What is the tone of the woman with the scarf?	
+a: She is confident and self-assured but is also interested in the group's opinion.
+i: She is shy and lacks confidence and seeks approval from the rest of the group.
+q2: How is the group getting along?
+a: The group gets along well and are interested in each other's opinions.	
+i: There is animosity in the group because they don't want to listen to each other's opinions.
+q3: Does the woman in the scarf think the student body is getting more diverse?
+a: No, she thinks they've only been focusing on accepting more minorities.
+i: Yes, she thinks accepting minorities has led them to reach their diversity goal.
+q4: What makes the woman on the far right seem uninterested in the conversation?
+a: She is focusing on her laptop instead of the conversation.	
+i: She yawns repeatedly during the conversation.
+q5: Do the women seem to agree with what the man is saying?
+a: Yes, they are nodding their heads in agreement.
+i: No, they are shaking their heads in disbelief.
+q6: How does the man behave towards the women?
+a: He is listening to them and is interested in what they are saying
+i: He focused on his laptop instead of listening to what they are saying

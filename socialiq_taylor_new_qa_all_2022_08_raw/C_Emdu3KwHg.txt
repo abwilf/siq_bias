@@ -1,0 +1,19 @@
+
+q1: How does the 2 women feel towards the group of 3 men?
+a:They are uneasy around them and want to avoid them
+i: they are happy to see them because they were lost.
+q2: How does the man with the blonde hair react to the man in the hat and poncho?
+a: He is afraid of the man in the poncho and leaves.
+i:He greets the man with the poncho and invites him over.
+q3: What is the tone of the man with blonde hair?
+a: He is aggressive and antoagonistic.
+i: He is easy going and welcoming.
+q4: Is the woman in the camoflauge afraid of the other groups?
+a:No, she is not afraid and is assertive in her demeanor.
+i: Yes, she is afraid and uneasy in her demeanor.
+q5: Is the man with the poncho disappointed in how the women greet him?
+a: Yes, the thinks they should be more appreciative of him.
+i: No, he is perfectly fine with how they greeted him.
+q6:
+a:
+i:

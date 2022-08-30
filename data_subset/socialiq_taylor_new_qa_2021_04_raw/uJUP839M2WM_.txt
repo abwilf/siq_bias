@@ -1,0 +1,18 @@
+q1: Why do the women wave their hands toward the button before the question is fully asked?
+a: They want to hit it first
+i: They want to break it first
+q2: What can be assumed about the women's relation with the man?
+a: They are close friends
+i: They are acquaintances
+q3: Why does the man make the women keep their hands below the table? 
+a: To be fair
+i: To be controlling
+q4: What causes the women to be jumpy?
+a: Their nerves from the game
+i: Their nerves from the break-in
+q5: What is the nature of the accusations the women make against each other?
+a: Light-hearted
+i: Incriminating
+q6: How do the women interact with each other? 
+a: Competitively
+i: Lovingly

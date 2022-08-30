@@ -1,0 +1,23 @@
+q1: How does the man feel about saying Geico advertisements?
+a: He is a little ashamed but also feels that it isn't his fault.
+i: He feels embarrassed after the negative reaction.
+
+q2: How does the woman feel about the glasses-wearing man's knowledge of geckos?
+a: She finds his knowledge about geckos amusing 
+i: She is disappointed in his lack of knowledge about geckos
+
+q3: How does the man in the glasses feel about the lizard?
+a: He is very interested in it.
+i: He is frightened by it.
+
+q4: How do the two people react when they imagine having sticky pads?
+a: They are amused because they realize how bad of an idea it would be.
+i: They are interested because they think it would be an enjoyable experience.
+
+q5: How does the woman react when the man responds with Geico advertisements?
+a: She is disappointed but not surprised he only learned about geckos because of the advertisement.
+i: She is angry that he didn't already know about geckos before the advertisement. 
+
+q6: How does the woman feel about the lizard?
+a: She is enthusiastic about the lizard and enjoys talking about it.
+i: She is disgusted by the lizard and is tired of talking about it.

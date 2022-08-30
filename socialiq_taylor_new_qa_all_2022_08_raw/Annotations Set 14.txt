@@ -1,0 +1,18 @@
+q1: How do the people feel about their conversation? 
+a: The conversation is amusing 
+i: The conversation is boring
+q2: Why do the people feel the way they do about the conversation?
+a: The conversation highlights amusing differences between their cultures
+i: The conversation highlights how similar they are to one another
+q3: How do the people affirm each others' thoughts?
+a: The people affirm each others' thoughts by high-fiving and laughing together
+i: The people affirm each others' thoughts by shaking their head and staying quiet
+q4: What do the people do when they disagree?
+a: They criticize each others' choices
+i: They physicall fight one another
+q5: What is the tone of the conversation?
+a: Light-hearted
+i: solemn
+q6: How much gravity do their disagreements cary?
+a: The disagreements are light and unserious
+i: The disagreements are heavy and very serious

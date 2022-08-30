@@ -1,0 +1,20 @@
+
+
+q1: Why does the man in the red and white shirt point at his eyes at :03?
+a: He is referencing the man in the yellow's eyewear.
+i: He is telling the man in yellow that he can see what he is doing.
+q2: What is the tone of the man in yellow?
+a: He is agressive and antagonistic.
+i: He is excited to be participating in the scrimage. 
+q3: Is the man in the red and white shirt confident?
+a: Yes, he remains calm, cool and collected which indicated that he is confident.
+i: No, the man in the yellow shirt upsets him which indicated that he is not as confident as he might initially appear.
+q4:Why does the man in the red and white shirt smile at the end of the video?
+a:He smiles because he is pleased with his hit.
+i:He smiles because the man in the yellow made a joke about his hit.
+q5:Does the man in the red and white take the man in the yellow seriously?
+a: No, the man in red and white does not take the man in yellow seriously at all.
+i: Yes, the man in red and white takes the man in yellow serious which is why he invites him to stay and join the game.
+q6: Why does the man in red and white spit in his hand?
+a: He spits in his hand because he is about to bat.
+i: He spits in his hand to offer the man in yellow a truce handshake.

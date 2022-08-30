@@ -1,0 +1,19 @@
+
+q1:Is the blonde woman confident?
+a: No, she is anxious and unsure of herself.
+i: Yes, she is an actress and very confident of herself.
+q2: How does the woman in the glasses feel about the blonde woman?
+a: She disagrees with the blonde womans career decisions 
+i: She is proud of the blonde woman.
+q3:Does the woman in glasses like the blonde womans joke?
+a: No, she thinks it is inappropriate.
+i: Yes,the finds it humourous, but not enough to laugh.
+q4:  What is the source of confusion between the two of them?
+a:The person in the black shirt is playing the role of a call girl and also is a call girl, but the person in the black dress thinks she is only a call girl
+i:The person in the black shirt is trying to tell jokes while the person in the black dress is trying to discover facts
+q5: Why does the woman in glasses touch her hand to her chest?
+a: She does this because she is expressing disapproval towards the blonde woman.
+i: She does this because she is touched by what the blonde woman says
+q6: How does the blonde woman feel about her audition?
+a:She is on edge and worried about the audition.
+i:She is carefree and confident because she knows she's got the audition in the bag.

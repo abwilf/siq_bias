@@ -1,0 +1,18 @@
+q1: How do the people feel about answering the questions correctly?
+a: The people feel proud
+i: The people feel upset
+q2: How do the people feel about answering the questions incorrectly?
+a: The people feel disappointed
+i: The people feel excited
+q3: How does the woman in the red shirt feel while answering the question?
+a: The woman feels confident
+i: The woman feels unsure
+q4: What is the relationship between the people on the left and the people on the right?
+a: The people are opponents
+i: The people are enemies
+q5: What is the tone of the video?
+a: The tone is fun
+i: The tone is serious
+q6: How does the man in the blue shirt feel when his opponent answers the question correctly?
+a: The man in the blue shirt feels disappointed
+i: The man in the blue shirt feels encouraged

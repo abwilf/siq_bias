@@ -1,0 +1,18 @@
+q1: Was the man in the tie supportive of the national guards? 
+a: Yes, he was supportive of having the national guards to provide more security. 
+i: No, he was not supportive of having the national guards for he fears the might incite more protest. 
+q2: What is the mood of the man in the yellow shirt as he is speaking? 
+a: He seems concerned and serious about the topic of bringing in troops. 
+i: He seems playful and relaxed about the topic of his favorite sports teams winning the game. 
+q3: Do the man in yellow and the man in the tie agree or disagree with each other? 
+a: They disagree as the two men express opposing viewpoints on the issue. 
+i: They agree with each other because they are not hostile and do not interrupt each other. 
+q4: What is the attitude of the man in the white shirt as he speaks? 
+a: The man in the white shirt is objective as he speaks to the two men he is interviewing.
+i: The man in the white shirt is casual and friendly as he speaks to his two best friends. 
+q5: What is the mood of the interview?  
+a: The mood is solemn and serious as they are discussing an ongoing event involving safety risks. 
+i: The mood is cheerful and lighthearted because the men think the ongoing situation is improving. 
+q6: How does the reporter react after the two men on the right give their initial responses?  
+a: The reporter does not take a stance on their responses and follows up with another question. 
+i: The reporter is shocked and argues because he does not like the responses the men give.

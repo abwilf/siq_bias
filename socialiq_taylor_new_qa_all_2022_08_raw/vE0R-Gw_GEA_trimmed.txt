@@ -1,0 +1,23 @@
+q1: How does the woman with glasses react when she touches velvet?
+a: She starts to shake because she feels that its texture is wrong.
+i: She starts to shake because she feels so excited at the texture. 
+
+q2: During the video, the woman with glasses mentions her service dog. Why do the others think that the woman with glasses and her service dog have a good relationship?
+a: The service dog knows when the woman with glasses feels overwhelmed.
+i: The woman with glasses feels comfortable when she pets the service dog.
+
+q3: Why is the man in black surprised?
+a: The man in black is surprised because he is surprised by how much he learned.
+i: The man in black is surprised because he didn't expect to learn anything. 
+
+q4: What does the girl think about her service dog?
+a: The girl is very thankful for the things the service dog does for her.
+i: The girl is appreciative of the service dog, but wants a different one.
+
+q5: Why is the girl sensitive to sounds?
+a: The girl is sensitive to sounds because she is autistic. 
+i: The girl is sensitive to sounds because she prefers quiet. 
+
+q6: What does the woman with glasses feel when she faces too much sensory input?
+a: She feels overwhelmed to the point where she becomes unresponsive.
+i: She feels frightened to the point where she may scream.

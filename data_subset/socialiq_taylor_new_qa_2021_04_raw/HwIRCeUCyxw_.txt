@@ -1,0 +1,18 @@
+q1: Why are the men being questioned?
+a: They are knowledgable on curling
+i: They are knowledgable on fishing
+q2: Which man in the video is most knowledgable on curling?
+a: The man on the left
+i: The man on the right
+q3: How does the man in the middle show graciousness? 
+a: By thanking the other men
+i: By shaking the hands of the other men
+q4: How do the men act toward one another?
+a: They are respectful
+i: They are withdrawn
+q5: Why does the man on the left grin at the beginning of the video? 
+a: He is enjoying the man's questions
+i: He is enjoying the man's story
+q6: What does the man explain as a benefit of curling?
+a: It can be a bonding experience
+i: It can be a luxurious experience

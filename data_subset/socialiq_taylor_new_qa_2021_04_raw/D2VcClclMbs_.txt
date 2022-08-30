@@ -1,0 +1,18 @@
+q1: How does the woman speak of theatre?
+a: In a dreamy sense
+i: In a poor sense
+q2: What is the purpose behind the man's first question?
+a: He wants to confirm his understanding
+i: He wants to overwhelm the woman
+q3: What does the woman portray with her words?
+a: Passion
+i: Disappointment
+q4: Why does the woman mention the male actor?
+a: He influenced her
+i: He corrupted her
+q5: Does the woman have a bold opinion of theatre?
+a: Yes, she feels it is a very unique experience
+i: Yes, she feels it is a very dull experience
+q6: Why does the woman clarify her choice of words at the end of the video?
+a: She wants to be taken seriously
+i: She wants to be thought of as articulate

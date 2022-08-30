@@ -1,0 +1,18 @@
+q1: What causes the woman with red shoes to swing her feet?
+a: Her nerves
+i: Her excitement
+q2: Why does the woman make a sarcastic remark to the man?
+a: He told her that her answer wasn't true
+i: He told her that her answer was ridiculous
+q3: How is the man trying to help the woman?
+a: By counselling her
+i: By consoling her
+q4: What is an indicator of the woman's difficulty opening up?
+a: She stops herself from sharing
+i: She stops herself from crying
+q5: Which person in the video is dealing with trauma?
+a: The woman in the black jacket
+i: The woman in the grey jacket
+q6: Why does the man question the woman?
+a: He wants her to express her feelings
+i: He wants her to validate his statements

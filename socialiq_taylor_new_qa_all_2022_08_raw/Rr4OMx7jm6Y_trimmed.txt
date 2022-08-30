@@ -1,0 +1,18 @@
+q1: Why does the man on the left laugh at :14?
+a: The man in the middle makes a joke.
+i: He is amused by the woman on the right.
+q2:Why do they keep making unpleasant facial expressions?
+a: They are disgusted with someone's actions and behavior. 
+i: They are getting whiffs of a strange smell.
+q3: What is the tone of the man in the middle?	
+a: It is serious due to the nature of the discussion.
+i: It is lighthearted due to the nature of the discussion.
+q4: Do the three people agree with each other? 
+a: Yes, they have no differing opinions.
+i: No, they politely state their different opinions.
+q5: Who is the most dominant in the conversation?
+a: The man in the middle is the most dominant
+i:The man on the left is the most dominant
+q6: Why does the man on the left get out of his chair?
+a: He is imitating someone else.	
+i: He is ready to leave.

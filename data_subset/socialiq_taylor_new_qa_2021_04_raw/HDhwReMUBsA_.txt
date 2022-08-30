@@ -1,0 +1,19 @@
+q1: What is the purpose of the children's activity?
+a: To channel their creativity
+i: To channel their comedic side
+q2: How does the boy in the blue shirt show interest in the activity?
+a: He tries to squeeze between the boys to see
+i: He tries to squeeze between the brother and sister to see
+q3: What can be inferred about the boy in the blue shirt?
+a: He is curious
+i: He is agressive
+q4: Why does the boy grit his teeth at 0:27?
+a: Because of the force he is exerting
+i: Because of the debt he has incurred
+q5: How do the children approach the activity?
+a: With attentiveness
+i: With carelessness
+q6: How can the children's interest in the activity be identified?
+a: Through their focus
+i: Through their questions
+

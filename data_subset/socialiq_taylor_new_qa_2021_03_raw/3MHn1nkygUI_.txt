@@ -1,0 +1,18 @@
+q1: Which of the three men on stage is musically inclined?
+a: The man in the middle
+i: The man on the right
+q2: Why does Reggie ask the drummer if Joseph can join them?
+a: Out of respect
+i: Out of intimidation
+q3: How do we know the man on the left is excited at the end of the video?
+a: By his stuttering
+i: By his chanting
+q4: Why does the man on the right mention that he plays the guitar?
+a: As a joke
+i: As a brag
+q5: Which man makes a self-depricating joke?
+a: The man on the right
+i: The man in the middle
+q6: What is the band drummer's attitude toward being replaced by Joseph?
+a: He is welcoming
+i: He is offended

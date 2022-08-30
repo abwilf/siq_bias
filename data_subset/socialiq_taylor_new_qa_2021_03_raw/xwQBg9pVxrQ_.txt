@@ -1,0 +1,18 @@
+q1: What is being celebrated?
+a: Jimmy is one year older
+i: Jimmy is one year sober
+q2: How does Jimmy feel about the man in blue appearing?
+a: He is surprised
+i: He is aggravated
+q3: Why has the man in blue appeared?
+a: To relieve Jimmy on his birthday
+i: To relieve Jimmy on his anniversary
+q4: What is the tone of the video?
+a: Overdramatic
+i: Mellow
+q5: What did the doorbell indicate?
+a: A visitor
+i: A package
+q6: What does the man in blue liken Jimmy to as he sits in the chair?
+a: A king
+i: A clown

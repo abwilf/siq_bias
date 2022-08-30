@@ -1,0 +1,18 @@
+q1: Why do the boys high-five the woman?
+a: They like what she said
+i: They like what she's wearing
+q2: What is the relationship between the boys?
+a: They are bandmates
+i: They are classmates
+q3: Why does the boy at 0:24 rub his chin?
+a: It is a sign of him being in thought
+i: It is a sign of him being curious
+q4: Why are the boys speaking gibberish at the end of the video?
+a: They are pretending they speak Spanish
+i: They are pretending they speak Chinese
+q5: Why do the boys groan when asked their favorite song?
+a: It's a tough question
+i: It's an unwelcome question
+q6: What is a sign of the boys' confidence?
+a: They praise the songs they sing
+i: They praise the films they star in

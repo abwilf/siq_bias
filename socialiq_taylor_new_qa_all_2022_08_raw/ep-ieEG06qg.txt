@@ -1,0 +1,19 @@
+
+q1:Is the man in the grey jacket nervous?
+a: No, he answers the questions with ease and confidence.
+i: Yes, he is nervous and worried he will not get the job.
+q2: Who is the dominate person in thr group?
+a: The white haired man is the dominate person in the group. 
+i: the man in pinstriped suit is the most dominate person in the group.
+q3: How does the man in the grey jack show that he is amused by what the man in the pinstriped suit said?
+a: He smiles as he looks down
+i: He gives a belly laugh.
+q4: What is the atmosphere of the group?
+a: It is professional and respectful.
+i: It is carefree, relaxed and easy.
+q5:How does the man in the white hair feel about the man in the gray jacket? 
+a: The man in the white hair doesn't seem to like the man in the gray jacket.
+i: The man in the white hair really enjoys talking to the man in the gray jacket
+q6:
+a:
+i:

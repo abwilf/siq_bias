@@ -1,0 +1,18 @@
+q1: How does the woman feel about what they were doing in India in the past?
+a: She regrets that they did very little there.
+i: She is happy with what they did in India.
+q2: What is the demeanor of the woman?
+a: She is calm, cool and collected.
+i: She is very excited to talk about her business.
+q3: How did the woman feel about investing more in India? 
+a: She was unsure at first but gave it a try anyways.
+i: She was happy to start right away.
+q4: How is the womans tone at the end of the video compared to the beginning of the video?
+a: She is speaking with more passion at the end of the video compared to the beginning.
+i: She is getting tired of the conversation towards the end of the video compared to the beginning.
+q5: Why does the woman grimace at :37?
+a: She didn't believe that she could do the task she was asked to do.
+i: She is recalling an unpleasant conversation she had with her boss.
+q6: Does the woman seem capable of handling stress?
+a: Yes, she seems like she can keep a straight head and do what she needs to do when stressed.
+i: No, she is indicating that she would become a complete mess under stress.

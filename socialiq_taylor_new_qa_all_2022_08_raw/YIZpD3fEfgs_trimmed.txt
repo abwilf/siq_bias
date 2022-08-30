@@ -1,0 +1,18 @@
+q1: Is the man in the grey jacket angry?
+a: No, he is not angry at all.
+i: Yes, because he disagrees with what the other men are saying. 
+q2: Are the other men receptive to what the first man said?
+a: Yes, they listened to him and agree for the most part
+i:  No, the completely disagree with what he said.
+q3: How do the men in the video act towards one another?
+a:They respect each other's opinions and thoughts.
+i: They clash and disagree with each other.
+q4:Why does the the man in the middle left nod his head?
+a:He is answering a question 
+i: He is agree with what the man on the very right said.
+q5: Why are they wearing suit jackets?
+a:The man are wearing suit jackets to raise the formality of the event while still being casual.
+i:The men are wearing suit jackets because the dress code for the event required suit jackets.
+q6:
+a:
+i:

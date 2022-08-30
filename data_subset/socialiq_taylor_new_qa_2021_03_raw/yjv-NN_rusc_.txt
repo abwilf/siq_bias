@@ -1,0 +1,18 @@
+q1: Why does the man on the right assume they are going to visit 1 floor of the house?
+a: A 7 floor house is rare
+i: A 7 floor house is impossible
+q2: Which man is knowledable on real estate?
+a: The man in the brown jacket
+i: The man in the black sweater
+q3: Which man is impressed by the house?
+a: The man in the black sweater
+i: The man in the brown jacket
+q4: Why does the man ask how much the place is?
+a: He assumes it is a high amount
+i: He assumes it is a cheap amount
+q5: Why does the man point up at the end of the video?
+a: He wants the other man to look at the building
+i: He wants the other man to look at the sky
+q6: 
+a: 
+i:

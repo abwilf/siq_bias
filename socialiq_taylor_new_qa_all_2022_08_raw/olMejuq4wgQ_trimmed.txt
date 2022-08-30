@@ -1,0 +1,18 @@
+q1: Why does the woman in the green sweater yell near the beginning of the video?
+a: She is showing her support and enthusiasm to the audience when they clapped.
+i: She is mad at the audience for clapping and wants them to stop.
+q2: Is the short-haired woman engaged in the conversation?
+a: Yes, the short-haired woman is polite and is engaged in the conversation.
+i: No the short-haired woman spaces out while listening to the conversation.
+q3: Why does the audience laugh?
+a: They find what the woman with short hair said to be funny.
+i: They are mocking the people on stage.
+q4: Does the audience enjoy the conversation?
+a: Yes, they laugh and clap at points throughout.
+i: No, they boo and only laugh to mock the people on stage.
+q5: Why does the woman in green interrupt the man?
+a: The man forgot something he is trying to say, so she offers the information.
+i: The man said something the woman found incorrect and corrected him.
+q6: Why does everybody look serious near the end of the video?
+a: The man is talking about a serious and scary situation that happened.
+i: The man in starting to anger the women.

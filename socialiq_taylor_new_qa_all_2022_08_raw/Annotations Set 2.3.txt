@@ -1,0 +1,18 @@
+q1: What is the woman's attitude at the very start of the video?
+a: She is sarcastic and jovial
+i: She is solemn and downtrodden
+q2: What reaction does the woman expect from the audience at the start of the video?
+a: She expects the audience to relate to her experience
+i: She expects the audience to disagree with the content of the video
+q3: What was the woman's inspiration for making the video?
+a: She felt like she went through a situation similar to someone who made a video of this kind
+i: She felt like she could do a better job than others in making a video of this kind
+q4: How does the woman feel about making the video?
+a: She feels nervous about making her experiences public
+i: She feels excited about making her experiences public
+q5: How do the two friends feel when they greet each other?
+a: They seem excited and happy to see one another
+i: They seem daunted by the gravity of the situation
+q6: Why is the woman hyperventilating at the end of the video?
+a: She is nervous to talk to the man on camera
+i: She is tired from physical activity

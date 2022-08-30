@@ -1,0 +1,18 @@
+q1: How do the two men interact?
+a: The two men interact in a respectful and mutually interested manner
+i: The two men are very affectionate with one another because they are close
+q2: Do the two men see each other as equals?
+a: Yes, the two men speak to each other with respect.
+i: No, the man without glasses talks down to the man with glasses.
+q3: Is the man in the collared shirt passionate about what he's talking about?
+a: Yes, he speaks confidently and excitedly about the subject.
+i: No, he speaks in a monotone voice and seems bored.
+q4: Is the man wearing glasses interested in what the other man is saying?
+a: Yes, he leans forward and listens intently.
+i: No, he tells the man to stop talking and walks away so he doesn't have to listen.
+q5: Why does the man stutter at 00:06?
+a: He is trying to think of the the right words to use.
+i: He is scared of the other man.
+q6: Why is the man in the glasses smiling?
+a: He is happy talking to the other man and excited about what they are talking about.
+i: He thinks the other man is ridiculous and embarrassing.

@@ -1,0 +1,19 @@
+
+q1: Why is the man upset with the woman?
+a: He is upset that she is taking over his part of the house.
+i: He is upset because she is sketching when she should be working.
+q2: Who is the instigator in this situation?
+a:The man is the instigsator in the situation
+i: The woman is the instigator in this situation.
+q3: What is the tone of the woman at :08?
+a: She is calm but also confused as to the line of questioning from the man.
+i: She is happy to see the man
+q4: Does the woman take the mans concerns seriously?
+a: No, she does not take his concerns seriously.
+i: Yes, she is understanding to his concerns.
+q5: Why does the man pick up the bag next to the woman?
+a: He is moving it because he wants her to get out of his space.
+i: He is helping her move the bag because it is heavy.
+q6: How does the tone of the man change from the beginning of the video to the end?
+a: He goes from calm to more agitated as the video goes on.
+i: He goes from agitated to more calm as the video goes on.

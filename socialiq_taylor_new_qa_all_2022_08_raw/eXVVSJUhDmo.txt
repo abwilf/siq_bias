@@ -1,0 +1,19 @@
+
+q1:The tone of the blonde woman is nonchalant when she asks the other woman to look at her fashion piece. 
+a: She is nonchalant and casual.
+i:She is assertive and demanding.
+q2: What is the tone of the woman in the brown sweater to the other women?
+a: She has an accusatory tone
+i: She has a friendly tone.
+q3: What is the relationship between the blonde woman and the woman in the brown sweater?
+a:They are sisters.
+i:They are best friends.
+q4: how does the girl in the vest feel about the woman inthe brown sweater? 
+a:She thinks that the girl in the brown sweater has a bad attitude and needs to relax.
+i:She thinks that the firl in the brown sweater is too enthusiastic and needs to calm down.
+q5: Why does the girl in the brown sweater point up?
+a: She is demanding the other girls meet her outside.
+i:She is answering the girl in the vests question.
+q6: How do the the 2 girls react to the woman in the brown sweater's concerns?
+a:They are initally confused because they don't understand what she is talking about.
+i:They think her concerns are ridiculous and don't entertain them.

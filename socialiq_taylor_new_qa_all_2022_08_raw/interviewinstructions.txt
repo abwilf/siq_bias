@@ -1,0 +1,18 @@
+q1:How do the man and woman act toward each other?
+a:They are polite and professional toward each other.
+i:They are relaxed and casual toward each other.
+q2:What is the tone of the video?
+a:The tone is instructional, as it is meant to help viewers
+i:The tones is abrasive, as it is meant to intimidate viewers
+q3:Why does the woman change her posture in the video?
+a:She wants to give an example of what she is teaching
+i:She is uncomfortable sitting up straight and wants to ease her discomfort
+q4:Why do the man and woman shake hands in the video?
+a:They are greeting each other
+i:They are playing a game
+q5:What do the man's tone and mood convey throughout the video?
+a:They convey that he is a confident and friendly person.
+i:They convey that he has a short attention span
+q6:How does the woman act toward the man during the interview?
+a:She is alert
+i:She seems to be tired

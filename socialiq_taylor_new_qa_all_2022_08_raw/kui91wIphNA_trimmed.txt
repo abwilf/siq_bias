@@ -1,0 +1,18 @@
+q1: Is the man with brown hair wearing a red and silver tie interested in what the man speaking is saying?
+a: Yes, he intently watches and listens to him, and periodically nods his head in agreement.
+i: No, he looks off to the side and seems uninterested and bored.
+q2: What is the overall mood of this conversation?
+a: The conversation is serious, informative, and professional.
+i: The conversation is fun and light-hearted.
+q3: Why does the man with blonde hair nod and shake his head as he speaks?
+a: He is using these gestures for emphasis of what he is saying.
+i: He is so nervous to be talking that he is shaking.
+q4: Why do the people in the background negelct to speak?
+a: They know it would be inappropriate to do so because they are not the focus of the conversation.
+i: They all hate the blonde man who is speaking and don't want to talk to him.
+q5: Is the man in the red tie confident?
+a: Yes, he answers the questions clearly and confidently, with no signs of being nervous.
+i: No, he is anxious and seems to want to leave the situation as soon as possible.
+q6: How do the two blonde women seem to feel?
+a: They seem to be bored and uninterested in what is happening.
+i: They seem to be highly interested in curious about what is happening.

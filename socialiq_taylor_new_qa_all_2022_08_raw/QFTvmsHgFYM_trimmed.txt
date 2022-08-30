@@ -1,0 +1,18 @@
+q1: How does the man on the right feel about Varys?
+a: He really enjoys the character 
+i: He doesn't like the character because he's shady.
+q2: Do the other men agree with the man on the right about Varys?
+a: They agree somewhat, but not completely.
+i: Yes, they whole heartedly agree with the man. 
+q3:: How does the man in the white shirt feel when he says lady Margaret?
+a: He is doubtful of himself because he doesn't know if that is her name.
+i: He is confident he is saying the right name.
+q4: How do the other men react to the man in the white shirts impatience?
+a:They find it amusing.
+i:They find it frustrating.
+q5: Did the man in the white enjoy being corrected?
+a: No, it frustrated him but he tries to make light of it.
+i: Yes, he wants to know when he is wrong about something.
+q6:How does the man in white feel about Littlefinger?
+a: He does not like Littlefinger and enjoys other characters more.
+i: Littlefinger is his favorite character

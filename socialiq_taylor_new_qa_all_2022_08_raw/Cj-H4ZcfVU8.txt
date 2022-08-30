@@ -1,0 +1,19 @@
+
+q1: Why is the curly haired man making a nasty face at the beginning of the video?
+a: He is making the face because he thinks he might get sick
+i: He is making the face because the dark haired man said something disgusting.
+q2: What is the overall tone of the men?
+a: The tone is making light of a serious situation
+i: The tone is of deep sadness due to the dark haired mans condition.
+q3: Which of the 2 men are more concerned about the situation?
+a: The curly haired man is more concerned because he shows more emotion.
+i: The dark haired man is more concerned because he remains calm about the situation.
+q4: How does the curly haired man cope with the news?
+a: He uses positivity and a bit of humor to cope with the news.
+i: He uses his negative emotions to vent about the news.
+q5: Does the man with the jacket seem worried about the news?
+a: No, he doesn't seem too worried about the news.
+i: Yes, he physically and verbally indicates that he is cery worried about the news.
+q6: How does the curly haired man feel at the end of the video?
+a: He is hopeful for a positive outcome for the dark haired man.
+i: He is really afraid for the dark haired man and doesn't think he will make it.

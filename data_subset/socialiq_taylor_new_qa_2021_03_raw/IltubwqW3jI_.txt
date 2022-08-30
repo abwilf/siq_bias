@@ -1,0 +1,18 @@
+q1: When do the pair experience an awkward moment?
+a: When the man in blue insults the other
+i: When the man in blue mimics the other
+q2: Why does the man in blue laugh when the other walks away?
+a: He is surprised 
+i: He is relieved
+q3: What is the purpose of the man in blue's statement at 0:36?
+a: To provoke the other man
+i: To crticize the other man
+q4: Why does the man walk away?
+a: He feels offended
+i: He feels rejected
+q5: What is the tone of the man in blue?
+a: Sarcastic
+i: Concerned
+q6: Which person appears uncomfortable?
+a: The man in white
+i: The man in blue

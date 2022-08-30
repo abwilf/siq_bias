@@ -1,0 +1,19 @@
+
+q1: What is the atmosphere between the two men?
+a: The atmosphere is tense and uncomfortable.
+i:The atmosphere is loving and and sensual.
+q2: What is the tone of the blonde man when he before he sits down?
+a: He is nervous.
+i: He is disappointed.
+q3: Is the man with the dark hair angry with the blonde mans questions?
+a: No, he seems fine with the questions he is asked.
+i: Yes, he doesn't like that the blonde man is being nosy.
+q4: Why does the man with dark hair pause before answering the blonde man's question about his parents?
+a: The man with the dark hair was not expecting that question.
+i: The man with dark hair does not understand the question, initially. 
+q5: How does the blonde man react to the answers the dark haired man gives him. 
+a: He is uncertain of the answers the dark haired man is giving him.
+i: He is ethusiastic and pleased with the dark haired mans answers.
+q6:
+a:
+i:

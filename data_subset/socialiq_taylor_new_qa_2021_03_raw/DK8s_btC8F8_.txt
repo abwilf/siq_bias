@@ -1,0 +1,18 @@
+q1: How does the woman in the black jacket react to the possibility of dying?
+a: She jokes about it
+i: She panicks about it
+q2: Why does the woman in the white dress sigh?
+a: She is aggravated with the other woman's uncertainty 
+i: She is aggravated with the other woman's bossiness
+q3: Are the women at conflict?
+a: Yes, they have different goals
+i: Yes, they have different morals
+q4: Who is the least engaged person in the video?
+a: The woman lying on the couch
+i: The woman in the white dress
+q5: How does the woman in the white dress challenge the woman in the black jacket?
+a: She makes the situation the woman is hoping for sound very unlikely and unappealing
+i: She makes the situation the woman is hoping for sound very plausible and dangerous
+q6: Who is the most confident person in the video?
+a: The woman in the white dress
+i: The woman in the black jacket

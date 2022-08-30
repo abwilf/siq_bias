@@ -1,0 +1,18 @@
+q1: Why does the man point behind him?
+a: He is referencing the women's chanting
+i: He is referencing the women's teasing
+q2: What is the man on the right apprehensive about?
+a: Going on stage
+i: Going on a date
+q3: Why does the man on the left give the other man a gift?
+a: To make him feel supported
+i: To make him feel celebrated
+q4: How does the man on the right react to his gift?
+a: He is astonished by it
+i: He questions it
+q5: What is the purpose of the man on the right repeating a statement twice at 0:43?
+a: He is trying to make himself believe it
+i: He is trying to make himself remember it
+q6: What was the outcome of the men's conversation?
+a: The man is now prepared to go on stage
+i: The man is still nervous to go on stage

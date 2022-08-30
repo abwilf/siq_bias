@@ -1,0 +1,18 @@
+q1: Why do the boys high-five the woman?
+a: They like what she said
+i: They like what she wore
+q2: What is the relationship between the boys?
+a: Bandmates
+i: Classmates
+q3: Why does the boy at 0:24 rub his chin?
+a: He is thinking
+i: He is curious
+q4: Why are the people speaking gibberish at the end of the video?
+a: They are imitating Spanish
+i: They are imitating Chinese
+q5: Why do the boys groan when asked their favorite song?
+a: It's a tough choice
+i: It's an impossible choice
+q6: What is the mood of the interview?
+a: Laid-back
+i: Uptight

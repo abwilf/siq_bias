@@ -1,0 +1,19 @@
+q1: What do the man's jokes about Donald Trump imply?
+a: That he dislikes him
+i: That he supports him
+q2: 
+a: 
+i:
+q3: 
+a:
+a: 
+i: 
+q4:
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

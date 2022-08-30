@@ -1,0 +1,18 @@
+q1: What does one judge compliment another on?
+a: How quickly he identified a song
+i: How quickly he played a song
+q2: How does the judge in black and white stripes react to a compliment from another judge?
+a: With a joke
+i: With a hug
+q3: Why is the man on stage smiling?
+a: The feedback from the judges
+i: The feedback from the audience
+q4: Why does the judge in black say people always look at him when country singers audition?
+a: Because he sings country music
+i: Because he hates country music
+q5: How does Blake react to Adam interrupting and undermining his critique?
+a: With kindness
+i: With embarassment
+q6: Why does the judge in black and white stripes stand with his arms open?
+a: To mimick a hug
+i: To mimick a bird

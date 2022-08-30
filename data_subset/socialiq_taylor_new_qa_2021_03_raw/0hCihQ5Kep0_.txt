@@ -1,0 +1,18 @@
+q1: Why does the woman prefer the center shown in the video?
+a: The ameneties
+i: The location
+q2: How does the woman release the object she's holding at 0:14?
+a: To reward the boy
+i: To appease the boy
+q3: What does the girl's behavior while sitting on the woman's lap indicate?
+a: Their comfort
+i: Their awkwardness
+q4: What is the mood of the classroom at 0:37?
+a: Lighthearted
+i: Intense
+q5: Why is the teacher spinning and clapping at 0:37?
+a: She's leading a dance
+i: She's leading a prayer
+q6: How does the woman portray herself in her career at 0:20?
+a: As passionate
+i: As exhausted

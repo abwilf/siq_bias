@@ -1,0 +1,18 @@
+q1: Why do the men find these jokes particularly funny? 
+a: The jokes are trivial and their badness makes them more funny
+i: The jokes are complex and their goodness makes them more funny
+q2: What is the objective of the men in their conversation?
+a: To tell jokes that make the other man laugh, while refraining from laughing themselves
+i: To teach one another how to improve their joke-telling abilities
+q3: Why does the man in the blue sweater react the way he does after telling his joke about toast?
+a: The man in the grey sweater doesn't laugh, so he is surprised
+i: The man in the grey sweater was insulted by the joke, so he is regretful
+q4: Why was the man in the blue sweater insulted by the man in the grey sweater?
+a: He was told in a joking manner that he was fired from his job
+i: He was offended by what was written on his paper
+q5: What is the attitude of the two men in the conversation?
+a: Humorous and competitive
+i: Somber and relaxed
+q6: Why does the audience react the way they do?
+a: The audience finds humor in the jokes and the mens' reactions to them
+i: The audience finds the conversation to be boring

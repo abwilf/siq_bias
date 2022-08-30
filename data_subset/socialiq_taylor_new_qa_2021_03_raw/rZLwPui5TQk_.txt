@@ -1,0 +1,18 @@
+q1: What does the man think about Trump's supporters?
+a: They blindly follow him
+i: They doubtfully follow him
+q2: 
+a:
+i:
+q3:
+a:
+i:
+q4:
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

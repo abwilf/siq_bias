@@ -1,0 +1,18 @@
+q1: What is unusual about the boy having his business?
+a: His age
+i: His gender
+q2: What can be inferred about the boy?
+a: He is ambitious
+i: He is ambivalent
+q3: Is the boy sure about his path in life?
+a: Yes, he has a plan for his future education
+i: Yes, he has a plan for his future family
+q4: Why did the boy give his employee a pay raise?
+a: Out of generosity
+i: Out of guilt
+q5: What led the boy to start a business?
+a: His frusturation
+i: His greed
+q6: Why did the boy lie about his age?
+a: To get information
+i: To get alcohol 

@@ -1,0 +1,18 @@
+q1: Why do the women point forward at 0:32?
+a: They wish to bring notice to something they are talking about.
+i: They are trying to misdirect the audience to trick them.
+q2: Why does the audience laugh?
+a: They are amused by what the woman on the left said and find it funny.
+i: They are amused by a mistake the woman on the left made and are laughing at her for it.
+q3: Why does the woman seem confused at times?
+a: She is recounting a time that was confusing for her, and is vividly telling the story.
+i: She does not know what she is supposed to say or do.
+q4: Which woman is the host and interviewer?
+a: The woman on the right because she is asking the questions.
+i: The woman on the left because she is answering the questions.
+q5: Why does the woman talking furrow her eyebrows at 00:58?
+a: She is recalling a moment in which she was confused and is showing this with her facial expressions.
+i: She is annoyed by the audience.
+q6: How do the women act toward each other?
+a: They act polite and relaxed.
+i: They act awkward and unsure.

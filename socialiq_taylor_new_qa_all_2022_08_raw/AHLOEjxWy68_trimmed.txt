@@ -1,0 +1,18 @@
+q1: Why does the man in plaid tilt his head to the side at 00:15?
+a: He is surprised and irritated at what the other man is saying, and is thinking about what is being said.
+i: He is simply trying to stretch his neck muscles to be more comfortable.
+q2: Why does the man in plaid stand up and walk away?
+a: He is upset by the questions the man with glasses is asking him and is leaving because of it.
+i: He is about to jump up and down in excitement. 
+q3: Why does the man in glasses stutter and pause while speaking?
+a: He is asking the other man questions and is thinking of what he is going to say as he speaks.
+i: He is confused and doesn't understand what is happening, and the anxiety makes him stutter.
+q4: Why does the man in the black shirt shake his head side to side as he talks.
+a: He is not happy with the questions being asked and is showing this by shaking his head no as he speaks.
+i: He is exhibiting a nervous twitch but is not angry or upset.
+q5: Who is the most animated of the three men?
+a: The man in the black shirt because he talks the fastest and loudest, and moves the most.
+i: The man with the glasses because he sits and speaks in a slow and calculated, relaxed manner.
+q6: Why does the man in the black shirt point at himself at 00:48?
+a: He is talking about himself in the moment and emphasizing this by pointing at himself.
+i: He is trying to poke something sticking to his shirt.

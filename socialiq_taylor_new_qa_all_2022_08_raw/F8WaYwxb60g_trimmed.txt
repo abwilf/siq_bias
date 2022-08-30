@@ -1,0 +1,18 @@
+q1: How do the background actors portray reporters at press conferences?
+a: They pretend to take notes, and listen and nod after each answer is given by the man.
+i: They dance on top of the chairs and sing.
+q2: Why do some of the people with notebooks keep smiling?
+a: They are acting in a comedy skit and are trying very hard not to laugh out loud.
+i: They are nervous and are smiling to relieve their anxiety.
+q3: Why does the man in the middle front point at the blonde man after he answers?
+a: He agrees with and likes what the man said.
+i: He is specifying that he is speaking to the blonde man and not somebody else.
+q4: What is the tone of the video?
+a: It is funny as it is meant to be a comedy skit.
+i: It is serious and everybody is acting very professionally.
+q5: How does the man answer the questions?
+a: He answers them in a professional and serious manner.
+i: He answers them in a silly and relaxed manner.
+q6: Why does the man in the middle have a skeptical look on his face at 00:23?
+a: He is acting surprised by what the blonde man answered, though it is only a skit.
+i: He is irritated and angry by the woman sitting next to him.

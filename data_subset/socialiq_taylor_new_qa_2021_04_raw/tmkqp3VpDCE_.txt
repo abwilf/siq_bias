@@ -1,0 +1,18 @@
+q1: How does the woman feel after returning from Venezuela?
+i: She feels grateful
+i: She feels superior
+q2: How did the woman feel before visiting Venezuela?
+a: Unaware
+i: Prepared
+q3: How does the woman on the right react toward the woman's description of visit?
+a: She is fascinated
+i: She is offended
+q4: What was the woman who visited Venezuela surprised by?
+a: Its similarity to America
+i: Its similarity to Spain
+q5: What did the woman expect of Venezuela before visiting?
+a: That it would be a poor country
+i: That it would be a whimsical country
+q6: Did the woman have high expectations of visiting Venezuela?
+a: No
+i: Yes

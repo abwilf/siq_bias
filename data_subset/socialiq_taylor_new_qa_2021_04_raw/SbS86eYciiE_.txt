@@ -1,0 +1,18 @@
+q1: Why does the man look around the group while talking?
+a: To be inclusive
+i: To make comparisons
+q2: Why is the woman on the left nodding in the beginning of the video?
+a: She wants to convey her understanding
+i: She wants to convey her happiness
+q3: Who demonstrates rude behavior?
+a: The woman 
+i: The man
+q4: Why does the woman interrupt?
+a: To supplement the man's point
+i: To disagree with the man's point
+q5: What is the nature of the discussion?
+a: Academic
+i: Religious
+q6: Do all members of the group seem equally interested?
+a: No, four members do not engage
+i: No, two members do not engage 

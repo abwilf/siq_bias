@@ -1,0 +1,18 @@
+q1: Why is the man given a gift?
+a: Jokingly
+i: Rudely
+q2: How does the girl appear while waiting for the man to unwrap the gift? 
+a: Anxious
+i: Calm
+q3: Why does the man cry while looking at the gift?
+a: He is touched
+i: He is disappointed
+q4: How does the man feel when receiving his gift?
+a: Loved
+i: Amused
+q5: How can the girl's anxiousness be identified?
+a: By her knocking her fists together
+i: By her chewing her lips
+q6: What is the girl anxious about?
+a: Seeing the man's reaction
+i: Seeing the man's gift for her

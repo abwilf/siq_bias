@@ -1,0 +1,19 @@
+
+q1: What is the atmosphere between the two women?
+a: It is heavy and filled with sorrow. 
+i: It is happy and filled with love.
+q2: What is the tone of the woman in red?
+a: She is sensitive and compassionate.
+i: She is analytical and explanatory 
+q3: How does the woman in red react to the blonde woman crying?
+a: She reacts with patience and understanding as she consoles the blonde woman.
+i: She is frustred with the woman but consoles her anyway so she will stop crying.
+q4: Who is the more emotionally stable individual in this scenario?
+a: The woman in red because she is able to maintain composure during the interaction.
+i: The blonde woman is more emotionally stable in the scenario because the lady in red hos no emotions at all. 
+q5: Does the woman in red believe what she is saying?
+a: Yes, she whole heartedly believe in what she is saying. 
+i: No, she is only saying it to make the blonde lady feel better.
+q6: 
+a: 
+i: 

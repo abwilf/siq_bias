@@ -1,0 +1,18 @@
+q1: Why does the man in grey move quickly toward his coworker?
+a: He is displeased to hear the news he announced
+i: He is thrilled to hear the news he announced
+q2: Why is the woman cowering near the coats?
+a: She is afraid
+i: She is hiding
+q3: What does the man in grey believe the man in white needs to work on?
+a: His leadership skills
+i: His customer service skills
+q4: Why is the woman at her desk confused?
+a: The man is making strange claims
+i: The man is making strange sounds
+q5: Why does the man leave with a coat on his head? 
+a: He is avoiding the bat
+i: He is avoiding the rain
+q6: What does the man's comment at the end of the video indicate?
+a: He is overwhelmed
+i: He is confident

@@ -1,0 +1,18 @@
+q1: Why do the pair withold their spiritual and religious beliefs?
+a: They feel their beliefs are personal
+i: They feel their beliefs are taboo
+q2: Why do the pair not mention some aspects?
+a: To maintain their private lives
+i: To maintain their dignity
+q3: What is the relationship between the pair?
+a: Brother and sister
+i: Doctor and patient
+q4: Why do the pair not want to name the cult?
+a: To avoid backlash
+i: To avoid judgement
+q5: How do the pair behave toward people with differing beliefs?
+a: They respect them
+i: They reject them
+q6: What is the nature of the pair's discussion?
+a: Religious
+i: Political

@@ -1,0 +1,18 @@
+q1: Why does the man in grey move quickly toward his coworker?
+a: He is displeased to hear the news he announced
+i: He is thrilled to hear the news he announced
+q2: What is the concern of the woman at the beginning of the video?
+a: A flying bat
+i: A flying wasp
+q3: What does the man in grey believe the man in white needs to work on?
+a: His leadership skills
+i: His customer service skills
+q4: Why is the woman at her desk confused?
+a: The man is making false claims
+i: The man is making 
+q5: What does the man leaving with a coat on his head imply? 
+a: He is scared of the bat
+i: He is 
+q6: What does the man feel for his coworker at 0:33?
+a: Concern
+i: 

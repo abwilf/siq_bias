@@ -1,0 +1,18 @@
+q1: What is the man asking questions interested in?
+a: The presidential election
+i: The municipal election
+q2: Why does the man want to the know the other's opinions on the candidates?
+a: Because of his expertise
+i: Because of his camaraderie
+q3: Why is the foreign man interested in America's politics?
+a: Because of its affect
+i: Because of its intrigue
+q4: Why can the man asking questions not vote?
+a: He is foreign
+i: He is a felon
+q5:
+a: 
+i:  
+q6: 
+a:
+i:

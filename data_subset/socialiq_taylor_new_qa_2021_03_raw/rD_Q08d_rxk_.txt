@@ -1,0 +1,18 @@
+q1: How does the man feel about his own insults?
+a: They are justified
+i: They are cruel
+q2: What can be inferred about the way the blonde man views himself?
+a: He sees himself as a victim
+i: He sees himself as a perpetrator
+q3: What industry does the woman work in?
+a: Media
+i: Culinary
+q4: Why does the woman feel the media needs to ask tough questions?
+a: They're the only ones who can
+i: They're the only ones who care
+q5: Who has offended the woman?
+a: The blonde man
+i: The brunette man
+q6: What did the man's insults to the woman spur?
+a: His supporters to hate her
+i: His supporters to pity her
