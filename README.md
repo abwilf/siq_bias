@@ -1,10 +1,6 @@
 Biase detection:
 Looking at the *highest* validation score, the goal is that it's 50%, meaning that there is no bias. However, normally the validation score is at 70-80% for the original Social-IQ, and 60% after Taylor's reannotation.
 
-Data:
-socialiq_taylor_new_qa_all_2022_08_processed
-
-
 Data processing:
 Data already processed. Data processing scripts in *processed folders
 
