@@ -1,0 +1,18 @@
+q1:What is the demeanor of the man in the black jacket?
+a:The man in the black jacket is serious and annoyed at the other man.
+i:The man in the black jacket is happy and jovial at the other man.
+q2:Why does the man in the black jacket stare at the long haired man at 0:21?
+a:He hates what the man is asking him to do.
+i:He didn't understand the mans request.
+q3:What does the body language of the long haired man indicate?
+a:He feels superior to the man in the black jacket, and wants to show he is powerful.
+i:He feels inferior to the man in the black jacket, and wants the other man to help him.
+q4:Why does the man in the tan shirt smile when the man in the black jacket reaches into his jacket?
+a:He smiles because he is about to get what he asked for from him.
+i:He smiles because he knows the man in the black jacket has fallen into his trap.
+q5:What is the relationship between the two men?
+a:The men work together, because they discuss money and jobs.
+i:The men are friends, because they discuss what they will purchase next.
+q6:Why doesn't the man with long hair look happy when he gets the money?
+a:He didn't think the man with the black jacket actually had the money.
+i:He thought the man in the black jacket was going to give him a handshake.

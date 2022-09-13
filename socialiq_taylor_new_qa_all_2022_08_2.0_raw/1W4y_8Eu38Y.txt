@@ -1,0 +1,20 @@
+
+
+q1: What is the tone of the man in the grey?
+a: He is angry and accusatory.
+i: He is excited and thrilled.
+q2: Do the man and the woman agree?
+a: No, they do not agree at all.
+i: Yes, they totally agree with one another.
+q3: How does the man show that he is frustrated?
+a: He raises his voice and uses his hands to enphasize his frustration.
+i: He closes his eyes and rubs his head.
+q4: How does the woman initially react to the man's questioning?
+a: She is indifferent to his questioning.
+i: She is shocked that he is questioning her
+q5: Does the situation escatalate between the 2?
+a: Yes, the woman gets angry along with the man.
+i: No, the woman is able to calm the man down.
+q6: Does the man trust the woman?
+a: No, he obviously does not trust the woman since he questions her.
+i: Yes, he trusts her wholeheartedly.

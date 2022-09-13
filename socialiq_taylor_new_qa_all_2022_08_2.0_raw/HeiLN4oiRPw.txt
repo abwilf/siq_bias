@@ -1,0 +1,20 @@
+
+
+q1:What is the relationship between the man and the woman?
+a: The man and the woman have a friendly relationship with one another.
+i: The man and the woman do not know each other very well.
+q2: Why does the woman push the man?
+a: She pushes him playfully because he scared her.
+i:She pushes him because she is angry with him. 
+q3: Is the man insulted when the woman mentions his forehead?
+a: No, he is curious but not insulted.
+i: Yes, he is insulted and his feelings were hurt.
+q4: Why does the woman scream?
+a: The woman screams because the man frightened her.
+i:The woman screams because she is irritated with the man.
+q5: What is the atmosphere between the man and woman.
+a: There is a playful atmosphere between the two.
+i: There is anger and frustration between the two.
+q6: Does the woman believe the man when he first tells her about his head?
+a: No, she doesn't believe him.
+i: Yes, she definitely believes the man.

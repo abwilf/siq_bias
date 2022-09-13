@@ -1,0 +1,18 @@
+q1:Why does the man look at his hands when the conversation with the woman begins?
+a:He is anxious about how the conversation will go.
+i:He is mad at her and doesn't know how to display his emotions.
+q2:How does the man know that the woman is open to hearing what he has to say?
+a:She looks at him and smiles as he is talking.
+i:She doesn't make eye contact and remains stoic while he talks.
+q3:Why does the woman raise her eyebrows when asking about version 3?
+a:The man hesitated before he told her about version 3, and she is nervous to know what he will say about it.
+i:The man skipped over version 3 because he did not want to explain it to her again.
+q4:Why does the man grab the pole of the swing before answering her?
+a:He is nervous, and he is trying to ground himself before answering.
+i:He noticed the swing was coming off the hinges, and didn't want them to fall.
+q5:Why does the womans smile turn to a frown at 0:54?
+a:He gave her an answer she did not like or want to hear.
+i:He gave her the exact answer she was hoping for and she is overwhelmed.
+q6:How does the mans tone change during the conversation?
+a:His tone at the beginning was anxious and soft, by the end he was confident and serious.
+i:His tone was abrasive and cruel in the beginning, by the end he was flirtatious and lighthearted.

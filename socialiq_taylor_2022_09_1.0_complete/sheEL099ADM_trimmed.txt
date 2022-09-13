@@ -1,0 +1,18 @@
+q1: What is the tone of the speech?
+a: The man is joking about serious matters
+i: The man is serious about serious matters
+q2: What strategy does the man use to empasize his point?
+a: He uses sarcasm
+i: He uses exaggerated hand gestures
+q3: How does the audience feel about the speech?
+a: They feel the speech is funny
+i: They feel the speech is serious
+q4: What does the audience think about the speech?
+a: They agree with the man's points
+i: They disagree with the man's points
+q5: What is the purpose of the man's speech?
+a: To make light of a serious topic for entertainment
+i: To inform the public about new policy
+q6: Why did the audience feel the way they did about the picture displayed at 0:47?
+a: They recognized that the picture was used for comedic effect
+i: They recognized that the picture contradicted the man's points

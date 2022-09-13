@@ -1,0 +1,18 @@
+q1:Why is the man looking at each person in the room after he asks where David is?
+a: The people in the room aren't answering him right away.
+i: The people in the room left while he was asking the question.
+q2:How was the dark haired woman's tone when she told the man that David was dead?
+a:Her tone was sad and sympathetic, because she felt bad telling him.
+i:Her tone was awkward and embarrassed, because she didn't feel bad.
+q3:How did the man lying in the bed react when he found out David was dead?
+a:He was in denial about the death and didn't believe it.
+i:He was angry about the death and swore revenge.
+q4: Why does the man in the green shirt put his hand on his forehead?
+a:He is anxious and sad about the news that is about to be given to the man in the bed.
+i:He is relieved and happy that the man in the bed knows about David.
+q5:Why is the woman with the orange hair crying?
+a:She knows that they are about to break very sad news to the man.
+i:She is upset because she kept a secret from the man and it's coming to light.
+q6:Why does the woman start telling a story about David travelling?
+a:She is starting to explain what happened to him when he died.
+i:She is jealous that David got to travel and she didn't.

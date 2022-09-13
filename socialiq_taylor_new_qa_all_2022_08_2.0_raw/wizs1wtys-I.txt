@@ -1,0 +1,18 @@
+q1:How does the woman react when she is told she cannot access her car?
+a:She becomes angry at the clerk and yells at her.
+i:She becomes flirty with the clerk to try and convince her.
+q2:Do the two people seem like they know each other well?
+a:No, it is a customer service interaction.
+i:Yes, because they are speaking like old friends.
+q3:What does the woman with black hair feel about the woman with blonde hair?
+a:She thinks the blonde woman is being very uncooperative and crazy.
+i:She sympathizes with the blonde woman, so she does whatever the blonde woman says.
+q4:Why does the blonde woman start raising her voice and waving her hands around at 0:21?
+a:She is shocked by what the black haired woman is accusing her of.
+i:She is trying to cause a scene to get another employee in there.
+q5:Why does the woman with black hair use air quotations with her fingers?
+a:She doesn't believe the blonde woman, and is using the quotations sarcastically.
+i:She doesn't understand what a word means, so she is putting it in quotes to figure it out.
+q6:Why does the blonde woman have a hard time explaining the address where the car was towed from?
+a:She is embarrassed to explain why she was at that address in the first place.
+i:She is scared that the black haired woman will call the cops to the address.

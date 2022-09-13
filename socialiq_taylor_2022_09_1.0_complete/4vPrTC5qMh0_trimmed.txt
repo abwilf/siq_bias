@@ -1,0 +1,19 @@
+q1: Why does the man on the sidelines shake his head?
+a: He is upset with the younger players' performance.
+i: He is upset with the younger players' attitudes.
+q2: How does the crowd express their interest in the game?
+a: Through their cheers
+i: Through their concentration
+q3: Why does a crowd member touch hands with the man with white hair?
+a: They are showing him support
+i: They are passing him something
+q4: When do people get surprised?
+a: When the old man consistently makes baskets.
+i: When the old man starts screaming at everyone.
+q5: What influences the players' first thoughts on the man in grey?
+a: His age.
+i: His generosity.
+q6: How does the old man's performance make the younger players feel?
+a: Inferior.
+i: Confident.
+

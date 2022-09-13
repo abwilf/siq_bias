@@ -1,0 +1,18 @@
+q1: How does the man in the white shirt feel?
+a: The man in the white shirt feels singled out
+i: The man in the white shirt feels happy
+q2: What is the tone of the man in the white shirt?
+a: His tone is confident and argumentative
+i: His tone is unsure and agreeable
+q3: What is the tone of the man in the blue shirt?
+a: He is inquisitive and serious
+i: He is excited and grateful
+q4: How does the man in the white shirt respond to the man in the blue shirt's questions?
+a: He responds condescendingly and aggresively
+i: He responds with compassion and poise
+q5: What is the tone of the conversation?
+a: The tone of the conversation is agrumentative and conflicting
+i: The tone of the conversation is friendly and understanding
+q6: What does the man in the white feel about being singled out?
+a: He is confused as to why he is being singled out
+i: He is asured as to why he is being singled out

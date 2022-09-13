@@ -1,0 +1,18 @@
+q1:How does the little boy feel about the pizza?
+a: He is interested in and enjoying the pizza.
+i:He is upset and does not want to eat the pizza.
+q2:How does the little girl feel about the day?
+a:She is happy because she earned pizza.
+i:She is sad because she scored low on an exam.
+q3:What is the overall mood of the video?
+a:The mood is upbeat and celebratory.
+i:The mood is dark and somewhat unnerving.
+q4:Why does the father ask the baby in the purple shirt if she is nervous?
+a:She is not smiling and is holding her hands to her ears in an anxious manner.
+i:She is bouncing in her seat in a jittery manner
+q5:How does the little girl express her joy?
+a:She expresses her feelings out loud
+i:She expresses her feelings through drawing
+q6:Why did the father get pizza for his family?
+a:He is proud of them and rewarding them for a job well done.
+i:He wanted them to have a relaxing and easy dinner.

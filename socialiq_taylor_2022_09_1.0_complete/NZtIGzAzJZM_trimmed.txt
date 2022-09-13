@@ -1,0 +1,23 @@
+q1: Is the speaker trying to argue a point?
+a: No, he is attempting to educate his listeners.
+i: Yes, he is trying to prove he is correct. 
+
+q2: What is the purpose of the man's video?
+a: He's trying to show how you can persuade people. 
+i: He's reviewing the Ghostbusters trailer.
+
+q3: Was the man engaging?
+a: No, his voice was rather monotonous and he did not use any hand gestures.
+i: Yes, he was a compelling and animated speaker.
+
+q4: Does the man seem confident about his information?
+a: Yes, because he uses concrete examples to back it up. 
+i: Yes, because he knows a lot about Ghostbusters. 
+
+q5: Does the speaker seem passionate about what he is talking about?
+a: No, his voice is relatively flat and he isn't animated.
+i: Yes, his tone of voice is excited and he is very animated.
+
+q6: Does the man value credibility?
+a: Yes, his entire video is about credibility. 
+i: No, he is showing how to fake credibility. 

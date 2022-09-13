@@ -1,0 +1,18 @@
+q1: What type of dreams does the woman describe having?
+a: Embarrassing ones
+i: Vivid ones
+q2: How does the woman react to her own embarrassing moments?
+a: She openly shares them
+i: She is too embarrassed to share them
+q3: How does the man on the left react to the woman falling during a play?
+a: He is amused
+i: He is concerned
+q4: Why is the woman having these dreams?
+a: She is fearful
+i: She is ambitious
+q5:
+a:
+i:
+q6:
+a:
+i:

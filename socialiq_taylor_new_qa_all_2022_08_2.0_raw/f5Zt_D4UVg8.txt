@@ -1,0 +1,19 @@
+
+q1: How does the dark haired woman feel about social media?
+a: She finds it intriguing and wants to participate.
+i:She does not like social media and thinks it's a big hassle.
+q2:What does the blonde woman laugh?
+a: She is amused by the dark haired woman
+i: She dark haired woman said something that she couldn't believe.
+q3: Is the dark haired woman computer iliterate?
+a: Yes, She doesn't know how to work a computer.
+i:No, she is perfectly capable of working a computer on her own.
+q4: Does the blonde woman want to help the dark haired lady?
+a: Yes, she willingly helps the dark haired lady and is patient with her.
+i: No, she thinks the dark haired lady should know how to use a computer without help.
+q5:How does the woman with the blonde hair feel at 0:37?
+a: The woman with the blonde hair is confused by the question the woman with the dark hair asked.
+i:i: The woman with blonde hair feels nervous, which she shows by stuttering after the woman with dark hair asks her a question.
+q6:Who is the most dominate person when the 2 women are looking at the computer?
+a:The lady with the blonde hair is the most dominate because she is telling the other woman how to work the computer.
+i: The woman with the dark hair is the most dominate because she is making the woman with blonde hair teach her about the computer.

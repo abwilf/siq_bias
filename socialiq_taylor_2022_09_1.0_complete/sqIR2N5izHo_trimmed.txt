@@ -1,0 +1,18 @@
+q1: How did the woman feel about receiving a shoutout?
+a: The woman was very flattered
+i: The woman was very unmoved
+q2: What is the relationship between the man and the woman?
+a: The man is interviewing the woman
+i: The man is the woman's boss
+q3: What is the man's motive in the conversation?
+a: The man's motive is to learn about the woman's feelings and experiences
+i: The man's motive is to teach the woman about his feelings and experiences
+q4: How does the man feel about the shoutout the woman recieved?
+a: The man feels the shoutout was very nice
+i: The man feels the shoutout was unwarranted
+q5: How does the audience react to the interview?
+a: The audience reacts with laughter and approval
+i: The audience reacts with silence and disapproval
+q6: How does the man feel about the idea that the woman in question is not overrated at all?
+a: He is sarcastic when he says that the woman in question is not overrated at all
+i: He is genuine when he says that the woman in question is not overrated at all

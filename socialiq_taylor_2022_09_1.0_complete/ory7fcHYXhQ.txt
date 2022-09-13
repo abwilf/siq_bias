@@ -1,0 +1,18 @@
+q1:Why does the man in the polo shirt speak so slowly?
+a:He wants to make sure he is understood, so he is choosing his words carefully.
+i:He did not understand the question, so he is pausing in confusion.
+q2:Why is the man wearing a suit?
+a:He wants to appear professional.
+i:He is about to attend the other man's wedding.
+q3:How does the man in the white shirt show that he is listening to the other man?
+a:He nods his head to show he understands what he is saying
+i:He shakes his head to show he disagrees with what he is saying
+q4:How does the interviewer act toward the man in the white shirt?
+a:He acts interested in what the man has to say
+i:He acts rushed as if the man needs to speak faster
+q5:How does the man in the white shirt feel about being interviewed.
+a:He is nervous and carefully considers his answers
+i:He moves around a lot with excited energy
+q6:Why is the man in the suit more relaxed than the man in white
+a: He is in control of the conversation
+i: He is not the one being accused

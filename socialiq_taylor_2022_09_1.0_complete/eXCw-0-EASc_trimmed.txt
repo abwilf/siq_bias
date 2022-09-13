@@ -1,0 +1,18 @@
+q1: What is the ambience of the setting?
+a: The ambience is serious and respectful. 
+i: The ambience is cold and distant. 
+q2: Why does the man squint his eyes while he talks?
+a: He is showing his disapproval for the situation he is describing, using facial gestures as emphasis.
+i: The light is too bright for him and he is easing the brightness.
+q3: What significance does the man's constant shift in gaze have?
+a: The man is constantly looking to the right and left in order to get his point across to the two men listening to him.
+i: The man is looking around because he is nervous and is unsure of where to focus his gaze at.
+q4: How do the two other men feel about what the man with the blonde hair is saying?
+a: They respect what the man with the blonde hair believes and show they understand what he is saying.
+i: They feel critical and judgmental towards what the blonde-haired man is saying.
+q5: Why does the man with blonde hair scrunch his forehead?
+a: He is trying to explain his perspective on a sensitive topic. 
+i: He is upset and arguing with the two other men. 
+q6: Are the men getting along?
+a: Yes, they are not arguing and are being respecftul, listening thoughtfully and attentatively.
+i: No, they are arguing and yelling at each other.

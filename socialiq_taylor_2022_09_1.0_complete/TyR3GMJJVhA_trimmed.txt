@@ -1,0 +1,20 @@
+
+
+q1: Are the men respectful of each other?
+a: Yes, they respect one another's opinions.
+i: No, they are heated and treat each other with disrespect.
+q2:Does the man in blue striped tie seem eager to answer the man with the blue checkered tie's question? 
+a: Yes, he begins to answer before the  man even finishes his question.
+i: No, the man in the blue striped tie seems very reluctant to answer
+q3: What is the role of the man without the glasses?
+a: He is there to host the discussion with the other men.
+i: He is there as a guest to answer questions.
+q4: Does the man in the red striped tie seem agitated?
+a: No, he seems relaxed.
+i:  Yes, his hand movements give the indication that he is agitated. 
+q5: What is the tone of the conversation?
+a: It is serious and political.
+i: It is lighthearted and fun.
+q6:
+a:
+i:

@@ -1,0 +1,18 @@
+q1:Is the man in the glasses expecting the other man and his son?
+a:No, the man in the glasses does not seem to recognize them at first and does not look to be in a good mood.
+i:Yes, he is pleasantly surprised that they arrived to the restaurant on time.
+q2:What is the tone of the man with the glasses when he invites them to sit down?
+a:His tone is annoyed, like he doesn't really want them to join him but he wants to be polite.
+i:His tone is furious, because they didn't bring what he asked.
+q3:How does the boy with the headband act when he sits down at the table?
+a:He acts embarrassed because they are interrupting the man with the glasses.
+i:He acts overjoyed because the meeting is about to take place.
+q4:Why does the man in the glasses ask the man in blue to get him a drink?
+a:He wants to have a moment alone with the boy to ask him some questions.
+i:He is thirsty and doesn't want to wait any longer for a drink.
+q5:Does the boy in the headband really want to be there?
+a:No, he is embarrassed that his dad took him there and wants to leave.
+i:Yes, he is excited to talk to the man in glasses about college opportunities.
+q6:How do the boy and the man in the blue shirt treat the man in the glasses differently?
+a:The man in the blue shirt seems to worship the man in the glasses while the boy is unimpressed.
+i:The man in the blue shirt is disgusted by the man in the glasses and the boy is impressed.

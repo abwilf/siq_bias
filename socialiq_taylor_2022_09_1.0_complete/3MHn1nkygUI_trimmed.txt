@@ -1,0 +1,18 @@
+q1: Why does the man in the black tie drum his hands against his legs?
+a: He is discussing drumming and mimicking doing so while talking about it.
+i: He is tapping out a beat so that he can start singing.
+q2: Why does the man in the red tie on the left stutter when he proposes that the man wearing plaid play the drums with the band on stage?
+a: He is excited and anthusiastic about having the man in the black tie play drums with the band.
+i: He doesn't like talking and it is making him anxious, causing him to stutter.
+q3: Who is the host of the show?
+a: The man in the red tie on the left, because he is asking the questions, coordinating the other people, and holding a cue card in his hand.
+i: The man with the black hair, because he is sitting quietly behind a microphone.
+q4: How do the men act with each other?
+a: They get along with varying levels of enthusiasm, but they are all enjoying each other's company.
+i: They are not getting along and beginning to get angry with each other.
+q5: Why does the man in the red tie on the right stay quiet through most of the video?
+a: The man in the red tie on the right is mainly focusing on talking to the man in the black tie.
+i: He feels he has been insulted and does not want to talk anymore.
+q6: Why does the man in the red tie on the right lean forward in his chair?
+a: He is trying to better hear and engage with the man in the black tie.
+i: His back hurts and he does not want to sit in a different position for too long.

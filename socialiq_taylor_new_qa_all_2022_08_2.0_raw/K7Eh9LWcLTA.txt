@@ -1,0 +1,20 @@
+
+
+q1: Has it been a long time since the women have last spoken?
+a: Yes, given their discussion it has been a while since the two women have seen one another.
+i: No, they are great friends and see each other often.
+q2: How do the two women get along?
+a:  The two women don't get along well and actually dislike one another.
+i: The two women get along great and respect one another.
+q3: Who is the more dominant person in the interaction?
+a: The woman in the black is more dominant.
+i: The woman in the purple is more dominant.
+q4: How does the woman in purple react to what the woman in blakc says?
+a: She feels shame and disappointment in herself.
+i: She is angry that the woman in black spoke to her in a disrespectful manner.
+q5: What is the tone of the woman in the black?
+a: She is condescending and her friendly tone is inauthentic.
+i: She is friendly and cordial to the woman in the purple.
+q6: Why does the woman in black stare at the woman in the purple at the beginning of the video?
+a: Because she is surprised to see the woman in purple.
+i: Because she is trying to recall how she knows the woman in purple.

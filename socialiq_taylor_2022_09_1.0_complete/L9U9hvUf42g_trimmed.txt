@@ -1,0 +1,18 @@
+q1: What caused the man to fly to Slovenia?
+a: His dedication to his friendship
+i: His dedication to his hobby 
+q2: Why is the man on the right surprised that the other man flew to Slovenia for a wedding?
+a: It is a long trip
+i: He had a rocky past with the groom
+q3: How did the man on the left feel to hold the Stanley Cup?
+a: Thrilled
+i: Unimpressed
+q4: What type of friend is the man on the left?
+a: A loyal one
+i: A fickle one
+q5: How does the man on the left feel about his friendship with the man he is referring to?
+a: He is very passionate about it
+i: He feels it is becoming toxic
+q6:
+a:
+i:

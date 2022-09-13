@@ -1,0 +1,18 @@
+q1:What does the man in blue do when he recognizes the man in red?
+a: He walks over to him and starts trying to jog his memory.
+i: He walks over and yells at him for not remembering him right away.
+q2:How does the man in red react when he remembers the man in blue?
+a:He rolls his eyes and looks annoyed at the man.
+i:He can't believe it's him and is excited.
+q3:Why does the man in blue fiddle with the hangers on the rack while talking?
+a:He is reminiscing on something that happened a long time ago.
+i:He is frustrated that the rack was set up wrong and he is fixing it.
+q4:How does the man in the blue keep the man in red from ending the conversation?
+a:He keeps talking to him so it would be rude to leave the conversation.
+i:He tells him a secret to keep him intrigued and stay.
+q5:How does the man in red express disinterest in talking with the man in blue?
+a:He tries to walk away, he fake laughs, and looks annoyed.
+i:He tells the man to stop talking to him and fakes a headache.
+q6:What is the tone of the conversation between the two men?
+a:The tone is very awkward because one person wants to be there and the other doesn't.
+i:The tone is friendly because it's two peers catching up after a long time.

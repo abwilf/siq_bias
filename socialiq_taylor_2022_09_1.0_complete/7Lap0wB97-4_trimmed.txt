@@ -1,0 +1,18 @@
+q1: How does the woman feel about what she is talking about?
+a: She feels strongly about what she is saying.
+i: She doesn't think the topic is very important.
+q2: How do the two people act toward each other?
+a: They act very professional and polite.
+i: They act annoyed and short with each other.
+q3: Why is the man asking the woman a question?
+a: He wants to know her opinion.
+i: He wants to confirm his understanding.
+q4: Why does the woman moving her hands while she speaks?
+a: She is gesturing to add emphasis to what she is saying.
+i: She is trying to get her neighbor's attention.
+q5: Why does the woman slightly stutter while she speaks?
+a: It is part of her thought process while she figures out what to say next.
+i: She is stuttering out of nervousness as she hopes the man will leave soon.
+q6: Why doesn't the man ever smile?
+a: He is asking serious questions and the situation is not comedic or light-hearted.
+i: He is very upset and depressed, too unhappy to smile.

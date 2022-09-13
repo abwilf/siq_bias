@@ -1,0 +1,18 @@
+q1: What is notable about the man in grey in the video?
+a: He is willing to help fellow gym members
+i: He is harsh toward fellow gym members
+q2: Why does the man shift his eyes at 0:38?
+a: He found the woman's comment surprising
+I: He found the woman's comment unpleasant
+q3: How does the woman walk through the gym?
+a: Leisurely
+i: Awkwardly
+q4: Why does the man laugh while the woman is lifting?
+a: He is impressed by her strength
+i: He is judging her strength
+q5: Why does the woman draw attention in the gym?
+a: She doesn't fit the typical demographic of attendees
+i: She is in a men's only gym
+q6: Why does the man station himself behind the woman?
+a: For her safety
+i: He is stalking her

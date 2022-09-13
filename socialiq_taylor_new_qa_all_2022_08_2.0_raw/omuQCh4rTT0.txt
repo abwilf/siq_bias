@@ -1,0 +1,20 @@
+
+
+q1: What is the dynamic between the man and the woman?
+a: The man and the woman are romantically linked.
+i: The man and the woman are siblings.
+q2: Is the woman upset with the man?
+a: Yes, she is upset with the man.
+i: No, she is indifferent towards the man.
+q3: Does the man understand the woman's feelings?
+a: No, he is thoroughly confused by how the woman feels.
+i: Yes, he understands her feelings and he feels the same way.
+q4: Why does the woman pause before answering the man?
+a: She pauses because she is upset at the man and doesn't want to talk to him.
+i: She pauses because she is deciding what she should say to the man.
+q5: Did the man intentionally hurt the woman's feelings?
+a:No, he is seemingly unaware that her feelings were hurt.
+i: Yes, he wanted to get back at her so he did it on purpose.
+q6: Why does the man frown at the woman? 
+a: He frowns because he is baffled by what she is saying
+i: He frowns because he is disappointed in her actions.

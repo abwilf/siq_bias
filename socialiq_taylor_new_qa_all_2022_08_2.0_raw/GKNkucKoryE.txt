@@ -1,0 +1,19 @@
+
+q1: What is the tone of the woman in the white at the beginning of the video
+a: She is angry at the man in blue.
+i: She is thrilled to see the man in blue.
+q2: How does the man in blue show he is being defensive?
+a: The man in blue shows this by raising his voice and extending his arms out.
+i: The man in blue shows this by pointing at the woman and using an assertive tone.
+q3: Why does the woman clutch her chest?
+a: She clutches her chest because it is hurting?
+i: She clutches her chest because she is heart broken at the man in blue.
+q4: Is the man in blue concerned about the womans health issue?
+a: No, he only cares about himself in that moment.
+i: Yes, he is worried and wants to help her.
+q5: Does the man in blue seem guilty of having an affair, as the woman suggests?
+a: Yes, he sighs and lowers his gaze which indicates that he is guilty.
+i: No, he is direct and confident in his answer that he didn't have an affair.
+q6: Why does the man in the baseball cap shake his head at the man in blue?
+a: He is nonverbally telling the man in blue to not admit his guilt.
+i: He is disappointed in the man in blue for having an affair.

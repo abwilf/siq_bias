@@ -1,0 +1,20 @@
+
+
+q1:What is the tone of the video?
+a: The tone is serious
+i: The tone is lighthearted and fun
+q2: Is the woman happy? 
+a: No the woman is not happy at all.
+i: Yes, she is happy to see the man in the grey sweater.
+q3: Do the two men like one another?
+a: No, the two men do not like one another.
+i:  Yes, the two men are good friends and like one another.
+q4: Why does the boy in the grey hoodie put his arm out at :50?
+a: He does this to motion where he wants to go to talk
+i: He does this to emphasize that he is upset with the woman
+q5:How does the woman feel at the end of the video?
+a: The woman is overwhelmed at having both men there.
+i: The woman is empowered by having the man with the hood on stand up for her.
+q6: Why does the woman look behind the door?
+a: To check the room behind her to see if people are listening to her conversation 
+i: She does this because she doesnt want to talk to the man.

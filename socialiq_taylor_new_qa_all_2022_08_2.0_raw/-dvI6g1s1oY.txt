@@ -1,0 +1,18 @@
+q1:Why does the man in the white shirt have his mouth open at the beginning?
+a:He is surprised and shocked with what the other man is saying to him.
+i:He is hurt because the toothpick in his mouth cut his gums.
+q2:What is the tone of the conversation between the two men?
+a:The tone is awkward, because the men have two different opinions on the situation.
+i:The tone is serious, because one man just gave the other very bad news.
+q3:Why does the man take the toothpick out of his mouth?
+a: He is beginning to talk a lot and wants to do so freely.
+i: He is worried he is going to swallow it so he spits it out.
+q4:Why does the man in white's mood change when the other man asks him to smile?
+a:He is offended by the suggestion that he should smile over a tip.
+i:He is very happy by the large tip the customer left and is showing appreciation.
+q5:How do we know that the man in blue doesn't feel bad about making the other man upset?
+a:He makes a joke about smiling after the mans long speech.
+i:He gives the man more money as a tip to smooth it over.
+q6:Why does the man in the white shirt smile at the end?
+a:It's a sarcastic smile to please the man who he was arguing with.
+i:It's a genuine smile because the man made his day better.

@@ -1,0 +1,19 @@
+
+q1:Who is the dominate person in this situation?
+a: The man in the red tie is the dominant person in the situation.
+i: The man in the blue shirt is the dominant one in the situation.
+q2: What is the tone of the man in the blue shirt?
+a: He is flustered and uncertain.
+i: He is calm, cool and collected.
+q3: What is the atmosphere of the room?
+a: It is tense and agitated.
+i: It is sad and gloomy
+q4: Is the man in the red tie amused by the man in the blue shirt?
+a: No, he is not amused by the man but is actually is angry with him
+i: Yes, he is amused by the man and laughs at him
+q5: Why does the man in the red tie repeat himself towards the end of the video?
+a: He is shocked by the man in blue and wants to make sure the man in blue understands him
+i: He is making a joke to the man in the blue.
+q6: Why does the man in the blue shirt turn away from the men in suits?
+a: He does this because he doesn't want to listen to the men in the suits. 
+i: He does this because he is getting something from the shelf behind him.

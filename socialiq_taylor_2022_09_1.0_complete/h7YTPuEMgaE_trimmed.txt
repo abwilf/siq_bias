@@ -1,0 +1,18 @@
+q1: How does the guest portray the first man in discussion?
+a: As a scammer
+i: As honorable
+q2: Does the guest feel that the story of trading the capital is boring?
+a: No
+i: Yes
+q3: Why does the guest smile at the end of the video?
+a: At mention of his work
+i: At mention of another guest
+q4: Does the guest seem to agree with the song the other man thinks is amazing?
+a: Yes
+i: No
+q5: How does the guest feel about historical accounts?
+a: He uses them as inspiration
+i: He sees them as useless
+q6: 
+a:
+i:  

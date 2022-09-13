@@ -1,0 +1,18 @@
+q1:Why does the man nod his head at 0:07?
+a:He's happy with the woman's approval of his violent action.
+i:He agrees with what the woman wants to cook for dinner.
+q2:Why does the woman raise her voice at the man?
+a:She is annoyed that he received a lighter punishment for the same crime.
+i:She is thrilled that the man didn't have to have a longer punishment.
+q3:What makes the woman calm down and stop yelling?
+a:She realizes that the man actually got a worse sentence than she did.
+i:She realizes that the man might call the cops if she keeps yelling.
+q4:What tone does the man display after he asks if she was cheated on?
+a:He felt sympathy for her being in that situation.
+i:He felt pleased that it happened to her.
+q5:Why does the woman say that she doesn't "mind working here"?
+a:She wants to keep her job and doesn't want to be ungrateful.
+i:She wants to get fired so she can get unemployment.
+q6: Why does the woman say she was provoked twice?
+a:She was adding emphasis to make her point known.
+i:She was repeating herself because the man did not hear her.

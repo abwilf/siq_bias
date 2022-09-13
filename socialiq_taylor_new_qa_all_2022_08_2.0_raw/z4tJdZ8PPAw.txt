@@ -1,0 +1,18 @@
+q1:Why does the girl bite her lip when the boy starts talking about the party?
+a:She is nervous about what he is going to ask her next.
+i:She is annoyed that he is still talking to her.
+q2:Why does the girl roll her eyes when the boy calls his help amazing?
+a:She found the comment funny, and that he was complimenting himself.
+i:She found the comment rude, and she was grossed out by him.
+q3:How does the relationship between the two people sitting on the bleachers seem?
+a:The relationship seems friendly and slightly flirtatious.
+i:The relationship seems strained and hostile.
+q4:How does the girl lighten the mood after the boy asks her the question?
+a:She makes a joke about going to a weird party.
+i:She makes him feel guilty about not inviting her sooner.
+q5:Why does the girl keep looking at the boy?
+a:She is waiting for him to say something else, and give her more information.
+i:She is waiting for him to leave, so she can go back to class.
+q6: How does the girl indicate that she is interested in going to the party?
+a:She doesn't say no, and she keeps looking at him and smiling.
+i:She says no, but the boy keeps asking her again and again.

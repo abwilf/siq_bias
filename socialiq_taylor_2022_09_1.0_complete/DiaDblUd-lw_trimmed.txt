@@ -1,0 +1,20 @@
+q1: What does the man think of the car?
+a: He thinks it's a hazard
+i: He thinks it's a gem
+q2: Why does the man raise his hands at 0:05?
+a: He is surprised at how poorly the woman treats her car
+i: He is surprised at how poorly the woman treats her boyfriend
+q3: Is the woman worried about driving the car with its many problems?
+a: No
+i: Yes
+q4: Why does the woman start laughing?
+a: She is embarassed
+i: She is nervous
+q5: How does the woman respond to issues with her car?
+a: She ignores them
+i: She brings it for maintenance
+q6: Does the woman seem responsible?
+a: No
+i: Yes 
+
+

@@ -1,0 +1,19 @@
+
+q1: Why does the woman in red look up at :02? 
+a: She realizes she is wrong about what she just said and is trying to think of the correct answer.
+i: She is annoyed with the man and white and does want to show any attention to him.
+q2: Why does the long haired woman whisper the correct answer?
+a:She wants to let the man in white give the answer to the woman in red.
+i: She is unsure if it is the correct answer.
+q3: Why does the woman smile at :37?
+a: She smiles because she is in disbelief.
+i:She smiles because she man in the red tie said something funny.
+q4: Why does the man in the white looked confused upon entering the room?
+a: He looks confused because he thought he was entering his dressing room.
+i:He looks confused because he is unsure of what the lady in red is upset about.
+q5: What is the reaction of the lady in red when the man in the white suit enters the room?
+a:She is very shocked
+i: She is angry that the man interrupted her.
+q6:Why does the woman fall to the ground?
+a:She falls to the ground because she faints.
+i:She falls to the ground because she is being dramatic.

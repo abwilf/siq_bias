@@ -1,0 +1,18 @@
+q1:Is the man in sunglasses happy to be doing the interview?
+a:Yes, he has a pleasant demeanor and is happy to raise awareness for his cause.
+i:No, he has an annoyed demeanor and is indifferent to raise awareness for his cause.
+q2:Is the bald man a fan of the man in sunglasses?
+a:Yes, he speaks to him informally and smiles when he sees him.
+i:No, he speaks to him formally and doesn't react when he sees him.
+q3:What is the attitude of the woman towards the man wearing sunglasses?
+a:The woman acts professionally towards the man wearing sunglasses.
+i:The woman acts condescending towards the man wearing sunglasses.
+q4:Why does the man in the back raise his arms at 0:28?
+a:He is tired and expressing this by stretching his arms out.
+i:He is furious and expressing this by punching his arms out.
+q5:Why does the woman smile when she says "animal welfare"?
+a:She believes it's beneficial and is proud of the cause.
+i:She believes it's ridiculous and is laughing at the cause.
+q6:Why does the man with glasses tap his fingers on the tabletop as he speaks?
+a:It's a small display of body language to indicate he means what he says.
+i:It's a small display of body language to indicate he doesn't believe what he says.

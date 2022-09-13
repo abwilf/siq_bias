@@ -1,0 +1,18 @@
+q1: Why does the woman nod at 0:22?
+a: She is reinforcing the woman's message.
+i: She is agreeing with an audience member's critique.
+q2: Why is the audience not responding to the woman's questions?
+a: The questions are rhetorical.
+i: The questions are intrusive.
+q3: Why are the people in the audience looking at each other as the woman speaks?
+a: Her message is thought provoking.
+i: Her accent is difficult to understand.
+q4: How does the woman in the mint suit behave while delivering her speech?
+a: In a confident manner.
+i: In a hesitant manner.
+q5: What is the purpose of the woman's message?
+a: She wishes to spread her religious beliefs.
+i: She wishes to seek others' religious opinions.
+q6: Is the woman successful at delivering her message?
+a: Yes, the audience is absorbing the questions she asks.
+i: Yes, the audience is applauding her message.

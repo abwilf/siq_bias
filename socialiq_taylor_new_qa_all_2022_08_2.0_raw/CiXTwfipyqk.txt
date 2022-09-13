@@ -1,0 +1,19 @@
+
+q1: Is the man with his hair combed back intimidated by the man with the gun?
+a: No, he is not intimidated by him at all.
+i: Yes, he is intimidated and nervous by the man with the gun.
+q2: Why does the man with the hat ask for the man with his hair combed back's wallet?
+a: He wants to make sure the man is who he says he is.
+i: He is robbing the man with the slick backed hair.
+q3: Does the man with the hat trust the other man?
+a: No, he does not trust the other man
+i: Yes, he trust the other men
+q4: Is the man without the hat confident?
+a: Yes, he oozes confidence. 
+i:No, he is nervous which indicates he is not confident.
+q5:Why does the man without the hat yell out the window?
+a: He does this to prove his identity.
+i: He does this because he forgot to tell his partner something.
+q6: How does the man with the hat feel after looking out the window?
+a: The man without the hat is surprised.
+i:The man without the hat is angry.

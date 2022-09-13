@@ -1,0 +1,19 @@
+
+q1: What is the tone of the video?
+a: Very calm and soothing. 
+i: fun andupbeat
+q2: Why is the man moving his arm in circles?
+a: He is doing this to emphasize his point.
+i: He is doing this to stretch his muscles
+q3: Does the woman seem interested in what the man is saying? 
+a: Yes, she is very interested in what he is saying
+i: No, she is bored by the conversation.
+q4: Do the 2 people agree with one another?
+a: Yes, they definitely agree with one another
+i: No, they do not agree with one another.
+q5:
+a:
+i:
+q6:
+a:
+i:

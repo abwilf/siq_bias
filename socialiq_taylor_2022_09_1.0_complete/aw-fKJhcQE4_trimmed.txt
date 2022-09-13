@@ -1,0 +1,19 @@
+q3: Is the man on the left looking forward to the new season?
+a: Yes
+i: No
+q4: What can be assumed as the reason the man specifically mentions Charles?
+a: They are close friends
+i: They are rivals
+q5: Why does the man on the left pause at 0:40?
+a: He is recovering from the outburst
+i: He doesn't want to interrupt
+q6: Why does the man address Charles?
+a: To threaten him
+i: To extend an invitation
+q7: How does the man react to the other man saying he is signed up until 2030?
+a: With surprise
+i: With pride
+q8: Is the man joking about hating Charles?
+a: Yes
+i: No
+

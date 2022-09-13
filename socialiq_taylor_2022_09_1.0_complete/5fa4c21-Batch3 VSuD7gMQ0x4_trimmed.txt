@@ -1,0 +1,23 @@
+q1: Why was the man on the left looking down?
+a: The man on the left looks down because he cannot simultaneously address the audience and the man on on the right.
+i: The man on the left looks down because he is feeling intimidated.
+
+q2: Why is the man in grey smiling?
+a: He smiles because the scandal he discussed has only grown in relevance, which he didn't predict.
+i: He smiles because he gets a thrill at being at the center of silly scandals.
+
+q3: What does the man on the left's eye contact with the man on the right suggest?
+a: It suggests that he was engaged in what the man on the right had to say because he thought it would further the discussion.
+i: It suggests that he wanted to determine how angry the man on the right was so he could make another insult.
+
+q4: Why does the man in grey laugh?
+a: The man in grey laughs because the very first email proved his point about his joke.
+i: The man in grey laughs because he knew if he did, he would get to read another email.
+
+q5: How much is the audience in agreement with the two men?
+a: They appear to be fairly on board, laughing throughout the session.
+i: They appear to be very approving of them, heartily cheering throughout the session.
+
+q6: Why did the man on the left move in his chair?
+a: He moves in his chair because he wants to signal he is paying attention to the man on the right.
+i: He moves in his chair because he doesn't want to pay attention to the man on the right.

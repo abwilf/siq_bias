@@ -1,0 +1,20 @@
+
+
+q1:Why does the man shake his head at :09?
+a: He is shaking his head in a sarcastic way at the joke he just made.
+i: He is shaking his head because he doesn't believe what the blonde woman said.
+q2:Why does the woman put her hands up at :20?
+a: She is emphasizing the point that she is trying to make.
+i: She does this because she wants the man to focus on her 
+q3: What is the tone of the blonde lady?
+a: She is calm and patient. 
+i: She is irritated at the man for not taking her seriously.
+q4: How does the man show that he is listening to the woman?
+a: He maintains eye contact with her.
+i: He remains completely silent.
+q5: Does the man believe the woman?
+a: The man is skeptical of what the woman is telling him.
+i: The man completely believe what the woman is telling him.
+q6:Why does the woman look at the cat towards the end of the video.
+a: She is listening to what the cat is telling her.
+i: She thinks the cat is cute.

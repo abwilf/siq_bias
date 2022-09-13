@@ -1,0 +1,18 @@
+q1: Why does the woman look away from the man at 0:33?
+a: She is thinking about his comment
+i: Something caught her attention
+q2: Why does the man think it is good for authors to be lost?
+a: They are more intriguing
+i: They are more ambitious
+q3: Did both of the people struggle to make their first publication?
+a: Yes
+i: No
+q4: What does the man think of people who are not satisfied with their lives?
+a: They write better 
+i: They write slower
+q5: How did teaching in workshops make the man feel?
+a: Insecure
+i: Confident
+q6: How does the man speak of being lost in life?
+a: He seems to romanticize it
+i: He seems to loathe it

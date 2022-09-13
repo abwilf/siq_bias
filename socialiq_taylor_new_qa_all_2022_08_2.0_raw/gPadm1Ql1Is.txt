@@ -1,0 +1,19 @@
+
+q1: Why does the man follow the woman?
+a: He follows her because he wants to talk to her.
+i: He follows her because she is showing him the way to town.
+q2: Why is the man initially intrigued by the woman?
+a: He is intrigued because she doesn't show romantic interest in him.
+i: He is intrigued by her because he thinks she is really pretty.
+q3: Does the man seem to be someone who plans for the future?
+a: No, he does not seem to plan for the future at all.
+i: Yes, he has detailed plans for his future.
+q4: How does the woman show that she is irritated with the man?
+a: She shows that she is irritated with the man by walking away from him.
+i: She shows that she is irritated with the man by yelling at him.
+q5:Are the man and woman familiar with each other?
+a: No, they do not know one another and keep a respectful distance from each other.
+i: Yes, the man and the woman are romantically involved and know each other well. 
+q6: Why does the man stop smiling at :16?
+a: He is disappointed that his charms aren't working on the woman.
+i: He does this because the woman insulted him.

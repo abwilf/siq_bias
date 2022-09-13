@@ -1,0 +1,18 @@
+q1:Why does the taller blonde woman look surprised at 0:10?
+a:She is thrown off guard by the woman talking about magic.
+i:She is shocked by how rude the brunette woman behind the counter is being.
+q2:What is the tone of the large man who joins the conversation?
+a:His tone is annoyed, because he is tired of hearing the saleswoman sell her candles.
+i:His tone is mean, because he is angry that the customers are in his store after closing.
+q3:Why does the man raise his hands towards the women when he talks about rich people?
+a:He is implying that they are the rich people he is referring to.
+i:He is trying to intimidate them so that they leave.
+q4:What is the relationship between the brunette and the large man?
+a:Their relationship is boss and employee, because the man tells her what to do and she apologizes.
+i:Their relationship is friends, because the man lets her work however she wants.
+q5:How does the shorter blonde woman react when the taller blonde woman says what she wants?
+a:She rolls her eyes because she loves the idea she had.
+i:She rolls her eyes because her request is so ridiculous.
+q6:Why does the brunette woman lower her voice and show her teeth at the end of the video?
+a:She is excited about what the taller blonde woman wants.
+i:She is grossed out by what the woman wants and is showing disgust.

@@ -1,0 +1,18 @@
+q1:How does the woman treat the man initially?
+a:The woman treats the man initially in a professional and friendly manner.
+i:She seems distracted at first so she does not pay him much attention.
+q2: What is the man in the grey suit's demeanor as he is talking to the woman?
+a:He is has a calm and serious tone as he is speaking to her.
+i:He is brash and abrasive while speaker to her.
+q3:Why does the woman nod her head while the man is telling her what kind of money he wants?
+a:She is trying to do as he asks to avoid a shooting.
+i:He is a loyal customer asking for a withdrawl and she is agreeing.
+q4:Why does the man in grey keep smiling at the bank teller?
+a:To keep up the appearance that all is well at the counter.
+i: To intimidate the woman into giving him more money.
+q5:How does the woman show that she is afraid of the man?
+a:She is speechless after everything he says and moves very slowly because she is unsure of what he will do to her.
+i:She is angry with the man and moves quickly to try and cause a scene to alert her coworkers.
+q6:Why does the man have to tell her how to open the money drawer?
+a:She is nervous and in the moment forgets what to do.
+i:She lost the key to the drawer but the man found it.

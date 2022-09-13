@@ -1,0 +1,18 @@
+q1:Why does the woman have a sad look on her face as they pull their faces away?
+a:She is realizing he is about to tell her something terrible.
+i:She is realizing she needs to admit something she did.
+q2:Why does the man not say anything to the woman while they stare at eachother?
+a:He is stalling because he doesn't want to say what he has to say.
+i:He cannot think of what to say to the woman in the moment.
+q3:What tone does the man display towards the woman?
+a:He is apologetic to the woman for not being able to give her what she wants 
+i:He is angry at the woman for being unreasonable and not allowing him to leave peacefully
+q4:Why does the woman seem disappointed?
+a:She is disappointed that she cannot spend more time with the man 
+i:She is upset that the man does not want to bring her with him 
+q5:Why does the woman slightly smile at 0:38?
+a:She is realizing her fate and feels uncomfortable.
+i:She is realizing she has more time than the thought to escape.
+q6:Why does the man ask the woman twice if she understands what he is saying?
+a:She didn't respond and he needs to know if she understands.
+i:He doesn't think she heard him, so he repeats himself.

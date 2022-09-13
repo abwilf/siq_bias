@@ -1,0 +1,18 @@
+q1:What is the tone of the woman with long hair when she says "he didn't tell you"?
+a:Her tone is disappointed that the woman was not made aware of what was going on.
+i:Her tone is furious, that the woman is denying what she should have known.
+q2:How does the woman with her hair in a wrap show that she is sad at 0:05?
+a:Her bottom lip begins to shake, indicating that she is trying not to try.
+i:Her mouth begins to move, indicating that she is trying stay awake during the conversation.
+q3:Why does the woman with the long hair start using hand gestures?
+a:She moves her hands as a way to emphasize the truth behind her words and to prove her point.
+i:She is desperate and doesn't know how to explain the situation better with words.
+q4:How does the woman with her hair in a wrap feel about the woman with long hair?
+a:She feels annoyed with her, that she is saying things she doesn't want to hear.
+i:She feels pleased with her, for telling her the truth of the situation.
+q5:Why does the woman with the hair wrap stare at the ground while the long haired woman is talking to her?
+a:She doesn't want to hear what she is saying, and she is disappointed with the news.
+i:She is noticing how dirty the floor is, and making a plan to clean it up after.
+q6:Do the women in the video seem that they already knew eachother before this interaction?
+a:Yes, because they know the same people and they are speaking informally.
+i:No, because the woman with the long hair doesn't know who they are speaking of.

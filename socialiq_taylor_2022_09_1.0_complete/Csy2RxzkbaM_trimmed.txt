@@ -1,0 +1,19 @@
+q1: Why did the woman start a blog?
+a: To use as a portfolio
+i: To document her outfits
+q2: How can the woman be described as?
+a: Self-motivated
+i: Self-absorbed
+q3: What does the woman stress about her job?
+a: It isn't as easy as it seems
+i: It isn't as beneficial as it seems
+q4: Is the woman familiar with making money online?
+a: Yes
+i: No
+q5: What does the woman wish to clarify?
+a: Misconceptions about working as a blogger
+i: Misconceptions about working in finance
+q6: Why does the woman blog?
+a: She enjoys it as a job
+i: She enjoys it as a hobby
+

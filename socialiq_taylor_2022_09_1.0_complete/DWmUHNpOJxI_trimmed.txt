@@ -1,0 +1,19 @@
+q1: What does the man find intriguing about the woman?
+a: Her fluency in Russian 
+i: Her multiple degrees
+q2: Is Russian the woman's native language?
+a: No 
+i: Yes
+q3: Why can the man not read the paper?
+a: It does not use the English alphabet
+i: It is written in a secret code
+q4: What particularly impresses the man?
+a: Mention of her alma mater
+i: Mention of her blog
+q5: Why does the man want the woman to read the paper?
+a: He wants to play a guessing game
+i: He wants to see her reaction
+q6: Does the man have some understanding of Russian?
+a: No
+i: Yes
+

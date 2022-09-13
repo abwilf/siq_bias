@@ -1,0 +1,19 @@
+
+q1: Why does the man in black put his arm down?
+a: He puts his arm down because he is ordered to
+i:He puts his arm down because he is tired of holding it up
+q2: What is the tone of the man in red?
+a: He has a strict, unwavering tone.
+i: He has an enthusiastic tone.
+q3: Who is the most dominate person in the group?
+a:The man in the red is the most dominate because he is the one giving orders.
+i:The man in the back is the most dominate one because he is the captain of the team
+q4: How does the man in black show that he loves football?
+a: He is smiling real big.
+i: He is jumping with eagnerness to play football.
+q5: Why does the man in black shake his head at the coach?
+a: He shakes his head because he is agreeing with the coach.
+i: He shakes his head because he disagrees with the coach.
+q6: Is the man in black confident?
+a:No, the man in red has him second guessing himself which indicates he is not confident.
+i:Yes, the man in black is unwavering in his opinion which indicates he is very confident.

@@ -1,0 +1,18 @@
+q1:Why does the woman with braids snap at the woman in red at the vending machine?
+a:She tried to help her work the machine.
+i:She tried to take her quarter to use for herself.
+q2:What does the relationship seem like between the two women?
+a:The relationship seems strained, because the women argue and then have a serious tone.
+i:The relationship seems stable, because they are friendly with eachother.
+q3:Why does the woman with the braids shake her head before she apologizes?
+a:She can't believe the situation happened and is disappointed in herself.
+i:She doesn't want to say sorry but she feels like she is forced to.
+q4:How does the atmosphere change from the beginning to the end of the video?
+a:It was tense and angry in the beginning but it got more relaxed towards the end.
+i:It was passionate and loving in the beginning and more angry towards the end.
+q5:What does the sigh from the woman in red indicate after the apology?
+a:It indicates thats he is feeling sympathy for the woman with the braids.
+i:It indicates that she will not forgive the woman with the braids for her mistake.
+q6:How does the woman in gray use her body language to be sincere?
+a:She gives the woman in red eye contact while speaking.
+i:She motions the woman to come sit next to her.

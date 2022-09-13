@@ -1,0 +1,19 @@
+
+q1: What is the tone of the woman in blue when she walks into the room. 
+a:The woman in blue is worried and a bit shaken.
+i:The woman in blue is tired and groggy.
+q2: How does the woman in the grey shirt react to hearing the baby is sleeping?
+a:She breathes a sigh of relief.
+i:She is happy that the baby is asleep so she can finally sleep herself.
+q3: Does the woman in blue want the woman in grey to lay in her bed with her?
+a: She hesitates and doesn't seem comfortable with the woman in grey crawling into her bed.
+i: Yes, she invites her to sleep in her bed with her because she knows the woman in grey is worried.
+q4:Who seems to have more expertise in the topic they are speaking about?
+a: The woman in blue seems to have more expertise than the woman in grey.
+i:The woman in grey seems to be more experienced because she counsels the woman in blue.
+q5:How does the woman in gray show that she wants to discuss something with the woman in blue?
+a: She asks if she could lay down and quickly clears the bed
+i: The woman in gray shows she wants to discuss something with the woman in blue by talking over the woman in blue.
+q6: Why does the lady in blue turn her head to the woman in grey at :47?
+a: She is taken aback by what the woman in grey said.
+i:She wants to give the woman in grey her undivided attention.

@@ -1,0 +1,19 @@
+
+q1: Does the bald man enjoy talking to woman?
+a: Yes, he is enthusiastic when talking to the woman.
+i: No, he does not enjoy talking to the woman because they cannot agree on anything.
+q2: Why does the woman laugh at the beginning of the video?
+a: She is entertained at the bald mans remark.
+i: She is laughing in disbelief of the man in the bandages.
+q3: How does the tone change from the beginning of the video, to the end?
+a: The tone goes from easy going and comfortable to very awkward.
+i: The tone goes from awkward to easy going and comfortable.
+q4: Why does the room go silent at :23?
+a: The room goes silent because the bald man asked a thought provoking question that is hard for them to answer.
+i: The room goes silent because the bald man makes a really awkward joke and no one knows how to respond.
+q5: How does the man in the bandages react to the bald mans question at :33?
+a: He is indifferent about the question.
+i: He gets annoyed because the question is very personal.
+q6: 
+a:
+i:

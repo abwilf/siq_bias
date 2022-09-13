@@ -1,0 +1,19 @@
+
+q1: Which person seems the most optimistic?
+a: The woman in the checkered shirt seems the most optimistic.
+i:The man is the most optimistic.
+q2:What is the atmosphere of the group?
+a: The atmosphere is somber and down hearted.
+i: The atmosphere is enthusiastic and upbeat.
+q3: Is the woman close to the the people she is speaking to?
+a: Yes, they are very close
+i: No, They have only just met.
+q4:q4: Why does the woman in the checkered shirt take so long to speak?
+a: She takes so long to speak because she is not sure what to say.
+i: She takes so long to speak because she doesn't actually want to speak to the lady in blue.
+q5:
+a:
+i:
+q6:
+a:
+i:

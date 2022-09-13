@@ -1,0 +1,18 @@
+q1: What does the man's gesture at 0:00 convey?
+a: Thoughtfulness
+i: Urgency
+q2: What does the woman in blue value?
+a: Helping others
+i: Her friendships
+q3: Does the woman at 0:35 seem fully satisfied?
+a: No
+i: Yes
+q4: What does the attitude of the man at 0:37 imply?
+a: That he cares
+i: That he doesn't care
+q5: How does the man in the checkered shirt feel?
+a: He feels unsure
+i: He feels confident
+q6: What does the man at 1:33 admit turning to for comfort?
+a: Prayer
+i: Alcohol

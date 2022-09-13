@@ -1,0 +1,18 @@
+q1: What is the man's attitude toward the person on the other end of the phone?
+a: He is condescending and sarcastic
+i: He is supportive and polite
+q2: How does the woman feel at the start of the video?
+a: exasperated and tired
+i: Excited and ready
+q3: What is the man's attitude toward the woman?
+a: Dismissive and unhelpful
+i: Understanding and helpful
+q4: What is the woman afraid of?
+a: The woman is afraid of the alien inside of her
+i: The woman is afraid of talking to strangers
+q5: How does the woman react to her fear?
+a: By getting aggressive with the man
+i: By trying to reason with the man
+q6: What does the audience feel about the video?
+a: They think it is funny
+i: They think it is scary

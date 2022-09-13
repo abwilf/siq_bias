@@ -1,0 +1,19 @@
+
+q1: What is the relationship between the man in the black shirt and the woman?
+a: They are coworkers.
+i: They are in a romantic relationship.
+q2: How does the woman react to the man taking her food?
+a: She is upset and is about to cry.
+i: She is thankful because she didn't want to be eating the junk food anyways.
+q3: Why is the woman moving her hand when speaking at 08?
+a: She is feeling overwhelmed by her eating habits that she is using her hands to emphasize her point.
+i: She is annoyed by the mans questions that she is using her hand to physically tell him to leave her alone.
+q4: What is the tone of the woman?
+a: The woman is passionate and emotional
+i: The woman is indifferent and ready to go home from work.
+q5: Why does the woman look up at the man at :21?
+a: The man says something that is unusual but true.
+i: The man insulted her.
+q6:When the other two men walk into the room how does the man with the blue shirt feel?
+a: The man with the blue shirt feels really observant when the two other men walk into the room. 
+i: The man with the blue shirts is irritated that the other men inturrupted his conversation with the woman.

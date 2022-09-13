@@ -1,0 +1,20 @@
+
+
+q1: What is the tone of the long haired lady when she is talking into the speaker?
+a: She have a excessively friendly tone
+i: She had an indifferent tone. 
+q2: How do the group of women react to the short womans burp?
+a: They look at her in shock.
+i: They are amused by it.
+q3: Why does the woman in the white dress put her hand over her mouth at :39?
+a: She is disgusted by the short woman.
+i: She was politely covering a burp.
+q4: Why do the two women look at each other and smile at :46?
+a: They are excited to shop.
+i: They are nervous about being in that shop.
+q5: Why does the woman on the speak allow the women to come in the store after being asked a second time?
+a: She only allows them to come into the store because she knows the second woman who asked.
+i: She allows the to come into the store because she feels bad and has sympathy for them.
+q6: Is the woman in the blue outfit welcoming to the women?
+a: Yes, she is very friendly and welcoming to the group of women
+i: No, she is not welcoming because the did not have an appointment to be there.

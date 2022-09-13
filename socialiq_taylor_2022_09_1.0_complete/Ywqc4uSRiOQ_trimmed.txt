@@ -1,0 +1,19 @@
+
+q1:What is the dynamic between the group of men?
+a: They are bandmates
+i: They are strangers who are meeting for the first time.
+q2: Who is the more dominant of the bunch?
+a: The man on the far left seems to be the most dominant of the group. 
+i: The man in the hat that says 99 is the most dominant.
+q3: What is the tone of the group?
+a: They are calm and serious
+i: They are excited to be intervied.
+q4: Are the men passionate about their careers?
+a: Yes, they love what they do.
+i: No, they are looking for a career choice.
+q5: Are the men happy with their finanicial situations?
+a: No, they are not happy because they are not making much money.
+i: Yes, they are happy because they don't need much money anyways.
+q6:Do all of the men in the group agree with one another?
+a: Yes, they all agree with one another
+i: No, the man in the 99 hat disagrees with the rest of the group.

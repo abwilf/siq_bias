@@ -1,0 +1,18 @@
+q1: Was the woman successful in convincing Jada to take the swamp tour?
+a: Yes
+i: No
+q2: How does the man feel about the story?
+a: He finds it amusing
+i: He finds it dreamy
+q3: Why does the woman bend over at 0:54?
+a: She is taking a bow
+i: She found the joke particularly funny
+q5: How did Will feel about Jada not wanting to go on the swamp tour?
+a: Disappointed
+i: Relieved
+q9: How does the woman portray herself at 0:31?
+a: As intimidating
+i: As caring
+q10: How does the woman feel about not having a lot of money to spend?
+a: She makes a joke out of it
+i: She feels ashamed of it

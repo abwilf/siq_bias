@@ -1,0 +1,18 @@
+q1: How does the woman portray Beyonce?
+a: As very talented
+i: As very generous
+q2: Does the woman feel that dancing is something she and Beyonce have in common?
+a: No, she thinks she cannot compare to the woman's abilities
+i: Yes, she thinks they are both very passionate about it
+q3: What can be assumed from the woman's vocal expression at 0:17?
+a: The magazine gives her a good feeling
+i: The magazine gives her a nervous feeling
+q4: How does the woman react to the man's many compliments?
+a: With modest behavior
+i: With boisterous behavior
+q5: What does the man mean by saying the photo "burned the Internet to the ground"?
+a: The photo was loved by many
+i: The photo was highly controversial
+q6: What does the man wish to know about the photograph?
+a: The story behind it
+i: Her relationship with the man in it

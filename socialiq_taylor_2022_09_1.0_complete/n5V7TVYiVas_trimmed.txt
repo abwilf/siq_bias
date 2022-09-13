@@ -1,0 +1,18 @@
+q1: Why does the man look around the room?
+a: He is pondering the question
+i: He is looking for an escape
+q2: What does the man's reaction to the first question seem to indicate?
+a: That he finds the question difficult
+i: That he finds the question intriguing
+q3: What does the woman's facial expression at 0:19 suggest?
+a: She isn't impressed by the man's response
+i: She isn't impressed by the interview question
+q4: Why does the man repeat the woman's question?
+a: He doesn't have an immediate answer
+i: He didn't hear her correctly
+q5: Does the woman seem impressed with the man's interview?
+a: No as she has to push for information
+i: Yes as her expression indicates satisfaction
+q6: What does the man's inability to elaborate on his strengths suggest?
+a: He didn't answer the question truthfully
+i: He is very humblea

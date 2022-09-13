@@ -1,0 +1,20 @@
+
+
+q1: What is thethe dynamic between the boy and the girl?
+a: They are trying to get to know each other better.
+i:  They are boyfriend and girlfriend
+q2: Do the boy and the girl know each other well?
+a: No, they do not know each other well.
+i: Yes, they are great friends and know each other well.
+q3: Does the man's tone change during the video?
+a: Yes, it does from lightheaded to more concerned.
+i: Yes, it goes from confused to more comfortable.
+q4: How does the man show that he is interested in the woman?
+a: He makes eye contact and asks her questions about herself.
+i: He smiles at her and tells her that he likes her.
+q5: Is the woman worried at all?
+a: Yes, she is worried about issues that are going on with her family.
+i: No, she is carefree because she is have a good time talking with the man
+q6: Why does the woman turn her body more towards the boy at the end of the video?
+a: She does this because the topic of conversation has become more serious and she is opening up to the boy..
+i: She does this because she really likes the boy.

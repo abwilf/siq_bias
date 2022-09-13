@@ -1,0 +1,18 @@
+q1: How does the man feel about the woman?
+a: He respects her and her work.
+i: He thinks she is nice but he doesn't know her well.
+q2: How familiar are the two people?
+a:They have met each other before.
+i: This is their first time meeting.
+q3: Why does the woman laugh at :11?
+a: The man makes a quip to the woman.
+i: She is recalling an funny incident between the two.
+q4:What is the tone between the man and the woman during the first half of the video?
+a: Lighthearted and fun.
+i: Serious and professional.
+q5: How does the man feel about the topic of the movie?
+a: He thinks it's an important topic to discuss.
+i: He loves that it's a silly movie he doens't have to think too hard about. 
+q6:Why does the man tense up at :14
+a: He is emphasizing how excited he was to see the woman in the past.
+i: He is talking about an injury he got after the last time he saw her.

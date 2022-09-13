@@ -1,0 +1,18 @@
+q1:Is the woman doing the interviews excited to be there?
+a:Yes, she is being positive and hates being there to do interviews.
+i:No, she is being negative and hates being there to do interviews.
+q2:What does the man in the black shirt and lanyard mean when he says the cast is "ridiculous"?
+a:He means they are all good and talented actors.
+i:He means they are all fake and untalented actors.
+q3:Why does the woman with the hood earrings start kicking?
+a:She is demonstrating what she needed to do in the movie.
+i:She is demonstrating what she needed to do when she got attacked.
+q4:Why does the person in blue with glasses put her head back and say "oh my gosh"?
+a:She cannot believe the story that the woman with the hoops is telling her and is reacting to it.
+i:She cannot believe the lie that the woman with the hoop earrings is telling her and is reacting to it.
+q5:Why is the woman in the hoop earrings looking at the camera instead of the interviewer?
+a:She is speaking directly to the audience and trying to be entertaining for them.
+i:She is speaking over the interviewer and trying to be entertaining for her.
+q6:Why does the man in the cowboy hat mouth a word to himself when he man in the black shirt is talking?
+a:He wants to show he agrees with what the man in the black shirt is saying about the movie.
+i:He wants to show he disagrees with what the man in the black shirt is saying about the movie.

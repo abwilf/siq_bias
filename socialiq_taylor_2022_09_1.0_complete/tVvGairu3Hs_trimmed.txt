@@ -1,0 +1,19 @@
+
+q1: What is the demeanor of the man?
+a: He is calm but seems a bit nervous.
+i: He is assertive and confident.
+q2: Why does the man scrunch his face at :32?
+a: He does this because he doesn't agree with what the woman said.
+i: He does this because he doesn't understand what the woman said.
+q3: How does the man come up with his material?
+a: He bases them on his real life.
+i: He is inspired by different cities he goes to.
+q4: Does Time Out Chicago like the man's work?
+a: Yes, they like his work very much.
+i: No, they do not find the man funny.
+q5: What is the relationship between the man and the woman?
+a: The woman is interviewing the man
+i:They are coworkers. 
+q6: Why does the woman laugh at :10?
+a: She laughs because she finds what they are talking about amusing.
+i: She laughs because the man made a joke.

@@ -1,0 +1,19 @@
+
+q1: How do the man and woman show that they feel romantically about one another?
+a:The make intense eye contact and move closer to one another.
+i: They tell each other they have romantic feelings for one another.
+q2: Why does the man nod his head?
+a: He nods his head to show that he understands what the woman is saying.
+i: He nods his head to dismiss what the woman is saying.
+q3: Does the woman hate the man?
+a: No, although she states she does, that is not how she really feels. 
+i:Yes, she hates him which is why she replies yes when he asks her that.
+q4: Does the woman find the man charming?
+a: Yes, she finds him charming which is why she smiles at him.
+i: No, she agrees that she hates the man.
+q5: What is the atmosphere between the man and woman.
+a: The atmosphere is relaxed and intimate.
+i: The atmosphere is awkward because they are both visibily nervous.
+q6:
+a:
+i:

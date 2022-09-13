@@ -1,0 +1,22 @@
+q1: How can the relationships between the mothers and daughters be described?
+a: As loving
+i: As distant
+q2: Why are the mothers receiving surprises?
+a: Their daughters want to show their appreciation
+i: Their daughters want to celebrate their birthdays
+q3: Why is the woman in black crying?
+a: She loves her mother dearly
+i: She is touched by the music
+q4: Why is the woman in red crying?
+a: She feels valued
+i: She feels attacked
+q5: Why do the women want their mothers to be pampered?
+a: So they will feel good about themselves
+i: So they can relax after a busy week
+q6: Why do the women high-five?
+a: They are excited to do the activity
+i: They are wishing each other good luck
+
+
+
+

@@ -1,0 +1,18 @@
+q1:Why did the man in the brown tie nod when the woman in red introduced him?
+a:He was nodding to indicate that he is the man she is referring to in her introduction.
+i:He was nodding to indicate that he is not the right man that she introduced.
+q2:What is the attitude of the woman in red throughout the conversation?
+a:Her attitude is serious and professional while conducting the interview.
+i:Her attitude is judgemental and standoffish while conducting the interview.
+q3:Does the man in the brown tie like the woman in red?
+a:Yes, he gives her his full attention and answers her questions openly.
+i:No, he doesn't give her his full attention and answers her questions cautiously.
+q4:Does the man in the brown tie think that the debate that they are talking about went well?
+a:No, he thinks the men that were in the debate were immature and unruly.
+i:Yes, he thinks the men that were in the debate were mature and thoughtful.
+q5:Why do the men standing on the stage at the debates shake hands?
+a:They are being respectful of eachother, even though they are competitors.
+i:They are being intimidating to eachother, even though they used to be friends.
+q6:Why doesn't the woman in red look at the man in the brown tie when she introduces him?
+a:She was looking at and speaking to the audience instead.
+i:She was looking at and speaking to her coworkers instead.

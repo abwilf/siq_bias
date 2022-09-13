@@ -1,0 +1,19 @@
+
+q1: How do the man and the woman feel towards one another?
+a: They do not like one another at all.
+i: They are colleagues that and cordial to and respect one another
+q2: Does the woman believe the man?
+a: No, she does not believe what the man is telling her.
+i: Yes, she completely believes the man is telling the truth.
+q3: Why does the woman shake her head at the man?
+a: The woman shakes her head at the man because she is disappointed with him
+i:The woman shakes her head at the man because she agrees with him. 
+q4: Why does the man continue walking to the woman while gesturing with his hands?
+a: He does this because he wants the woman to answer his questions. 
+i: He does this because he is happy to see her.
+q5: Why does the woman point at the man?
+a: The woman points at him because she is accusing him of something and emphasizing her point.
+i:  the woman points at him because she wants him to focus on her.
+q6:
+a:
+i:

@@ -1,0 +1,15 @@
+q1:Why does the woman correct herself at 0:34?
+a:She looked at the wrong person when she said a man's name, and wanted to make sure the right person answered her question.
+i:She thought she mispronounced the man's name and wanted to make sure she got it right.
+q2:How did the white haired man react to the woman's mistake?
+a:He seems amused by it and makes a light hearted joke in response.
+i:He is angry at her for the mistake because he felt it was demeaning.
+q3:Why is the man with white hair and glasses shaking his head while he talks?
+a:He is unsure of the answer and is emphasizing this while he responds to the woman.
+i:He is being playful and pretending to not understand the woman
+q5:Why does the man with white hair and glasses write something down?
+a:He pretends to write something down as part of a joke in response to the woman's mistake.
+i:He does not want to forget what is being said during his conversation with the woman.
+q6:How does the woman act toward the white haired man?
+a:She is attentive, while also finding him amusing.
+i:She is flirtatious, while also being attentive.

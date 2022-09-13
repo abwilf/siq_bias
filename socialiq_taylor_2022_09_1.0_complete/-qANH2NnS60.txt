@@ -1,0 +1,18 @@
+q1:Why is the woman concerned about the pizza the boy gave her?
+a:She is worried that the boy is playing a trick on her by giving her old pizza.
+i:She is self-conscious about gaining weight.
+q2:Why does the young boy change the subject when the woman asks him about having a girlfirend?
+a:He is shy and embarrassed by the question and doesn't want to answer.
+i:He does not understand that she had asked him a question.
+q3:What is the mood and atmosphere of the ineraction between the woman and boy?
+a:The mood and atmosphere is light and playful, showing that they are having fun talking to each other.
+i:The mood and atosphere is aggressive quiet, showing that they do not get along.
+q4:How does the boy demonstrate his annoyance at having to answer the question about having a girlfriend?
+a:He changes the subject and rolls his eyes before he answers.
+i:He sulks quietly and glares, refusing to answer.
+q5:What is the relationshipi between the woman and the boy like?
+a:They seem to be not very close, but not entirely strangers.
+i:They seem to be relatives and very close to each other emotionally.
+q6:Why is the boy speaking so passionately at the beginning?
+a:He is talking about a topic he is very interested in and passionate about.
+i:He is getting angry at the woman and starting to yell at her.

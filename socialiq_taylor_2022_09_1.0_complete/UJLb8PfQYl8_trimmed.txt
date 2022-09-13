@@ -1,0 +1,18 @@
+q1: Why does the girl in the pink seem to be upset?
+a: She is playing a pretend role
+i: She didn't receive anything from the tooth fairy
+q2: Do the little girls seem to get along?
+a:Yes, they enjoy playing with each other.
+i:No, neither of them want to share their toys.
+q3: How does the girl in the blue react when the girl in the pink says she has to go?
+a: She seems indifferent to her leaving
+i: She is sad as she wants to keep playing
+q4: What is the tone of the girl in the blue?
+a: She seems to enjoy playing along with the other girl.
+i: She wants to play something else.
+q5:Does the girl in pink like her boss?
+a: The girl in pink feigns having a boss, she doesn't actually have a boss.
+i: The girl in pink respects her boss.
+q6: Why does the girl in the pink say she has to leave?
+a: She has a job to do.
+i: Her mom is there to pick her up.

@@ -1,0 +1,26 @@
+q1: Why is the woman laughing at 0:19?
+a: She thinks the children are cute.
+i: There was a misunderstanding.
+q2: Do the children like Halloween?
+a: Yes, they are dressed for the occasion.
+i: No, they seem indifferent.
+q4: Why does Steven point out that he is almost in kindergarten?
+a: He is proud of his age.
+i: He doesn't want to start school.
+q6: How are the guests received by the audience?
+a: The audience adores them.
+i: The audience is critical of them.
+q8: Is the child at 0:27 nervous to go on stage?
+a: No, she walks out with a smile.
+i: Yes, she hides behind the doorway.
+q9: Why are the children carrying buckets?
+a: They hope to receive candy.
+i: They are transporting their toys.
+
+
+
+
+
+
+
+

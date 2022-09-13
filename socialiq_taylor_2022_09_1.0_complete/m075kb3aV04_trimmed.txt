@@ -1,0 +1,18 @@
+q1: What is the purpose behind the woman's "hello" at 0:01?
+a: She thinks something is obvious
+i: To greet her audience
+q2: Do the women think networking is most appropriate in a particular place?
+a: No, they think it can be done anywhere
+i: Yes, they think it should be done at job fairs
+q3: Why is the woman on the left wide-eyed at 0:41?
+a: She is excited by the mention of coffee
+i: The myth frustrates her
+q4: Why does the woman on the left gaze upward at 0:52?
+a: To convey her agreement with the other woman
+i: To convey her aggravation with the other woman
+q5: Why is the woman on the left wide-eyed at 0:15?
+a: The myth frustrates her
+i: She is excited by the mention of coffee
+q6: What do the women think of networking at job fairs?
+a: It is superficial
+i: It is crucial

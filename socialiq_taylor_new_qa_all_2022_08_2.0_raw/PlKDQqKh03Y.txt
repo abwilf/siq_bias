@@ -1,0 +1,20 @@
+
+
+q1: What is the demeanor of the man with the longer hair wearing the watch 
+a: He is very assertive and oozes confidence.
+i: He is timid and unsure of himself.
+q2: Why does the man in the glasses point to himself?
+a: He points to himself because he is unsure if the man with the longer hair that is wearing the watch is referencing him. 
+i: He points to himself because he wants everyone to pay attention to him.
+q3:How do the people in the room feel about the man with the longer hair that is wearing the watch's proposals?
+a: The people in the room are skeptical about the man's ideas and feel uncertain about his proposals.
+i:The people in the room respect the man and believe in his ideas and his expertise without question.
+q4: How does the man in the black shirt with the receding hairline feel about the man in the yellow and blue tie? 
+a: He doesn't think that the man in the blue and yellow tie's prescence is necessary. 
+i: He is thankful that that man in the blue and yellow tie is there because he has a lot of knowledge.
+q5: What is the tone of the man in the red shirt?
+a: He seems unsure of himself and apprehensive.
+i: He is incredibly demanding.
+q6: Does the group of people respect one another?
+a: Yes, they show respect for one another despite their differing opinons.
+i: No, they don't respect one another because they have differeing opinions.

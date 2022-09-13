@@ -1,0 +1,18 @@
+q1:Why does the man in the yellow shirt clear his throat before asking about Gary?
+a:He knows its going to be an awkward topic so he is preparing himself.
+i:He feels bad about betraying Gary and doesn't want to upset her.
+q2:How does the man in the yellow shirt make it clear he doesn't like Gary?
+a:He calls him a nickname while waving his hands around, a way of making a joke about him.
+i:He defends him to the woman when she complains about how Gary acts.
+q3:Why does the man rush to open the refrigerator door for the woman?
+a:He likes her and wants to show her that he can be a gentleman.
+i:He sees her finger injury and doesn't want her to get hurt.
+q4:What is the tone of the woman when she says "insightful" to the man?
+a:Her tone is sarcastic, she doesn't really believe he was being insightful.
+i:Her tone is serious, she likes how the man in yellow was being reasonable.
+q5:What does the relationship seem to be between these two people?
+a:The relationship is friendly because they are speaking nicely to eachother and making jokes.
+i:The relationship is strained because he doesn't like her but she likes him.
+q6:Why does the man roll his eyes at 0:53?
+a:He doesn't believe what the woman is saying about Gary.
+i:He can't believe the woman was walking away from him with the drinks.

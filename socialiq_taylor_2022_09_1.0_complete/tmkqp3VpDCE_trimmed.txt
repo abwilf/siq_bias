@@ -1,0 +1,18 @@
+q1: How does the woman feel visiting Venezuela affected her?
+a: It made her grateful
+i: It made her cynical
+q2: What did the woman feel before visiting Venezuela?
+a:  Unaware
+i: Prepared
+q3: How does the woman on the right react toward the woman's description of visit?
+a: She is fascinated
+i: She is offended
+q4: What was the woman who visited Venezuela surprised by?
+a: The similarity to America
+i: The similarity to Malaysia
+q5: What did the woman expect of Venezuela before visiting?
+a: That they wouldn't have luxuries
+i: That they wouldn't have food
+q6: Did the woman have high expectations of visiting Venezuela?
+a: No
+i: Yes

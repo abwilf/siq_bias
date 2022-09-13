@@ -1,0 +1,18 @@
+q1: Why does the man at 0:12 hold out his hand?
+a: He wants to get a high five from the boy.
+i: He is trying to tell the boy to stop.
+q2: How do the people in white beards feel about what they are doing?
+a: They are having fun and enjoying themselves.
+i: They are not enjoying themselves and want to leave.
+q3: Why do the men in white beards kneel down in front of the children or bring the children onto their lap?
+a: They are trying to bring the children closer to their eye level to make them more comfortable.
+i: They are making fun of the kids for being short.
+q4: Why does the man at 0:38 lean back?
+a: He is pretending to be scared of the boy to joke around with him.
+i: He is trying to distance himself from the boy because he does not like him.
+q5: How do the children feel about the men in beards?
+a: They are apprehensive, but they are enjoying the interaction.
+i: They hate it and want to run away.
+q6: Why does the boy touch the man's glasses?
+a: He is being silly, playing and joking around.
+i: He is trying to wipe a smudge off the glasses to help the man see better.

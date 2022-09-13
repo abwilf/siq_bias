@@ -1,0 +1,19 @@
+
+q1: How does the blonde woman show that she is nervous?
+a:  She speaks in a whispering tone and is hesitant to speak.
+i: She doesn't speak unless spoken to and doesn't make eye contact.
+q2: Why does the man smile at :44?
+a: He is being polite while declining the blonde womans offer.
+i: He is amused by what the blonde woman says.
+q3: Who is the dominant person of the group?
+a: The man is the dominate person because he is the one who decides if the blonde woman will get the hosue.
+i: The woman in the pink shirt is the more dominant person because the man looks to her for answers.
+q4: Why does the man furrow is brows at :56?
+a: He is sympathizing with what the blonde woman says.
+i:He disagrees with what the blonde woman says.
+q5: Why are the blonde woman and man walking around the house?
+a: He is giving her a tour because she wants to rent the home.
+i: He is showing her around because she is the new nanny.
+q6: Why does the woman in pink look at the blonde woman at :59?
+a:  She is concerned by what the blonde woman had just said.
+i: She wants to give the blonde woman her undivided attention.

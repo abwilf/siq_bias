@@ -1,0 +1,18 @@
+q1: What is the temperament of the room?
+a: The temperament is attentive but bored
+i: The temperament is excited and hyper
+q2: How does the woman behind the podium react to what the first man had to say?
+a: She reacts with gratitude for his contribution
+i: She reacts with annoyance with his contribution
+q3: Why does the woman behind the podium offer the woman in the black suit a chance to speak?  
+a: She recognized that they were running out of time
+i: She recognized that the group wanted to hear from her
+q4: Who is the leader of the interaction?
+a: The woman in the polka-dotted shirt
+i: The man in the grey sweater
+q5: What is the tone of the conversation
+a: The tone is serious
+i: The tone is hectic
+q6: How does the woman in the polka-dotted shirt express that she is listening?
+a: She nods her head and takes notes
+i: She looks around the room

@@ -1,0 +1,18 @@
+q1: What does the woman in the middle wish to achieve?
+a: She wants to teach the people around her
+i: She wants to recruit the people around her
+q2: How does the audience feel about the content of the woman's message?
+a: They are accepting of it
+i: They are confused by it
+q3: How does the audience seem to feel during the teaching?
+a: They are relaxed
+i: They are perplexed
+q4: Why does the woman in the striped peacoat choose to speak?
+a: She wants to affirm and express agreement with the teacher
+i: She wants to question the validity of the teacher's statements
+q5: How does the man in the light grey suit feel after the teacher's speech?
+a: He feels relieved and grateful
+i: He feels troubled by her claims
+q6: Why does the audience display good posture?
+a: They want to show their attentiveness
+i: They want to stay evenly spaced from one another

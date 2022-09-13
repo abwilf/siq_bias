@@ -1,0 +1,20 @@
+q1: Why does the man make up a story about the election?
+a: To make a point
+i: He is a liar
+q2: What does the man think about fake stories that become news?
+a: He seems surprised by it
+i: He seems unsurprised by it
+q3: Does the man have confidence in the election?
+a: No
+i: Yes
+q4: How did the audience feel about the man having fabricated a news story?
+a: Amused
+i: Deceived
+q5: What do the yells from the audience at 0:21 indicate?
+a: They agree with the man
+i: They are happy for the man
+q6: Is the man in the video convincing?
+a: Yes
+i: No
+
+

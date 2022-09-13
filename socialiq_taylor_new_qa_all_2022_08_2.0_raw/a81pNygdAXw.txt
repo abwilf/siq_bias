@@ -1,0 +1,19 @@
+
+q1: Why does the man in the  tie laugh?
+a: He laughs because he thinks the idea from the man in the glasses is ridiculous.
+i: He laughs because the man in the glasses made a joke.
+q2: How does the lady in pink react to the man in the glasses goal?
+a: She does not believe that it is feasible.
+i: He has hope that the man in the glasses can accomplish his goal.
+q3: How does the man in the brown shirt feel about the conversation going on?
+a: He is indifferent to it.
+i: He Is disappointed that the conversation is happening.
+q4: Is the man in the glasses confident in his idea?
+a: Yes, he is very confident that he can pull off his idea.
+i: No, that is why he is asking the opinion of the group.
+q5: What is the relationship between the man in the  tie and the woman in the pink?
+a: They are coworkers.
+i:They are married.
+q6: Why does the man in the tie lean forward at the end of the video?
+a: He leans forward because he is serious about what he is asking.
+i: He leans forward to intimidate the man in the glasses.

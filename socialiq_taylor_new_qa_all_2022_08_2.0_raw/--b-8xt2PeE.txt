@@ -1,0 +1,18 @@
+q1:Why is there a tense tone between the two men at the beginning?
+a:They are trying to outsmart eachother with who knows more about the hotel.
+i:They are trying to reconnect after years of being estranged.
+q2:Why does the man grab the voice recorder aggressively?
+a:He wants to show the man with facial hair that he knows what he is talking about.
+i:He didn't want the man with the facial hair to steal the recorder from him.
+q3:How does the man react when the man with the facial hair tells him about the natural deaths?
+a:He is surprised, because he didn't know this information before.
+i:He is annoyed, because he already knew about this from his research.
+q4:Why does the man with the facial hair smile at 0:48? 
+a:He finally revealed something to the other man that he did not know previously.
+i:He figured out who the prime suspect was while they were discussing the crime.
+q5:Why does the man with facial hair lean forward in his chair?
+a:He is getting closer to the other man to emphasize his point.
+i:He is getting more comfortable because the chair hurts his back.
+q6:How does the man with the facial hair react when he knows something the other man doesn't?
+a:He feels prideful that he knows more details about the case.
+i:He feels ashamed that he knows more information about the case.

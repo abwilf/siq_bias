@@ -1,0 +1,18 @@
+q1: How does the woman with red hair feel about the jokes that used to be made?
+a: The woman with red hair doesn't like the jokes
+i: The woman with red hair likes to use the jokes
+q2: What does the woman in the grey shirt think is okay?
+a: The woman in the grey shirt thinks it's okay to make self-depricating jokes
+i: The woman in the grey shirt thinks it's okay to make jokes about other marginalized people
+q3: What is the tone of the woman in the grey shirt?
+a: The woman in the grey shirt is critical and outspoken
+i: The woman in the grey shirt is optimistic and reserved
+q4: What is the motive of the conversation?
+a: The motive of the conversation is to debate joking about sensitive topics
+i: The motive of the conversation is to debate policy changes
+q5: How does the woman with red hair feel about what the woman in the grey shirt is saying?
+a: The woman with red hair agrees and reinforces what the woman in grey is saying
+i: The woman with red hair disagrees and refutes what the woman in grey is saying
+q6: How does the woman in the grey shirt feel about her weight?
+a: The woman in the grey shirt feels it is okay for her to joke about her weight
+i: The woman in the grey shirt feels it is okay for others to joke about her weight

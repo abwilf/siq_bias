@@ -1,0 +1,19 @@
+
+q1:What is the tone of the woman with red hair?
+a: She is confident and commanding. 
+i: She is upset and confused. 
+q2: Who is the most dominate in the discussion?
+a:The man with the glasses is the most dominate since everyone is sppealing to him.
+i: The red haired lady is the most dominate because she is talking the most.
+q3: How does the lady in the red suit react to the red haired lady mentioning newspaper articles.
+a: She is confused because she doesn't understand why they articles are an issues since she didn't ask for them.
+i: The ldy in the red suit is glad the lady with red hair brought them up because she wants to discuss them also.
+q4: Why does the man in glasses put his hands up?
+a: He puts his hands up to motion for everyone to relax.
+i: He puts his hands up because he is surrendering to their requests.
+q5: What is the atmosphere of the room?
+a: The atmosphere is tense because they disagree with one another.
+i:The atmosphere is harmonious because they are listening to each other and finding solutions to their problems.
+q6: What is the relationship between the lady in the red suit and the man in glasses?
+a: The man behind the desk is her superior.
+i:The man in glasses is her friend and is there for moral support.

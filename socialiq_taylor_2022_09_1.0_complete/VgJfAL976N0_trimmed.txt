@@ -1,0 +1,23 @@
+q1: Why does the man want to put a phone in the animal's pouch?
+a: He doesn't actually want to put things in the animal's pouch, he just compared the animal's pouch to a bag.
+i: He wants to put a phone in the animal's pouch so that he doesn't have to carry it around.
+
+q2: How do the man and the black-haired woman feel about the small animal?
+a: They are fascinated by and curious about the small animal 
+i: They are wary of and confused about the small animal
+
+q3: Does the woman with red hair seem to know a lot about kangaroos?
+a: Yes, she talks with confidence about the kangaroo.
+i: No, she seems unsure about ths kangaroo.
+
+q4: Why does the woman on the left stroke the animal?
+a: She finds the animal cute and wants to touch it.
+i: She finds the animal scary and is trying to push it away from her.
+
+q5: Why does the man intently observe the animal?
+a: He is interested in it's appearance
+i: He is scared of it and watches it with caution
+
+q6: Why is the man surprised at the three toes the animal has?
+a: He is surprised because most animals that he has experienced has four or five toes.
+i: He is surprised because the animal has lost toes.

@@ -1,0 +1,19 @@
+q1: Does the man in grey give outward cues that he is lying?
+a: No
+i: Yes
+q2: Does the women trust the man in grey?
+a: No
+i: Yes
+q3: How does the man in grey respond to the other man's questioning?
+a: He holds his ground
+i: He gets flustered
+q4: How does the man in grey behave as more questions are being asked?
+a: He remains calm
+i: He starts fidgeting
+q5: Why does the man in black ask questions to the man in grey?
+a: The woman thinks he is guilty of those things
+i: He thinks he is guilty of those things
+q6: How does the woman feel about the man in grey?
+a: She is suspicious of him
+i: She is in love with him
+

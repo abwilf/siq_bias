@@ -1,0 +1,19 @@
+
+q1: What is the tone of the man with curly hair?
+a: He is cold, hard and direct
+i: He is livid and is having a hard time controlling his temper.
+q2: Who is the most dominant in the group of people?
+a: The man with curly hair is the most dominate person in the group because everyone listens to him.
+i: The tall man with the white shirt and blue suit is the most dominate person because he arrested the man in the grey jacket.
+q3: Why does the man with curly hair get so close to the man in the grey suit at the beginning of the video?
+a: He is trying to intimidate the man in grey.
+i: He is whispering a secret to the man in grey.
+q4: how does the red headed lady react to the man in the grey suit being arrested?
+a: She is shocked and upset the man is being arrested.
+i: She is glad the man is being arrested because he deserves it.
+q5: How does the man in the grey suit react to the man in the curly haired man?
+a: He holds his own and doesn't back down.
+i: He is scared of the man with curly hair so he does what he says.
+q6: Why does the man in grey not look at the tall man with the white shirt and blue suit when he is talking to him?
+a: He is too angry to worry about the man talking to him and is keeping his attention focused on the curly haired man instead.
+i: He is afraid of the man in the white shirt and blue suit so he looks to the curly haired man for guidance.

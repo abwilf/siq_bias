@@ -1,0 +1,19 @@
+
+q1: What is the tone of the conversation?
+a: The tone is casual, but serious.
+i: The tone is filled with anger and hatred.
+q2: Does the woman agree with the man's decision?
+a: No, she does not agree with his decision.
+i: Yes, she definitely agrees with his decision.
+q3:Why does the woman lean in while speaking to the man.
+a: She wants to convey that she is serious and emphasize what she is asking of the man.
+i: She doesn't want anyone else to hear what she is saying.
+q4: How does the man feel about the woman he is speaking about?
+a: He has great admiration and love for the woman he is speaking about.
+i: He has hatred in his heart for the woman he is speaking about which is why he wants revenge.
+q5:Why do the two people have intense eye contact?
+a: They have intense eye contact because they are genuine in their conversation and have respect for one another.
+i: They have intense eye contact because they are trying to intimidate one another.
+q6:
+a:
+i:

@@ -1,0 +1,18 @@
+q1:How does the blonde woman react when the brunette woman says she has heard a lot about her?
+a:She reacts with pride, that someone she looks up to knows who she is.
+i:She reacs with confusion, because she knows they have previously met.
+q2:Why does the brunette woman perk up her eyes at 0:11?
+a:She is surprised at what the blonde woman is saying to her.
+i:She is offended by what the blonde woman said about her.
+q3:Why does the blonde woman stumble over her words as shes talking to the brunette?
+a:She idolizes her, so she feels embarrassed talking to her.
+i:She can't stand her, and wants to get the conversation over with as soon as possible.
+q4:Why does the blonde woman shake her head as she is talking about being the brunette's opening act?
+a:She doesn't believe the brunette woman would ever want her to be her opening act.
+i:She is hoping that the brunette says no because she doesn't really want to be in the act.
+q5:Why does the brunette woman laugh at 0:52?
+a:What the blonde woman said was so ridiculous to her that she thought it was funny.
+i:What the blonde woman said was so rude she can't believe she said it.
+q6:Why doesn't the blonde woman respond to the brunette when she talks about the man sending flowers?
+a:She is shocked and doesn't know how to respond to her.
+i:She feels betrayed that the brunette is accusing her boyfriend of cheating.

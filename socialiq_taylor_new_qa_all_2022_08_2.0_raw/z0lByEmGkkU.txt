@@ -1,0 +1,18 @@
+q1:What is the dynamic between the two men at the beginning?
+a:Their dynamic is friendly, as they are talking calmly to eachother.
+i:Their dynamic is hostile, as they are disgusted by eachother.
+q2:How is the man in white trying to show his innocence to the other man?
+a:He uses open and welcoming body language to show he is not a threat
+i:He uses closed off body language and minimal words to show he doesn't know anything
+q3:How does the man in the suit show that he is listening intently to the man in white?
+a:He slightly nods his head and gives him eye contact as he speaks.
+i:He rolls his eyes as he's talking and interrupts him constantly.
+q4:Why is the man in white nodding his head at 0:57?
+a:He is realizing why the man in the suit is there and how he got the case.
+i:He is agreeing with the mans decision to pursue the case against him.
+q5:What does the man wearing a suit feel about having to investigate the man wearing a white shirt?
+a:He is confused about why he was chosen to do the investigation.
+i:He is thrilled that he gets to be the one to bring him down.
+q6:Why does the man in white open his hands at the end of the video?
+a:He is trying to show he is understanding of the situation that man in the suit is explaining.
+i:He is throwing his hands up in anger at the investigators.

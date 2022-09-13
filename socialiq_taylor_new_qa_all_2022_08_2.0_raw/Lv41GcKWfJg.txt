@@ -1,0 +1,19 @@
+
+q1: What is the atmosphere of the room?
+a: The atmosphere is tense.
+i:The atmosphere is mundane.
+q2: How does the tone of the man in the blue and red tie change throughout the video?
+a: The man in the blue and red tie is calm at first but becomes more agitated as the video goes on.
+i: The man in the blue and red tie is enthusiastic at first but becomes more bored as the video goes on.
+q3: Why does the man in blue continue to ask questions to the man in the blue and red tie?
+a: The man in blue is curious about the man in the blue and red tie life.
+i: The man in blue is skeptical of the man in the blue and red tie.
+q4: How does the man in the blue and red tie feel about the line of questioning from the man in blue? 
+a:The man in white is irriated because he feels like the questioning is out of line.
+i: The man in white is bored with the questioning because he feels like it's not interesting.
+q5: Is the man with the curly hair interest in the conversation between the man in white and the the man in the blue and red tie??
+a: Yes, he is giving the conversation his full attention.
+i: No, he is not interested in the conversation at all and focused on eating his food.
+q6: How does the man in the blue and red tie show that he is annoyed at the man in the blue shirt?
+a: He continued to interrupt the man in the blue when he would try to speak.
+i: He started insulting the man in the blue.

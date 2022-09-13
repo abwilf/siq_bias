@@ -1,0 +1,18 @@
+q1:How does the woman feel about what she is talking about?
+a:She feels confident in it and wants to share it with others.
+i:She feels upset about it and wants to warn others away from it.
+q2:How do the other people at 0:17 feel about woman and what she is talking about?
+a:They are comfortable and agreeable, apparent by their smiling and nodding.
+i:They don't want to be talking to the woman and disagree with her.
+q3:What tone is the video trying to convey?
+a:Calmness, comfort, and peacefulness.
+i:Excitement, action, and chaos.
+q4:Why is the woman gesturing with her hands?
+a:She is emphasizing what she is speaking about.
+i:She is using sign language to communicate with somebody by her.
+q5:How is it apparant that the woman is confident?
+a:She is speaking in a measured tone and sounds collected and confident.
+i:She is staring silently and unflinchingly ahead of her.
+q6:Why does the woman start touching her fingers at 0:40?
+a:She is describing a list of items and is counting them off with her hand gestures.
+i:She is trying to strech her fingers because they ache.

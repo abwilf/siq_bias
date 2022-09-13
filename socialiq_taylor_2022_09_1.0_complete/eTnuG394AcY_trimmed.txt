@@ -1,0 +1,18 @@
+q1: Why does the girl count down?
+a: So they can shoot at the same time
+i: So they can guess at the same time
+q2: How does the girl behave toward the man?
+a: She is competitive
+i: She is impressed
+q3: Is the girl trying to let her father win?
+a: No
+i: Yes
+q4: Why do the people yell out at 0:27?
+a: They both had good attempts
+i: They both hit their targets
+q5: What does the man think of the situation?
+a: It's intense
+i: It's ridiculous
+q6: Why does the man stick his tongue out at the end of the video?
+a: He is focused
+i: He is teasing his daughter

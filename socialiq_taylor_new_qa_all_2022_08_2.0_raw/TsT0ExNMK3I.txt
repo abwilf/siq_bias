@@ -1,0 +1,20 @@
+
+
+q1: What is the attitude of the man in the blue to the man in the white?
+a: He is trying to be helpful to the man in the white.
+i: He is patronizing to the man in the white.
+q2:How can you tell the woman is confused?
+a: She is frowning and questions the man in blue. 
+i: She looks up as she tries to figure out what the man is saying.
+q3: How does the man in white feel about marriage?
+a: The man in white is unsure if marriage is worth it.
+i: The man in white is enthusiastic about marriage.
+q4: Do the two men agree with one another?
+a: Yes, they both have the same feelings about marriage.
+i: No, the man in blue does not like marriage while the man in white does.
+q5: What is the tone of man in white?
+a: He is broody and uncertain 
+i:He has a positive outlook of the future.
+q6:
+a:
+i:

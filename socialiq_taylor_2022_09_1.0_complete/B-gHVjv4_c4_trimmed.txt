@@ -1,0 +1,19 @@
+q1: Why has the boy not been seen by his mother?
+a: He is dedicated to his work
+i: He has been out with friends
+q2: How does the boy feel about his project?
+a: He is enjoying working on it
+i: He is tired of working on it
+q3: Why does the boy want to talk to his grandfather?   
+a: He admires him
+i: He misses him
+q4: How does the woman sound to see the boy enter the kitchen?
+a: Surprised
+i: Relieved
+q5: How does the boy respond to constructive criticism?
+a: He accepts it gracefully
+i: He takes it offensively
+q6: Why is the boy desiring to speak to others?
+a: He feels they have more experience
+i: He feels lonely
+

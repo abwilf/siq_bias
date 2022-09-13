@@ -1,0 +1,18 @@
+q1:How does the woman show she is upset at the man?
+a:She immediately shuts him down when he offers her a drink.
+i:She starts crying and asking what is happening to her friend.
+q2:Why does the man shake his head and look down when she asks about their relationship?
+a:He disagrees with what she is saying and wants to correct her.
+i:He is ashamed that she is right and he is wrong.
+q3:Why does the man nod as he is asking her if she knows about the evidence?
+a:He feels that his position is correct and he is reinforcing his knowledge.
+i:He is showing his dominance by distracting her from the conversation.
+q4:Why does the woman raise her eyebrows when talking about her friend to the man?
+a:She is trying to emphasize her point and show that she knows what she is talking about.
+i:She is trying to confuse the man into believing her side of the story.
+q5:How does the man try to keep the woman from becoming upset and making a scene?
+a:He keeps a low and calm tone of voice.
+i:He keeps a threatening tone of voice to scare her.
+q6:Why does the woman stand up and walk away from the conversation?
+a:She is becoming emotional and doesn't want to talk about the subject anymore.
+i:She is missing work and needs to finish her tasks for the day.

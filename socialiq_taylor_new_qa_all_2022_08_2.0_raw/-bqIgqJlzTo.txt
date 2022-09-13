@@ -1,0 +1,18 @@
+q1:Why does the man in the plaid shirt continue to ask the man in the blue questions?
+a: He is being nosy and wants to get more information on the man's career.
+i: He doesn't like the man and is trying to catch him in a lie.
+q2:Why does the woman in red raise her voice at the man in the plaid shirt?
+a: Because he is asking the man in blue about how much money he made.
+i: Because he is making everyone bored with a long drawn out story.
+q3: Why does the man with the mustache raise his hand near the man in the blue shirt?
+a: He is using body language to indicate that the man doesn't have to answer any more questions.
+i: He is swatting at a fly that landed near the food on the table.
+q4: Why does the man in blue put his hands together when he is answering a question?
+a:He is covering his mouth as he chews, and thinking of the answer to the question.
+i:He is covering his mouth because he feels sick from eating the dinner that was served.
+q5:Why does the woman smile at the man in blue at 0:28?
+a:She knows he is about to give an answer that the others will find fascinating.
+i:She knows he is about to lie and get away with it.
+q6:What is the tone like among the people at the table, at the end of the video?
+a: There is a lighthearted atmosphere with everyone enjoying the mans funny answer to the questions.
+i: There is an awkward atmosphere with everyone knowing the man lied about his answer.

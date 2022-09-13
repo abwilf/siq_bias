@@ -1,0 +1,19 @@
+
+q1: What is the tone of the woman at the beginning of the video?
+a: She is very frustrated.
+i: She is upset and crying into her pillow.
+q2: Why does the woman slowly look away from her pillow?
+a: She is surprised because she wasn't expecting anyone else to be there.
+i: She hurt her neck so she has to turn her head slowly.
+q3: Why does the woman hurridly fix her appearance in the mirror?
+a: She wasn't to be inconspicuous about wanting to look good for the man.
+i: She is late for an appointment and is rushing to get ready.
+q4: How does the man feel about morning?
+a: He is enthusiastic about mornings.
+i:He is not a morning person at all. 
+q5: How does the man show that he is amused by the woman? 
+a: He smiles to show that he is amused.
+i: He laughs to show that he is amused.
+q6: Does the woman enjoy the man's company?
+a: Yes, she likes the man and enjoys his company.
+i: No, she is annoyed that the man interrupted her. 

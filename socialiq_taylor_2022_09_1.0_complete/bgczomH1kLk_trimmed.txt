@@ -1,0 +1,21 @@
+q1: How does the woman at the table react to the man in the blue suit shouting?
+a: She looks stunned
+i: She looks angry
+q2: Why does the man in the refrigerator cover his face?
+a: He feels ashamed
+i: He isn't supposed to be eating
+q3: How does the man in the blue suit feel?
+a: Angry
+i: Appreciative
+q4: How does the man in the refrigerator feel to learn there is another show?
+a: Surprised
+i: Excited
+q5: What does the man in the blue and white hat think about their being another show?
+a: He thinks it should be obvious
+i: He thinks it is unnecessary
+q6: Why does the man in the refrigerator think another show is unnecessary?
+a: He thinks there is nothing to talk about
+i: He thinks people won't watch on Sundays
+
+
+

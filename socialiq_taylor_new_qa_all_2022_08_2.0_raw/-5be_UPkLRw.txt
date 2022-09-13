@@ -1,0 +1,18 @@
+q1:How does the man with the mustache the tension between him and the younger man in the suit at the beginning?
+a:He tells a joke that makes the younger man smile.
+i:He tells the younger man about the traditions in their house.
+q2:How does the man in the suit react when he hands the man with the mustache his letter?
+a:He is anxiously waiting for the man to read it, and looking for his approval.
+i:He is waiting for the right opportunity to leave the room, because he going to be late.
+q3:How does the tone shift when the man with the mustache opens the letter?
+a:He realizes that this is serious, and the younger man is opening up to him.
+i:He realizes that someone else wrote the poem, and the younger man stole it.
+q4:Why did the older man with the mustache lie about not being able to read the letter without his glasses?
+a:He wanted the younger man in the suit to read the poem, so he could hear it straight from him.
+i:He didn't truly want to read the letter, so he was trying to stall.
+q5:Why does the man in the suit start speaking along with the older man as he is reading the poem?
+a:He has the poem memorized and wanted to emphasize the importance of the writing.
+i:He is trying to trick the man into making a mistake while reading what he wrote.
+q6:What is the tone of the two men as the poem is being read?
+a:The men are serious, because the poem has significant meaning to the younger man.
+i:The men are lighthearted, because the poem is full of inside jokes.

@@ -1,0 +1,19 @@
+
+q1: How does the woman feel when she first holds up the gun?
+a: She is pleased and enjoys his pain.
+i: She is scared to be put in that situation.
+q2: How does the woman feel about the man in the suit?
+a: She has severe hatred for the man. 
+i: She is deeply in love with the man.
+q3: What is the tone of the man in the suit?
+a: He is worried and uncertain what is going to happen next.
+i: He is angry that the woman has betrayed him.
+q4: Why does the woman look pleased at :40?
+a: She looks pleased because they caught the man's confession on tape.
+i: She looks pleased because the man has agreed to her terms.
+q5: What is the relationship between the woman and the man in the tan suit?
+a: They are in cohoots together
+i: The man in the tan suit is the womans brother.
+q6:
+a:
+i:

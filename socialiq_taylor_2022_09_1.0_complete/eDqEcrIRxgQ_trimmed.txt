@@ -1,0 +1,18 @@
+q1: Does the man in the center seem convinced by the other man's claims?
+a: Yes
+i: No
+q2: Why does the man not believe in consuming meat?
+a: For health purposes
+i: For religious purposes
+q3: What evidence does the man provide to support his claims?
+a: The death of a loved one
+i: His hospital stint
+q4: Is the man serious in his claims?
+a: Yes
+i: No
+q5: What does the man believe you should be?
+a: Vegan
+i: Vegetarian
+q6: How does the man feel to be learning these facts?
+a: He is very surprised 
+i: He finds them very questionable

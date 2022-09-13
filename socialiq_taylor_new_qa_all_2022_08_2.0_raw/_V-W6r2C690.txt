@@ -1,0 +1,18 @@
+q1:Why does the girl in the wheelchair laugh when the boy shows her the prototype?
+a:She laughs because what he made looks really bad.
+i:She laughs because she has already seen the prototype.
+q2:What is the tone of the boy when he asks her "you don't like it"?
+a:His tone is sarcastic, because he knows it doesn't look good.
+i:His tone is angry, because he worked very hard on the project.
+q3:How does the girl feel when she sees the second prototype?
+a:The girl feels surprised because she was not expecting to like it so much.
+i:The girl feels upset because it doesn't look how she hoped it would.
+q4:How does the boy show he is nervous to give the girl in the hat her real gift?
+a:He slowly reveals the gift and hesitates to look at her to see her reaction.
+i:He peels the cover off quickly and stares at her right away.
+q5:Why does the boy show her the first prototype?
+a:To lighten the mood before showing her something that is very real and serious.
+i:To make her think he didn't care about making it correctly.
+q6:What is the tone of the relationship between the two people?
+a:The tone is friendly, because they laugh together.
+i:The tone is angry, because she doesn't like his work.

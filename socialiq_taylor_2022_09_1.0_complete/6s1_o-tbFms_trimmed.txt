@@ -1,0 +1,18 @@
+q1: Why does the man sound concerned?
+a: The topic he is talking about is something serious and important to him that worries him.
+i: He is worried about the wellbeing of the woman.
+q2: What is the relationship between these two people?
+a: They seem to have just met and are doing a professional interview.
+i: They seem to know each other well and are great friends.
+q3: Does the man sound knowledgeable? 
+a: Yes, he is well-versed in the topic he is speaking about and confident while speaking.
+i: No, he is stuttering over his words and seems anxious.
+q4: Does the woman appear to be paying attention to the man?
+a: Yes, she watches him speak, nods to show agreement, and waits until he is done speaking to reply.
+i: No, she does not look at the man and tries to interrupt him.
+q5: What kind of facial expression does the man have while he is talking?
+a: His facial expression is serious and concerned, but in a soft manner.
+i: His facial expression is angry and confrontational.
+q6: Why does the woman look downward while speaking?
+a: She is looking at her notes to better converse with the man about the topic.
+i: She is watching ants cross the floor while she speaks.

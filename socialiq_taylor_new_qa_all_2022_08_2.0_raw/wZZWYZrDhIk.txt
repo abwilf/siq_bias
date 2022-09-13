@@ -1,0 +1,18 @@
+q1:What is the tone of the man when he asks "is there something you want to tell me"?
+a:The tone is excited, like he cannot wait to hear the answer to his question.
+i:The tone is sarcastic, like he is waiting to catch the other man in a lie.
+q2:Why does the woman with the black hair look at the man next to her after the question is asked?
+a:She is waiting for him to answer and nervous to hear what he says.
+i:She thought he didn't understand the question and is seeing if he needs it repeated.
+q3:Why does the blonde woman touch the hand of the old man at the end of the table?
+a:She playfully wants him to stop what he is saying.
+i:She is sick of him interrupting and is demanding that he stop.
+q4:How does the longer haired man indicate that he is embarrassed?
+a:He hides his face in his sweater so they cannot see his face.
+i:He looks to his friend at the table indicating that he wants to leave.
+q5:Are people around the table being friendly with the man with long hair?
+a:Yes, they tease the man in a friendly manner. 
+i:No, they are rude about the mans team because they dislike him and want him to leave
+q6:Is the man with long hair upset that no one else at the table likes the same team as him? 
+a:No, he understands that he just has a different opinion that the other people.
+i:Yes, he is upset that everyone else at the table picks on him simply because he likes another team.

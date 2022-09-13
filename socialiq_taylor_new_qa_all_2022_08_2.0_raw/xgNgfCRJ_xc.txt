@@ -1,0 +1,18 @@
+q1:What is the relationship between the two girls?
+a:They are friends, because they are nice and recognize eachother.
+i:They are strangers, because they didn't know eachother before the blonde got in.
+q2:Why does the brunette girl look confused when the blonde opens a bag of chips?
+a:She doesn't understand how she purchased the chips.
+i:She is mad that the blonde girl didn't get her any chips.
+q3:Why does the blonde girl look annoyed when the brunette asks her about money?
+a:She is annoyed that she is calling her out.
+i:She feels guilty because she stole the chips from the brunette girl.
+q4:Why does the brunette girl hesitate when she goes to eat the candy from the bag?
+a:She feels guilty eating it and wants to make a point.
+i:She feels bad for not sharing the candy with the blonde girl.
+q5:How does the blonde girl change her tone when the brunette girl tries to get out of the car?
+a:She becomes upset and scared, she doesn't want her to leave.
+i:She becomes irate and mad, she wants her to hurry up and go.
+q6:Why doesn't the brunette girl answer the blonde at the end?
+a:She doesn't want to acknowledge the rude comment so she ignores her.
+i:She couldn't think of an insult to say back to her.

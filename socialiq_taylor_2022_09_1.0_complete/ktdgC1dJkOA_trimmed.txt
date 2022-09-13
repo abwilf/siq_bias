@@ -1,0 +1,18 @@
+q1:Is the man with the light purple shirt interested in the conversation?
+a:Yes, shown by him thinking about what to say and adding more to the conversation.
+i:No, shown by him staring downwards and not adding much to the conversation.
+q2:Does the man with the red tie feel angry about what the woman says?
+a:No, he continues with what she says respectfully.
+i:Yes, he contradicts what she says disrespectfully.
+q3:Is the woman confident while speaking?
+a:Yes, she has a serious and professional tone while maintaining eye contact.
+i:No, she has a joking and playful tone while maintaining eye contact.
+q4:Why does the man in the red tie ask Derek to verify his information?
+a:He wants to check with him to make sure what he is saying is accurate.
+i:He wants to put him on the spot to make sure what he is saying is noted.
+q5:Why does the man in the light purple shirt smile at 0:52?
+a:He agrees with the fact that the case must be brought to a jury.
+i:He disagrees with the fact that the case must be brought to a jury.
+q6:Why does the man in the light purple shirt move his water glass when he begins speaking?
+a:He is fidgeting while he decides what he wants to say.
+i:He is frightened that he will decide to say something offensive.

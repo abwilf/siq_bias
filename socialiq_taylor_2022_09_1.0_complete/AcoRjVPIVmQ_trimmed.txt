@@ -1,0 +1,18 @@
+q1: Why does the woman repeat a word at 00:08?
+a: She is repeating the word to emphasize the point she is trying to convey.
+i: She is having trouble pronouncing the word and trying to correct herself.
+q2: How does the woman feel about the person she is talking about near the end of the video?
+a: She is impressed by him and admires him.
+i: She thinks he is a terrible person that does terrible things.
+q3: What does the woman's tone convey about how she feels about the topic?
+a: Her tone is knowledgeable and serious, but light-hearted, suggesting she is enjoying and interested in the topic she is discussing.
+i: He tone is angry and she is speaking loudly, suggesting she is angry about the topic she is discussing.
+q4: What seems to be the point of the speech the lady is giving?
+a: She is describing the topic and how it made her feel in knowledgable way, suggesting she is making a review to tell her audience her opinion of the topic.
+i: She seems to be speaking mindlessly, with no certain reason to be doing so.
+q5: Why does the woman hold the book up while she speaks to the camera?
+a: She is speaking about the item she is holding and is using the item to better clarify the focus of the topic to the audience.
+i: She is about to throw it at the camera because she is angry with it.
+q6: Why does the woman furror her brows sometimes as she speaks.
+a: She does this because she is concentrating on what to say next.
+i: She is making silly faces to make the audience laugh.

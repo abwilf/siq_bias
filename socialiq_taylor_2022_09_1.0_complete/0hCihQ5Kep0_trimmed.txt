@@ -1,0 +1,18 @@
+q1: What is the goal of the people working in the organization?
+a: To help children progress in their development.
+i: To help children find a loving family.
+q2: How do the teachers interact with the children?
+a: In a playful manner.
+i: In a strict manner.
+q3: What is the mood of the classroom at 0:37?
+a: Lighthearted.
+i: Intense.
+q4: What does the girl's behavior while sitting on the woman's lap indicate?
+a: The level of comfort between them
+i: The level of awkwardness between them
+q5: Why does the instructor at 0:15 give the boy the green object?
+a: It is a reward during their lesson.
+i: It is to be used as a hall pass.
+q6: Why does the woman mention her background?
+a: To strengthen her credibility.
+i: To brag about her credentials.

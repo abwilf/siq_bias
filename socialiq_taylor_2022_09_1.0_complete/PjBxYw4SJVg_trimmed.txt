@@ -1,0 +1,20 @@
+
+
+q1:What is the tone of the woman?
+a: She is joking in a very sarcastic manner.
+i: She has a very serious tone.
+q2: Does the woman feel that she is similar to the character she played?
+a: Yes, she has similarities between the character in herself. 
+i: No, she doesn't think they have any similarites at all.
+q3: Why does the audience react in a negative way at :16?
+a: They are upset she doesn't want to share her secret.
+i: They are upset at the joke she just said.
+q4: why does the woman cover her her mouth with her hand?
+a: She does this because she is laughing and being coy.
+i: She does this because she had to burp
+q5: What is the relationship between the two people?
+a: They are friendly with one another
+i: They are in a romantic relationship.
+q6: Is the woman being serious about having a secret?
+a: No, she doesn't really have a secret to share.
+i: Yes, she has a secret and doesn't want to share it.

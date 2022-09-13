@@ -1,0 +1,23 @@
+q1: Why is the girl in the green shirt shouting? 
+a: She is shouting because her castle is ruined. 
+i: She is shouting because she is hungry. 
+
+q2: Why does the girl wearing a green shirt get defensive?
+a: She is trying to defend her castle against it getting ruined. 
+i: She senses that her father is being disrespected.
+
+q3: Why would the father destroy his kids' castle? 
+a: His kids would not be happy and excited otherwise.
+i: The father is feeling ornery, he wants his kids to be sad for a bit.
+
+q4: How does the father feel about the mess he and his children are making?
+a: The father doesn't notice, as he's very much absorbed with playing with his kids.
+i: The father is a bit worried, he mentions "clean up" a few times while playing with his kids.
+
+q5: Do the children know this is a game?
+a: Yes, the children are horsing around and having fun.
+i: No, the children are taking the whole affair very seriously.
+
+q6: Is the girl in the red shirt aware she is helping film a televised production?
+a: Yes, she confidently addresses her audience when her father turns the camera on her.
+i: No, she addresses her father as if he was the only person there.

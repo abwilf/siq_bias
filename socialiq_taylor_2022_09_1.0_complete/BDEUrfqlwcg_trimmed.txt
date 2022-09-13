@@ -1,0 +1,18 @@
+q1: What does the man in glasses think of the plan?
+a: He thinks it's good
+i: He thinks it's stupid
+q2: What does the facial expression of the man on the left at 0:13 convey?
+a: Seriousness
+i: Friendliness
+q3: Who is a part of the plan in discussion?
+a: The man on the right
+i: The man on the left
+q4: Why does the man in glasses give details on the plan?
+a: He wants there to be no misinterpretations
+i: He wants people to vote for it
+q5: What does the man on the left wish to do?
+a: Clarify details of the plan
+i: Clarify details of the itinerary
+q6: Why is the man in glasses supporting the plan?
+a: He sees it as beneficial for many
+i: It aligns with his passions

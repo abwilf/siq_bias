@@ -1,0 +1,18 @@
+q1:Does it seem like the man with the glasses wants to be there?
+a:No, he is sighing, looking down and looks uncomfortable.
+i:Yes, he is paying close attention to everything being said.
+q2:What does the woman feel about her marriage?
+a:She wants things to go back to the things they used to be in their relationship. 
+i:She is indifferent because she does not love the man anymore anyway.
+q3:Why does the man in the glasses talk very fast when the other man is asking him questions?
+a:He is annoyed by the questions and doesn't want to answer them, so he is trying to shut him down.
+i:He is ashamed by his actions, and doesnt want to admit to it.
+q4:Why does the man in the glasses scoff at 0:48?
+a:He disagrees with what the woman has said about their relationship.
+i:He is trying to interrupt the woman before she reveals a secret of his.
+q5:Why does the man get upset towards the end of the video?
+a:Because he thinks that the woman is dismissing the fact that they have been together for a long time.
+i:Because he thinks that the woman is going to get her way if he doesn't say anything.
+q6:Why does the woman smile after the man talks about paying all of the bills?
+a:She is embarrassed that he is saying this to the man and is very uncomfortable.
+i:She thinks what he said was funny, although she is still mad at him.

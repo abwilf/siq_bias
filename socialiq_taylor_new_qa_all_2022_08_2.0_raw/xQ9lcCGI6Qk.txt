@@ -1,0 +1,18 @@
+q1:How do the three men react when the door buzzer goes off?
+a:They all look surprised, because they weren't expecting anyone.
+i:They all look upset, because someone is there to hurt them.
+q2:What is the tone of the man with the drink when he finds out who is at the door?
+a:He has a very angry tone, because he doesn't want anyone else to join them.
+i:He has a very excited tone, because he wants more people to join.
+q3:What is the relationship between the three men?
+a:Their relationship is close friends, because they are talking to eachother about personal things.
+i:Their relationship is coworkers, because they don't have much in common except work.
+q4:Who is the most dominant person in the room?
+a:The man in the black hooded sweatshirt is the most dominant because he is the loudest and most emotional.
+i:The man in the gray long sleeved shirt is the most dominant because he is the one making a scene.
+q5:Why does the man in the button up shirt nod his head at 0:46?
+a:He is agreeing with what the man in the black hooded sweatshirt is saying.
+i:He is agreeing with what the man answering the door is saying.
+q6:Does the man in the long sleeved gray shirt want the guest to come in?
+a:Yes, he buzzed her in and wants to hang out with her.
+i:No, he tried to get her to leave but she didn't.

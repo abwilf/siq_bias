@@ -1,0 +1,25 @@
+q4: What does the woman mean by saying the man broke the internet?
+a: He's popular
+i: He's bad with technology
+q5: What does the woman compliment the man on?
+a: His appearance
+i: His intelligence 
+q6: Does the woman think the man is attractive?
+a: Yes
+i: No
+q7: Why does the man shift toward the woman at 0:49?
+a: He is enjoying the conversation
+i: She asked for his attention
+q9: What does the woman's relation to the man seem to be?
+a: She is a fan of his
+i: She is a friend of his
+q15: How does the woman portray the man's fans as?
+a: Passionate
+i: Crazy
+
+
+
+
+
+
+

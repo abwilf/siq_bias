@@ -1,0 +1,19 @@
+
+q1: What is the tone of the man in the light suit?
+a: He is a bit anxious at the beginning but remains calm for the most part.
+i: He is angry that the man in the blue jacket wont leave him alone.
+q2: Why is the man in the blue jacket asking so many questions?
+a: HE is asking so many questions because the man in the light suit can't talk and the man in the blue jacket is anxious about why.
+i: He is asking so many questions because he wants to make sure he does his job to the best of his ability.
+q3: Is the man in the blue jacket confident?
+a: No, he is not confident at all.
+i: Yes, he is very confident.
+q4: How does the man in the blue shirt react to the man in the blue jacket admitting to kissing his wife?
+a: He is shocked that the man in the blue jacket kissed his wife.
+i: He shows no emotion because he knows the man in the blue jacket is lying about kissing his wife.
+q5: How does the man in the blue jacket's tone change from the beginning of the vide to the end?
+a: He goes from calm to frantic over the course of the video.
+i: He goes from calm to angry of the course of the video
+q6: Why does the man in the blue jacket keep coming back into the room?
+a: He keeps coming back because he is worried and concerned about what the man in the blue shirt thinks of him.
+i: He keeps coming back into the room because he initially forgets what he wants to say then remembers when he walks out.

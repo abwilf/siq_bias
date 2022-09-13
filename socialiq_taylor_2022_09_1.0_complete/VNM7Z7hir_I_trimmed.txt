@@ -1,0 +1,23 @@
+q1: Why is the man in the brown screaming at the woman in the black?
+a: The man in the brown screams at the woman because he is trying to be funny. 
+i: The man in the brown screams at the woman because he is angry at her.
+
+q2: Why does the man in the leather jacket snap his fingers?
+a: He is trying to show that he wants things to happen right now.
+i: He is trying to show that he wants to sing.
+
+q3: Is the car driver scared of the random people in his car?
+a: No, he seems pretty relaxed by the random people.
+i: Yes, he seems anxious by the increased attention.
+
+q4: How does the man driving the car feel about being involved?
+a: He is happy to have them in his car. 
+i: He regrets letting them into his car. 
+
+q5: Are they joking when they ask about good weed spots?
+a: Yes, because no one asks for weed in public. 
+i: No, because no one is laughing.
+
+q6: How does the man in the tan shirt feel about standing on the corner of the sidewalk?
+a: He in uncomfortable because he thinks it isn't a good look for the group.
+i: He is happy to stand on the corner as long as everyone else wants to.

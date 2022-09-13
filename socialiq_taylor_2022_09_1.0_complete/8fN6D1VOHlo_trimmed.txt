@@ -1,0 +1,18 @@
+q1: What does the man with glasses commend Rick Perry on?
+a: Him asking other candidates questions.
+i: Him answering other candidates' questions.
+q2: Is Romney the first choice of candidate for the man with glasses?
+a: No.
+i: Yes.
+q3: Why does the man with glasses think Barack Obama should be nervous?
+a: Romney is a strong candidate.
+i: The country may face an attack soon.
+q4: How did the man with glasses feel about the debate overall?
+a: Positive.
+i: Hopeless.
+q5: What is the tone of the man sitting behind the desk?
+a: Curious.
+i: Informative.
+q6: Why does the man ask for the report of the man with glasses?
+a: He values his opinion.
+i: He is being sarcastic as he does not care what he thinks.

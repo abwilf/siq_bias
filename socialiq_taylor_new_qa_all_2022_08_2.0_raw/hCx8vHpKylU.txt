@@ -1,0 +1,19 @@
+
+q1:How does the woman show that she is happy?
+a: She smiles really big and giggles.
+i: She jumps up and down with happiness.
+q2: What is the tone between the two men conversing?
+a: The tone is angry and aggressive.
+i: The tone is sad and solemn.
+q3: How does the man in the tie show that he is angry?
+a: He grabs the phone and screams at the man in the space suit.
+i: He pushes the man in the spacesuit.
+q4: How does the tone of the man in the suit and tie change throughout the video?
+a: He goes from loud and angry to calm and quiet.
+i: He goes from loud and angry to excited and overjoyed.
+q5: Who is more powerful in this situation?
+a: The man in the spacesuit is more powerful.
+i:The man in the suit and tie is more powerful.
+q6: Which of men have more support surrounding them?
+a: The man in the space suit has more support from the men around him.
+i:The man in the suit and tie has more support from the men around him.

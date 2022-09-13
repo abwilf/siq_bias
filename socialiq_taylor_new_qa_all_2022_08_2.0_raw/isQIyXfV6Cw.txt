@@ -1,0 +1,19 @@
+
+q1: What is the tone of the man in the brown jacket?
+a: He is curious but also intimidating. 
+i: He is carefree and easy going
+q2: How does the man in the white tank top feel about the man in the brownjacket?
+a: He is annoyed at the man in the brown suits questioning.
+i: He is apathetic about the man in the brown suit.
+q3: How does the man in the brown jacket feel about the man in the white tank tops attitude?
+a: He is indifferent about it.
+i: It angers him very much.
+q4:q3: How does the man in the gray jacket show he is intrigued when he is looking at the book?
+a: The man in the gray jacket shows he is intrigued in the book by bringing the book close to his face.
+i: He started reading the book aloud in an enthusiastic manner.
+q5:
+a:
+i:
+q6:
+a:
+i:

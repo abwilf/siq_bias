@@ -1,0 +1,18 @@
+q1:Why does the man in the blue shirt reach toward the passing golf cart?
+a:He is greeting the man driving the golf cart.
+i:He is angry at the man in the golf cart for driving in front of them.
+q2:Why does the shorter man in the light blue give the man in the hat two shirts?
+a:He is giving him the shirts as a gift.
+i:He wants the man in the hat to change from his dirty shirt into a clean one.
+q3:How do the men in the blue shirts show their appreciation of each other?
+a:They greet each other warmly and hug.
+i:They yell across the court to each other but stay far apart.
+q4:Why do the two men sit down in the seats together?
+a:They sit to have a conversation in a comfortable spot.
+i:They are tired from playing a game together and need to rest.
+q5:How does the man in blue react to seeing the inside of the building when he first reacts?
+a:He is surprised because it looks different than it used to when he was last there.
+i:He is annoyed at being in the building.
+q6:What is the tone of the video?
+a:It is laid back and entertaining.
+i:It is hostile and upsetting.

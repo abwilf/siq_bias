@@ -1,0 +1,19 @@
+
+q1: Why does the man in the black jacket looked confused at the beginning?
+a: He is trying to figure out how he knows the older woman.
+i: He doesn't know who the lady in the blue shirt is.
+q2: Does the man in the light blue shirt know who the older woman is?
+a: Yes, he knows exactly who she is.
+i: No, she looks familiar but he cannot place her.
+q3: How does the man in the dark blue shirt react to hearing the woman's identity?
+a: He is surprised
+i: He is indifferent.
+q4: How does the lady in blue show that she is confused at :18?
+a: She squints her eyes and questions the man in the light blue?
+i: She furrows her brows and glances up
+q5:Why does the older lady tap the man in the dark blue shirt at :54?
+a: She does this because she is embarrassed at his compliment.
+i: She does this because she is annoyed at the man.
+q6: Why does the woman with red hair stand up?
+a: She stands up because she wants to leave.
+i: She stands up because she wants to join the conversation.

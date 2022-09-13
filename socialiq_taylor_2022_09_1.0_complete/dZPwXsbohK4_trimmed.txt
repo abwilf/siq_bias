@@ -1,0 +1,23 @@
+q3: How does the man think the debate will play out?
+a: He is unsure
+i: He thinks it will go smoothly
+q4: What does the man think of Donald Trump?
+a: He thinks he is unpredictable
+i: He thinks he is optimistic
+q6: How does the woman present herself?
+a: As candid
+i: As defensive
+q7: What does the woman's sentiment about having gotten to know the candidates seem to be?
+a: Negative
+i: Positive
+q8: What does the woman think of the man beside her?
+a: She thinks he is intelligent
+i: She thinks he is stressed
+q9: What does the woman value?
+a: The man's opinion
+i: The man's humbleness
+
+
+
+
+

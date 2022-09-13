@@ -1,0 +1,19 @@
+
+q1: What is the tone of the balding man?
+a: He is very angry and heated
+i: He is apathetic and depressed.
+q2: How does the man in the grey shirt feel about the line of questioning from the balding man.
+a: He is annoyed by the questioning from the blading man.
+i:He is worried and fearful of the questioning from the balding man.
+q3:Is the balding man sincere in his apology?
+a: No, he only apologizes because he is forced to.
+i: Yes, given that he makes eye contact with the man in the grey shirt, he is sincere in his apology.
+q4: Who is the most dominate person in the siutation?
+a: The tall man in the brown suit is the most dominate person in this interaction. 
+i: The balding man is the most dominate person in this interaction because he has more authority over the man in the grey shirt.
+q5: Why does the man in the grey shirt tap the balding man in the chest at :30?
+a:He is trying to start a fight with the balding man
+i:He is playfully tapping him because he is joking around with the balding man.
+q6: How does the man in the grey suit react to the balding man standing up?
+a: He does not think it is a good idea that the balding man is losing his temper.
+i: He eggs on the balding man because he does not like the man in the grey shirt

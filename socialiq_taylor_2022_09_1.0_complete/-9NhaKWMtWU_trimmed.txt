@@ -1,0 +1,23 @@
+q2: Do the men appear to get along well?
+a: Yes, they seem friendly with each other. 
+i: No, they seem awkward around each other. 
+
+q4: Why are the men laughing?
+a: They are playing a funny game with each other. 
+i: They are telling jokes to each other. 
+
+q10: Why is the man on the left laughing at the man on the right?
+a: He thinks some of the game's answers are obvious. 
+i: He thinks all of the man's responses are ridiculous.
+
+q13: Why does the man on the right cover his face with a book near the beginning of the video?
+a: It is his reaction to being overwhelmed with laughter at the other man's answer. 
+i: It is his reaction to being overwhelmed with disappointment at the other man's answer.
+
+q15: Does the man on the left actually believe the man on the right is racist?
+a: No, he is making a joke about what the man on the right has said.
+i: Yes, he is offended at what the man on the right has said.
+
+q18: How does the man on the right feel when he does not get drunk correct?
+a: He feels ashamed because the answer was obvious and he guessed something completely unrelated.
+i: He feels amused because the answer wasn't obvious so he guessed something funny instead.

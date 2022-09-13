@@ -1,0 +1,18 @@
+q1: What does the sentiment of the man on the right seem to be toward being "European about it"?
+a: Negative
+i: Positive
+q2: What does the gesture of the man on the right at 0:25 convey?
+a: Lack of interest
+i: Desire to leave
+q3: How does the man on the right react to hearing about the other man's role?
+a: He is amused
+i: He is impressed
+q4: 
+a: 
+i: 
+q5: Did the man on the left expect the other man to approve of his accent?
+a: No
+i: Yes
+q6: How does the conversation at the beginning of the video seem to make the man on the right feel?
+a: Awkward
+i: Confident

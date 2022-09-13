@@ -1,0 +1,19 @@
+
+q1:What is the tone of the conversation?
+a: It is glum and solemn
+i: It is lightheared.
+q2: Why does the man kiss the woman?
+a: He kisses her to show her that he forgives her.
+i: He kisses her because he is grateful for what she just said.
+q3: Does the woman seem regretful?
+a: Yes, she regrets the past decisions she has made 
+i: No, she stands her ground and is not regretful
+q4: Why does the woman frequently break eye contact with the man?
+a: She is overwhelmed and ashamed by the situation 
+i: She is intimidated by the man.
+q5: Does the man respect the woman?
+a: Yes, he has great respect for the woman.
+i: No, he has zero respect for the woman.
+q6: What is the woman trying to accomplish?
+a: She is trying to be honest with the man and apologize for her mistakes.
+i:She is trying to break up with the man because she doesn't want to be with him anymore.

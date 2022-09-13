@@ -1,0 +1,19 @@
+
+q1: What is the attitude of the woman in the brown jacket towards the woman in black??
+a: She is suspicious of the woman in black.
+i: She is grateful to the woman in black.
+q2: Why does the woman in the brown jacket grab the woman in black?
+a: She is trying to take something away from the woman in black. 
+i: She is angry and wants to fight with the woman in black
+q3: Do the two women get along?
+a: No, they do not get along at all.
+i: Yes, they are coworkers who get along well.
+q4: Why does the woman in black look down at :13?
+a: She looks down because she is embarassed 
+i: She looks down because she is trying to get sympathy.
+q5: Why is the woman in black angry at the end of the video?
+a: She is angry because the woman in the brown jacket is making accusations towards her.
+i: She is angry because the woman in the brown jacket lied to her.
+q6:what attitude did the men have toward the situation in the beginning
+a: They are very serious about their job and does not allow any mistakes
+i: The men show indifference towards the situation.

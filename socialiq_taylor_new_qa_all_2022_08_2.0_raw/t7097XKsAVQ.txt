@@ -1,0 +1,19 @@
+
+q1: Why are the group of people gathered?
+a: They are gathered to solve a problem?
+i: They are gathered too plan an event.
+q2: How does the man in the black feel about the dress not selling?
+a: He is upset and confused as to why the dress is not selling. 
+i: He is glad the dress isn't selling because he wanted to keep it.
+q3: What does the woman jump at :50?
+a: She jumped because she is started.
+i: She jumps because she is upset with the man in the black.
+q4: Why does the man in the black grab scissors?
+a: He is trying to prove his point in a dramatic way.
+i: He wants to made edits to the dress in order to make it sell better.
+q5:Why does the man in black look back towards the man in blue?
+a:He looks back at the man in blue because he wants to see the man in blue's opinion.
+i: He looks back at the man in blue because he is suspicious of him.
+q6:How does the lady with blonde hair feel about what the lady in the dark jacket says?
+a: She realizes that it is bad news but is willing to adapt because she expresses an idea to respond to it
+i: She is indifferent to the news because she is confident in her design.

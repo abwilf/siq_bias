@@ -1,0 +1,18 @@
+q1: Why does the voice of the girl wearing the black jacket start to trail off?
+a: She feels hurt as she recalls a traumatic memory and is having trouble continuing to talk about it.
+i: She was distracted by something in the distance.
+q2: Why does the woman in the red shoes swing her feet back and forth?
+a: She is channeling her nervous energy into motion.
+i: She is attempting to run away.
+q3: Why does the girl wearing the black jacket look down at the floor while she is talked to? 
+a: She is in deep thought as she tries to process what she is hearing along with her thoughts.
+i: She was looking down to show she was uninterested.
+q4: Is the woman in grey happy?
+a: No, she is frowning and looks very serious and tense.
+i: Yes, she is smiling and laughing.
+q5: Why doesn't the audience laugh, clap, or cheer?
+a: It is a serious and tense situation and it would be inappropriate to laugh, clap, or cheer.
+i: They are uninterested in what is happening.
+q6: Why does the girl in black shake her head at 00:26?
+a: She is disagreeing with what the man just said.
+i: She is listening to music and shaking her head with the beat.

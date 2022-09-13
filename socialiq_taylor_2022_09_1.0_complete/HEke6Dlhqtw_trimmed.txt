@@ -1,0 +1,18 @@
+q1: How can the man's interruption be characterized?
+a: As awkward
+i: As urgent
+q2: Does the man in white think crowds can always be trusted?
+a: No
+i: Yes
+q3: How does the woman contribute to the conversation?
+a: She gives an example to support the man on the right's opinion
+i: She gives an example of why she thinks the man on the right's opinion is wrong
+q4:
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

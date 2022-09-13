@@ -1,0 +1,18 @@
+q1: How does the man on the left react to the man on the right's insult?
+a: The man on the left was ashamed and drew into himself.
+i: The man on the left grew angry.
+q2: Why does the man on the right laugh when the man on the left walked away?
+a: He was surprised the man left and it was amusing to him.
+i: He has just been told a funny joke.
+q3: What is the tone of the man in the blue shirt?
+a: The man in the blue shirt has a sarcastic tone.
+i: The man in the blue shirt has a soothing tone.
+q4: How is the man on the right showing anxiety?
+a: He is often looking around nervously and holds his hands together in an anxious way.
+i: He yells and cries often.
+q5: Why does the man on the left move backward quickly at 00:42?
+a: He does not agree with what the other man said and is surprised by it.
+i: He is afraid the other man is going to attack him.
+q6: Why are the people in the background kicking objects to each other?
+a: They are playing a game together.
+i: They are trying to hurt each other.

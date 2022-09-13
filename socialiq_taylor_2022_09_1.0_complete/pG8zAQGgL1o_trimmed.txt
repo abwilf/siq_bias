@@ -1,0 +1,18 @@
+q1:What is the tone of the group?
+a: They are having a great time.
+i: They are angry at each other
+q2: Why is the man in the pink tie standing while the rest of the group are sitting?
+a: He is the host of the event.
+i: He is standing because he wants the attention on him
+q3:How does the audience react to the group?
+a: The audience cheers and laughs along with the group
+i: The audience is indifferent to the group.
+q4: Why does the man on the very right wave at his mouth?
+a: He waves at his mouth because he is trying to give a clue to the woman with aqua hair.
+i: He is waving at his mouth because he ate something spicy.
+q5: Is the group on the left successful at guessing the first word?
+a: Yes, they are successful
+i: No, they did not guess it so it passed to the other team.
+q6: What is the relationship between the two people on the left of the man in pink and the two people on the right of the man in the pink tie.
+a: They are opponents.
+i: They are all teammates.

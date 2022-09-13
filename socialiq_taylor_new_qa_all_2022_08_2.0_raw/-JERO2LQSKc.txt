@@ -1,0 +1,18 @@
+q1: Why does the man spin around in the chair?
+a: He is being silly and he's excited to be talking to the other man.
+i: He is angry, because the man isn't agreeing with him.
+q2:Why does the man with glasses not look up when the other man is talking to him?
+a: He doesn't really want to engage in the conversation.
+i: He doesn't want to mess up the paper he is writing.
+q3: Why does the man with the beard open his eyes very wide when talking about unfinished business?
+a:He is excited to go back to an old town they lived in.
+i:He is surprised by the other mans small office.
+q4: Why does the man with glasses sigh when the bearded man makes a joke about being thirsty?
+a:He is frustrated by what the man is suggesting that they do.
+i:He is laughing because the joke the man made was very funny.
+q5:What are the moods of the two men having the conversation?
+a:The bearded man is goofy and the man with glasses is serious.
+i:The bearded man is angry and the man with glasses is sad.
+q6:Why does the bearded man look taken aback when the man with glasses said the town was a black hole?
+a:He is insulted by the comment about the town being bad.
+i:He is shocked that the man remembers what the town looks like.

@@ -1,0 +1,18 @@
+q1: Why is the woman at 0:48 crying?
+a: She is happy for the woman
+i: She misses the woman
+q2: What does the woman's gesture at 0:11 indicate?
+a: That she is nervous for the woman
+i: That she is conspiring against the woman
+q3: What does the woman's stance while singing suggest?
+a: She is confident in her performance
+i: She is new to performing
+q4: What does the behavior of the woman in white point toward?
+a: That she is hoping the woman does well
+i: That she is negatively judging the performance
+q5:
+a:
+i:
+q6:
+a:
+i:

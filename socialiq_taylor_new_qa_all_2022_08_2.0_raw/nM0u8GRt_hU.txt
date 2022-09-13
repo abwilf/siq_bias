@@ -1,0 +1,19 @@
+
+q1: How does the man react to finding out the woman was a cheerleader?
+a: The man is pleasantly suprised.
+i: The man thinks it's silly she was so involved in school.
+q2: Why does the woman wink at the man at :07?
+a: She winks because she is pround of her cheerleading accomplishments.
+i: She winks because she is flirting with the man.
+q3: What is the atmosphere of the room?
+a: It is calm and playful.
+i: It is sad because the woman is talking about her past.
+q4: Why is the man throwing stuff into the trash can? 
+a: He does this in an attempt to get the woman to do something he wants.
+i: He does this because he is simply getting rid of trash.
+q5: How can you tell the woman is shy?
+a: You can tell she is shy because she is reserved and has a hard time making eye contact 
+i: You can tell she is shy because she is very fidgety and doesn't speak much
+q6: Why does the woman grab paper towels and put them on the ground?
+a: She is using them as a prop in her cheer routine.
+i:She is cleaning up a spill

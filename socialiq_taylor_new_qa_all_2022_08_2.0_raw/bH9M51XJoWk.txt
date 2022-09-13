@@ -1,0 +1,18 @@
+q1: Is the woman scared of the man holding the gun?
+a: No, she is not scared of him.
+i: Yes, she is scared of him and does what he says.
+q2: Why is the man pointing the gun at the hamper?
+a: He believes someone is hiding in it.
+i: He is ordering the woman to get inside.
+q3: Why does the woman dump the bucket on the ground?
+a: She is making a point to the man that no one else is in the house
+i: She is creating a distraction for the man.
+q4: Does the man believe the woman?
+a: No, he does not believe her at all.
+i: Yes, he believes the woman.
+q5:q3: Who is dominant in this situation?
+a: They are both equally dominant since the woman is not afraid of the man with the gun
+i: The man is dominant because he has a weapon.
+q6:
+a:
+i:

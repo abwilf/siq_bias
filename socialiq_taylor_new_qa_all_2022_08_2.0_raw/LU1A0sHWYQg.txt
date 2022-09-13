@@ -1,0 +1,19 @@
+
+q1: How can you tell the man in the beige jacket isn't paying much attention to the man in sunglasses.
+a:Because he is walking away from the man in the sunglasses as he is talking to him.
+i: Because he answers the man in the sunglasses questions wrong.
+q2: How does the man in the sunglasses react to the man in the beige jacket not paying attention to him?
+a: He becomes irritated with the man in the beige jacket.
+i: He becomes indifferent to the man in the beige jacket.
+q3: How does the man in the sunglasses intially react to the man in the beige jacket knowing about his car?
+a: He is very confused as to how the man in the beige jacket knows about the car.
+i: He becomes skeptical of the man in the beige jacket.
+q4: Is the woman invested in what is going on between the two men?
+a: Yes, she follows the men around with her eyes which indicates she is invested in what is going on with them.
+i: No, she doesn't care about the situation between the men at all.
+q5: why does the man with the sunglasses follow the man in the beige jacket around?
+a:He does this because is trying to get more information out of the man in the beige jacket.
+i: He is angry with the man in the beige jacket and wants to argue with him.
+q6:
+a:
+i:

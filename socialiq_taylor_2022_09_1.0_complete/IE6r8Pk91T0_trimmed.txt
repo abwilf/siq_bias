@@ -1,0 +1,18 @@
+q1: Why is the girl shouting at 0:06?
+a: Out of joyfulness
+i: She is frustrated with the other children
+q2: What are the children looking forward to?
+a: Traveling
+i: Breakfast
+q3: Do the children at the end of the video seem afraid of the police officer?
+a: No
+i: Yes
+q4: How does the man react to the girl shouting at the beginning of the video?
+a: He agrees with her
+i: He smiles at her
+q5: Why does the girl screech "mommy" at 0:21?
+a: In response to her mother's sarcasm
+i: She needs her mother's help
+q6: Do the children get along well?
+a: Yes
+i: No

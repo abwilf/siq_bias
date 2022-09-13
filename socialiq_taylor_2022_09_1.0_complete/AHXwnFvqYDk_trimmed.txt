@@ -1,0 +1,20 @@
+q1: What does the man imply by likening Trump to a cousin?
+a: The worst should be expected from him
+i: He is a prankster
+q3: Why does the man smirk after writing on the paper?
+a: He knows his audience enjoyed it
+i: He knows his audience wants to read it
+q4: Why is the man quickly scribbling on the paper?
+a: He is being dramatic
+i: He is in a rush
+q5: Why does the man's eyes widen at 0:09?
+a: He is being dramatic
+i: He is shocked
+q8: How does the man feel about Trump's actions and words?
+a: Unsurprised
+i: Disgusted
+q9: Does the man have a negative opinion of Trump?
+a: Yes
+i: No
+
+

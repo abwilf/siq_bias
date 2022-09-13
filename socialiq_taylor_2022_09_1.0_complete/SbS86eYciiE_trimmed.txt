@@ -1,0 +1,18 @@
+q1: What is the tone of the conversation?
+a: The tone is inquisitive and understanding
+i: The tone is stark and unsure
+q2: How does the man in the blue shirt communicate non-verbally?
+a: He communicates non-verbally by talking with his hands and making eye contact with everyone
+i: He communicates non-verbally by shaking his head and looking at the floor
+q3: How do listeners in the group express that they are paying attention?
+a: They nod their heads and make eye contact
+i: They slouch in their chairs and look around the room
+q4: Why does the group laugh at 0:26?
+a: They laugh to express agreement 
+i: They think the woman speaking is ridiculous
+q5: Why does the man speaking at 0:32 squint his eyes slightly?
+a: He uses his facial expression to enhance the meaning of his words
+i: He uses his facial expression to show others that he is angry
+q6: What is the attitude of the group members who do not speak?
+a: They are attentive but bored
+i: They are fully engaged and responsive

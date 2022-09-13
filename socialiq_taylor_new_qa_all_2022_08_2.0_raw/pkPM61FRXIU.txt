@@ -1,0 +1,19 @@
+
+q1:How does the woman feel towards the man?
+a: She is friendly and thankful for the man.
+i: She is indifferent towards the man.
+q2: What is the dynamic between the man and the woman?
+a: The are long time friends and business associates.
+i:They  are husband and wife
+q3: Why does the man start yelling?
+a: He starts yelling because he is passionate wants the woman to know how serious the decision she is making is.
+i:  He starts yelling because he is angry with the woman.
+q4: How does the woman react to the man raising his voice?
+a: She is taken aback by his yelling.
+i: She is angry at the man for raising his voice at her.
+q5: How does the man feel about Nixon?
+a: He has a lot of disdain for Nixon.
+i: He thinks Nixon is a great person.
+q6:Why did the woman shake her head as she was talking in the beginning
+a: She wants to emphasize how important he is to her and express her gratitude to him
+i: She shakes her head because she is incredibly disappointed in the man.

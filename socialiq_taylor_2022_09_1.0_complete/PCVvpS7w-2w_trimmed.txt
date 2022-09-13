@@ -1,0 +1,19 @@
+
+q1:What does the man in the blue feel is a necessary quality a quarterback must have?
+a: He believes they must be a leader.
+i: He believes they must have a good arm.
+q2:Why does the interviewer open his arms wide open?
+a: The man does that to indicate the vastness of the stadium
+i: The man wants to hug
+q3: What is the dynamic of the 2 men? 
+a: The man in the black is interviewing the man in the blue.
+i: The man in the blue is interviewing the man in the black.
+q4: Does the man in the black shirt think that the man in the purple shirt is lazy? 
+a: No, he find the lazy incident the man mentioned humorous but not indicative of a trend. 
+i: Yes, he finds the man very lazy
+q5: Does the man in the blue like fried chicken?
+a: Yes, he does like fried chicken.
+i: No, he does not like fried chicken and does not eat fried chicken.
+q6: Is the man in the blue awkward?
+a: No, he is relaxed and easily answers the questions that are being asked.
+i: Yes, he is awkward and doesn't seem to know how to answer the questions.

@@ -1,0 +1,18 @@
+q1: What is the relationship between the man with the white hair and the man with the black hair?
+a:The man with the white hair speaks politely to the man with black hair, showing that they have an amicable relationship.
+i:The man with black hair speaks grumpily to the man with white hair, showing that they have a strained relationship.
+q2:How does the man with black hair feel about the white haired man at the beginning of the video when he asks him about his socks?
+a:He is skeptical of what he is saying. 
+i:He is convinced about the idea of the socks giving good luck
+q3:How is the white haired mans tone when he says he does go outside?
+a:He is confident and showing that he is capable of more than people think.
+i:He is embarrassed and showing that he is ashamed of what he cannot do.
+q4:Is the man with white hair being hostile to the man with the black hair when he orders him to move?
+a:The man with white hair asks the man with black hair to move so that he can show him something, not to be hostile.
+i:The man with white hair is being hostile towards the man with black hair, as he pushes him rudely out of the way.
+q5:How does the man with black hair react when the white haired man brings out an old typewriter?
+a:He reacts interested, by looking at the machine.
+i:He reacts disinterested, by trying to leave the room.
+q6:What is the dynamic of the relationship between the two men at the end?
+a:The dynamic is teacher and student, because the white haired man is going to teach him something.
+i:The dynamic is coworkers, because they are going to finish a project together.

@@ -1,0 +1,19 @@
+
+q1: What is the tone of the woman in the video?
+a: She is upset and angry
+i: She is jovial and excited.
+q2: Do the man and woman agree?
+a: No the man and the woman disagree with one another.
+i: Yes, the man and woman totally agree and are on the same page as one another.
+q3: Why does the man grabs the woman at :52?
+a: He grabs her because he does not want her to leave.
+i: He grabs her because he is angry with her.
+q4: Does the man want the woman to leave?
+a:No, he does not want the woman to leave.
+i: Yes, he is upset with her and wants her to go away.
+q5: What is the relationship between the man and woman?
+a:The man and woman are married.
+i:The man is the womans boss.
+q6: Why does the man hang his head at :06?
+a: The man is hanging his head in shame and disappointment.
+i:The man is hanging his head because he feels defeated and gives up arguing with the woman.

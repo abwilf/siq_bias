@@ -1,0 +1,19 @@
+
+q1:What is the demeanor of the blonde woman?
+a: she is anxious and flustered
+i: she is angry at the dark haired woman
+q2: How does the dark haired woman feeling towards the blonde woman?
+a: She is angered and cold towards the blonde woman.
+i: She is enthusiastic and happy towards the blonde woman.
+q3: Why does the dark haired woman repeat what the blond woman said at :37?
+a: She repeats the blonde hair woman because she is appalled at what she said.
+i: She repeats the blonde hair woman to make sure she heard her correctly.
+q4: Does the man and the blonde woman know one another?
+a: Yes, they know one another given their interactions 
+i: No, they do not know one another given their interactions.
+q5: Does the blonde woman seem desperate?
+a: Yes, she seems very desperate.
+i: No, she is calm and doesn't seem desperate at all. 
+q6: why does the man put his hand up at at :33?
+a: He is trying to avoid the question the dark haired woman just asked.
+i: He thinks the dark haired woman is wrong in what she said.

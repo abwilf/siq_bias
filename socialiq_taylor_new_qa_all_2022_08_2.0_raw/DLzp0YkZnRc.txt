@@ -1,0 +1,20 @@
+
+
+q1: What is the relationship between the man and woman?
+a: The woman is the man's mother.
+i: The woman is the man's wife.
+q2: How does the woman feel after the man yelled at her?
+a: She is hurt and angry at the man for his awful attitude.
+i: She is ashamed of herself and sorry that she bothered him.
+q3:Why does the man yell at the woman?
+a: He yells at her because he wants her to leave him alone.
+i: He yells at her because she says something insulting to him.
+q4:How does the tone of the woman change during the video?
+a: She goes from calm and supportive to aggrivated and disappointed. 
+i: She goes upbeat and enthusiastic to calm and supportive
+q5: Why does the woman slap the sides of her legs at :34?
+a: She does this because she feels defeated.
+i: She does this because she can't contain her excitement.
+q6:
+a:
+i:

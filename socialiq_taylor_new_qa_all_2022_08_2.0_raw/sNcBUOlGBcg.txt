@@ -1,0 +1,19 @@
+
+q1: What is the tone of the blonde woman?
+a: The woman is indifferent to the conversation.
+i: The woman is upset at the conversation.
+q2: Do the two dark haired men agree?
+a: No, they do not agree at all.
+i: Yes, the whole heartedly agree with each other.
+q3: What is the tone of the man in the tie towards the blonde woman?
+a: He is very condescending to the blonde woman. 
+i: He shows happiness and joy towards the blonde woman.
+q4: Does the man in the blue shirt seem intimidated by the man in the tie?
+a: Not at all, the man in the blue remains calm and cool around the man in the tie.
+i: Yes, you can tell the man in the blue is nervous and scared of the man in the tie.
+q5: Why does the blonde woman not reply to the man in the tie?
+a: She doesn't respond because she is uncomfortable by the conversation.
+i: She doesn't respond because she does not like the man in the tie.
+q6: Why does the man in the light blue shirt shrug his shoulders?
+a: He does this because he is emphasizing that he thinks his opinion is correct
+i: He does this because he is nervous around the man in the tie.

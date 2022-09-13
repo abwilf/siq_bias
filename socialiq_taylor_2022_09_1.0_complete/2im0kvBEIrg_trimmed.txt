@@ -1,0 +1,18 @@
+q1: How can the teams be differentiated?
+a: By the style of their clothing.
+i: By the color of their bandanas. 
+q2: Why does the man have his arm around the woman?
+a: As a sign of friendliness.
+i: He is comforting his wife.
+q3: Why does the woman pump her fist at 0:15?
+a: She gave a good answer. 
+i: Her teammate gave a good answer. 
+q4: How does the woman express her regret for not giving a different answer?
+a: She snaps her fingers.
+i: She pumps her fist.
+q5: What is the overall mood of the video?
+a: Tense.
+i: Sad.
+q6: Which person in the video has all of the answers?
+a: The man in black.
+i: The woman in red. 

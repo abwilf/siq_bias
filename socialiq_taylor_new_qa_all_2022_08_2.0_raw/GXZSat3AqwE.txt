@@ -1,0 +1,19 @@
+
+q1:Why does the woman with the braided hair point at the couch?
+a: She is asking the other woman to stay and listen to her.
+i: She is pointing out an item that the other woman left on the couch.
+q2:What is the tone between the two women?
+a: It is stiff and awkward.
+i:It is friendly and cordial.
+q3: Does the woman in the ran jacket think the braided hair woman is a good fit for the job?
+a: No, she does not think the braided hair woman has enough experience.
+i:Yes, she thinks the braided haired woman is a perfect fit for the job.
+q4: What is the tone of the braided hair woman at :11?
+a: She is happy and eager to start the job.
+i: She is disappointed in herself that the interview didn't go as well as it could have.
+q5:Why does the woman in gray make a sudden step towards the woman in brown?
+a: She takes a sudden step because she wants the woman to stop and pay more attention to her.
+i: She takes a sudden step because she wants to follow the woman in the tan jacket.
+q6: Is the woman with the braid confident in her skills for the job? 
+a: Yes, she is very confident in her skills and think she would make a great fit for the job.
+i: No, she isn't but she is very willing to learn the skills needed for the job.

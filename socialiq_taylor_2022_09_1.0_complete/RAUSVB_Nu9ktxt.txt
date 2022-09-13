@@ -1,0 +1,18 @@
+q1: How do the two women behave with one another?
+a: They are frustrated and argumentative
+i: They are professional yet friendly
+q2: Why does the woman in the black and white shirt put her hand on her chest?
+a: She is expressing possessiveness of her son
+i: She is experiencing sharp pains
+q3: Why does the man smile when he is on top of the ladder?
+a: He feels entertained
+i: He is excited to be married
+q4: How does the man feel about the argument between the two women?
+a: He is unbothered by it
+i: He is disappointed by it
+q5: How does the woman in the black and white shirt feel about the upcoming marriage?
+a: She is doubtful of its integrity
+i: She is excited to have a new daughter-in-law
+q6: How does the woman in blue feel about being a bitch?
+a: She is proud to be one
+i: She finds it insulting

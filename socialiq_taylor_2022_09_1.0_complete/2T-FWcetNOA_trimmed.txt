@@ -1,0 +1,18 @@
+q1: Does the woman in blue like the question the woman in orange asked?
+a: Yes, she seems ready and excited to answer it.
+i: No, she seems offended that it has been asked.
+q2: How do the people act toward each other?
+a: They are professional and polite while they discuss the topic.
+i: They are excited and hyper around each other.
+q3: Why is the woman in the blue dress stuttering?
+a: She is stuttering because it is a part of her thought process while she finds the proper words to explain herself.
+i: She is scared of the man.
+q4: Why does the man have his hands folded on the desk in front of him?
+a: It is a natural position he is sitting in while listening to the woman speak.
+i: He is holding something in his hands he is hiding from the women.
+q5: Why is the man moving his hands while he talks?
+a: He is gesturing and emphasizing his words as he speaks.
+i: He is trying to reach for something in front of him.
+q6: Which person is the woman in orange talking to?
+a: She is talking to both people, which she makes clear by looking back and forth between the two.
+i: She is speaking to the other woman because she is only looking at her and not the man.

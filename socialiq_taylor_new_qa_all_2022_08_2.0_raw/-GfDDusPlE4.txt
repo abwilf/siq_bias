@@ -1,0 +1,18 @@
+q1:How do we know that the young man and the young woman are friendly with eachother?
+a:They are smiling at eachother and walking together.
+i:They are making plans for their future together.
+q2:Why does the dark haired girl nod her head when introduced to the blonde woman?
+a:She is nervous and nodding her head to seem agreeable and polite.
+i:She has already met the woman and is trying to rush along the introduction.
+q3:Why does the young man look at the young girl with concern at 0:39?
+a:He is confused why she is talking about her uncle commenting on the senators bill
+i:He is worried that she doesn't like him anymore after meeting the blonde woman
+q4:How does the blonde woman react when the man with the black suit on comes into the room?
+a:She looks at him with comtempt, like she doesn't really like him.
+i:She look at him flirtatiously, like she wants to give him a hug.
+q5:Why does the young girl look down when the man in the black suit and the blonde woman are talking?
+a:She wants to make herself small and stay out of the conversation.
+i:She sees something on the floor that caught her attention.
+q6:Why does the blonde woman shake her head while asking to be on the man in black's show?
+a:She is trying to bait him and see what answer he gives her.
+i:She is trying to console him because his show was cancelled.

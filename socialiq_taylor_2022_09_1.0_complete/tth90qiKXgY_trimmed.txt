@@ -1,0 +1,19 @@
+
+q1: How does the man feel about his nickname?
+a: He finds it amusing.
+i: He is disappointed by it.
+q2: What is the tone of the video?
+a: The tone is lighthearted and fun
+i:The tone is serious.
+q3: Why is the boy releived in the beginning of the video? 
+a: He is relieved because they comment did not mention his name
+i: He is reieved because he doesn't have to speak much in the video.
+q4: Was the little girl affected by the negative comment towards her?
+a: No, she doesn't care about the negative comment.
+i: Yes, the comment hurt her feelings.
+q5: Why does the little girl mispronounce the word?
+a: She is pronouncing it the way it is spelled.
+i:She is mispronouncing it because she disagrees with it.
+q6: Why does the man go still at :15?
+a: He goes still because he is posing for the camera.
+i:He goes still because they are playing a game.

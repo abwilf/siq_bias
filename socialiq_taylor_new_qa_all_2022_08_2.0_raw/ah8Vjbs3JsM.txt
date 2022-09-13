@@ -1,0 +1,19 @@
+
+q1: Why does the man in tan surprised at the beginning?
+a:  He is shocked at the news from the ban in the black jacket.
+i: He is shocked that the man in the black jacket is leaving. 
+q2: What is the tone of the man in tan?
+a: He is happy and grateful.
+i: He is indifferent.
+q3: Why does the man in the black grab the man in tans shoulder?
+a: He is trying to ease the man in the tan shirt's worries.
+i: He is trying to intimidate the man in tan.
+q4: Is the man in the black suit happy with the man in tan?
+a: Yes, he is happy to hear that the man in tan appreciates him.
+i: No, he is not happy with the man in tan which is why he leaves.
+q5:
+a:
+i:
+q6:
+a:
+i:

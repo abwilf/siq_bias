@@ -1,0 +1,20 @@
+
+
+q1: How does the woman in the cap feel about the red headed woman?
+a: She believes the red headed woman is over bearing and needs space from her.
+i:She believes the woman in red is not around enough and wants to see her more.
+q2: What is the tone of the woman in the cap?
+a: She is frustrated and annoyed at the red headed woman.
+i:  She is happy to see the red headed woman.
+q3: Does the red headed woman agree with the woman in the cap?
+a: Yes, she understands and agrees with the woman in the cap.
+i:No she does not agree with the woman in the cap at all.
+q4: How does the tone of the woman in the cap change throughout the video?
+a: The tone changes from agitated to more calm.
+i: The tone changes from hatred to mild annoyance.
+q5: Why does the woman in the cap look up?
+a: She looks up because the subject is sensitive and she doesn't want to hurt the red headed woman's feelings.
+i: She looks up because she is lying to the red headed woman.
+q6:
+a:
+i:

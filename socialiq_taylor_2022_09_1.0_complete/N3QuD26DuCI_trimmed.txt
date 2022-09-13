@@ -1,0 +1,18 @@
+q1: Why did Amy enter the bookstore where she was then attacked by protestors?
+a: She was unsuspecting of the protestors
+i: She wanted to confront the protestors
+q2: Why did the protestors feel the need to attack Amy?
+a: They want to protect animal rights
+i: They want to protect her child
+q3: What do the men's wording choices when explaining Amy's situation suggest? 
+a: They sympathize with her
+i: They think she was deserving of it
+q4:
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

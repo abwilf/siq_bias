@@ -1,0 +1,18 @@
+q1: Do both woman sound passionate about poetry?
+a: Yes
+i: No
+q2: 
+a: 
+i: 
+q3: What does the woman on the left express about poetry?
+a: That is is a form of self-care
+i: That it is a form of entertainment
+q4: What does the woman on the left think about poetry overall?
+a: It is undervalued
+i: It is pretentious
+q5: Is the woman on the left happy with the way poetry has evolved?
+a: Yes
+i: No
+q6: What does the woman on the left surround herself with?
+a: Poetry
+i: Other writers

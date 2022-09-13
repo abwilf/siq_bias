@@ -1,0 +1,18 @@
+q1:Why does the shorter man start getting angry at the woman?
+a:He is trying to protect the taller man from her.
+i:He is mad that she cheated on him earlier.
+q2:Why does the tall man do nothing when the other two people begin yelling at eachother?
+a:He doesn't want to get into the middle of their fight.
+i:He knows the fight is not about him so there is no reason to get involved.
+q3:What is the relationship like between the woman with the white hair and the shorter man?
+a:There is a hostile relationship between the woman with the white hair and the shorter man, as they are raising their voices at each other.
+i:There is a lighthearted relationship between the woman and the shorter man, as they are passionate about eachother.
+q4:How does the woman act dismissive towards the tall man in the hat?
+a:When he tells her what he needs, she doesn't acknowledge it.
+i:When he tells her he wants to leave, she lets him go.
+q5:How does the taller man react when the woman wants to work with him on "perception"?
+a:He is contemplating her request and thinks about it for a moment.
+i:He is rejecting her request and wouldn't ever do it.
+q6:Why does the shorter man pat the taller man on the back?
+a:To reassure him he is doing the right thing by going with the shorter man.
+i:To hurry him across the street so they don't get injured.

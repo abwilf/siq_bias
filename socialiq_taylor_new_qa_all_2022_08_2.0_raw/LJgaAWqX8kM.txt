@@ -1,0 +1,19 @@
+
+q1: Why does the woman pause when the man asks about traveling the world?
+a: The woman pauses because the man's is a personal and sensitive one to her and she's recalling something emotional.
+i: The woman pauses because she is annoyed with the man's question.
+q2: What is the relationship between the man and the woman?
+a:The man and the woman are friendly with one another.
+i:The man and the woman are in a romantic relationship with one another.
+q3: Does the man take the woman's list seriously?
+a: No, he does not take her list seriously.
+i: Yes, he takes her list seriously.
+q4: How does the man feel when the woman marks out an item on her list?
+a: He is mildly amused by this.
+i:He is disappointed by this.
+q5:Who is more ambitious between the two individuals?
+a:The woman is more ambitious since the man makes a joke about her goals, showing that they are set very high.
+i: The man is more ambitious because he has one big goal.
+q6: Why is the man drawing in his book?
+a: He is sketching the woman.
+i: He is sketching for a school project they are working on.

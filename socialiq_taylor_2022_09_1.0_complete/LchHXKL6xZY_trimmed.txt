@@ -1,0 +1,18 @@
+q1: Why are the girls throwing presents?
+a: They are doing a gift exchange
+i: They are fighting 
+q2: Why does the girl give a thumbs up at 0:08?
+a: She is excited by the game
+i: She is approving of the other girl's gift
+q3: What does the girl's widened eyes at 0:48 suggest?
+a: She got a bad sunburn
+i: She never wears sunscreen
+q4: Why does the girl throw her arms up at 0:23?
+a: She was successful at catching the ball
+i: She wasn't supposed to catch the ball
+q5: Why does the girl stick her tongue out at 0:34?
+a: She is being playful
+i: She got sand in her mouth
+q6: Why does the girl in the center at 0:40 turn her head away from the girls?
+a: She is protecting herself
+i: She is angry

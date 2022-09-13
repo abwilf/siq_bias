@@ -1,0 +1,19 @@
+
+q1: Why does the man put his hands to his face?
+a: He does this because he feel remorse for his actions
+i: He does this because he is contemplating what to say next.
+q2: How does the man show that he is ashamed of his actions?
+a: He looks down while talking instead of making eye contact with the woman.
+i:  He asks for forgiveness while he weeps.
+q3:Who is the more dominant person?
+a: The woman is the more dominant person.
+i: The man is the more dominant person.
+q4: Why does the woman who enters the room remain silent?
+a: She remains silent since she does not want to interrupt the sensitive situation that's happening.
+i: The woman who enters the room remains silent because she is annoyed with the mn in the white suit.
+q5: How does the man change his tone from the beginning of the video to the end?
+a: his tone changes from irritated to desperate.
+i: his tone changes from indifference to painful.
+q6: Does the woman want to help the man?
+a: Yes, she seems to want to help the man.
+i: No, she is indifferent to the man and does not want to help him

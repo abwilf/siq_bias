@@ -1,0 +1,18 @@
+q1: Why do the man in the green and the man in the blue high-five?
+a: They high-fived to congratulate one another
+i: They high-fived becuase they were told to
+q2: How do the people feel about the woman in the grey v-neck shirt?
+a: They are amazed by her name
+i: They are disinterested in her
+q3: Why do the two people exclaim at the end of the video?
+a: They are amused by the idea that they are both willing to snitch on one another
+i: They are amused by the idea of dating one another
+q4: What is the motive behind the decision of the men in the green and blue shirts?
+a: Their motive is to make the mutually advantagous decision
+i: Their motive is to win prize money
+q5: What is the tone of the video?
+a: The tone is light and inquisitive
+i: The tone is dark and ominous
+q6: What is significant about the result of the last test?
+a: The relationship between the people changed the outcome
+i: The outcome of the last test was what they expected

@@ -1,0 +1,18 @@
+q1: Why does the blonde woman clap at 0:23? 
+a: She successfully started the microwave
+i: She successfully fixed the microwave
+q2: Why are the women having a difficult time in the kitchen?
+a: They are unfamiliar with it
+i: They have never cooked before
+q3: Is the blonde woman a team player?
+a: No, she avoids the cleanup process
+i: Yes, she cleans as the other woman cooks
+q4: How does the woman sitting outside of the kitchen appear?
+a: Content
+i: Nervous
+q5: How does the woman in the blue sweater react to the woman's bowl choices?
+a: She is annoyed
+i: She is amused
+q6: How does the blonde woman avoid responsibility?
+a: She blames the kitchen mess on the other woman
+i: She blames the burnt lasagna on the other woman

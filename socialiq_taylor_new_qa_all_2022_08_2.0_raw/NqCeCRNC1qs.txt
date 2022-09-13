@@ -1,0 +1,19 @@
+
+q1: Why does the man in the grey's voice get louder as the man in the black hat pushes him?
+a: It gets louder out of desperation for the man in the black to listen to him and stop pushing him.
+i: It gets louder because the man in the grey hat is becoming increadingly angry.
+q2: Does the man in the grey hat seem intelligent?
+a: Yes, he seems very smart.
+i: No, he seems the complete opposite of smart.
+q3: What is the relationship between the men in grey and the men in black?
+a: The men in grey are prisoners and the men in black keep the order.
+i: The men in grey work for the men in black 
+q4: What is the demeanor of the man in black when he grabs the man in grey?
+a: He is irate  and aggressive.
+i:  He is enthusiastic and happy.
+q5: How do the people in the background feel about the situation between the man in grey and the man in black?
+a: They are very concern and worried about the current situation.
+i: They are apathetic toward the cuirrent situation.
+q6: Does the man in the black believe what the man in grey is telling him?
+a: He does not believe what the man in grey is telling him so he continues to question the man in grey.
+i: Yes, he believes the man in grey which is why he stops pushing him.

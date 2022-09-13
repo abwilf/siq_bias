@@ -1,0 +1,20 @@
+
+
+q1: What is the atmosphere between the women?
+a: The atmosphere is tense and unhappy.
+i:The atmosphere is sad and heavy.
+q2: Why is there a long pause in the conversation?
+a: There is a long pause because the blonde woman is gatehring courage to say what she needs to say.
+i:There is a long pause because the brunette woman doesn't want to speak to the blonde woman.
+q3: Why do the women look out of the window instead of each other at the end of the video?
+a:  They do this because they are upset with each other and don't want to look at one another.
+i: They do this because the scenery is beautiful.
+q4: Does the blonde woman seem to cope with her problems in a healthy manner?
+a: No, she has very unhealthy coping mechanisms
+i: Yes, she is able to confront her issues head on in a healthy manner.
+q5:How does the woman in blue's tone change throughout the video?
+a: The woman in blue starts off as sarcastic and gradually becomes aggravated towards the blonde woman.
+i: The woman in blue maintains the same tone throughout the entire video.
+q6: Does the woman in blue seem to take the blonde womans concerns seriously?
+a: No, she dismisses the blonde womans concerns.
+i: Yes, she understands the blonde womans concerns and wants to fix the issues.

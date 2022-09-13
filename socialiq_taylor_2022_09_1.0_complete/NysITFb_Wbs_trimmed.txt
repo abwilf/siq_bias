@@ -1,0 +1,23 @@
+q1: Does the man in the glasses agree with the group?
+a: No, he does not agree with their political beliefs. 
+i: Yes, he agrees whole-heartedtly with their political beliefs.
+
+q2: What is the man in the glasses doing to the group of people?
+a: He is interviewing them to better understand their political beliefs. 
+i: He is interviewing them to understand better how to market his product.
+
+q3: Why does the group laugh at the end?
+a: The man in the glasses made a joke about an obvious topic. 
+i: The man in the glasses made a joke that left them uncomfortable. 
+
+q4: How do the six people sitting together feel about the man sitting on his own?
+a: They disagree with him but respect him as a journalist. 
+i: They disagree with him and are are hostile towards him.
+
+q5: Why do the six people sitting together play along with the man's suggestion to pretend that he's their father?
+a: They think it will be helpful to demonstrate a point
+i: They this it will make the man look silly and they are annoyed with him.   
+
+q6: How do the six people sitting together handle the current situation?
+a: They take it in good humor and are very open.
+i: They take it negatively and are very defensive.

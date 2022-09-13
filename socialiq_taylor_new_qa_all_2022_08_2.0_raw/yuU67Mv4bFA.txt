@@ -1,0 +1,18 @@
+q1:How does the old woman show she is not happy?
+a:She is uncooperative with the other woman who tries to cheer her up
+i:She is ignoring the other woman and wants to leave
+q2:How does the woman in blue show she is friendly?
+a:She is nice, despite the older woman being short with her.
+i:She laughs at her, despite the other woman telling her she is upset.
+q3:Why does the older woman smirk at 0:37?
+a:She is thinking about the answer the woman gave and realizing her point of view.
+i:She didn't like the answer the woman gave her and is laughing at her.
+q4:How does the older woman react when she finds out there is chili pepper in her hot chocolate?
+a:She is upset and her tone changes to disgust.
+i:She is excited and her tone changes to interest.
+q5:What emotion does the younger brunette woman show as she gives the cup of hot chocolate to the older woman?
+a:She looks prideful that she made a delicious looking beverage.
+i:She looks embarrassed that she made such an awful looking drink.
+q6:Is the woman in blue confident about her decisions in regards to her daughter?
+a:The woman in blue is a bit unsure if what she's doing is good for her daughter.
+i:The woman in blue is very confident about her decisions because she immediately gets defensive.

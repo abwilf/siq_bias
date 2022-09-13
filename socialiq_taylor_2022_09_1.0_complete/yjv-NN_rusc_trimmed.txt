@@ -1,0 +1,18 @@
+q1: How does the darker haired man react when the white haired man tells how big the house is?
+a: He is shocked because it's so big.
+i:He is shocked because it's not big enough.
+q2: How does the man in the suit feel about the house? 
+a: He is very excited about the house and enjoys showing it.
+i:He can't believe how pricey the house is with such minimal features.
+q3: Why do the men wipe their shoes before they go into the house?
+a: Because the floors cost 1 million dollars.
+i: Because the floors have not been completed yet
+q4: Why does the grey haired man point up?
+a:There is a crow sitting on the roof above them?
+i: Because he is showing the back of the house.
+q5: Why does the man in the blue shirt go on a tour of the home?
+a: He is emphasizing the the difference of his tiny, cheap apartment compared to this big townhouse that's right down the street from him.
+i:He is interested in buying it so he wants to go on a tour of it.
+q6: Why does the white haired man slap the other man on the chest.
+a: He slaps the man in the blue shirt in a playful indication that he's ready to move on.
+i: He playfully slaps the man in the blue shirt because the man makes a joke about him.

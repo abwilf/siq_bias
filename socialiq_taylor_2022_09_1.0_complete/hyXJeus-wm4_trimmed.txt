@@ -1,0 +1,18 @@
+q1: Why does the woman in black and yellow refuse what the man is trying to give her?
+a: She is being humble and believes he is doing too much for her.
+i: She is mad at what he is doing so she refuses.
+q2: Why does the first woman hold her mouth open?
+a: She is in shock and awe at what the man is doing for her.
+i: She is yawning because she's tired.
+q3: Why does the second woman smile when she first meets the men?
+a: She is being kind and approachable, as it is part of her job, but she also seems to be a happy person.
+i: She is smiling in a mocking way to upset the man.
+q4: What is the tone of the video?
+a: It is happy and upbeat.
+i: It is scary and dark.
+q5: Why does the third woman in the video repeat the same word to the man?
+a: She is in shock at what he is doing and can't believe it is actually happening.
+i: She can tell the man can't hear her so she is trying to make it easier for him to.
+q6: How does the man act throughout the video?
+a: He acts happy and kind towards everybody he speaks to.
+i: He acts angry and sarcastic toward everybody he speaks to.

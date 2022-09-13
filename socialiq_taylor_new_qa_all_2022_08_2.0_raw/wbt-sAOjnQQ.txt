@@ -1,0 +1,18 @@
+q1:Why is the woman with glasses shaking her hands up and down as she talks?
+a:She is adding emphasis to her words and getting the audiences attention.
+i:She is frantic and trying to get out of the room as soon as possible.
+q2:Why does the woman with the wine glass rub her leg when her husband starts to talk?
+a:She knows that the conversation is going to start getting awkward.
+i:She is upset and wants to calm herself down.
+q3:Why does the couple sitting down turn to look at eachother, after the man asks when they last had a vacation?
+a:They are trying to jog eachothers memory and are thinking of an answer.
+i:They are trying to think of a way to get out of the room before having to answer.
+q4:How is it shown that the man sitting down is getting flustered with the questions?
+a:He starts talking quickly and waving his hands around.
+i:He starts turning red and yelling at the man standing.
+q5:What did the man who was standing up do as he tried to persuade the couple sitting down to go on a vacation?
+a:He uses both affirmative verbal and body language to emphasize the good things about the vacation
+i:He gets a lot closer to the couples sitting down to threaten them to go on a vacation
+q6:Does the couple sitting down really want to go on a vacation?
+a:Yes, because they are upset that they cannot go.
+i:No, they already went on a vacation recently.

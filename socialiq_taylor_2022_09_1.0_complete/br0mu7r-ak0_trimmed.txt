@@ -1,0 +1,20 @@
+q2: What does the man in the red tie think about 9/11?
+a: That there is more to the story
+i: That it is a conspiracy
+q3: How did the man in the red tie feel about the applause for the Bush administration?
+a: He wasn't expecting it
+i: He felt it was inappropriate
+q4: What does the man in glasses wish to do?
+a: Share his opinion
+i: Change the other man's opinion
+q11: What feeling does the man in glasses seem to have toward American politics?
+a: A negative one
+i: A positive one
+q12: What does the man in glasses think about CNN?
+a: He thinks they are self-serving
+i: He thinks they are the most credible media source
+q14: Is the man in glasses surprised by what CNN did?
+a: No
+i: Yes
+
+

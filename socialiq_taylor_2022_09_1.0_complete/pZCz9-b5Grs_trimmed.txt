@@ -1,0 +1,19 @@
+
+q1: What is the tone of the woman in the red and white dress?
+a: She is assertive and arrogant.
+i: She is kind and caring.
+q2: What is the woman in the blue and purple striped dress's preferred role in the industry?
+a: She prefers to write.
+i:  She prefers to direct. 
+q3: Why does the woman in glasses look away from the man at :38?
+a: She does this as an exaggeration and parody.
+i: She does this because she doesn't want to look at the man.
+q4: Is the woman in pink that is sitting down interested in what the other woman is saying?
+a: Yes, she is very interested in what the other woman is saying.
+i: No, she is bored and unenthused with the conversation.
+q5: Why does the lady in the blue and purple dress repeat her name?
+a: She is making sure the other woman knows the proper enunciation.
+i: She is mocking the other woman.
+q6: How does the woman in the blue and purple dress feel about her new role?
+a: She is excited for her new role.
+i: She doesn't really show much enthusiasm for her new role.

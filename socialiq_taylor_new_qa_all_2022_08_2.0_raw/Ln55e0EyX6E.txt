@@ -1,0 +1,19 @@
+
+q1: How does the woman with pink hair show that she is upset?
+a: Because she storms out of the building.
+i: Because she starts insulting the man with the long hair.
+q2:Why is the man with the long hair rushing the man in the white coat?
+a: He rushes the man in the white coat because he wants to get the medicine as fast as he can so he can feel better.
+i: He rushes the man in the white coat because he has to be somewhere and is in a hurry.
+q3:Why does the man follow the woman out of the store?
+a: He follows her because he is desparate to explain himself.
+i: He follows her because he thinks he knows her and wants to get her attention.
+q4: How does the man in the white coat feel towards the man with long hair?
+a: He is annoyed at the man with long hair.
+i: He is calm and patient with the man with long hair.
+q5: Why is the man with long hair acting frantic and anxious.
+a: He is acting that way because he is having withdrawel symptoms.
+i: He is acting that way because the is worried about what the woman might think of him,
+q6: Why does the woman with pink hair turn around at :53?
+a: She turns around because she is trying to avoid the man with the long hair.
+i: She turns around because she realized she is going the wrong way.

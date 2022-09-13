@@ -1,0 +1,19 @@
+
+q1: Does the woman in the glasses seem intelligent?
+a:  Yes, she seems very intelligent.
+i: No, she does not seem intelligent.
+q2: Does the man in the glasses trust the woman in the glasses?
+a: No, he is very weary of the woman in the glasses.
+i: Yes, he puts a lot of trust in the woman in the glasses. 
+q3: Why does the man in glasses hold the paper up in the air?
+a: He does this because he is trying to see what the paper says.
+i: He does this to empasize the point that he is making.
+q4: Is the woman in glasses confident?
+a: Yes, she is very confident in her abilities.
+i: No, she doesn't seem very confident because she questions herself.
+q5: Why does the man in the glasses look at the man next to him at :39?
+a: He does this because he thinks what the woman says is silly.
+i:He does this because he wants the man to give him his opinion.
+q5: What is the tone of the conversation?
+a: The tone of the conversation is serious. 
+i:The tone of the conversation is light-hearted. 

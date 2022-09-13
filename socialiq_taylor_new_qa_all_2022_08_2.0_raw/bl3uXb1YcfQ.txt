@@ -1,0 +1,20 @@
+
+
+q1:Does the short dark haired woman like the tall woman's hair?
+a: No, she think's it is too much.
+i: Yes, she thinks it is beautiful.
+q2: Why does the tall woman hold her hand up to her ear?
+a: She does this to show the short dark haired woman her earrings.
+i: She does this because she doesn't want to listen to what the short dark haired woman is saying.
+q3: how does the woman in white feel as she is walking backwards?
+a: She feels very confident and attractive. 
+i: She feels unsure of herself which is why she is looking at herself in the mirror.
+q4: Who is the most passionate one of the bunch?
+a:The woman in the grey cardigan is most passionate as she speaks with conviction about her opinions on the womans look.
+i: The woman in the white is the most passionate because she wants the woman to look snazzy.
+q5: Does the woman in white and the short dark haired lady get along?
+a: No, the constantly bicker with one another
+i: Yes, they get along well with one another.
+q6:How does the tall woman feel as the other two women converse about her?
+a: She is withdrawn from the conversation that is happening around her.
+i: She is annoyed by the 2 woman because they are making her feel more nervous.

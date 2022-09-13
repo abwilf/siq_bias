@@ -1,0 +1,23 @@
+q1: Do the men find the topic being discussed polarizing?
+a: Yes, they believe this is a very polarizing topic.
+i: No, they are tired of discussing this topic.
+
+q2: What does the man on the left feel about the opinion of the man on the right?
+a: He thinks the man on the right is ignorant.
+i: He thinks the man on the right is correct.  
+
+q4: Does the man on the left listen to anything said by the man on the right?
+a: No, he just keeps talking over the man on the right.
+i: Yes, he gives the man on the right space to voice his opinion.
+
+q6: How does the man on the right feel about the man on the left's actions?
+a: He is amused by the man's conviction.
+i: He is sad that the other man believes what he does.
+
+q8: Are the two men mad at each other?
+a: No, they are not upset with each other.
+i: Yes, they don't like each other.
+
+q9: How does the man on the left feel about his opinion?
+a: He feels very confident and strongly about it.
+i: He does not care whether his opinion is right or no

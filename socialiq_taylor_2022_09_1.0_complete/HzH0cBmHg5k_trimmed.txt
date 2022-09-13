@@ -1,0 +1,18 @@
+q1: How does the woman in yellow feel about women in general?
+a: She feels they are treated unfairly
+i: She feels they are too dramatic
+q2: Why does the woman close her fists at 0:24?
+a: She is representing the idea of shrinking
+i: She is expressing her excitement
+q3: Is the woman in yellow seeking change?
+a: Yes
+i: No
+q4: What does the woman in red seek to understand?
+a: The woman in yellow's goal
+i: The woman in yellow's humor
+q5: What kind of change does the woman in yellow want to see?
+a: Better treatment of women
+i: Better treatment of employees
+q6: How does the woman in yellow feel women are often treated?
+a: In a contradictory manner
+i: In a celebratory manner

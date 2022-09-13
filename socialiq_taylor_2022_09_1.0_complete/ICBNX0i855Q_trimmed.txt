@@ -1,0 +1,18 @@
+q1: Why does the woman smile at 0:09?
+a: She is impressed
+i: At mention of her work
+q2: What excites the parents in discussion?
+a: Their child's proficiency in a new language
+i: Their child's artwork in a new medium
+q3: What does the man wish to highlight?
+a: The progress made in their schools
+i: The diversity in their schools
+q4: Does the man speak in a positive light?
+a: Yes
+i: No
+q5: Why do the parents think their children have "been to another planet"?
+a: The children are learning quickly
+i: The children are behaving strangely
+q6: Do the schools adapt to student lifestyles?
+a: Yes
+i: No

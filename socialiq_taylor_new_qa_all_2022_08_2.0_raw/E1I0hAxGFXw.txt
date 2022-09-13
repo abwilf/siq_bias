@@ -1,0 +1,19 @@
+
+q1:Why does the man think the woman wants to stay in her relationship?
+a: He thinks it is because the man is rich.
+i:He thinks it is because she is in love.
+q2: Do the man and the woman really hate one another?
+a: No, they are only saying it out of frustration.
+i:Yes, they cannot stand one another.
+q3: How does the man feel about the way he and the woman are fight?
+a: He thinks it's natural for them to fight but think's it's worth it.
+i: He thinks it is terrible and it's the reason they cannot be together.
+q4:Why does the man shut the car door?
+a: He shuts the car door because he does not want to woman to leave.
+i: He shuts the car door because it's in his way.
+q5: What is the tone of the man at the end of the video?
+a: He is speaking with love and passion 
+i: He is angry at the woman and screams at her.
+q6:Why does the woman walk away from the man?
+a: She walks away from the man because she is tired of arguing with him.
+i:She walks away from the man because she wants him to chase after her.

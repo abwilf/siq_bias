@@ -1,0 +1,18 @@
+q1: Why does the first woman gasp when the man enters the living room?
+a: He is in a predicament
+i: She thought she was alone
+q2: How is the man reacting to the predicament?
+a: He is panicking
+i: He remains calm
+q3: Why does the man put his head on the table?
+a: To blend in
+i: He is tired
+q4: How does the woman react to the man's "hello"?
+a: She seems amused
+i: She seems bothered
+q5: What causes the woman to shift from happy to confused?
+a: The man's tone of voice 
+i: The man's lack of interest
+q6: Why does the woman roll her eyes at 0:42?
+a: She rolls her eyes because the man's comment was obvious
+i: She rolls her eyes at the man's immaturity

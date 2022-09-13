@@ -1,0 +1,18 @@
+q1: What has the woman recently come to terms with?
+a: Her expectation and reality don't match up.
+i: Her dog that ran away won't return home.
+q2: How do we know that the woman's audience is paying attention?
+a: They laugh when she makes a joke.
+i: They laugh when she stutters.
+q3: How does the woman speak?
+a: With confidence.
+i: With uncertainty.
+q4: What is the woman in the black shirt doing?
+a: Translating in sign language.
+i: Translating in Mandarin.
+q5: Why is the woman in front of an audience?
+a: She is a religious leader.
+i: She is a comedian.
+q6: Is the woman insecure?
+a: No, she is able to make a self-deprecating joke.
+i: No, she speaks very highly of herself.

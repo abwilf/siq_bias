@@ -1,0 +1,18 @@
+q1: Is the man with the maroon tie confused by the woman?
+a: No as he agrees with her
+i: Yes as he thought she wanted to join him
+q2: What is the tone of the speakers?	
+a:They are serious and professional
+i:They are playful and goofy.
+q3:Why does the man with the red and white tie raise his voice?
+a: He does this to emphasize his words
+i: He is angered by the other man speaking over him
+q4: Why does the man with the black tie nod when the woman is speaking?
+a: He is showing his approval 
+i: He is emphasizing the direction in which he wants her to move
+q5:
+a:
+i:
+q6:
+a:
+i:

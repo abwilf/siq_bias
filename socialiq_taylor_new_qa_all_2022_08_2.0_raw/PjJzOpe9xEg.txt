@@ -1,0 +1,20 @@
+
+
+q1: Who is the dominate person in this situation?
+a: The man in the green outfit and grey hair is the more dominate person in this situation?
+i: The man in the black suit with blue eyes is the more dominant one in this situation.
+q2: What is the demeanor of the man in the green outfit and grey hair?
+a: He is calm, cool and collected.
+i: He is rigid and tense.
+q3: Why does the man in the shake his head at :38?
+a: He is indicating that the man in the black suit with blue eyes should not ask any more questions.
+i: He is angry at the man in the black suit with blue eyes?
+q4: Why does the man in the black suit with blue eyes look blankly around the room?
+a: He looks around the room because he is shocked and baffled.
+i:He looks around the room because he is looking for answers from his team.
+q5: How does the man in the green feel about the man in the black suit?
+a: He shows disdain for the man in the black suit.
+i: He enjoys being around the man in the black suit.
+q6:
+a:
+i:

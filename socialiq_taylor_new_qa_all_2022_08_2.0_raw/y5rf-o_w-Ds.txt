@@ -1,0 +1,20 @@
+
+
+q1: What is the tone of the woman as she speaks to the man?
+a: She is skeptical because she does not trust the man.
+i:She is mocking him because she is annoyed with him. 
+q2: q5: Who seems more enthusiastic about the woman potentially trying things on?
+a: The man seems more enthusiastic.
+i: The woman definitely seems more enthusiastic.
+q3: Why is the woman handing items to the man?
+a: She is handing items to the man because she is interested in them and wants to reserve them
+i: She is handing items to the man because the items are in the wrong spot on the racks.
+q4: What is the dynamic between the man and the woman?
+a: They are friendly with each other.
+i: The woman does not like the man but tolerates him.
+q5: How does the woman show that she is interested in the yellow dress?
+a: She stops to admire the dress as she gasps.
+i: She immediately takes the dress off the rack to purchase.
+q6: Why does the woman put her finger up at :44?
+a: She is emphasizing her point to keep silent to the man.
+i: She is telling the man that she wants to buy 1 pair of the shoes.

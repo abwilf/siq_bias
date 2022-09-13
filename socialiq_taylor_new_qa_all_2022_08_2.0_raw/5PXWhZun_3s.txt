@@ -1,0 +1,20 @@
+
+
+q1: Who is the dominate person in this conversation?
+a: The man without the hat sitting behind the table is the dominate one.
+i: The man in the hat sitting with his arms crossed is the dominate one.
+q2: What is the atmosphere of the room?
+a: The atmosphere is serious and tense.
+i:They atmosphere is awkward and stiff.
+q3: What is the tone of the man with the beard?
+a: He is critical and suspicious.
+i: He is open and relaxed.
+q4: Is the man standing closest to the doorway confident?
+a: No, his stutter when speaking indicates that he is not very confident.
+i: Yes, he is cool and collected in his deamenor which indicates he is confident.
+q5:
+a:
+i:
+q6:
+a:
+i:

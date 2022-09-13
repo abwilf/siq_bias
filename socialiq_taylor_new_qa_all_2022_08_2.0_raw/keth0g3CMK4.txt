@@ -1,0 +1,19 @@
+
+q1: What is the tone of the  man smoking the cigarette?
+a: He has a very flippant attitude.
+i: He is worried because he is being questioned.
+q2: How does the man in the red tie feel about the man smoking ths cigarette?
+a: He is annoyed by the man smoking the cigarette because he isn't taking the questioning seriously
+i: He is enthusiastic about the man with the cigarette answering all of his questions. 
+q3: Who is more dominatant?
+a: The man with the tie is more dominant as he has more authority over the man smoking the cigarette.
+i: The man with the cigarette is more dominant because he is able to get the man with the tie to do what he wants.
+q4: Why does the man in the tie bend over?
+a: He is picking up an object that the man holding the cigarette dropped.
+i:He is tie the man with the cigarettes show since he is in handcuffs and can't do it on his own.
+q5:How is the conversation between these two men
+a: It is very disengaged as one of them was not interested and did not pay much attention
+i: It is very productive because the man in the tie learns what he wants to know.
+q6: Why does the man with the shorter hair look down while talking at :05?
+a: He is motioning towards the file that the man in the red tie is holding.
+i: He looks down because he is not telling the truth.

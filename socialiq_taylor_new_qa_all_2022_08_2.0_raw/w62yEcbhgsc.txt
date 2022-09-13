@@ -1,0 +1,18 @@
+q1:What is the womans reaction when she sees the man looking at her?
+a:She turns away because she doesn't want him to notice her.
+i:She turns away because she is flirting with him.
+q2:Did these two people know eachother before this interaction?
+a:No, because the man had to explain to the woman who he was and what he did for work.
+i:Yes, because the man reminded her of where they know eachother from.
+q3:How does the woman react when she finds out the man is nice?
+a:She is relieved, because her face relaxes.
+i:She is tense, because she looks terrified.
+q4:Why does the brunette woman shake her head at 0:48?
+a:She is upset about what happened to her car and expressing her disappointment.
+i:She doesn't agree with how the man is arguing with her about her car.
+q5:Who is the most dominant person in the interaction?
+a:The most dominant person is the woman, because she is the one doing most of the talking.
+i:The most dominant person is the man, because he won't let the woman take a break.
+q6:Why does the man smile at the end of the video?
+a:He feels sympathy for the girl and is trying to be friendly.
+i:He knows he just caught the girl in a big lie.

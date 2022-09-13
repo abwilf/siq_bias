@@ -1,0 +1,20 @@
+
+
+q1: How does the man in the jacket react to seeing the dark haired man in the apron?
+a: The man in the jacket is apologetic because he didn't notice the dark haired man in the apron at first.
+i: The man in the jacket is happy to see the dark haired  man in the apron. 
+q2: What is the tone between the man in the jacket and the man in the apron?
+a: It is awkward.
+i: It is enthusiastic.
+q3:Why does the man in the jacket walk away?
+a: He wants to give the dark haired man in the apron and the blonde woman privacy to speak.
+i: He is running late and has to leave.
+q4: How does the dark haired man in the apron feel about his job?
+a: He is embarassed of his job
+i: He enjoys his job.
+q5: Have the dark haired man in the apron and the woman interacted before?
+a: Yes, they know one another so they have intereacted before.
+i: No, they don't know each other and are meeting for the first time.
+q6: What is the tone of the dark haired man wearing the apron? 
+a: He is very apathetic.
+i: He is angry and heated.

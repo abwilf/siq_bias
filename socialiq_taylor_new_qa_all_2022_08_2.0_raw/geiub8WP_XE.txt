@@ -1,0 +1,19 @@
+
+q1: What is the relationship between the man and the woman?
+a: They are in a romantic relationship.
+i: The man and women are siblings.
+q2: How does the man react to the womans suggestion?
+a: He does not think that her suggestion will work. 
+i: He is happy with the womans suggestion and is thrilled she suggested it.
+q3: Does the woman agree with the man?
+a: No, the woman does does not agree with what the man is saying.
+i: Yes, she totally agrees with what the man is saying.
+q4: What is the tone of the man?
+a: He is pessimistic about the future.
+i: He is optimistic about the future.
+q5: Why does the man stop walking at :28?
+a: He stops walking because the conversation is serious and he wants to make sure she understand his feelings.
+i: He stops walking because the woman says something that he can't believe and he doesn't want to talk to her anymore.
+q6:Why does the woman give the man the rose?
+a: The woman gives the man the rose because she feels upset by what he has said.
+i: The woman gives the man the rose because she brought it as a gift for him.

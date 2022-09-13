@@ -1,0 +1,18 @@
+q1:How does the man in the tie feel about the other man's presence?
+a:He is happy and excited to have him there.
+i:He is stressed and would prefer some alone time.
+q2:Why is the man in the tie in the beginning moving his hands around?
+a:He is gesticulating while he is talking.
+i:He is trying to point out an object that he wants to be noticed.
+q3:Why is the man in the black shirt sorry?
+a:He is jokingly apologetic about having intruded on the interviewer's space.
+i:He knocked over a cup on the table and feels bad about it.
+q4:How does the man on the left react once the man on the right begins speaking?
+a:He jumps and seems startled because he did not realize the interview was starting in that moment.
+i:He is prepared and ready, looking straight at the interviewer.
+q5:Why is the man in the tie smiling during the interview?
+a: It is a pleasure to listen to the other man talking.
+i: He is smiling at jokes that are being told off camera.
+q6:How do the two men interact with each other?
+a:They are welcoming and cordial toward each other.
+i:They are wary and standoffish toward each other.

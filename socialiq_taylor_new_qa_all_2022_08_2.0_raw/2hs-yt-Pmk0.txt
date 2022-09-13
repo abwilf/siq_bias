@@ -1,0 +1,20 @@
+
+
+q1: What is the tone of the conversation?
+a: The tone is overwhelming anger and sadness.
+i: The tone is overwhelming joy and euphoria.
+q2: How does the man react to the woman breaking down?
+a: The man feels bad and sympathic because he did not realize she felt that way.
+i: The man is happy that the woman feels the same way he does.
+q3: Why is the woman crying?
+a: She is angry that she wasted 18 years of her life with the man.
+i: She is uncontrollably happy to see the man.
+q4: Does the woman resent the man?
+a: Yes, she resents the man and that she made herself feel smaller for him.
+i: No, she loves the man and is thankful she was able to spend the last 18 years with him.
+q5: Why does the woman close her eyes at :47?
+a: She closes her eyes because she is speaking passionately about the feelings deep inside her
+i: She closes her eyes because she does not want the man to see her cry.
+q6:
+a:
+i:

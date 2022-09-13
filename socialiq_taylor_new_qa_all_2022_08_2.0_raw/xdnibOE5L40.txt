@@ -1,0 +1,18 @@
+q1:How does the man with brown hair feel about the bald man at the beginning of the video?
+a:He believes in the bald man and wants to persuade him to finish what he started 
+i:He is indifferent toward whatever the bald man thinks about his life
+q2:What does the bald mans body language show when the man with hair asks what the problem is?
+a:His body language shows that he is angry, because he starts moving around rapidly and breathing fast.
+i:His body language shows that he is starting to calm down, because he starts to walk away.
+q3:How do the two men react when the man is hit by the ball?
+a:The man with hair is concerned and the bald man doesn't care at all.
+i:The man with the hair is mad and the bald man is concerned.
+q4:Why does the man with hair sigh at 0:38?
+a:He is realizing what is really going on with the bald man and he feels sympathy.
+i:He is realizing that the bald man is crazy and he cannot reason with him.
+q5:Why is the bald man talking with his hands when he is sitting down?
+a:He is remembering his fighting days and using his hands to emphasize his point.
+i:He is hysterical and is using his hands to calm himself down.
+q6:Do the two men seem to know eachother from before this interaction?
+a:Yes, they are speaking to eachother informally like old friends.
+i:No, they are speaking to eachother like strangers and being polite.

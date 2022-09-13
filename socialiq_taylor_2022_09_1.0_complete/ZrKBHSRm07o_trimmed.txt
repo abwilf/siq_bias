@@ -1,0 +1,18 @@
+q1:Do the children care about what the woman is saying?
+a:Yes, the realize it is important from her tone of voice and listen.
+i:No, they realize it is not important from her tone of voice and zone out.
+q2:How does the woman treat the children?
+a:She is firm yet gentle with the children because she wants them to learn.
+i:She is firm and mean to the children because she wants them to learn.
+q3:Why does the woman in blue wiggle her fingers around when she says "note passing"?
+a:She is adding emphasis to her words and getting the children's attention.
+i:She is adding emphasis to her words and getting the children fired up.
+q4:Why does the woman look to the side and move her mouth at 0:44?
+a:She is looking at the children in the room and letting them know she is disappointed with their behavior.
+i:She is looking at the children in the room and letting them know she is delighted with their behavior.
+q5:Why do several students raise their hands at the end of the woman in blue's talk?
+a:They want to add more to the conversation and have a comment to make.
+i:They want to add more to the wishlist and have a suggestion to make.
+q6:Why does the woman in blue hold her hands out when she talks about the rules to the conversation?
+a:She is using inviting body language to begin her conversation.
+i:She is using invalidating body language to begin her lecture.

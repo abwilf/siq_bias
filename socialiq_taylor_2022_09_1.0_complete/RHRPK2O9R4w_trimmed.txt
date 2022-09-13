@@ -1,0 +1,18 @@
+q1: How does the man in glasses react to the banana thrown at him?
+a: He flinches and looks humiliated. 
+i: He is angry and throws the banana back to the audience.
+q2: What is the attitude of the man in the glasses?
+a: He is shy and lacks confidence
+i: He is bubbly and excited.
+q3: Why does the man in the glasses reach out to the man in the tank top?
+a: He is trying to touch his hair.
+i: He is upset after his performance and wants a hug
+q4: How does the man in glasses react to the criticism from the man in blue tank?
+a: He is initially unsure what the man is trying to say to him.
+i: He is offended by the man's comments.
+q5: How does the man in the glasses seem to feel after his performance?
+a: He seems disappointed in himself for doing so poorly.
+i: He seems happy with the support he received from the audience.
+q6: Why does the audience laugh?  
+a: They laugh because a banana is thrown at the man in the glasses.
+i: They laugh because the man in the glasses tells a funny joke.

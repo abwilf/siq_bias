@@ -1,0 +1,19 @@
+
+q1: Is the man confident?
+a: Yes, the man oozes confidence.
+i: No, the man is visibly unsure of himself.
+q2: Do the two people seem to get along?
+a: Yes, they get along well and respect each other.
+i: No, they don't get along due to the dynamic of their work relaitonship.
+q3:Do the two people grow closer to each other over the course of the video?
+a: Yes, they grow closer because they talk more about personal and intimate topics.
+i: No, the man's inability to talk about intimate topics keeps them from growing closer.
+q4: Why is there a pause in the middle of the conversaion?
+a: There is a pause because the man is thinking of the best way to respond.
+i:There is a pause because the man is waiting for the woman to show that she is listening to him.
+q5: Why does the man turn and face the woman while clasping his hands together?
+a: He does this to show that he is giving his undivided attention to the conversation.
+i: He does this to intimidate the woman.
+q6:
+a:
+i:

@@ -1,0 +1,19 @@
+
+q1: Is the man with the long hair nervous?
+a: No, the man speaks with unwavering confidence.
+i: Yes, he is nervous to be speaking to the man with short hair because he is powerful.
+q2: Why does the woman cross her arms?
+a: She crosses her arms because she is annoyed at the man with long hair.
+i: She is crossing her arms because she is nervous and anxious.
+q3: How does the man with short hair feel about the object being placed on his desk?
+a: He does not like it and doesn't want it on his desk.
+i:He is thankful to the man with long hair for giving him the item.
+q4: How does the man with short hair change his tone toward the end of the video?
+a: He initally does not want any help from the man with long hair but changes his mind at the end of the video and accepts the help.
+i: He initially is thankful for the help of the man in the long hair but changes his mind because the man with long hair is rude and egotistical.
+q5: What is the tone of the man in the brown vest when he leans on the desk?
+a: The man wearing the brow vest uses a very assertive tone when he leans on the desk.
+i: His tone is lighthearted and joking since he's just playing a joke on the suit man.
+q6: Does the woman in the red like the man in the suit?
+a: Yes, they seem to have a close working relationship.
+i: No, she cant stand the man and doesn't listen to him.

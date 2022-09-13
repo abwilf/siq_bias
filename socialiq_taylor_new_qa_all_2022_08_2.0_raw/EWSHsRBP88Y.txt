@@ -1,0 +1,19 @@
+
+q1: Do the two men like one another?
+a: No, they do not like one another at all.
+i: Yes, they get along well and like one another.
+q2:  Why does the man in the orange shake his head?
+a:He shakes his head to physically emphasize his answer.
+i:He shakes his head since he wants to intimidate the man by making a gesture that shows his aggressive nature.
+q3: Is the man in the suit suspicious of the man in orange?
+a: Yes, he is suspicious of the man which is why he is asking him quesitons.
+i: No, he is not suspicious of the man and trusts him completely.
+q4: Why does the man in the suit hold up a photo?
+a: He  does this to see if the man in orange knows the person in the photo.
+i: He does this because he is threatening the man in the orange.
+q5: How does the man in the orange react to the photo?
+a: The man in the orange reacts with confusion 
+i: The man in the orange reacts with indifference.
+q6: What is the tone of the conversation?
+a: The tone of the conversation is tense and serious.
+i: The tone of the conversation is lighthearted and playful.

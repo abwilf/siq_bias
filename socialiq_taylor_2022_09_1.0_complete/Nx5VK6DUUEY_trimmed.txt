@@ -1,0 +1,18 @@
+q1: Based on the woman's reaction at 0:04, what kind of experience did the woman have exploding the confetti?
+a: A more negative one
+i: A more positive one
+q2: Why does the woman close her ears at 0:30?
+a: To protect herself
+i: Out of aggravation toward the man
+q3: Why does the man turn his head away at 0:31?
+a: Out of caution
+i: Out of disinterest
+q4: Is the nervous woman having a good time?
+a: Yes, she doesn't mind watching the man experiment
+i: No, she doesn't respond well to the loud noises
+q5: How does the woman feel about the ear plugs?
+a: She is thankful for them
+i: She has low expectations for them
+q6: How does the man feel about the woman not wanting to try again?
+a: He is understanding
+i: He is disappointed

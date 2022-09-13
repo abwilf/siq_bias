@@ -1,0 +1,18 @@
+q1:Why does the woman stop walking away from the man?
+a:The woman stops walking away from the man because she is ready to confront the situation after he keeps screaming.
+i:The woman stops walking away from the man because she is scared he is going to hurt her.
+q2:Why is the man yelling at the woman?
+a:He is frustrated and sad at their situation and doesn't know what to do. 
+i:He is furious with her for abandoning him and he wants to fight with her.
+q3:What is the relationship between these two people?
+a:They have a romantic and friendly relationship, but it's coming to an end.
+i:They have a work relationship, but it's a secret from everyone.
+q4:How does the womans body language change in the course of the interaction?
+a:Her body language was angry, and then turned to sympathetic.
+i:Her body language was flirtatious, and then turned to anger.
+q5:Why does the woman have a sharp exhale at 0:37?
+a:She doesn't want to believe what the man is saying, and it hurts her. 
+i:She is disgusted by the mans comments about her relationships.
+q6:Why does the woman start to cry at the end of their conversation?
+a:She feels bad for hurting the man's feelings.
+i:She is terrified for her safety at the party.

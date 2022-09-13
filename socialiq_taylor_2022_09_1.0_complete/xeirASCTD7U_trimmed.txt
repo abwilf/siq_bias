@@ -1,0 +1,18 @@
+q1: How does the man in the black hat react to the blonde lady walking in?
+a: He yells at the the guest
+i: He shakes the hand of the guest
+q2: Why do the people react to the blonde lady with such surprise?
+a: Because they are big fans of the blonde lady
+i: Because they are winners in a contest
+q3: What is the overall tone of the people in the video?
+a: They are elated to be seeing the blonde woman.
+i: They seem uncomfortable to be confronted by the blonde woman.
+q4:How did the woman with the brightly-colored outfit react to the people she surprised?
+a: She was happy and smiled at their reactions.
+i: She cried with overwhelming joy at their reactions.
+q5: Why does the body language of the woman in the brightly-colored outfit appear to be sneaky
+a: She is surprising people
+i: She is stealing a cookie
+q6: Why does the woman in the blue sweat shirt hug the blonde woman?
+a: Because she appreciates the blonde woman's impact on her life
+i: Because she is saying goodbye to the blonde woman.

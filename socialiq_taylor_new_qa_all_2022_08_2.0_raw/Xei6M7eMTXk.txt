@@ -1,0 +1,19 @@
+
+q1:Do the two men get along?
+a: No, they do not get along.
+i: Yes, they are great friends.
+q2: How does the younger man feel towards the older man?
+a: He feels hatred and disgust towards the older man.
+i: He feels respect and admiration towards the older man.
+q3:Is the older man intimidated by the younger man?
+a: No, he is not intimidated in the least.
+i: Yes, he knows the younger man can over power him.
+q4:Why is the younger man shaking as he holds the spoon?
+a: The younger man is overwhelmed with his emotions
+i: The younger man is shaking because it is cold.
+q5:Does the older man feel guilty for what he has done?
+a: No, he holds conviction in his decisions.
+i: Yes, he feels awful for the things he has done.
+q6:
+a:
+i:

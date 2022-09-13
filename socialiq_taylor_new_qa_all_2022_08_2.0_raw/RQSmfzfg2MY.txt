@@ -1,0 +1,20 @@
+
+
+q1:Who is the more dominate person in the group?
+a: The dominate one is the man in the glasses.
+i: The dominate one is the man in the blue
+q2: What is the tone of the man in the glasses?
+a: He is angry and aggressive
+i: He is thrilled to see the man in the blue.
+q3: Why do the men in the uniforms look down when the man in the suit is talking to them?
+a:They feel ashamed at having failed to satisfy the man in the suit.
+i: They don't take the man in the glasses seriously.
+q4: How does the man in the blue initially react to the man in the glasses?
+a: He is confused by what the man in the glasses is saying.
+i: He is indifferent towards the man in the glasses.
+q5:Why does the man in the glasses ask whether a poster can speak?
+a: It is a joke as the man in the blue is unwilling to speak.
+i: It is a threat because he is comparing the man in the blue to the poster.
+q6: Does the man in the glasses respect the men in the uniforms?
+a: No, he does not respect them at all.
+i: Yes, he respects the work that they do.

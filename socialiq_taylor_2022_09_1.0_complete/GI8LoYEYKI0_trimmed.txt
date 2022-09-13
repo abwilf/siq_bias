@@ -1,0 +1,18 @@
+q1: Is the site not yet ready for use?
+a: No
+i: Yes
+q2: Why is the man adding a new feature?
+a: For user ease
+i: For user protection
+q3: Does the woman in maroon seem particularly interested in the technology?
+a: Yes
+i: No
+q4: Why does the woman in yellow believe college is important?
+a: Getting a job can be difficult
+i: It grows your social skills
+q5: What is the woman's feeling towards the man?
+a: She is grateful to him
+i: She pities him
+q6: How does the woman seem to feel about the segment?
+a: Satisfied
+i: Amused

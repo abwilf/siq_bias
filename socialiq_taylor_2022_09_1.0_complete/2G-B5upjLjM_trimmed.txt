@@ -1,0 +1,23 @@
+q6: How does the man in the blue shirt and black jacket feel about the movie they are talking about?
+a: He is proud of the movie they're talking about
+i: His interested is piqued by the movie they're talking about 
+
+q7: How do the men in the armchairs act towards one another?
+a: They are friendly towards one another and joke with each other.
+i: They are friendly towards one another, but don't hesitate to express differing opinions.
+
+q8: Why is the man in black laughing?
+a: He is laughing amusedly at jokes made by the other two men.
+i: He is laughing uncomfortably at jokes made by the other two men. 
+
+q9: Why does the audience cheer?
+a: The audience reacted positively to the interactions between the men in the armchairs.
+i: The audience is egging on the two men in the armchairs to argue. 
+
+q10: What were the initial expectations about the movie of the man in the blue shirt and black jacket compared to the final result?
+a: He was anxious prior to the release but was pleasantly surprised with the final result.
+i: He thought it would be amazing prior to the release but was disappointed in the final result. 
+
+q11: How does the man in the white shirt feel about the movie?
+a: He is unsure because he hasn't seen it yet.
+i: He really enjoyed the movie and his experience acting in it.

@@ -1,0 +1,19 @@
+
+q1: Why is the officer with the dark hair staring at the man in the grey suit?
+a:  He is suspicious of the man in the grey suit.
+i: He is trying to figure out how he knows the man in the grey suit.
+q2: What is the tone of the man with the black hair at the very end of the video?
+a: His tone is sarcastic.
+i: His tone is angry.
+q3: Why does the man in the grey suit rais his eyebrows at the end of the video?
+a: He does this because of the irony of the situation.
+i: He does this because he is afraid of what he saw on the ground.
+q4: How does the grey haired officer react to the man in the grey suit's story?
+a: He believes the man in the grey suit's story.
+i: He does not believe the man in the grey suits story at all. 
+q5: How can you tell the man with the blonde hair is nervous.
+a: He is speaking frantically and looking around him.
+i: He is blinking a lot and stuttering his words.
+q6: Why does the grey haired officer hold up the object toward the man in the grey shirt at :38?  
+a: He is emphasizing his point
+i: He is giving the object back to the man in the grey suit.

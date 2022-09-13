@@ -1,0 +1,19 @@
+
+q1: What's the tone of the group of men at :14? 
+a: They are relaxed and carefree.
+i: They are at work and serious.
+q2: How does the man in the suit show that he is disappointed?
+a: He speaks down to the man sitting on the ground with a stern tone
+i: He raises his voice at the man sitting on the ground in anger
+q3: Why does the man in the suit lift his arms off the bed at the end of the video?
+a: He realizes that he shouldn't be touching the matress because it's dirty.
+i:He raises his arm in frustration at the man sitting on the ground.
+q4: How does the man sitting on the ground feel about being lectured by the man in the suit??
+a: He is non-chalant about it and doesn't seem to care much.
+i:  He is upset and disappointed in himself. 
+q5:Why does the man sin the suit gesture towards the three men in the room who are laughing?
+a: The man in the suit gestures towards the three men in the room to make his point about what he is saying. 
+i: The man in the suit gestures towards the three men in the room because he wishes that he could be more like them.
+q6:
+a:
+i:

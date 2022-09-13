@@ -1,0 +1,22 @@
+q1: Why does the man on the left wish to film these interactions?
+a: To have the lessons reach many people
+i: To document progress along the way
+q2: Does the man on the right have any prior knowledge of Hindi?
+a: Yes
+i: No
+q3: Which person is a native Hindi speaker?
+a: The man on the left
+i: The man on the right
+q4: How does the man on the right react to his friend wanting to learn Hindi?
+a: He is excited
+i: He is judgemental
+q5: How does the man on the right feel to be in the situation?
+a: He feels happy to learn Hindi
+i: He feels he's too busy to learn Hindi
+q6: What does the man on the left wish to do?
+a: Educate his friend
+i: Clarify details of the plan
+
+
+
+

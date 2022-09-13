@@ -1,0 +1,20 @@
+
+
+q1: Does the woman have romantic feelings towards the man?
+a: Yes, she does but she is hesitant to admit them.
+i: No, she only thinks of the man as a friend.
+q2: What is the tone of the conversation between the man and the woman?
+a: The tone is serious and downhearted.
+i:The tone is apathetic and uncaring.
+q3: Why does the woman get irritated with the man?
+a: She is irritated because he wants more out of the relationship than she does.
+i:She is irritated with the man because he does not take their relationship seriously enough.
+q4: Why do the man and the woman stop walking? 
+a: They stop walking so thay they can focus their attention on each other.
+i: They stop walking because they have come to the end of their path and want to go home.
+q5: Which person is more committed to developing the relationship.
+a: The man is more committed to developing the relationship.
+i: The woman is more committed to developing the relationship.
+q6: Does the woman seem comfortable with feelings and emotions?
+a: No, she is completely uncomfortable with feelings and emotions.
+i: Yes, she is comfortable with emotions and feelings which is why she is showing her anger in this interaction.

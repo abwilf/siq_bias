@@ -1,0 +1,18 @@
+q1:How does the woman react when the man in the brown tells her there will be more people than expected?
+a:She reacts by having a worried stare and not knowing what to say.
+i:She reacts by having an angry gaze and looks away from the man.
+q2:What is the tone of the relationship between all of the men at the house?
+a:The men are all friendly with eachother, because they are smiling and shaking hands.
+i:The men are all distant, because they are ignoring eachother.
+q3:How does the tone of the woman change as more and more men come inside the kitchen?
+a:She goes from being relaxed to overwhelmed at the amount of men in the kitchen.
+i:She goes from angry to calm at the amount of men in her kitchen.
+q4:How does the man with the hat and glasses react when the woman calls him big?
+a:He laughs and makes a joke about food.
+i:He gets mad and complains about the food.
+q5:How does the woman react when the man in the suit walks toward her with his hand out?
+a:She feels confused because she doesn't know the man.
+i:She feels overjoyed because he is an old friend of hers.
+q6:How does the woman feel about the man stirring the food?
+a:The woman is not completely comfortable with the man offering to stir her food.
+i:She enjoys the help that the man is giving by offering.

@@ -1,0 +1,18 @@
+q1: Why do the men high-five at 0:05?
+a: They are greeting each other
+i: They are excited to do the activity
+q2: How does the baby react to the camera being put in his face?
+a: He is captivated
+i: He is upset
+q3: Why does the man speak to the baby?
+a: He wishes to have a positive interaction with him
+i: He wants to calm him down
+q4: What causes the man entering the room at 0:40 to begin dancing?
+a: He sees that the other men are recording
+i: He sees that the other men have arranged a surprise party
+q5: Why does the man in blue tap the shoulder of the camera man at 0:40?
+a: As a friendly gesture
+i: As a condescending gesture
+q6: 
+a:
+i:

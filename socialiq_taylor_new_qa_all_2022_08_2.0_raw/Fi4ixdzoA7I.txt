@@ -1,0 +1,19 @@
+
+q1: Why does the man in the vest start counting down?
+a: He is counting down because the man with the goatee is taking too long and he wants him to hurry up.
+i: He is counting down because when he gets to zero the man with the goatee can leave.
+q2:What is the tone of the man with the goatee?
+a: He is very flippant about the sitiuation.
+i: He is serious and worried about the situation
+q3: How does the man in black feel about the man with the goatee?
+a: He is very skeptical of the man with the goatee.
+i: He is friendly and cordial towards the man with the goatee. 
+q4: Why does the man in gray keep talking throughout the entire encounter?
+a: He keeps talking throughout the encounter because he's stalling for time and wants to spite the man with the watch.
+i:He keeps talking because he's nervous and talking helps keep him calm.
+q5: How does the man in the black feel after seeing the drawing?
+a: The man in the black vest feels angry at the man with the goatee.
+i: He thinks the drawing is funny and compliments the man with the goatee.
+q6:
+a:
+i:

@@ -1,0 +1,18 @@
+q1:How does the woman hope the man responds to her party invite?
+a:She is hoping that he agrees to come, because she is looking at him with a smile.
+i:She is hoping that he will not want to go, so she doesn't have to tell him no.
+q2:Why does the woman laugh when the man says he wants to decompose?
+a:Because he used the word wrong, and it was funny.
+i:Because he used the word correctly, but it scared her.
+q3:How does the woman feel about the man?
+a:The woman likes the man because she invites him to come to a party and to swim with her.
+i:The woman leaves the man to go swim, showing that she is not fond of him.
+q4:How does the man feel when the woman asks him to go swim with her?
+a:The man appears to become anxious and awkward.
+i:The man appears to become joyful and excited.
+q5:Why does the man hesitate and stutter as he speaks?
+a:The man hesitates and stutters and he speaks because talking to the woman makes him nervous.
+i:The man hesitates and stutters and he speaks because he is angry that the woman tells him he should come to a party that he wasn't invited to. 
+q6:How does the man show his feelings towards the woman as she runs into the water?
+a:He stares at her with a smile on his face, indicating that he likes her.
+i:He waits until she gets into the water and then he drops the fake smile.

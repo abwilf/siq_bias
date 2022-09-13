@@ -1,0 +1,18 @@
+q1: Does the boy struggle to find things to share?
+a: Yes
+i: No
+q2: Why does the man speak in a loud tone of voice?
+a: He seems to be frustrated
+i: He is shocked that they think he is guilty
+q3: What does the boy's tone at 0:42 convey?
+a: Confusion
+i: Interest
+q4: 
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

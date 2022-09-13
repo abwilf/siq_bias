@@ -1,0 +1,19 @@
+
+q1: What is the atmosphere of the group?
+a: The atmosphere is tense as they are having a serious discussion 
+i: The atmosphere is lighthearted and fun.
+q2: Do the two women agree with each other?
+a: No they do not agree with one another.
+i: Yes, they definitely agree with one another.
+q3: How does the man in the light blue shirt show that he agrees with the red haired lady?
+a: She shakes his head 
+i: He verbally agrees with her.
+q4: Why does the red haired woman repeat what the brown haired woman says at :50?
+a: She does this because she is taken aback by what the brown haired lady says.
+i: She does this to make sure she heard the brown haired lady correctly.
+q5: Does the red haired lady take the conversation seriously inititally?
+a: No, she thinks they are not being serious.
+i: Yes, she takes the conversation seriously from the get go. 
+q6: Why does the brunette furrow her brows at :25?
+a: She disaggres with what the man in the light blue is saying.
+i: She doesn't understand what the man in the light blue is saying.

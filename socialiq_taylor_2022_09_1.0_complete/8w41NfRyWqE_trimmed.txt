@@ -1,0 +1,23 @@
+q1: Do the two men agree on what they are talking about?
+a: Yes, we hear them affirm each other throughout the video.
+i: No, they are not on the same page. 
+
+q2: Why do the men look at each other while the other is talking?
+a: They are attempting to show they're actively listening. 
+i: They are attempting to intimidate each other.
+
+q3: What do the men feel about the subject being discussed?
+a: They think it is important and enjoy talking about it.
+i: They are bored by it and feel forced to talk about it.
+
+q4: How are the men treating each other?
+a: Calmly and respectfully.
+i: Irrationally and angrily. 
+
+q5: How do the men feel around one another?
+a: They are relaxed around one another
+i: They are tense around one another
+
+q6: Is the man on the left interested in what the man on the right has to say?
+a: Yes, he is engaged in what he is saying and asks relevant questions.
+i: No, he continually looks for opportunities to interrupt so he can add his opinion 

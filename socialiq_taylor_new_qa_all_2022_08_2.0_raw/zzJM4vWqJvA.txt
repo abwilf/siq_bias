@@ -1,0 +1,19 @@
+
+q1:What is the tone of the woman in purple?
+a: She is upbeat and positive.
+i: She is thrilled and excited for the couple.
+q2: What attitude does the man show toward the long haired woman?
+a: He is condescending and patronizing toward the long haired woman.
+i: He shows love and respect towards the long haired woman.
+q3: Why does the man raise his tone of voice at the end of the video?
+a: He does this because he is mocking the long haired woman.
+i: He does this to emphasize the point he is making.
+q4: Does the man take the therapy session seriously?
+a: No, he does not take is seriously at all.
+i: Yes, he wants to fix his marriage so he takes it very seriously.
+q5: Why does the man look confused at :29?
+a: He looks confused because he can't remember how many things he just listed.
+i: He looks confused because he is unsure of the activity they are participating in..
+q6: How does the long haired woman show that she is shocked at the man's imitation of her?
+a: She widens her eyes and turns her head towards him.
+i: She gasps and furrows her brows.

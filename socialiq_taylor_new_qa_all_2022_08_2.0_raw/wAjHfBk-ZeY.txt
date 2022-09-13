@@ -1,0 +1,19 @@
+
+q1: What is the dynamic between the two individuals?
+a: They are in a romantic relationship.
+i: They are siblings.
+q2: How does the woman feel about the man?
+a: The woman cares for the man but is not in love with the man.
+i: The woman is in love with the man and wants to spend her life with him.
+q3: How does the woman show that she is reminiscing?  
+a: She starts to talk slower and looks off into the distance.
+i: She gets sad and emotional when talking about the past.
+q4: Why does the womans tone change at :055?
+a: She realizes that her future with the would be highly disappointing.
+i: She becomes angry with the man for being indifferent to her feelings.
+q5: How does the man feel in this situation?
+a: He is sad and disappoited.
+i: He is indifferent.
+q6: Why does the woman put her hand to her chest ?
+a: She is remembering a time when she found the man very attractive.
+i: She is clutching her chest because her heart is broken.

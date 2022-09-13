@@ -1,0 +1,18 @@
+q1:Why does the man look confused when the girl walks in and sits down?
+a:He is suprised to see her during lunch in his classroom.
+i:He is hungry and he is upset that he didn't bring a lunch.
+q2: Why does the man shake his head and then smile when the girl says she lied?
+a: He is disappointed that she lied but he smiles because she is clever.
+i:He is happy that she lied so that she could get out of doing more homework.
+q3:Why does the girl touch the chips she is eating together in her hands?
+a:She is thinking of something to say to the man.
+i: She is grossed out by the food in her lunch bag.
+q4: How does the man react when she asks about his wife?
+a:He looks annoyed that she asked and doesn't answer her.
+i:He looks sad and starts to almost cry.
+q5:What is the tone of the girl when she suggests that he dates her mother?
+a:She is proud of herself for coming up with a funny idea.
+i:She is angry at herself for thinking about setting them up.
+q6:Why does the man reach for the pencil sharpener at the end?
+a:He wants to drown out the sound of the girl talking.
+i:He needs to sharpen his pencil right away

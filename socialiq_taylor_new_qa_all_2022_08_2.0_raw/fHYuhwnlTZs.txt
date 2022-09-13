@@ -1,0 +1,19 @@
+
+q1:Are the people in this video happy?
+a: No, they are really sad.
+i: Yes, they are happyto see the man in the bed.
+q2: Why does the man in the brown pause so long?
+a: He is trying to keep his composure.
+i: He can't think of anything to say
+q3:Why does the woman with blonde curly hair place her hands on the man with the curly hair's back?
+a:She does this to comfort the man.
+i: She does this because she wants the man to move out of her way.
+q4: How does the man in the glasses feel about the man in the bed?
+a: He deeply cares about the man in the bed.
+i: He likes the man in the bed but doesn't know him that well.
+q5: Why is the woman with the short blonde hair smiling at the man?
+a: She smiles because she wants to keep the man's spirits lifted. 
+i: She smiles because she thinks the man is funny.
+q6: Who shows the most emotion in the room?
+a: The man in the plaid jacket shows the most emotion. 
+i: The man in the glasses shows the most emotion.

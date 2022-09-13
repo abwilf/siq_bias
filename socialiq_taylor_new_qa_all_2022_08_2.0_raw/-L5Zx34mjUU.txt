@@ -1,0 +1,18 @@
+q1: Why is the man in the blue holding his hands at together at his mouth?
+a: He is showing the man in the red that he is relaxed and in control of the situation.
+i: He is nervous to be talking to the man in red
+q2: What does the man in blue think about the man in red's opinion about the firing?
+a: He does not agree with the man in red about the situation.
+i: He agrees with the man that the person should not have been fired.
+q3: How does the person in blue feel about the person he is talking about?
+a: He does not like the person he is talking about one bit.
+i: He likes the person he is talking about and enjoys their company.
+q4:Does the man in red succeed in intimidating the man in blue shirt and tie?
+a: No, the man in blue continues to remain calm and relaxed
+i: Yes, the man in blue gets frustrated with the man in red and loses his cool.
+q5: What is the tone of the man in the red shirt?
+a: The man with in red has a serious tone, as he is challenging the man in the gray suit.
+i: The man in red is indifferent to the opinion of the man in the blue shirt
+q6:Does the situation escalate through the video?
+a:The situation does not escalate since both men remain levelheaded and calm throughout the encounter.
+i:The situation escalates because the man in red insults the man in blue.

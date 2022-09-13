@@ -1,0 +1,19 @@
+
+q1: Why does the pregnant lady look to the side when the older lady speaks to her?
+a: She is unsure if the older lady is speaking to her.
+i: She is looking at what the older lady is talking about.
+q2: How does the pregnant girl react when the older lady asks if she remembers her?
+a: She is confused because she cannot recall the older lady.
+i: She immediately recalls the older lady and feels bad she didn't recognize her.
+q3: How does the older lady feel about the pregnant lady not being able to say her name correctly when she was younger?
+a: She is really amused by the situation.
+i: It really bothered her and she hopes that the pregnant lady can say her name correctly now.
+q4: What is the tone of the pregnant lady throughout the interaction?
+a:She is confused because she doesn't know who the older lady is.
+i: She is nervous because she has not seen the older lady in some time.
+q5: How does the woman with darker hair treat the pregnant woman?
+a: She treats her with friendliness and openness because she is comfortable around her.
+i: She treats her in a childlike manner because the pregnant woman is much younger than her and needs guidance.
+q6:
+a:
+i:

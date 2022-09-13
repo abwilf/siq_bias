@@ -1,0 +1,19 @@
+
+q1: What is the atmosphere of the room?
+a: It is very tense and there is a lot of uncertainty within the room.
+i:  The atmosphere is calm and soothing. 
+q2: Does the man in the brown suit and red tie seem confident?
+a: No, he does not seem confident at all.
+i: Yes, he seems very confident.
+q3: How does the man in the brown suit and red tie react to the man in blue leaving?
+a: He is frustrated about the man in the blue leaving.
+i: He is indifferent about the man in the blue leaving.
+q4: What is the tone of the man in the blue shirt?
+a:  He is very apologetic.
+i: He is upset and sad that he has to leave.
+q5: Why does the man in the brown suit and red tie scream at the end?
+a: He screams out of frustration because the man in the blue shirt derailed the plan.
+i:He screams because he is scared about what is going to happen now that the group is down a man.
+q6:
+a:
+i:

@@ -1,0 +1,18 @@
+q1: Overall, How do the children react to eating in the way that is being described?  
+a:They do not like it and think that it is dangerous.
+i:They think it would be fun and want to try it.
+q2: Why does the boy in the green wave his hand in front of his head?
+a: He is emphasizing his point about hair
+i: He is getting sassy with the interviewer. 
+q3: How does the boy in the blue shirt and white button down feel about eating corn?
+a:He think it should be eaten the traditional way.
+i:He is intrigued by the new method of eating it.
+q4: How does the girl in the black shirt react to hearing what happened to the girls hair?
+a: She physically cringed when she heard about it
+i: She thinks it is funny but is glad it didn't happen to her.
+q5: How does the girl in the blue and pink feel about the corn challege?
+a: She believes it is dangerous and can't understand why anyone would do it.
+i: She think's its silly but understands why people want to try it.
+q6: Why does the boy in the striped collared shirt point at :08?
+a: He is making a joke to his mother.
+i:He is pointing to the vending machine because he wants a snack.

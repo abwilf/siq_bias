@@ -1,0 +1,18 @@
+q1: Does the woman in the tan believe what the woman in blue is telling her?
+a: No, she does not believe what the woman in blue is telling her.
+i: Yes, she totally believes what the woman in blue tells her.
+q2: What is the role of the woman in blue?
+a: She is there to reassure the woman in tan.
+i: She is there to make sure the woman in tan is doing what she is supposed to.
+q3: What emotion is the woman in blue showing at the beginning of the video?
+a: She is showing concern and sympathy.
+i: She is showing disappointment and anger.
+q4: How does the woman in blue feel about the woman in tan? 
+a: She thinks the woman in tan is perfect the way she is.
+i:She thinks the woman in tan should change her attitude.
+q5:Why does the woman in blue raise her eyebrows while talking to the other woman?
+a: She raises her eyebrows because she wants to show the blonde woman that she's sincere in what she's saying.
+i: She raises her eyebrows because she is disgusted at what the blonde woman says.
+q6:
+a:
+i:

@@ -1,0 +1,18 @@
+q1: Why did the bald man throw the small bag down on the table?
+a: He was frustrated that the drug is being sold.
+i: He was curious if the small bag was durable.
+q2: What is the tone of the conversation between the two men?
+a: Their tone is serious because of the case they are working on.
+i: Their tone is sad because they caught the wrong suspect.
+q3: Why did the man tap his finger on the picture of the suspect several times?
+a: He wanted to emphasize the importance of the man in the picture.
+i: He wanted to get the attention of the other man because he wasn't paying attention.
+q4: Why does the bald man tilt his head at 0:41?
+a: He is intrigued by the other man's suggestion.
+i: He is worried the other man isn't taking him seriously.
+q5: Why does the gray haired man tell the bald man to wait as he is walking away?
+a:He wanted to ask him for a favor before he left.
+i:He wanted to know if he could leave work early.
+q6:Does it seem like the two men know each other?
+a: Yes, because the gray haired man said hello to the bald man by name.
+i: No, because the bald man told the gray haired man his name when he walked up.

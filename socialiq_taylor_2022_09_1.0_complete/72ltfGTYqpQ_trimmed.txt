@@ -1,0 +1,18 @@
+q3: What is the problem with transit?
+a: It doesn't have enough financial support 
+i: It doesn't have enough drivers available
+q10: Why does the man give an example of the increase?
+a: It's worse than people may imagine
+i: It's better than people may imagine
+q11: How does the man feel about the topic at hand?
+a: He is concerned
+i: He is supporting it
+q12: Why does the woman feel the need to ask her question?
+a: She thinks people will misunderstand.
+i: She thinks people will get angry. 
+q14: Why is the man in grey speaking?
+a: To raise awareness
+i: To represent his company
+q17: Does the man in grey sound alarmed about what could happen?
+a: Yes
+i: No

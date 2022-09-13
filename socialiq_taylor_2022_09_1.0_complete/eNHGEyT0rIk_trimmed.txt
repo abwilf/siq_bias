@@ -1,0 +1,18 @@
+q1: Is a single person of the three a clear authority on the subject over the others?
+a: No, they all contribute points to the discussion and treat each other as equals.
+i: Yes, because the others concede to the man in black.
+q2: Why do the two people on the left laugh when the man on the right speaks?
+a: They are amused by his joke and agree with what he said.
+i: They are disappointed by the man on the right.
+q3: Why does the woman stop talking and point at the man on her right?
+a: She is asking the man a question but it is phrased as a statement and is waiting for his response.
+i: The man on her right was arguing that it was his turn to talk.
+q4: Why do the other two people nod while the man in the middle talks?
+a: They are agreeing with what he is saying and nodding to show this.
+i: They are just being silly and nodding to try to make him laugh.
+q5: Why does the man in the middle look between the two people and the camera as he speaks?
+a: He is connecting with both the people he is with, as well as the audience by doing so.
+i: He is unsure where to look and trying to figure it out.
+q6: Do the people seem confident about the subject?
+a: Yes, they seem confident and knowledgeable as they speak about it.
+i: No, they stutter and act cofused as they speak about it.

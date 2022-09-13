@@ -1,0 +1,19 @@
+
+q1: How does the blonde woman react to the man at the beginning of the video?
+a: She is very confused because she doesn't know who the man is.
+i:She is hesitant because she hasn't seen the man in a long time.
+q2:Was the woman mad at the man?
+a: No, she was more perplexed by him and why he was there.
+i: Yes, she is angry that he lied to her.
+q3: What is the relationship between the man and woman?
+a: The man and the woman have just met one another and don't know anything about each other.
+i: The man and the woman are friends who have not seen each other in some time.
+q4: What is the demeanor of the man?
+a: The man is unsure of how the woman is reacting to his prescense. 
+i: The man is happy to see the woman.
+q5: Why does the woman list a bunch of names to the man?
+a: She is trying to figure out how they might have a connection.
+i:She is trying to guess the identity of the man.
+q6:
+a:
+i:

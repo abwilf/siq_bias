@@ -1,0 +1,21 @@
+q2: Why does the man mention his college grades?
+a: To lighten the mood.
+i: To prove grades don't matter.
+q3: Why does the audience laugh at 0:22?
+a: They laugh at the man's joke.
+i: They laugh at the man's silly outfit.
+q4: How does the man think people should live their lives?
+a: He thinks they should be calm.
+i: He thinks they should always be alert.
+q6: What does the man think of information?
+a: It should be shared. 
+i: It should be confidential.
+q7: Is the man afraid of his information being leaked?
+a: No, he feels it is for the best.
+i: Yes, he values his privacy.
+q8: Why does an audience member stand at 0:44?
+a: They particularly enjoyed the man's speech.
+i: The man has singled them out.
+
+
+

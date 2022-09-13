@@ -1,0 +1,18 @@
+q1:How does the woman show that she is anxious when she opens the door?
+a:She looks uneasy and speaks frantically.
+i:She looks angry and speaks slowly.
+q2:Why does the woman look down when she hands the man the cup and explains that she spilled the drink?
+a:She is embarrassed that she spilled it and doesn't want to make eye contact.
+i:She is mad that the man left his cup on the counter.
+q3:How does the man show he is grateful to the woman for making him a drink?
+a:He smiles and nods his head after he learns why she made it.
+i:He frowns and shakes his head after learning the reason why she made it.
+q4:Why does the woman turn to look at the man when he asks if she is sick of him already?
+a:She doesn't want him to think she doesn't want him there.
+i:She wants him to hurry up and leave already.
+q5:What mood is the woman displaying as she is cleaning the floor?
+a:She is displaying a lot of anxiety and stress as she cleans the floor.
+i:She is displaying some humor and relaxation as she cleans the floor.
+q6:Why does the woman look up at the man at the end of the video?
+a:She is surprised at how the man could tell she was on edge.
+i:She is disappointed by the way the man is talking to her.

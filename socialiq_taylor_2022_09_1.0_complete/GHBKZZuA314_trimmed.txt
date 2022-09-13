@@ -1,0 +1,18 @@
+q1: Why do the guys clap?
+a: They clapped because they reached a decision.
+i:
+q2: What can be said about the relationship between the actors?
+a: They are friendly to each other despite mild disagreement.
+i:
+q3: How doe the guys interact with each other?
+a: The guys interact comfortably with each other and seem to know each other well.
+i:
+q5: Why does the man in the checkered red shirt laugh?
+a: He is happy about the conversation they are having, which he finds interesting.
+i:
+q9: Why does the man on the far left stand up?
+a: He feels the need to give a highly emotional response to what was said.
+i:
+q10: Why does the guy with the brown hair wearing a camo patterned outfit yell?
+a: He is expressing how much he wants the role.
+i:

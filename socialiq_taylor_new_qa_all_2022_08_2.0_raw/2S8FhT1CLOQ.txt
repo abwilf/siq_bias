@@ -1,0 +1,19 @@
+
+q1: How does the man in the striped tie feel about the man he is speaking about?
+a: He admires the man he is speaking about.
+i: He does not like the man he is speaking about.
+q2: Does the man in the red agree with the man in the striped tie on the topic they are speaking about?
+a: No, they cannot see eye to eye on the topic
+i: Yes, they both come to an agreement about the topic.
+q3: Is the man with the glasses amused by the discussion the other men are having?
+a: No, he is not amused about their conversation.
+i: Yes, he finds their conversation amusing and funny.
+q4:  Why does the man in the glasses roll his eyes at :32?
+a: He does this because he is irritated by what the man in the red is saying.
+i: He does this because he is irritated by the man in the striped tie.
+q5: What is the tone of the man in the red shirt?
+a: He is assertive and direct in his opinions.
+i: He is angry and aggressive. 
+q6: Why does the man in the striped tie smile at:34?
+a:  He smiles because he can't believe what the man in the red said.
+i:He smiles because the man in the red made a joke.

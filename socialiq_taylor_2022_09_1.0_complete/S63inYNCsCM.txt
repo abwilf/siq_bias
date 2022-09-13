@@ -1,0 +1,18 @@
+q1: How does the man in the yellow tie feel about their position?
+a: He feels comfortable in their position
+i: He feels unsure about their position
+q2: Why does the man in the yellow tie feel the way he does about their position?
+a: Because ships coming up the river know they're going to go to 45 feet
+i: Becuase ships coming up the river are good friends
+q3: What are the ultimate intentions of the man in the yellow tie?
+a: To attract business from New York
+i: To teach the other man about rivers
+q4: Why does the other man react the way he does about the congestion in New York?
+a: Because the man in the yellow tie was being hypocritical
+i: Because the man in the yellow tie was pulling a prank
+q5: What is the man in the yellow tie's attitude towards the differences between New York & Delaware?
+a: He is understanding and knowledgeable
+i: He is dismissive and annoyed
+q6: What is the tone of the conversation between the two men?
+a: Inquisitive and calm
+i: Close-minded and conflicted

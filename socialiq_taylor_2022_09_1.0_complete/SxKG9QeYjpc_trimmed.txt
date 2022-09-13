@@ -1,0 +1,18 @@
+q1: How does the man in the blue tie react to what the man in the red tie is saying?
+a: The man agrees by nodding and voicing his agreement
+i: The man disagrees by shaking his head 
+q2: What is the temperament of the man in the blue tie?
+a: The man in the blue tie is calm and confident
+i: The man in the blue tie is nervous and unsure
+q3: What is the temperament of the man in the red tie?
+a: The man in the red tie is calm and curious
+i: The man in the red tie is anxious and negligent
+q4: What does the man in the blue tie expect?
+a: The man in the blue tie expects great things from the students, teachers, and parents
+i: The man in the blue tie expects trouble from the students, teachers, and parents
+q5: What is the tone of the conversation?
+a: The tone is friendly and informative
+i: The tone is hostile and argumentative
+q6: What is the relationship between the two men?
+a: The man in the red tie is interviewing the man in the blue tie
+i: The man in the blue tie is interviewing the man in the red tie

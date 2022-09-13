@@ -1,0 +1,18 @@
+q1: Why does the man in black and white use his hand to point at different objects?
+a: He is highlighting certain objects that he is referencing.
+i: He is trying to get the man in the camouflage to notice him. 
+q2: What is the relationship between the two men?
+a: The two men have a friendly relationship and are familiar with each other.
+i: The two men have a poor relationship as evidenced by the fact that they start bickering.
+q3: How is the man in white and black feeling overall?
+a: He feels excited and proud of what he built.
+i: He feels nervous and scared about what is going to happen.
+q4: Why does the pitch of the man in the black and white shirt raise at 00:51?
+a: He is asking the other man a question while being surprised at what he had said.
+i: He is trying to sing to the other man.
+q5: Which man is more excited?
+a: The man in black and white as evidenced by his talkativeness.
+i: The man in camouflage as evidenced by his giant smile.
+q6: What is the tone of the video?
+a: It is fun and laid-back.
+i: It is full of suspense.

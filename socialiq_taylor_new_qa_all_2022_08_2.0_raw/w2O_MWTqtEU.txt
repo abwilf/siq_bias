@@ -1,0 +1,18 @@
+q1:Does it seem like the two men like each other?
+a: No, the man in the suit criticizes the man in the blue jacket.
+i:Yes, the men are joking around with each other about work policy.
+q2:Does the man in the suit believe the man in the blue jacket?
+a:No, he thinks that the man in the blue jacket is lying and making excuses.
+i:Yes, the man understands the circumstances of how he would be late.
+q3:Why does the man in blue open his mouth at 0:49?
+a:He is confused by a word the man in the suit said to him.
+i:He is shocked at how his boss is not mad at him for being late.
+q4:Why does the man in the suit slam the door on the man in the blue?
+a:He wants to emphasize that he is mad at the man in blue.
+i:He has an important meeting which requires silence.
+q5:Why does the man in blue flinch when the door is closed?
+a:The sound of the door closing startled him and made him jump.
+i:The man in blue wanted to be the one to close the door.
+q6:How does the man in the blue jacket react after the man in the suit goes back into his office?
+a:He reacts by talking back to him through the door, because he feels wronged.
+i:He reacts by apologizing and getting right to work, because he feels guilty.

@@ -1,0 +1,19 @@
+
+q1: How does the short man show that he is nervous?
+a: He isn't really nervous, it is an act.
+i: He is hesitant and stalls for time.
+q2: How does the tall man react to the money missing from his wallet?
+a: HE does not show any emotion about it.
+i:He is angry about it.
+q3:How is the more dominant person in this interaction?
+a: The taller man is the more dominant person
+i:She shorter man is the more dominatant person
+q4: Is the shorter man intimidated by the taller man?
+a: No, he is not intimidated by him at all
+i: Yes, he is imtimidated by him
+q5:Why does the shorter man walk behind the taller man?
+a: He is demonstrating how he would steal from a person.
+i:He does this because he is afraid of the taller man.
+q6: Why does the tall man pat his chest?
+a: He is checking to see if his wallet is still there
+i: He is threatening the short man.

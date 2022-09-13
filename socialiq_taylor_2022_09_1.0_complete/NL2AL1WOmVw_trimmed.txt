@@ -1,0 +1,18 @@
+q1: What role does the man with black hair have in this conversation?
+a: He is the host and is also guiding them through the task.
+i: He is mediating their argument.
+q2: Are the two people on the couch happy?
+a: No, they are nervous and concerned.
+i: Yes, they are excited and celebratory.
+q3: How is the woman's attitude?
+a: She is attentive and willing to learn. 
+i: She thinks that the situation is amusing and funny. 
+q4: How does the man show that he is nervous about his daughter's response?
+a: He places his hand on his chin and shakes his head. 
+i: He does not want to continue the online conversation.
+q5: What is the tone of the video?
+a: It is serious and full of concern.
+i: It is neutral and emotionless.
+q6: Why is the man smiling at 00:30?
+a: He is nervous and exerting nervous energy through a smile.
+i: He is pleased about what has happened.

@@ -1,0 +1,18 @@
+q1:Why does the woman in the brown coat jump when she sees the man with the helmet on?
+a:She wasn't expecting to see him there and she was startled.
+i:She is terrified of him and is scared to see him there.
+q2:How does the woman in the brown coat react when the man kisses her cheeks?
+a:She giggles flirtatiously and makes a funny remark.
+i:She is grossed out by the kisses and doesn't kiss him back.
+q3:How do the man with the helmet and the woman with gray hair feel about each other?
+a:They love each other, as seen by the deep hug they share.
+i:They are quite awkward around each other because the man doesn't like the woman with gray hair at all.
+q4:What is the tone of the man with the helmet and the woman with the brown jacket's conversation?
+a:They are excited to see each other and catch up as old friends.
+i:They simply share greetings with each other to be polite but are indifferent toward eachother.
+q5:Why does the woman open up her brown coat to the man with the helmet to show what she is wearing underneath?
+a:She wanted to see what the man thinks of her outfit.
+i:She was embarrassed by what she was wearing.
+q6:What is the mood of the woman in the brown jacket?
+a:She is in a silly and flirtatious mood, as she keeps laughing and smiling.
+i:She is in a rushed and panicked mood, as she keeps trying to leave.

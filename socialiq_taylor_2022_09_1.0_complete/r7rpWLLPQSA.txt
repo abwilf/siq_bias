@@ -1,0 +1,18 @@
+q1: Why does the audience laugh?
+a: The man is being self-deprecating
+i: The man is teasing his opponent
+q2: Why does the audience clap?
+a: They are expressing their approval of the man in the black and white shirt
+i: They are expressing their excitement for free merchandise
+q3: Why does the man in the black and white shirt look back and forth between the audience and the man in the blue tie while he is speaking?
+a: He wants to hold their attention and determine their reactions to what he is saying
+i: He is confused because he doesn't know who he should be speaking to
+q4: What is the mood between the men?
+a: It is light-hearted
+i: It is becoming tense
+q5: How does the man in the blue tie feel about the delivery process?
+a: He thinks it's weird because they know he will like the things they send him
+i: He thinks it's weird because they know where he lives
+q6: Why does the man in the black and white shirt talk about the relational database?
+a: He thinks it is an interesting story that related to what the man in the blue tie said
+i: He is being quizzed and wants to demonstrate his knowledge

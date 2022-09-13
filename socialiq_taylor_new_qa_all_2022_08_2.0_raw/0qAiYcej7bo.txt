@@ -1,0 +1,19 @@
+
+q1: What is the attitude of the man? 
+a: He is happy and nostalgic
+i: He is sad that the woman feels that way about their son. 
+q2: How does the woman feel about her son dating?
+a: She does not like the fact that her son is dating because he is not like other people.
+i: She is thrilled that her son is dating because she wants him to have a normal life.
+q3: Do the woman and the man agree?
+a:No, the man and woman do not agree.
+i: Yes, they both agree on the fact that they don't want their son to start dating.
+q4: Is the man willing to help the woman?
+a: Yes, he is willing to help her.
+i: No, which is why he walks past her.
+q5: Why does the man hope up the book of faces?
+a: He is reminiscing about his child.
+i: He offers the idea that the book might help him with dating.
+q6: Is the woman really "fine" when she says she is "fine"
+a: No, the woman is not fine and is actually stressed out.
+i:Yes, the woman is totally fine.

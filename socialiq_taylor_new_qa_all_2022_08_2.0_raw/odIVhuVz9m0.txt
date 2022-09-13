@@ -1,0 +1,19 @@
+
+q1: How does the woman feel about the man?
+a: She cares about the mans well being.
+i: She doesn't have any feelings about the man as they just met.
+q2: Why does the woman stop walking at :16?
+a: She stops walking so that the man can really focus on what she is saying.
+i: She stops walking because there is something blocking the path.
+q3: Does the man seem open to what the woman is saying?
+a: No, the man does not seem open to what the woman is saying because he denies having the qualities that she says he does. 
+i: Yes, the man is very open to what the woman is saying and agrees with her.
+q4: Why does the man lie abotu his injury? 
+a: He does not want the woman to make a big deal about it.
+i: He is scared the woman might tell someone else about his injury.
+q5: What is the relationship between the two individuals?
+a: It is a mentor and mentee relationship.
+i: The woman is his aunt.
+q6:
+a:
+i:

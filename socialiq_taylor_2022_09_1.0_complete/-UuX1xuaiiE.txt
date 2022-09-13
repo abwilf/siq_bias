@@ -1,0 +1,18 @@
+q1:What is the mood of all of the people speaking?
+a:They are calm and relaxed, happy to speak.
+i:They are sad and depressed, having trouble speaking.
+q2:How do the children in the photos feel about the woman they are posing with?
+a:They seem shy and awkward, but not upset.
+i:They seem terrified.
+q3:Why does the woman pause while she is speaking?
+a:She is thinking carefully about the words she is saying.
+i:She is confused about what is happening.
+q4:What does the man with the white hair's posture say about how he is feeling?
+a:He is feeling relaxed, confident and comfortable.
+i:He is feeling angry and aggressive.
+q5:Why is the man with the striped tie smiling?
+a:He is passionate about the topic and excited to speak about it.
+i:He just heard a joke and is about to laught at it.
+q6:How does the woman in the photos feel about the children she is with?
+a:She loves being with them and is very happy and enthusiastic. 
+i:She doesn't want to be with them and dislikes them.

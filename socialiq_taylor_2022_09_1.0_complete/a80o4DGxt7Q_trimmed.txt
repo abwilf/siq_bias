@@ -1,0 +1,21 @@
+q2: Why does the boy in blue at 0:10 grin?
+a: He is proud of himself
+i: He is happy to see his sister
+q4: How do the teams express their competitiveness?
+a: Cheerfuly
+i: Aggressively
+q6: How do the parents feel about the game?
+a: They are happy with it
+i: They find it immature
+q7: Why do the people cheer at 0:36?
+a: To celebrate the win
+i: To support the man
+q8: What is the purpose behind the exchange of high-fives?
+a: They are wishing their teammates good luck
+i: They are congratulating their teammates
+q12: Why does the boy cover his eyes at 0:05?
+a: He didn't do well at his turn
+i: He is getting emotional
+
+
+

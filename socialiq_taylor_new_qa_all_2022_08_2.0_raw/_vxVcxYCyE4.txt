@@ -1,0 +1,18 @@
+q1:How does the woman react when she sees the man outside the building?
+a:She reacts confused, she thinks she might recognize him.
+i:She reacts flirtatiously, she remembers him from before.
+q2:Why is the man stumbling over his words when first talking to the woman?
+a:He is attracted to her and is nervous to speak.
+i:He is about to ask her for a serious favor.
+q3:Why is the woman laughing at the man as he tells her how they know eachother?
+a:It's nervous laughter, because the situation is very awkward and unusual.
+i:It's annoyed laughter, because the man already asked her out before.
+q4:Why does the woman wave her hand at the man as they cross the street?
+a:She is trying to get some distance from the man by using body language.
+i:She is making sure the cars see them crossing, so they don't get hit.
+q5:Why does the woman give the man a side eye look at 0:57?
+a:She is waiting to see how he answers her question about his clothes.
+i:She is hoping he sees that she is uncomfortable and leaves her alone.
+q6:What is the mans tone when he tells the woman that he is a doorman?
+a:His tone is embarrassed, because he doesn't look at her as he says this.
+i:His tone is prideful, because he takes his job very seriously.

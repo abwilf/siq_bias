@@ -1,0 +1,18 @@
+q1: How does the woman portray the plant?
+a: As crucial
+i: As poisonous
+q2: What worries the woman?
+a: The future of the plant
+i: The harvesting of the plant
+q3: How does the woman feel about the plant?
+a: Hopeful
+i: Skeptical
+q4:
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

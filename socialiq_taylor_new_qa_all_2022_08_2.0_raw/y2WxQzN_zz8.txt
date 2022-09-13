@@ -1,0 +1,18 @@
+q1:Why is the man in the plaid shirt laughing in the beginning?
+a:He can't believe what he is hearing, it's so ridiculous to him that it's funny.
+i:He is laughing because he is relieved to hear the bald man telling the truth.
+q2:Does the bald man have any interest in what the man in plaid is saying?
+a:The bald man is interested in what the man in plaid is saying since he asks the man to elaborate.
+i:The bald man isn't interested in what the man in plaid is saying because he continues on with his work.
+q3:What is the tone among the men in the room?
+a:The tone in the room is tense, because the men are disagreeing with eachother.
+i:The tone in the room is humorous, because people keep laughing at eachothers jokes.
+q4:Why does the man in the blue shirt rub his earlobe?
+a:He is nervous and ashamed about what the man in plaid is saying and he is self soothing.
+i:He is angry about what he mean says and pulling on his ear to relieve the tension.
+q5:Why does the man in the yellow avoid eye contact with the man in plaid?
+a:He is ashamed and doesn't want to hear how they made mistakes.
+i:He is finding the situation funny and doesn't want to laugh.
+q6:Why does the man standing by the white board in the red shirt look concerned at the man in blue?
+a:He is waiting for him to answer and important question and is starting to doubt him.
+i:He is waiting for a signal to kick the man in plaid out of the office.

@@ -1,0 +1,18 @@
+q1: How do the people portray the exchange program?
+a: As an opportunity
+i: As not worth it
+q2: How does the woman at 0:44 feel about her experience with snow at U Mass?
+a: She felt it was a unique experience
+i: She felt it put a damper on her experience
+q3: What does the woman who attended U Mass feel about the cost?
+a: It is completely manageable 
+i: It is expensive, but worth it
+q4: Why did the woman take rigorous courses at U Mass?
+a: To take advantage of her time there
+i: To fit in with the others
+q5: 
+a:
+i:
+q6:
+a:
+i:

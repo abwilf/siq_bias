@@ -1,0 +1,18 @@
+q1:Does the man speaking seem knowledgeable about the topic of conversation? 
+a: Yes, he seems to know what he is talking about.
+i: No, he asks too many questions about the topic. 
+q2: What is the tone of the man speaking?
+a:He is analytical and speaks with a serious tone. 
+i:He is trying to argue for ethic reform, so his tone is passioante
+q3:Why does the man move his hands around while speaking
+a: He is avoiding wide, emphatic gestures, but wants to punctuate his points with movement
+a:ecause he is extremely energetic and passionate about what he is saying
+q4:Is the woman in the brown jacket Interested in what the man is saying?
+a: Yes, she is making direct eye contact which indicates she is interested.
+i: No, she is looking around the room which indicates she is bored.
+q5:
+a:
+i:
+q6:
+a:
+i:

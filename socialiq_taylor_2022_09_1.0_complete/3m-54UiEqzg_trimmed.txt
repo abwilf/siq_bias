@@ -1,0 +1,18 @@
+q1: Are the children at the beginning of the video having fun?
+a: Yes, they are playing.
+i: Yes, they are drawing.
+q2: Why does the woman close her eyes at 0:17?
+a: She is trying to deal with her emotions.
+i: She is trying to recall a memory.
+q3: How does the young girl's feelings change throughout the video?
+a: She shifts from excited to ashamed.
+i: She shifts from jealous to excited.
+q4: What does the woman pull her daughter aside?
+a: To teach her a lesson.
+i: To smooth her clothing.
+q5: What does the young girl do after opening the package?
+a: Boast to her piers.
+i: Play with its contents.
+q6: Why does the young girl hug her mother?
+a: She is grateful.
+i: She is apologetic.

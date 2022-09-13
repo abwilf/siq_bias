@@ -1,0 +1,18 @@
+q1:What is the woman's attitude towards the men?
+a:She talks to them with a friendly attitude, but she is skeptical of them.
+i:She talks to them with an angry attitude, because she doesn't want them to know too much.
+q2:Why does the gray haired man look concerned at the darker haired man when he is talking about the houses?
+a:Because he doesn't want to say the wrong thing in front of the woman.
+i:Because he is ruining a surprise they set up for the woman.
+q3:Why does the man look taken back when the woman asks him where he is really from?
+a:He is impressed by the witty nature of the womans comment.
+i:He is frustrated that the woman won't let him leave.
+q4:What is the man in the blue jacket's demeanor toward other people?
+a:His demeanor is confident and yet slightly uncomfortable.
+i:His demeanor is angry that the other people in the conversation did not laugh along with his jokes
+q5:Why is the darker haired man staring at the woman at 0:53?
+a:He is trying to determine her reaction to what the man in the blue jacket is saying.
+i:He is trying to keep an eye on her so she doesn't escape while they talk.
+q6:Did the woman find the joke about being a dancer in Vegas funny?
+a:No, because she bites her lip through a fake smile.
+i:Yes, because she smiled and laughed.

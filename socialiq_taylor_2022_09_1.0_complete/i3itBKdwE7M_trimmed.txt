@@ -1,0 +1,18 @@
+q1: How does the little girl feel to meet the stranger?
+a: Excited
+i: Shy
+q2: Why is the little girl meeting the man?
+a: She is a fan of him
+i: He is adopting her
+q3: What does the little girl covering her mouth at the beginning of the video imply?
+a: Disbelief
+i: Anticipation
+q4: Was the man's visit unexpected by the little girl?
+a: Yes
+i: No
+q5: What did the man think of the little girl's letter?
+a: It was very sincere
+i: It was very ambitious
+q6: Why did the man bring toys for the little girl?
+a: To show appreciation
+i: To give her a good Christmas

@@ -1,0 +1,18 @@
+q1:What is the tone of the woman asking the questions?
+a:Her tone is inquisitive, and she is looking for answers.
+i:Her tone is abrasive, and she is accusing the man of something.
+q2:Why does the woman move her head toward the man and stare at him?
+a: She is anxiously waiting for his response to her question.
+i: She is trying to see what he is doing and his back is turned to her.
+q3:Why doesn't the man immediately turn around when the woman is talking to him?
+a:He isn't interested in the conversation and doesn't want to engage with her.
+i:He is busy doing something and can't turn around until he is done.
+q4:Why does the man sit down on the bed next to the woman?
+a:He is getting closer to her to talk and calm her down.
+i:He is tired and getting ready to lay down and go to sleep.
+q5:Why does the woman sit back against the headboard while talking to the man?
+a:She is upset that he lied to her and is getting some distance from him.
+i:She is getting a sore neck from sitting up in bed for so long.
+q6:Why does the man roll his head around after she asks why he lied?
+a:He is trying to think of what to say to her in that moment.
+i:He is furious that she asked him that specific question.

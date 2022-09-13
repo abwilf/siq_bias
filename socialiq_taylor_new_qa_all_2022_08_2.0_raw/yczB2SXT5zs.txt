@@ -1,0 +1,18 @@
+q1:What is the tone of the doctor as she reveals information about the man?
+a:She is stoic and serious, while being professional.
+i:She is devastated and sad, she can't handle giving the news.
+q2:Why don't the two people sitting in chairs respond to the doctor right away?
+a:They are in disbelief over what she has just revealed.
+i:They didn't hear her and are waiting for her to repeat herself.
+q3:Why does the blonde woman look at the man in the hat at 0:07?
+a:She is waiting to see how he is going to respond to the doctor.
+i:She is looking at him to make sure he was paying attention.
+q4:Why does the man rapidly blink when the doctor tells him the news?
+a:He is processing what she said and thinking of what to say.
+i:He is thinking of what he will make for dinner that evening.
+q5:Why does the man shake his head as the blonde woman is talking to the doctor about medications?
+a:He knows it won't work, and wishes the blonde woman would stop talking.
+i:He is very upset at the doctor, because she should have done more to help.
+q6:What is the tone between the man and the blonde woman after the doctor tells them the update?
+a:The tone is frustrated, they both don't feel like the other is being reasonable.
+i:The tone is rational, they are both coming up with ideas for the future.

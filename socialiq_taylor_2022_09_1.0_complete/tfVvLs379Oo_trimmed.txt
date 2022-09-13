@@ -1,0 +1,18 @@
+q1: How does the dynamic between the men shift when the man in blue starts speaking?
+a: It becomes a bit awkward
+i: It becomes a bit serious
+q2: Which person is more serious about the topic?
+a: The man in blue
+i: The man in grey
+q3: What does the man on the right aim to do?
+a: Educate people
+i: Humor people
+q4: How does the man on the left behave?
+a: He is over-the-top
+i: He is humble
+q5: How does the man on the right behave toward the other man?
+a: He seems annoyed with him
+i: He seems to admire him
+q6: Why does the man imitate the drafting of papers?
+a: He is being dramatic
+i: He is speculating on what could've happened

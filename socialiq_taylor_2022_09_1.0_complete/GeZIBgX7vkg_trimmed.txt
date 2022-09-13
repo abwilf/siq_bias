@@ -1,0 +1,20 @@
+q1: How does the woman speak of the task?
+a: As impossible
+i: As enjoyable
+q2: Do the men believe they can complete the task?
+a: Yes
+i: No
+q3: How do the men feel about their chance to get on the ballot?
+a: Confident
+i: Uncertain
+q4: How do the men get the task done?
+a: By being very social
+i: By being very studious
+q5: Why are the men waving their clipboards at 0:51?
+a: They are hot
+i: They need signatures
+q6: How does the stance of the men at 0:38 make them appear?
+a: Intimidating
+i: Welcoming
+
+

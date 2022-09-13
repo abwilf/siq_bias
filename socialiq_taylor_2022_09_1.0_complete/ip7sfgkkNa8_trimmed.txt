@@ -1,0 +1,18 @@
+q1: Why are the group of people dressed in blue laughing at the people coming down the hill with the cheese? 
+a: They find it amusing that the people are struggling. 
+i: They want to make the people coming down the hill to feel bad. 
+q2: How does the man with short black hair feel about his struggling partner at 00:17?
+a: He feels sympathetic and supportive towards his struggling partner. 
+i: He feels annoyed that his partner is delaying the process of getting down the hill. 
+q3: What is the atmosphere like throughout the video?
+a: The atmosphere was competetive and tense, but also comedic.
+i: The atmosphere was professional, but aggressive.
+q4: Why does the older man look behind him at 00:28?
+a: He hears a noise coming closer and wants to know what it is to make sure he is safe.
+i: He is yelling insults at the people further up the hill.
+q5: How does the woman in orange react when the man in orange dropped what he was carrying?
+a: She encourages him with urgency to get the object.
+i: She shrugs and says nothing, seeming to be neutral about the event.
+q6: Why are the people carrying the objects down the hill?
+a: They are competing against each other in a contest.
+i: They are doing it for fun and for no particular reason.

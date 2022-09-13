@@ -1,0 +1,18 @@
+q1:What is the tone of the lady with the white scarf?
+a: She is pleasant and focused on giving information to the viewers.
+i: She is monotoned and seems a bit sleepy
+q2: How does the lady in the white skirt feel act?
+a: She is reserved but seems happy to be there.
+i:She is very excited to be there and it shows 
+q3:How do the 2 ladies get along?
+a: They are cordial and professional to one another
+i: The woman on the right is very still which shows that she is uncomfortable.
+q4: Why does the woman on the right giggle at :40?
+a: She giggles because the lady on the left indicates the know one another.
+i: She giggles because the lady on the left praised her grades in school.
+q5: 
+a: 
+i:
+q6:
+a:
+i:

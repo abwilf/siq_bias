@@ -1,0 +1,18 @@
+q1: How does the audience feel about the man in the grey jacket?
+a: The audience is excited by his presence 
+i: The audience does not care about his presence
+q2: What is the tone of the man in the blue tie at the start of the video?
+a: He is excited and is building suspense 
+i: He is solemn and concerned
+q3: What does the man in the blue tie express towards the man in the grey jacket?
+a: He expresses congratualations to him
+i: He expresses annoyance to him
+q4: Why was the man in the blue tie surprised?
+a: He was surprised by the weight of the trophy
+i: He was surprised by how smart the man in the grey jacket is
+q5: Why do the men want to move the trophy off of the desk?
+a: The men want to be able to see one another
+i: The men are scared the trophy might fall
+q6: How does the tone of the man in the blue tie change throughout the video? 
+a: His tone changes from congratulatory to joking
+i: His tone changes from serious to sarcastic

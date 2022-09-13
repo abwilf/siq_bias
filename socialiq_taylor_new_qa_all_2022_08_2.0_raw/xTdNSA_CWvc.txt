@@ -1,0 +1,19 @@
+
+q1: What is the tone of the man in the grey suit?
+a: He is furuious and aggressive.
+i: He is thrilled and excited.
+q2: What is the atmosphere between the two men?
+a: The two men do not like one another.
+i: The two men are really good friends.
+q3: Why does the man in the grey repeat what the man in the black says?
+a: He repeats him because he is confused as to why the man in black agreed with him instead of continuing to argue with him.
+i: He repeats him because he is mocking him.
+q4: Is the woman friendly to the man in the grey??
+a: Yes, she is polite and friendly to the man in the grey.
+i: No, she doesn't like the man in the grey so she wasn't friendly to him.
+q5:Why does the man with the red tie place his hands on the table and lean towards the man in the chair?
+a: He does this to try and intimidate the man in the chair.
+i: He does this so that he can hear what the man in the black is saying.
+q6: Why does the man in the black stand up?
+a: He is challenging the man in the grey.
+i: He is getting ready to leave the room.

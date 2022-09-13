@@ -1,0 +1,19 @@
+
+q1:Do the two men enjoy each other's company?
+a: Yes, they seem to get along well and enjoy each other's company.
+i: No, they don't enjoy each other's company at all.
+q2:Does the man in the suit respect the man in the blue shirt?
+a: Yes, he respects the man in the blue shirt 
+i: No, he does not respect the man in the blue shirt.
+q3: Why  does the man in the suit laugh at :15?
+a: He laughs because he pulls a prank on the man in blue.
+i:He laughs because the man in blue said something funny.
+q4:Why does the man in blue look over at :50?
+a: He is ackowledging someone that is talking to him.
+i: He is making sure no one is listening to the conversation.
+q5: Who is more confident between the two men?
+a: The man in the blue shirt is more confident
+i: The man in the suit is more confident. 
+q6: How dose the tone change throughout the video?
+a: The tone changes from playful and light hearted to more serious and down to business.
+i:

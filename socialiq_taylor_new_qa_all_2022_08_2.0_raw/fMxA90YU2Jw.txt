@@ -1,0 +1,20 @@
+
+
+q1: What is the mans reaction to the woman suggesting she quit?
+a: He is in shock and disbelief.
+i: He agrees with her and thinks it's the right decision.
+q2: Does the man really find the woman ungrateful?
+a: No, he is just speaking from anger.
+i: Yes, he thinks she is ungrateful and he despises her.
+q3: How can you tell the woman is flustered?
+a: You can tell she is flustered because she raises her voice and can't finish her sentence.
+i: You can tell she is flustered because she follows the man around.
+q4: Does the man rely on the woman?
+a: Yes, the man relies heavily on the woman and needs her to make decisions.
+i: No, the man is capable of going about his daily life without the woman.
+q5: Why does the woman pause at :35 before responding to the man?
+a: She pauses because sshe doesn't want to argue with him anymore.
+i:She pauses because she can't think of anything to say.
+q6:Why does the man hold up the object to the woman at :55?
+a: He wants to know her opinion of it.
+i: He wants to give it to her so she wont leave.

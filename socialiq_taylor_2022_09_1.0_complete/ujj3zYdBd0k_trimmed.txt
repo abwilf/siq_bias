@@ -1,0 +1,18 @@
+q1:What is the role of the man on the right?
+a: He is interviewing the man on the left.
+i: He is being interviewed by the man on the left.
+q2: Does the man on the left believe in inclusivity?
+a: Yes, he sees this as a positive.
+i: No, he knows it is unfair but doesn't care.
+q3: How does the man on the left behave?
+a:He is eager to get his message across.
+i:He is eager to get his work done.
+q4: How does the man on the right react to the man on the left
+a:He is listening patiently to the man on the left.
+i:He is impatient with the ideas of the man on the left
+q5:What does the man in blue think is a bad character trait?
+a: He very much dislikes hypocrisy. 
+i: He very much dislikes lying. 
+q6: Do the men seem to get along?
+a: Yes, the men seem to get along just fine.
+i: No, they cannot stand one another.

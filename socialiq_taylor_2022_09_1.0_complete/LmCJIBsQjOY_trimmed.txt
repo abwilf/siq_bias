@@ -1,0 +1,18 @@
+q1: How does the man feel about Washington DC?
+a: He avoids it
+i: He adores it
+q2: Is the woman concerned about the republican party?
+a: No, she is confident about working together
+i: Yes, she is nervous about them winning
+q3: How does the man portray Washington DC?
+a: As ruthless
+i: As hospitable
+q4: What attracts the woman to Washington DC?
+a: Her career
+i: Her family
+q5: What can be inferred from the man's political statements?
+a: He supports democrats
+i: He supports republicans
+q6: Why does the man ask the woman twice about why she would want to go to Washington DC?
+a: He could not comprehend her answer
+i: He could not hear her answer

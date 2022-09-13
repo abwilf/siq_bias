@@ -1,0 +1,19 @@
+
+q1:Why does the woman put her hand over her mouth?
+a: She is shocked at the news the man in the white coat delivered.
+i: She is excited at the news the man in the white coat delivered.
+q2: What is the relationship between the man in the white coat and the woman?
+a: The man in the white coat is the woman's doctor.
+i: The man in the white coat is the woman's best friend.
+q3: Does the man in the white suit seem sympathetic when delivering the news to the woman?
+a: Yes, he feels for the woman and hates that he had to deliver bad news. 
+i:  No, he doesn't show emotion at all when he is speaking to the woman.
+q4: How does the woman react to the news she has received?
+a: The woman is scared and upset at the news she has received
+i: The woman is thrilled and happy with the news she has received.
+q5: Does the woman know the man sitting down?
+a: Yes, the woman knows the man sitting down.
+i: No, the woman does not know the man sitting down.
+q6: Why does the man sitting down look away towards the end of the video?
+a: He looks away because he feels ashamed as if he failed the woman in green
+i: He looks away because he is very bored with the conversation.

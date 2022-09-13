@@ -1,0 +1,18 @@
+q1:What is the attitude of the man in the yellow?
+a: He is desperate and aggressive.
+i: He is thoughtful and regretful of his actions.
+q2: Does the man in the black seem to take the man in yellow's concerns seriously at the beginning?
+a: No, he seems to be dismissive of the man in yellow.
+i: Yes, he takes his concerns very seriously 
+q3: How does the man in the black feel after the man in yellow hits him the first time?
+a: He is scared and trying to diffuse the situation.
+i: He is angry at the man in yellow and tries to fight back
+q4: Is the man in the black jacket apologetic?
+a: No, he is not apologetic and continues his out of control behavior.
+i: Yes, he is apologetic which is why he is crying. 
+Why does the man in the brown not fight back against the man in yellow?
+a: He doesn't fight back because he doesn't want to further aggravate the man in yellow.
+i: He doesn't fight back against the man in yellow because he legally cannot.
+q6: 
+a:
+i:

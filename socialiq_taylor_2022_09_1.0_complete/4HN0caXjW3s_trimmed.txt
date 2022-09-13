@@ -1,0 +1,18 @@
+q1: Why does the man on the left's attitude change from joking to serious?
+a: In order to explain a view point.
+i: In order to be more authoritative. 
+q2: Why does the man on the left laugh at the beginning?
+a: He is entertained by the man on the right.
+i: He is making fun of the man on the right.
+q3: 
+a:
+i: 
+q4: Why did the man on the left stop laughing?
+a: He wanted to be serious for a moment.
+i: He received a text message.
+q5: Why is the man on the right moving his hands?
+a: To exaggerate what he's saying.
+i: To get the other man's attention.
+q6: Does the man on the right dislike the man on the left?
+a: No.
+i: Yes.

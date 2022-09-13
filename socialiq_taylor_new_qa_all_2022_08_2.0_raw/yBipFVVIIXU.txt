@@ -1,0 +1,18 @@
+q1:How do the people react to the man with the brown jacket trying to enter the table
+a:The people seem confused when the man in the brown jacket tries to sit down at their table. 
+i:The people sitting at the table seem to really welcoming towards the man in the brown letter jacket when he approaches their table
+q2:Does the woman in black know the man in the brown jacket?
+a:Yes, because she smiles when he sits down.
+i:No, because she is staring at him trying to figure out who he is.
+q3:Why does the woman in black ask the man about the money?
+a:She doesn't understand why he gave it to her.
+i:She thinks she is owed more than that amount.
+q4:Why is the woman in the orange dress staring at the two people talking?
+a:She is confused by the situation and waiting to see how it plays out.
+i:She is scared of the man sitting at the table and getting the attention of security.
+q5:Why does the woman give the money back to the man?
+a:She feels weird taking the money because she doesn't remember why he owes it to her.
+i:She feels happy that she can maintain control over the man if he owes her money.
+q6:What is the tone of the "Thank you" that the woman gives the man?
+a:The tone is awkward and uncomfortable because her voice was in a very high pitch. 
+i:The tone is casual and friendly because she likes the mans confidence.

@@ -1,0 +1,19 @@
+
+q1:Does the man in the white agree with the man in the blue at the beginning?
+a: No, he does not agree with what the man in blue is saying
+i:Yes, he completely agrees with what the man in blue is saying
+q2: Why does the man in blue close his eyes at the end of the video?
+a: He is disappointed that the man in white did what he was told not to do.
+i: He thinks the interaction between the man in white and the woman is awkward and is mentally escaping.
+q3:What is the tone of the woman in black?
+a: She has a dead pan tone.
+i: She is happy to be invited over.
+q4: How does the man in white first react to the woman in black?
+a: He initially compliments the womans appearance.
+i: He initially says something inappropriate to the woman.
+q5: What is the tone of the conversations between the man in white and the woman?
+a: The tone of the conversation is very strange and awkward.
+i: The tone of the conversation is natural and comfortable.
+q6:Why does the woman move her head while the man in white is talking to her?
+a: She does this because she is confused as to why the man is sharing so much information with her..
+i: She does this because he was annoying her with all the information he was sharing with her.

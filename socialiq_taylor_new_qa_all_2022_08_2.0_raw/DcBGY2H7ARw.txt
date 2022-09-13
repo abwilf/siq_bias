@@ -1,0 +1,18 @@
+q1:Does the man in the sweater seem confident?
+a: No, he does not seem confident in himself.
+i: Yes, he is very confident in his behaviors.
+q2: What is the man in the sweaters attitude towards the man in the black? 
+a: He admires the man in the black and aspires to be like him.
+i: He is indifferent towards the man in the black
+q3: What is the atmosphere between the two men?
+a: They are calm and comfortable talking with one another.
+i: They are awkward and uncomfortable talking with one another 
+q4:Does the man in the black understand how the man in the blue feels?
+a: Yes, he understands given that he has been in the same place himself.
+i: No, he does not understand because he doesn't take the time to listen.
+q5: why does the man in the black raise his eyebrows? 
+a: He is emphasizing the point he is making.
+i: He doesn't understand what the man in the blue is saying.
+q6:
+a:
+i:

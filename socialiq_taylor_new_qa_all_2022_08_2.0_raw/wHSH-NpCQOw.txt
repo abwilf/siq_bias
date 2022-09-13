@@ -1,0 +1,19 @@
+
+q1:Why does the man with the scarf maintain intense eye contact with the man in the tie?
+a: He does this to convey his side of the story with confidence and conviction.
+i: He does this because he is trying to intimidate the man in the tie.
+q2: Why does the man in the tie rub his eyes? 
+a: He does this because he is bewildered by the man in the scarf.
+i: He does this because he is sleepy.
+q3: Does the man in the feel that he was wronged?
+a: Yes, he feel that he has been wronged.
+i: No, not at all, he thinks his punishement is deserved.
+q4:Why does the man in the tie scoff at :47?
+a: He thinks the story the man in the scarf is telling him is incredulous and unbelievable.
+i:He thinks the way the man was treated is awful.
+q5: Do the two men agree?
+a: No, the two men do not agree at all.
+i: Yes, the definitely agree with one another.
+q6: What is the tone of the man with the scarf? 
+a: He is serious and unwavering.
+i: He is sad and moody.

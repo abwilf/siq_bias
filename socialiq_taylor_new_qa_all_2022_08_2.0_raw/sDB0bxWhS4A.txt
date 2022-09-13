@@ -1,0 +1,20 @@
+
+
+q1: What is tone between the two women?
+a: The tone is serious and downhearted.
+i:The tone is apathetic and indifferent.
+q2: Why does the woman with long hair whisper at the behinning?
+a: She whispers because she is upset.
+i: She whispers because people are sleeping and she doesn't want to wake them.
+q3: How does the long haired woman react to the short haired womans answer at :07?
+a: She is disappointed in the answer.
+i: She is thrilled with the answer.
+q4:Why does the woman with short hair pause before answering the long haired woman's question at the beginning of the video?
+a: She pauses because she is thinking of the best way to answer.
+i: She pauses because she is annoyed by the long haired womans question.
+q5: Is the short haired lady aggrivated with the long haired woman?
+a: No, she is not at all aggrivated with the long haired woman.
+i: Yes, she is aggrivated with the line of questioning from the long haired woman.
+q6:
+a:
+i:

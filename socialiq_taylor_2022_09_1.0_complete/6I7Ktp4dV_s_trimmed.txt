@@ -1,0 +1,18 @@
+q1: How does the woman feel about what the man is saying?
+a: She trusts the information he is relaying.
+i: She doesn't believe his story.
+q2: Why does the woman ask the man questions?
+a: He is well-versed on the topic.
+i: She wants him to ease her nerves.
+q3: What is the overall mood of the conversation?
+a: Informative.
+i: Excited.
+q4: What is the dynamic between the two individuals?
+a: They are professional.
+i: They are very affectionate.
+q5: How does the man speak?
+a: In a calm manner.
+i: In a jittery manner.
+q6: Why does the woman mention reasons for the taxes being passed in other cities?
+a: To bring a different perspective.
+i: To disagree with the man's reason for passing it in New Mexico.

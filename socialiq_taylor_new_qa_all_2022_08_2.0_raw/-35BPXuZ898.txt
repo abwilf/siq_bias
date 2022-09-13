@@ -1,0 +1,18 @@
+q1: How does the man feel when the woman runs up to him?
+a: He feels confused by the woman because he doesn't know her.
+i: He feels annoyed by the woman because he remembers her from a party.
+q2:Why does the woman run up to the man on the steps?
+a:She is eager to introduce herself to him before he walks away.
+i:She is mad that he forgot to bring the paper she asked him to bring.
+q3:Why is the man surprised when the woman says she is a student?
+a: He thought the woman looked more like a colleague due to her age.
+i: He thought he had seen the same woman in the faculty lounge before.
+q4:Why does the woman look to the side at 0:18?
+a:She thought the man was about to insult her age so she corrected him.
+i:She thought the man was about to walk away and she wanted to stop him.
+q5:Why does the woman follow the man as he walks away from her?
+a:She still needs to ask him a question about a school requirement.
+i:He is still holding onto her homework that she needs for the next class.
+q6:What is the man's attitude about the yellow folder the woman hands him?
+a: He has a dismissive attitude towards the yellow folder because he puts it into his bag without looking at it.
+i: He has a pleased attitude towards the yellow folder because the woman has finally agreed to give it to him.

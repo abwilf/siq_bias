@@ -1,0 +1,18 @@
+q1: What does the woman value more?
+a: Her ability to sing
+i: Her good taste in fashion
+q2: What is the woman in the video working toward?
+a: A long term goal of her's
+i: A short term goal of her's
+q3: How do the judges react to the performance?
+a: They maintain neutral expressions
+i: They laugh
+q4: What does the woman's expression at 0:58 suggest?
+a: That she has a negative judgement of the performance
+i: That she is surprisingly impressed by the performance
+q5: Does the man at 0:21 appear impressed by the woman's efforts towards her goal?
+a: No, he appears bored
+i: Yes, he smiles in approval
+q6: How does the woman feel about the song she is singing?
+a: She is immersed in it
+i: She doesn't resonate with it

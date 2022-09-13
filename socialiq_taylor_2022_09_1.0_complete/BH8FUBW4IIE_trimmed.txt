@@ -1,0 +1,18 @@
+q1: How long has Ben waited for this moment?
+a: His entire life
+i: The last few months
+q2: Did Ben make a Facebook to try to find his biological family?
+a: No
+i: Yes
+q3: How did Ben feel as a child about his biological family?
+a: He yearned for them
+i: He was afraid to meet them
+q4: Why is Ben brushing up on Russian?
+a: It is the language his family speaks
+i: It is the language his friend speaks
+q5: Is meeting his biological family important to Ben?
+a: Yes, he travels across the globe to do so
+i: Yes, he pays several investigators to locate them
+q6: Why is Ben smiling at the airport?
+a: He is about to meet his family
+i: He is about to pick up his family

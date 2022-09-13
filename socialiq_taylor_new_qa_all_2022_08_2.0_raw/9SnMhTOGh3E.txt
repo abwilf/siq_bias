@@ -1,0 +1,20 @@
+
+
+q1:Why is the man with the mustache rubbing his head?
+a: He does this because he is contemplating his next words.
+i: He does this because he has a headache.
+q2: What is the tone of the conversation?
+a: The tone is solemn and heavy.
+i:The tone is soothing and calm.
+q3: Does the woman feel guilty??
+a: Yes, she regrets her past decisions.
+i: No, she does not feel regret at all. 
+q4: Why does the man put his hand on the woman's shoulder?
+a: He is comforting the woman.
+i: He wants the woman to relax
+q5:
+a:
+i:
+q6:
+a:
+i:

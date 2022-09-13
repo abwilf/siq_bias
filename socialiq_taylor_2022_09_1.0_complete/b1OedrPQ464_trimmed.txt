@@ -1,0 +1,18 @@
+q1: What type of humor does the older man use?
+a: Self-deprecating
+i: Dark
+q2: How does the younger man feel about the older man's story?
+a: He is amused
+i: He is perplexed
+q3: Is the man on the left a serious person?
+a: No, he makes plenty of jokes throughout the video
+i: Yes, he barely laughs throughout the video
+q4: How was the younger man's response to the older man's question taken?
+a: With annoyance
+i: With appreciation
+q5: Was the younger man's response unexpected by the older man?
+a: Yes, he thought the man would agree
+i: Yes, he thought the man wouldn't answer
+q6: What does the man's demonstration of his reaction to the woman imply?
+a: He was overwhelmed
+i: He was mocking her
