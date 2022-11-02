@@ -1,0 +1,18 @@
+q1: Why was the lady touching her chin and looking away from the man?
+a: She was thinking about something else.
+i: She was feeling self-conscious.
+q2: What does the man's eye contact with the lady suggest?
+a: He is paying attention to what she is saying.
+i: He is trying to intimidate her.
+q3: Why do the people appreciate the thing they are speaking about?
+a: They think it is masterful work.
+i: They think it is humorous.
+q4: How do the two people feel around one another?
+a: They are comfortable.
+i: They are apprehensive.
+q5: What does the woman's tone suggest about her?
+a: She is a serious person.
+i: She is a playful person.
+q6: How do the two people show respect to one another?
+a: They listen and let each other speak in turn.
+i: They shake hands and open doors for each other.

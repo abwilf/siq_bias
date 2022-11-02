@@ -1,0 +1,18 @@
+q1: What is the tone fo the woman wearing the blue beads at the start of the video?
+a: Her tone is very light and informative
+i: Her tone is very heavy and rude
+q2: How does the woman wearing the scarf express that she is paying attention?
+a: She smiles, nods, and makes eye contact
+i: She grimaces, shakes her head, and looks around the room
+q3: How does the woman wearing the scarf feel about the information being given to her?
+a: She feels as though the information is useful
+i: She feels as though the information is pointless
+q4: What is the relationship between the two women?
+a: The woman wearing the scarf is interviewing the woman wearing the beads
+i: The woman wearing the scarf is the boss of the woman wearing the beads
+q5: How do the women feel about running a bed and breakfast?
+a: They see it as a fantasy that is, in reality, much harder than it seems
+i: They see it as a fantasy that is, in reality, as easy as it seems
+q6: Why do the women laugh at the end of the video?
+a: The woman wearing the scarf made a joke
+i: The woman wearing the beads made a joke

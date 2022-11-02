@@ -1,0 +1,18 @@
+q1:Why does the woman with a red shirt shake her head?
+a:The woman in the red shirt shakes her head because she was proud of what people did for Harold.
+i:The woman in the red shirt shakes her head because she was angry at people for what they did to Harold.
+q2:How does the woman with glasses and curly hair feel about the reform act?
+a:She is overjoyed with it and loves to talk about it with anyone.
+i:She is bored with it and doesn't want to be talking about it anymore.
+q3:What is the attitude of the woman in the white sweater?
+a:She is inspired and looking forward to the future.
+i:She is discouaged and looking back to the past.
+q4:How do the people talking value education?
+a:The people talking value education very highly, seeking to improve it.
+i:The people talking don't value education very highly, seeking to limit it.
+q5:Why is the woman wearing black sitting at the table writing something down?
+a:She is taking the meeting seriously and writing notes.
+i:She is not taking the meeting seriously and writing her grocery list.
+q6:Why does the man in the white shirt wave his hands around at 0:51?
+a:He is trying to add emphasis to what he is saying.
+i:He is trying to add humor to what he is saying.

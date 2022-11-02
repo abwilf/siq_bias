@@ -1,0 +1,19 @@
+
+q1:What is the relationship between the two men?
+a:They are competing with one another.
+i:They are singing a duet together.
+q2:What is the tone of the overweight man in the black suit?
+a:He is antagonistic.
+i:He is playful and friendly.
+q3:Why do the men shove each other out of the way?
+a: They want to be the center of attention.
+i: They want to physically fight.
+q4:What are the demeanors of the the men in the background?
+a:They find the men's behavior amusing.
+i:They are annoyed the men are acting childish.
+q5:Were the feelings between the two main singers in the front mutual?
+a: Yes, the both felt the same towards one another.
+i: No, the man in the purple didn't want to compete with the other man.
+q6:
+a:
+i:

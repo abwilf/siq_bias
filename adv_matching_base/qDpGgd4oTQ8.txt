@@ -1,0 +1,18 @@
+q1: How does the woman in red feel about the messages parents give their kids when going to college. 
+a: She thinks they aren't enough for such a big moment.
+i: She thinks they are perfect.
+q2: Why does the woman in the floral dress wave at :31?
+a: She is waving goodbye.
+i:She is waving to the audience.
+q3: Is the group of ladies hostile towards one another?
+a: No, they get along well and are interested in what the other is saying.
+i: Yes, they don't agree with one another and want to debate.
+q4: What is the tone of the woman in the dark blue dress?
+a: She is politely listening.
+i: She is annoyed because they won't let her speak.
+q5: Why does the woman with the aqua dress feel that college is a heightened time?
+a: She feels that way because it is an uncertain time in someones life.
+i: She feels that way because it's a time filled with studying and stress. 
+q6: How can the women sympathize with college students?
+a: The women can sympathize with college students because they were once college students themselves.
+i: The women can sympathize with college students because they have college students themselves.

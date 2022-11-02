@@ -1,0 +1,18 @@
+q1: Why does the man holding the camera chase the toddler?
+a: He is happy to see the toddler
+i: The toddler is holding a dangerous object
+q2: Why does the man smirk at 0:22?
+a: He is pleased with his new camera
+i: He is pleased to have received a compliment
+q3: How does the man in the black jacket exhibit confidence?
+a: By doing yoga moves in a public fountain
+i: By doing karate moves in a public restaurant
+q4: What is the toddler's behavior toward the people in the video?
+a: He is uninterested and avoids them
+i: He is warm and affectionate toward them
+q5: Why is the woman in black squatting?
+a: She wants to make the boy comfortable by being at his height
+i: She wants to avoid being noticed by the boy
+q6: 
+a: 
+i: 

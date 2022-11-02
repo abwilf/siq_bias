@@ -1,0 +1,18 @@
+q1: How do the girls appear while dancing at the beginning of the video?
+a: Confused
+i: Confident
+q2: Do the girls have their dance routine memorized?
+a: No 
+i: Yes
+q3: Why do the girls gasp as they awake?
+a: They were having a bad dream
+i: They realize they overslept
+q4: What are the girls aware of?
+a: Their need to practice
+i: Their need to study
+q5: What is the girl's attitude toward their second attempt at the dance?
+a: They seem determined
+i: They seem confused
+q6: Why does the girl on the left bury her head in her hands at 0:09?
+a: She is overwhelmed
+i: She is disappointed

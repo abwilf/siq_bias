@@ -1,0 +1,18 @@
+q1: What is the tone of the conversation?
+a: The men are arguing in a respectful manner
+i: The men are arguing in a disrespectful manner
+q2: Why are the men so animated?
+a: The men are very passionate about the subject of debate
+i: The men are very angry with one another
+q3: Do the men feel threatened?
+a: No, the men are not hostile with one another
+i: Yes, the men are hostile with one another 
+q4: What is the point of the conversation?
+a: The men are trying to convince one another that their point of view is correct
+i: The men are trying to display dominance over one another
+q5: What strategy does the man in the black shirt implement at 0:33?
+a: He uses sarcasm and raises his voice to emphasize his message
+i: He uses calm and tactile reasoning to emphasize his message
+q6: How does the man in the brown shirt react to the man in the black shirt yelling?
+a: He remains calm but actively disagrees
+i: He becomes hostile and raises his voice

@@ -1,0 +1,18 @@
+q1: Why are the people touring the room?
+a: It is historical.
+i: It is newly renovated. 
+q2: Is the woman enjoying the tour?
+a: Yes, she asks relevant questions.
+i: Yes, she asks to attend a future debate.
+q3: Which person is a visitor to the chamber?
+a: The woman.
+i: The man.
+q4: Is the man pleased to be giving the tour?
+a: Yes, he happily leads the woman around.
+i: No, he shows clear disinterest in answering the woman's questions.
+q5: How can the man's job be characterized?
+a: As a stressful one.
+i: As a leisurely one. 
+q6: 
+a: 
+i: 

@@ -1,0 +1,18 @@
+q1:Why is the sitting down man so stern?
+a:He has authority due to his position and wants the other two men to follow rules.
+i:He has no authority due to his position and wants the other two men to be scared.
+q2:Why does the man in the light brown jacket shake his head at 0:31?
+a:He doesn't agree with what the man wearing the white shirt is saying.
+i:He doesn't agree with what the man sitting down is saying.
+q3:What is the attitude of the man in the light brown jacket when he interrupts the man in the white shirt?
+a:His attitude is pompous and self righteous.
+i:His attitude is kind and complementary.
+q4:How does the man in the white shirt feel about the man in the light brown jacket?
+a:He feels irritated with him and not heard.
+i:He feels respected by him and well heard.
+q5:Why does the man with the red tie cross his arms?
+a:He is showing that he is serious and gives tips on how to be successful
+i:He is showing that he is joking and gives tips on how to be funny
+q6:Why does the man in the light brown jacket look over at the man in white and smile at 0:35?
+a:He realizes that the man in the white shirt has caught onto his scheme.
+i:He realizes that the man in the white shirt has not caught onto his scheme.

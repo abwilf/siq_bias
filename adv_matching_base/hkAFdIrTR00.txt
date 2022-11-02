@@ -1,0 +1,18 @@
+q1: What is an indicator of the man's focus at 0:07?
+a: He rubs his chin thoughtfully
+i: He maintains eye contact with the woman
+q2: How does the man react to the required information?
+a: He is skeptical to provide it
+i: He doesn't give it any thought
+q3: Is the man happy to give the woman his number?
+a: No
+i: Yes
+q4: How does the situation affect the man?
+a: He is uncomfortable
+i: He is unbothered
+q5: Why does the woman seem frustrated?
+a: The man is overthinking 
+i: The man is performs better than her
+q6: What does the woman seem to think of the man?
+a: That he is difficult
+i: That he is handsome

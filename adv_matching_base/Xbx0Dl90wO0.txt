@@ -1,0 +1,18 @@
+q1: How do the man with the glasses and the woman feel about the question? 
+a: They aren't too confident about their answers to the question. 
+i: They think it is a really easy question.
+q2: Why are they laughing throughout the video? 
+a: They laugh because some silly comments are made and the situation is amusing. 
+i: They laugh because the snake is doing tricks. 
+q3: Do the man and woman seem confident in answering the question? 
+a: No, their facial expressions are confused as the question is asked and they take a while to think before writing their answers down. 
+i: Yes, their facial expressions are confident and they immediately write their answers.
+q4: How does the woman feel about the man with glasses? 
+a: She's impressed by his ability to handle the snake and thinks he is funny. 
+i: She's upset that he brought a snake and thinks he takes too long to answer the question. 
+q5: Why is the man in the glasses having a hard time? 
+a: He's having trouble focusing on the task because of the snake on his arm. 
+i: He's unable to understand the question because it is in another language. 
+q6: Why do they laugh at :55? 
+a: They thought what the man in the glasses called the snake was funny. 
+i: They thought the answer to the question was funny.

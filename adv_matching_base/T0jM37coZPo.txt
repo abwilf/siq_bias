@@ -1,0 +1,18 @@
+q1: What is the relationship between the man and the woman?
+a: The woman is interviewing the man
+i: The woman is being interviewed by the man
+q2: What does the man want to avoid?
+a: The man wants to avoid embarassing his children
+i: The man wants to avoid injuring himself
+q3: How does the crowd react to the man claiming to be a sit-down dancer?
+a: The crowd thinks the idea of being a sit-down dancer is funny
+i: The crowd thinks the idea of being a sit-down dancer is annoying
+q4: How does the man in the black hat react to the idea of a dance battle with the other man?
+a: The man in the black hat wants to participate in the dance battle
+i: The man in the black hat is uninterested in the dance battle
+q5: How does the man in the grey shirt avoid embarassing his children?
+a: He avoids embarassing his children by sticking to his 1 2
+i: He avoids embarassing his children by sticking to sit-down dancing
+q6: How does the woman react to what the man in the grey shirt does with his hands?
+a: The woman is surprised and impressed by what the man does with his hands
+i: Thw woman is embarassed and confused by what the man does with his hands

@@ -1,0 +1,18 @@
+q1: How did the woman's opponent make her feel?
+a: Uncomfortable
+i: Threatened
+q2: Why did the woman's opponent want to dominate the space?
+a: He was doing damage control
+i: He is a controlling person
+q3: Why does the woman explain that she had to keep her composure in the situation?
+a: Her opponent was being overbearing
+i: The crowd was trying to provoke her with their questions
+q4: What can be inferred about the video from Access Hollywood?
+a: It painted the man in a bad light
+i: It painted the man in a positive light
+q5: Did the woman have a bad time at the event being discussed? 
+a: Yes, the man made it difficult for her
+i: No, it gave her a chance to share her story 
+q6:
+a:
+i:

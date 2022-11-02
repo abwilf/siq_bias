@@ -1,0 +1,18 @@
+q1: Who is the most reserved presenter?
+a: The woman in the black t-shirt
+i: The woman in the red t-shirt
+q2: How does the woman on the left react to a plate being placed on her head?
+a: She plays along
+i: She shoves it off
+q3: What does the first phrase evoke laughter?
+a: It is a pun
+i: It is a famous quote
+q4: Why are the women showing off these plates?
+a: To entertain people
+i: To try to make sales
+q5:
+a:
+i:
+q6:
+a:
+i:

@@ -1,0 +1,19 @@
+
+q1:Is the man passionate about the topic?
+a: Yes, he is passionate about the topic he is speaking about.
+i: No, he is very indifferent about the topic he is speaking about.
+q2:What is his opinion about product pricing?
+a: He believes pricing should increase as a product matures.
+i: He believes that pricing should be lowered to attract more customers.
+q3: What is the purpose of the man's message?
+a: He is informing his viewers about pricing strategies.
+i: He wants to convince his viewers to buy his product.
+q4: Why does the man put his thumb up at :19? 
+a: He is emphasizing the number he is saying.
+i: He wants people to give his video a like.
+q5:
+a:
+i:
+q6:
+a:
+i:

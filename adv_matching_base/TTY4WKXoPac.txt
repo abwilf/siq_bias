@@ -1,0 +1,19 @@
+
+q1: Does the man in the blue checkered shirt believe that Brits and American's have the same kind of emotions?
+a: He does not believe that Brits have the same kind of emotions as Americans do
+i: Yes, he believes that they have the have the same kind of emotions.
+q2: Does the audience seem to enjoy the man in the blue checkered shirt?
+a: Yes, They seem to find him funny.
+i: No, they do not make much noise while he speaks.
+q3: Why is the man in the light blue shirt surprised?
+a: He doens't understand why he has aged more than the other men
+i: He can't believe the outfits that he used to wear.
+q4: Do the men get along?
+a: Yes, they all get along with one another.
+i: No, the man on the far right does not get along with the rest of the group.
+q5: Why is the man in the light blue shirt nodding at :11?
+a: He does this to show that he understands what is being said.
+i: He does this to answer the question he is being asked.
+q6:
+a:
+i:

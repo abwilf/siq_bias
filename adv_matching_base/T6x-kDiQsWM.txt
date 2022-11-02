@@ -1,0 +1,18 @@
+q1: How does the man behind the desk react to the man staying in his house?
+a: The man behind the desk reacts with shock and disappointment
+i: The man behind the desk reacts with excitement 
+q2: How does the man behind the desk feel about the kids?
+a: The man behind the desk doesn't hold the indescretions of their parents against them
+i: The man behind the desk blames the kids equally for their parents indescretions
+q3: How does the man in the green suit feel about the kids?
+a: The man in the green suit thinks the kids are nice and prefers them
+i: The man in the green suit thinks the kids are annoying and dislikes them
+q4: How does the audience react to the man showing up on the screen?
+a: The audience is excited and amused by his appearance
+i: The audience disapproves of his appearance
+q5: What is the tone of the conversation?
+a: The tone is lighthearted and jovial
+i: The tone is somber and critical
+q6: What is the relationship between the man behind the desk and the man in the green suit?
+a: The man behind the desk is interviewing the man in the green suit
+i: The man behind the desk is being interviewed by the man in the green suit

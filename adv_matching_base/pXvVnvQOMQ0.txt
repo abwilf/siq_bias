@@ -1,0 +1,20 @@
+
+
+q1: What is the dynamic of the 2 men?
+a: The man in the glasses is interviewing the man in the striped shirt.
+i: The man in the striped shirt is interviewing the man in the glasses.
+q2: What is tone of the conversation between the 2 men.
+a: It is very serious. 
+i: It is fun and lighthearted.
+q3: How does the man in the striped shirt feel about police culture?
+a: He believes that is is something that needs to change.
+i: He strongly agrees with police culture. 
+q4:How does the man in the grey shirt feel about the incident in the early nineties?
+a: He is very angry about it.
+i: He doesn't see anythign wrong with it.
+q5: Do the 2 men agree with one another?
+a: Yes, they do agree with one another.
+i: No, they do not agree with one another.
+q6: Was the man on the left successful in making his point?
+a: Yes, he was successful.
+i: No, he is unconvincing.

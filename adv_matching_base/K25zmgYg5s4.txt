@@ -1,0 +1,18 @@
+q1: Why is the boy recounting the event at the beginning of the video?
+a: It was an exciting moment for him
+i: It was a scary moment for him
+q2: Why is the boy's heart beating super fast?
+a: It's a pivotal moment of the game
+i: He had too much sugar
+q3: Did the boy enjoy the game?
+a: Yes, he wants to go to another
+i: No, he is upset by the loss
+q4: How does the boy feel as his heart beats fast?
+a: Hopeful
+i: Embarrassed
+q5: Why does the man in blue raise his hands at 0:16?
+a: He is upset by the play
+i: He is cheering the team on
+q6: Why do the people wearing blue and white rush onto the field in the last game scene?
+a: To celebrate
+i: To argue with the referee

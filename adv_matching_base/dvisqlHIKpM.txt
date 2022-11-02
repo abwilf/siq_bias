@@ -1,0 +1,18 @@
+q1: Why won't Brian Williams be on air?
+a: People are upset with him
+i: He has fallen ill
+q2: How can Brian Williams' reports be described as?
+a: Questionable
+i: Credible
+q3: Is Brian Williams seen as a hero?
+a: No
+i: Yes
+q4: Why are Brian Williams' past reports being discussed?
+a: They do not trust him
+i: They admire him
+q5: What is the issue with Brian Williams' helicopter story?
+a: He embellished it
+i: He was never on a helicopter
+q6: How is the man in discussion perceived as?
+a: As being dishonest
+i: As being evasive

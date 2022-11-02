@@ -1,0 +1,18 @@
+q1: Why does the audience clap at 0:06?
+a: The man's answer earned him points.
+i: The man's answer earned him money.
+q2: How does the first contestant appear after all of his answers have been reviewed?
+a: Satisfied.
+i: Surprised.
+q3: Did the first contestant have any failed answers?
+a: No.
+i: Yes.
+q4: Why do the men at 0:40 clasp hands?
+a: The man in black is congratulating his teammate.
+i: The man in black is showing respect to his opponent.
+q5: What is the goal of the second contestant?
+a: To surpass the previous player's score.
+i: To make the audience lean in his favor.
+q6: Does the game show host seem biased?
+a: No, he treats the contestants equally.
+i: Yes, he gives the first contestant extra points.

@@ -1,0 +1,18 @@
+q1: Are the people on the far ends of the table surprised?
+a: No
+i: Yes
+q2: What does the blonde woman think of Boston's residents?
+a: They are strong
+i: They are disorderly
+q3: How do the people feel the event went?
+a: It exceeded their expectations
+i: It fell short of their expectations
+q4: What is the blonde woman proud of?
+a: Her city
+i: Her child
+q5: Why are the people not surprised?
+a: They had faith in the group
+i: They didn't have faith in the group
+q6: How did the presence of those upset by the free speech people affect the free speech people?
+a: It helped them
+i: It made it difficult for them

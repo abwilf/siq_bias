@@ -1,0 +1,20 @@
+q1: How does the woman feel as the man stands in her doorway?
+a: She is startled
+i: She is pleased
+q2: How does the older man behave?
+a: He is very zen
+i: He is very inquisitive
+q3: 
+a:
+i:
+q4: What is an indicator of the younger man's discomfort in the pool?
+a: His groans
+i: His fidgeting
+q5: Why does the younger man remove his shirt?
+a: He feels defeated
+i: He is boasting
+q6: How does the younger man appear while in the pool?
+a: Distressed
+i: Relaxed
+
+

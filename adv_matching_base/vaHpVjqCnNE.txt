@@ -1,0 +1,18 @@
+q1:Who is the most dominant person in the conversation?
+a:The woman in the purple shirt is the most dominant because she is guiding the conversation.
+i:The woman in the white shirt is the most dominant because she is answering questions.
+q2:Is the person wearing black with short hair interested in the conversation?
+a:No, they are fidgeting and not looking at the people speaking.
+i:Yes, they are focusing and looking at the people speaking. 
+q3:What is the dynamic between the woman standing and the people sitting down?
+a:The dynamic is teacher and students, because she is educating them on topics.
+i:The dynamic is parent and children, because she is educating them on family matters.
+q4:How does the woman encourage the woman in the white shirt?
+a:She supports her ideas and complements her when she gets something right.
+i:She challenges her ideas and makes her feel bad when she doesn't get something right.
+q5:Why does the woman in white put her arms up at the beginning of the conversation?
+a:She is tired of sitting there and stretching out her body.
+i:She is tired of being wrong and admitting that she doesn't understand.
+q6:Are the two women fighting?
+a:No, they are having a civil conversation about their various ideas.
+i:No, they are having an emotional conversation about their various ideas.

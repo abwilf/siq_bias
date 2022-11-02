@@ -1,0 +1,18 @@
+q1: How do the women get along?
+a: They get along really well and enjoy each others company.
+i: They bicker a lot because they are sisters.
+q2: How does the woman on the right feel about the color pink?
+a: She thinks the color pink is the best.
+i: She doesn't like the color pink and is wearing it ironically.
+q3: Why do the women throw their arms in the air?
+a: The are celebrating their finished cakes.
+i: They are imitating the cakes they made
+q4: Why does the woman on the left point down at :
+a: She is asking her viewers to interact with her video.
+i: He is poiting out the cake that she decorated.
+q5: How does the woman in pink react to the woman in blue's singing?
+a: She is amused because it is a joke based on the cakes they are making.
+a: She is impressed by her singing and thinks she should go professional.
+q6: Why does the woman in blue stop talking at :13?
+a:She is passing the metaphorical mic to the other woman.
+i:The other woman interupts her.

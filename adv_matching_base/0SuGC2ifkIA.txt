@@ -1,0 +1,19 @@
+q1: Who is the rudest person in the video?
+a: The blonde woman is the rudest person in the video
+i: The brunette woman is the rudest person in the video
+q2: Why does the brunette woman giggle at 0:40? 
+a: She is flattered by the man's consideration of her
+i: She feels awkward at the man's suggestion.
+q3: Why does the blonde woman stare blankly at the camera?
+a: She is annoyed that the man keeps correcting her.
+i: She is annoyed that the man keeps flirting with her.
+q4: Why does the blonde woman seem to not approve of the man's addition to the meal?
+a: She wants to be fully in charge.
+i: She feels it will make it too spicy.
+q5: How does the man appear at the start of the video?
+a: He looks unsure about the apron
+i: He looks excited to cook
+q6: Is the blonde woman caring toward her special guest?
+a: No, she seems inconvenienced by him.
+i: Yes, she makes sure he feels included.
+

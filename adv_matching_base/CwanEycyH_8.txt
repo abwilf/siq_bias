@@ -1,0 +1,18 @@
+q1: How does the woman feel in the first half of the video?
+a: She is upset
+i: She is remorseful
+q2: Why does the woman ask about the man's daughter?
+a: It's her way of apologizing
+i: It's her way of flirting
+q7: Why does the woman mention calling the cops?
+a: To get the man to stay
+i: To get the man to leave
+q9: What does the man want?
+a: To persuade the woman
+i: To apologize to the woman
+q10: How does the woman feel for having called the cops on the man?
+a: Remorseful
+i: Glad
+q13: Is the man able to appeal to the woman?
+a: Yes
+i: No

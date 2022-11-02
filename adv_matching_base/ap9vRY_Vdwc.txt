@@ -1,0 +1,18 @@
+q1:How do the girls feel towards the game they are about to play?
+a:They are excited to play it and think it will be weird but fun.
+i:They are not excited to play it and know it will be weird and not fun.
+q2:How do the girls feel about one another?
+a:They are friends and enjoy hanging together.
+i:They are strangers and forced to hang out together.
+q3:Why do the girls all look down towards the cards and table when playing the game?
+a:They are concentrating on the game they are playing and trying to win.
+i:They are concentrating on the time while they are playing and trying to lose.
+q4:Why does the girl in the braids slam her hands on the table at 0:05?
+a:She is demonstrating the instruction that the other girl gave about the cards.
+i:She is demonstrating her emotions that the other girl gave about the cards.
+q5:Why did the other two girls say "ahh" when the girl with the necklace made a joke?
+a:They were making a sound to indicate that the joke was quick witted and funny.
+i:They were making a sound to indicate that the joke was offensive and rude.
+q6:Why did the other girls say no to the girl in dark blue when she tried to play a card?
+a:She was playing the game wrong and they were correcting her.
+i:She was playing the game wrong and they were berating her.

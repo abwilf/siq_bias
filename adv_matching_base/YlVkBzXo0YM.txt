@@ -1,0 +1,18 @@
+q1: Why does the woman woman in pajamas start crying?
+a: Because she is describing her feelings 
+i: Because the man said something that hurt her feelings.
+q2: How does the woman in the pajamas feel?
+a: She is sad but also doesn't feel empty.
+i: She feels empty and hopeless.
+q3: How does the man in the hoodie act towards the woman in pajamas?
+a: He is understand and caring.
+i: He is impatient with her crying.
+q4: How do the woman and man on the couch feel around one another?
+a: They feel comfortable around one another.
+i: They don't know each other too well so they are a bit akward.
+q5: What is the tone of the woman in the suit?
+a: She is explanitory but pleasant.
+i:She is very excited and upbeat.
+q6: Why does the woman in the pants suit roll her eyes?
+a: Because she finds the idea of taking a magazine quiz a little silly.
+i:Because she thinks the woman in the video is wrong for being upset.

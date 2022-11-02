@@ -1,0 +1,24 @@
+q1: What does the man want to do?
+a: Help people who have been affected by the hurricane
+i: Help people who have been affected by the tornado
+q2: Has the man experienced hurricanes before?
+a: Yes
+i: No
+q3: How is the man dealing with the aftermath of this hurricane?
+a: He uses past experiences to guide him
+i: He is following advice from his predecessor
+q4: Does the man feel the first responders of Florida are reliable?
+a: Yes
+i: No
+q5: How does the woman feel in response to the man's hurricane relief efforts?
+a: She appears neutral
+i: She appears grateful
+q6: Does the woman look impressed with the hurricane relief efforts that are taking place?
+a: No
+i: Yes
+
+
+
+
+
+

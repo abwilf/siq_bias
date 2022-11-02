@@ -1,0 +1,21 @@
+q1: Why is the woman distressed?
+a: She feels doomed
+i: Her husband wants a divorce
+q2: How does the man comfort the woman?
+a: By rubbing her arm
+i: By rubbing her neck
+q3: Why doesn't the woman move at 0:46?
+a: She is helpless
+i: She is stuck
+q4: Why does the man want to intimidate the woman?
+a: So she will sign the paper
+i: So she will let him win the game
+q5: Does the man care about the woman's feelings?
+a: No
+i: Yes
+q6: Why does the woman cover her eyes?
+a: She is getting emotional
+i: She didn't do well at her turn
+
+
+

@@ -1,0 +1,18 @@
+q1: How does the boy feel about the food?
+a: The boy feels the food is delicious
+i: The boy feels the food is underwhelming
+q2: How does the man in the hat react to the boy?
+a: The man in the hat is surprised by how fast the boy eats
+i: The man in the hat is annoyed by eating slower than the boy
+q3: Why does the man in the hat look at the boy and the man in the grey shirt between bites?
+a: The man in the hat wants to know if the boy and the man in the grey shirt are enjoying their food
+i: The man in the hat wants to know if the boy and the man in the grey shirt are upset with him
+q4: What is the attitude of the man in the grey shirt towards the food?
+a: The man in the grey shirt is unfazed by the food
+i: The man in the grey shirt is disappointed with the food
+q5: How does the man in the hat react to the man in the grey shirt being full?
+a: The man in the hat is surprised that the man in the grey shirt is already full
+i: The man in the hat is sad that the man in the grey shirt is already full
+q6: How do the children feel about the beans?
+a: The beans are the children's favorite part
+i: The beans are underwhelming to the children

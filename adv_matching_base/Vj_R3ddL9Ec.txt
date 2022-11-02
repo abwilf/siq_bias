@@ -1,0 +1,18 @@
+q1: Why are the women distressed? 
+a: Because of the current political climate and politicians' mission to get rid of Planned Parenthood. 
+i: Because they do not want to have Planned Parenthood receive any more funding. 
+q2: What is the  between the two women in the video
+a: They seem to share a similar opinion and are in agreement with each other
+i: They do not seem to share a similar opinion and are arguing with each other 
+q3: How does the woman on the right feel about the topic being discussed?  
+a: The woman on the right is passionate and angry about the topic.
+i: The woman on the right is calm and disinterested in the topic.
+q4: Why does the woman on the left speak little?
+a: She had less to say about the subject and does not want to interrupt the other woman.
+i: She is shy and doesn't want to interrupt the woman on the right to speak. 
+q5: Describe the overall mood of the two women in the video
+a: The two women are annoyed and frustrated but agree with each other's opinions.
+i: The two women are happy and playful but disagree with each other's opinions.
+q6: How does the woman on the left show her support for teh woman on the right?
+a: She nods along while the woman in blue is speaking.
+i: She keeps trying to interrupt to speak. 

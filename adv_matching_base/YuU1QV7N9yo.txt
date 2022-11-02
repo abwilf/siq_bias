@@ -1,0 +1,20 @@
+
+
+q1:Why does the little boy hand his hand out at :25? 
+a: He wants to hold the paper.
+i: He is impatient.
+q2: How does the little girl show her appreciate to the little boy?
+a: She gives him a hug
+i: She gives him a card.
+q3: At the start of the video, why does the girl keep her feet off of the ground?
+a: She is nervous about the horse.
+i: She is cold.
+q4: Why do the kids scream and run around?
+a: They are excited for dessert.
+i: She are on a sugar high.
+q5: Why does the little girl shake her fists at the end of the video?
+a: She does this because she is impatient and anticipating the sweets.
+i: She does this because she is angry at the little boy next to her.
+q6: Why is the boy having a hard time sitting still at :18? 
+a: He is excited that the girl is opening his gift.
+i: He and nervous about the horse on the ground.

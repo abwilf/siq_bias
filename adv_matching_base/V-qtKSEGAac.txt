@@ -1,0 +1,18 @@
+q1: How does the little boy feel about Bruno?
+a: Bruno is an inspiration to the boy
+i: He doesn't know Bruno so he is unsure of him.
+q2: How does the little boy react when the man starts singing?
+a: He immediately starts singing along with him
+i: He is shy and hesitant to join along with him.
+q3: How does the woman speak to the boy?
+a: She speaks to him with respect as if he were much older.
+i: She speaks to him in a childlike manner.
+q4: Why does the man stop singing at :48?
+a: He stops because he wants to boy to finish the lyric.
+i: He stops because it's a bad word.
+q5:Why is the man in the baseball cap hugging the little boy?
+a: He is happy to meet him and wants the boy to feel at ease.
+i: He is consoling the little boy
+q6: Why do the man and boy sit in silence for a few moments before they greet each other?
+a: The boy is unsure of what to do and the man is giving him time to process.
+i: It is part of the skit they are doing

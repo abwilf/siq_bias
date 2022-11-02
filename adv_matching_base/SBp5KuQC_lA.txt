@@ -1,0 +1,18 @@
+q1: What is the tone of the conversation?
+a: The conversation between the men is freindly and inquisitive
+i: The conversation between the men is hostil and accusatory
+q2: Why does the audience respond with cheers at 0:10?
+a: The audience is congratulating the man in the pink shirt for getting married
+i: The audience is congratulating the man in the white shirt for getting married
+q3: Why was the man in the pink shirt dissapointed?
+a: He was dissappointed because it rained all day
+i: He was dissappointed because he couldn't talk to his friend
+q4: How do the men feel about the view from the Rainbow Room?
+a: The men feel the view is astounding
+i: The men feel the view is normal
+q5: Why is the man in the pink shirt sentimental about the building?
+a: He got married in the building
+i: He met his wife in the building
+q6: Why is this interview occasion significant for the man in the pink shirt?
+a: It is his first time returning to the building since getting married there
+i: It is his first time on television

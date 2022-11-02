@@ -1,0 +1,21 @@
+q1: Why does the man interrupt the woman?
+a: He wants her to stay on topic
+i: He wants to show support of her opinion
+q4: What are people skeptical about?
+a: The number of debates there have been
+i: The topics discussed in the debates
+q16: Why does the woman laugh at 0:12?
+a: She thinks the speculations are ridiculous
+i: To diffuse the tension of the interruption
+q17: Is the woman affected by the speculations?
+a: No
+i: Yes
+q18: Why does the man say "we have plenty of time for that"?
+a: He doesn't want the woman to discuss it now
+i: He wants the woman to go into detail
+q23: Why does the woman laugh at 0:04?
+a: To diffuse the tension of the interruption
+i: To diffuse the tension of the disagreement
+
+
+

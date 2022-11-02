@@ -1,0 +1,18 @@
+q1: How does the first woman shown in the video feel?
+a: Overwhelmed
+i: Energized
+q2: What does the woman's comment at 0:03 convey?
+a: Relief
+i: Confidence
+q3: Why is the third woman smiling?
+a: She is enjoying the game
+i: She is enjoying the performance
+q4: What do all of the people have in common?
+a: They are feeling competitive
+i: They are addicted to gaming
+q5: How does the man appear while playing?
+a: Nonchalant
+i: Tense
+q6: What does the woman at 0:45 do when she makes a right move?
+a: She yells out
+i: She jumps up

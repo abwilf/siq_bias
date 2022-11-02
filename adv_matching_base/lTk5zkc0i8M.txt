@@ -1,0 +1,18 @@
+q1: How does the woman portray social media with the help of the boy's comment?
+a: As influential
+i: As beneficial
+q2: What does the boy who wrote the comment seem to be struggling with?
+a: Not feeling intelligent enough
+i: Not feeling attractive enough
+q3: What impact does social media seem to have on the boy who left the comment?
+a: A negative one
+i: A positive one
+q4: What does the man highlight as a difference between Snapchat and other platforms?
+a: The level of engagement 
+i: The level of anonymity
+q5: What seems to be the sentiment towards Snapchat in comparison to other platforms?
+a: People view it more positively overall
+i: People view it more negatively overall
+q6: Does the man seem caught off guard by the boy's take on social media?
+a: No, he is familiar with his sentiment
+i: Yes, he thinks the sentiment is outlandish

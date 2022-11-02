@@ -1,0 +1,18 @@
+q1: What is the relationship between the people?
+a: The woman in the red shirt is interviewing the man and the other woman
+i: The woman in the red shirt is being interviewed by the man and the other women
+q2: How does the woman in the red shirt react to the information about the trips?
+a: The woman in the red shirt is amazed by the information about the trips
+i: The woman in the red shirt is confused by the information about the trips
+q3: How does the man feel about the sponsors?
+a: The man feels that the sponsors are greatly helpful
+i: The man feels that the sponsors are greatly unhelpful
+q4: How does the man feel about putting the event together?
+a: The man feels that putting the event together is a lot of work
+i: The man feels that putting the event together is a breeze
+q5: What is the tone of the conversation?
+a: The tone of the conversation is calm and inquisitve
+i: The tone of the conversation is exasperated
+q6: What does the man think the experience of the event will be like?
+a: The man thinks the people who experience the event will have a great time
+i: The man thinks the people who expereience the event will be humbled

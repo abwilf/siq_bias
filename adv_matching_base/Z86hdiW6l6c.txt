@@ -1,0 +1,18 @@
+q1: Why does the father high-five his son?
+a: He liked his impression
+i: He liked his skit
+q2: What does the daughter pointing to her mouth mean? 
+a: She is chewing
+i: She is injured
+q3: How does the mother react to the daughter waiting to finish chewing?
+a: She is proud
+i: She is annoyed
+q4: How do the family joke with each other?
+a: By making funny sounds
+i: By making funny faces
+q5: Why does the father stop speaking mid-sentence at 0:23?
+a: He is distracted
+i: He is choking
+q6: What can be determined about the father and youngest daughter's relationship?
+a: They are close
+i: They are estranged

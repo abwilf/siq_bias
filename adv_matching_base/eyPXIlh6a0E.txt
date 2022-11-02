@@ -1,0 +1,18 @@
+q1: Why does the woman nod when the man speaks?
+a: She agrees with the man and is showing him this.
+i: She is nodding because she is being asked to nod.
+q2: Does the man seem knowledgeable about the topic ?
+a: Yes, he speaks about it confidently and thoroughly.
+i: No, he seems confused about what he is saying.
+q3: How are the two people acting?
+a: They act relaxed, but in a professional manner.
+i: They act tense and annoyed.
+q4: Why does the man use his hands when he speaks?
+a: The man uses hand gestures to emphasize his point.
+i: The man is trying to keep the woman from getting close to him.
+q5: What is the atmosphere of the video?
+a: It is professional and educational.
+i: It is itense and angry.
+q6: Why does the woman refrain from speaking more than one word at a time?
+a: She uses a word to show she understands, but she wants to listen to him and not interrupt him.
+i: She is very upset at and hurt by the man, so she is not ready to speak due to this.

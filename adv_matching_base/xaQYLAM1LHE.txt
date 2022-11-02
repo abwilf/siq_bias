@@ -1,0 +1,17 @@
+q1: What does the woman's tone show? 
+a: Her tone indicates amazement in the man's courage and positivity. 
+i: Her tone indicates boredom in the subject. 
+q2: Does the audience support the man? 
+a: Yes, the audience claps and cheers to support the man's medical recovery. 
+i: Yes, the audience laughs to support the man's ambitions as a comedian. 
+q3: How does the man feel about his health prognosis? 
+a: He is optimistic and doesn't believe he's going to die anytime soon.  
+i: He is defeated and has accepted the doctor's prediction that he has six months to live. q4: Why is the man able to joke about death? 
+a: He's confident in his ability to get better.  
+i: He's accepted it and is prepared for it.  
+q5: Why does the man grin at 0:13? 
+a: He expresses a statement which connects to a positive outlook on life. 
+i: The woman just told a joke. 
+q6: Are the two participants friendly with each other? 
+a: Yes, as they are having a happy discussion. 
+i: No, as they seem to disagree on many things.

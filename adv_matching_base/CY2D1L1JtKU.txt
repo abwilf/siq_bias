@@ -1,0 +1,21 @@
+q1: Why did the woman ask the man a question at 0:05?
+a: It was an expression not meant to be answered
+i: She was curious his opinion
+q2: What does the woman think of the man in discussion?
+a: She thinks he is sexist
+i: She thinks he is racist
+q3: Does the group seem to have a united opinion?
+a: No
+i: Yes
+q4: What does the woman think of the man beside her answering her question?
+a: She thinks he is being facetious
+i: She thinks he is being helpful
+q5: Why does the man disagree with the woman?
+a: He thinks she is misinterpreting the statement
+i: He thinks she is defending the statement
+q6: How does the man in black glasses react to the woman being upset?
+a: He defends the candidate
+i: He consoles her
+
+
+

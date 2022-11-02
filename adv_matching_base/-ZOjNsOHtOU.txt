@@ -1,0 +1,19 @@
+q1: What is the woman's sentiment toward the man being unique?
+a: She finds it endearing.
+i: She finds it questionable.
+q2: Why does the man think the woman is withholding information?
+a: Her comment was surface-level.
+i: Her comment was rushed.
+q3: What is the woman's relation to the man being discussed?
+a: They've worked together.
+i: They are domestic partners.
+q4: Why is the actor a topic of discussion?
+a: Because of his strange behaviors.
+i: Because of his involvement in a legal case.
+q5: How does the man fish for information from the woman?
+a: He asks a hypothetical question.
+i: He threatens her.
+q6: What reason is suggested for the man's strange behavior being accepted?
+a: His fame.
+i: His difficult past.
+ 

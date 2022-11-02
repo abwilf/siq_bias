@@ -1,0 +1,22 @@
+q1: Why is the boy in white carrying salt and pepper shakers?
+a: He wants to be involved in the set up
+i: He wants to be involved in the cooking
+q2: Why does the man mention how many people are at the luncheon?
+a: To indicate their work load
+i: To show how many friends they have
+q3: Why is the boy at the end of the video holding the child on his shoulders?
+a: To amuse the child
+i: So help him reach something 
+q4: What type of day is the family having?
+a: A hectic one
+i: A playful one
+q5: How did Kimmy feel when her friend contacted her?
+a: She wanted to help
+i: She felt inconvenienced 
+q6: How did the woman feel when she realized she had a friend nearby?
+a: Relieved 
+i: Safe
+
+
+
+

@@ -1,0 +1,18 @@
+q1: Is the man in glasses emotional about the topic?
+a: No, he speaks in a neutral tone.
+i: Yes, he speaks with deep passion.
+q2: What does the man in glasses wish to do?
+a: Have people do their part in resisting AIDS.
+i: Have people agree to fight climate change. 
+q3: 
+a:
+i:
+q4: Is the man in glasses familiar with AIDS research?
+a: Yes, he knows what must be done to keep people free of it.
+i: No, he specializes in health care managements.
+q5: What is the man's goal?
+a: To keep people disease free.
+i: To have free health care for all.
+q6: Does the man on the left seem supportive of the other man's goal?
+a: Yes.
+i: No.

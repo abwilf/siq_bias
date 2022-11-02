@@ -1,0 +1,23 @@
+q1: What does the woman think about the man's story?
+a: She thinks his story is engaging and a good example of their work. 
+i: She thinks his story is boring because he could have done more to help.
+
+q2: Why does the woman reference crazy people?  
+a: She infers that only crazy people won't sign up for the course.
+i: She infers that only crazy people will sign up for the course.
+
+q3: Does the man think his ideas are satisfactory?
+a: No, the man thinks that his ideas are more than satisfactory.
+i: Yes, the man does not think that his ideas are good and he is hesitant to share them.
+
+q4: Why does the woman like the man's idea?
+a: She likes the man's idea because it was benificial for a client.
+i: She likes the man's idea because she appreciates architecture.
+
+q5: Is the man content with his work?
+a: Yes, he finds his work rewarding.  
+i: No, he wishes he worked in architecture.
+
+q6: Does the woman think her online course is a good idea for others?
+a: Yes, she believes it is a good investment for others.
+i: , she can't think of any instances that it has helped people. 

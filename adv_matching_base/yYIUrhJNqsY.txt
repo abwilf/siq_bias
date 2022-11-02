@@ -1,0 +1,20 @@
+
+
+q1:How does the woman in the black jacket feel about the wrap?
+a: She thinks it's amazing
+i: She is indifferent towards it.
+q2: What is the purpose of the 2 women's message?
+a: They are trying to sell the wraps
+i: They are reviewing the wraps. 
+q3: Why does the woman in blue touch the wrap?
+a: She wants to feel how soft it is.
+i: She thinks it is ugly.
+q4: Why do the women take the wraps off of the rack?
+a: They are adversitising all the different colors.
+i: They just sold them so they are removing them from the rack.
+q5: Why does the woman in blue repeat the woman in the black jacket?
+a: She is emphasizing the enthusiasm for the product.
+i: She didn't understand what the woman in the black jacket said.
+q6: What feature of the wraps do the women like the most?
+a: They like that it is heated the most.
+i:They like that it is soft the most.

@@ -1,0 +1,19 @@
+q1: What can be inferred from the woman's reaction to the study?
+a: She is religious
+i: She attended college
+q2: What frustrates the man?
+a: The study's results
+i: The study's researcher
+q3: How does the man respond to the researcher's studies?
+a: He is critical of them
+i: He is interested in them
+q4: What does the man think of the researcher?
+a: He isn't genuine
+i: He isn't precise
+q5: What is the man's sentiment toward hearing the results?
+a: Positive
+i: Negative
+q6: Did the man expect the result of the study?
+a: No
+i: Yes
+

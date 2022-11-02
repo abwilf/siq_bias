@@ -1,0 +1,18 @@
+q1: What does the volume at which the woman sings suggest?
+a: She is self-assured
+i: She is not fully confident
+q2: How can the woman's drunk behavior be described as?
+a: As generous
+i: As obnoxious
+q3: What does the man's expression during the woman's story of being drunk indicate?
+a: He is loving it
+i: He is judging her
+q4: 
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

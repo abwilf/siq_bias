@@ -1,0 +1,18 @@
+q1: How does the woman feel about making the ice king?
+a: She is excited about making the ice king
+i: She is nervous about making the ice king
+q2: What is the tone of the video?
+a: The tone is light and casual
+i: The tone is ominous and confusing
+q3: What is the tone of the woman?
+a: The tone of the woman is informative
+i: The tone of the woman is stern
+q4: How did the woman make her decision about the flavors?
+a: The woman chose her favorite flavor
+i: The woman chose the flavor based on color
+q5: How does the woman feel about decorating her cupcakes?
+a: She seems to be very happy while decorating
+i: She seems to be very tired while decorating
+q6: How does the woman feel about the small red candies?
+a: She feels that they are insignificant
+i: She feels that they are very important

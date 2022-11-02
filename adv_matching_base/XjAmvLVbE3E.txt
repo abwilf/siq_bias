@@ -1,0 +1,18 @@
+q1: How does the group of women get along?
+a: They get along well and respect one another.
+i: They all have opposing views so they argue a lot.
+q2: What is the demeanor of the woman in the yellow?
+a:She is confident and unwavering.
+i:She is intimidated by the other women and comes off harsh.
+q3:What is the tone of the man shown?
+a: He is antagonistic
+i: He is excited to be interviewed
+q4: How do the women demonstrate that they respect one another?
+a: They make eye contact and listen to one another. 
+i: They shake hands with one another.
+q5: What is the purpose of the women's conversation?
+a:They are giving their opinions on political events.
+i: They are discussing the impact of climate change.
+q6:How does the woman in the yellow dress feel about the future?
+a: She thinks the future is uncertain. 
+i: She knows exactly what will happen. 

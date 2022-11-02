@@ -1,0 +1,18 @@
+q5: Do the other men agree with the man in the maroon shirt's assessment?
+a: Yes, they laugh and add on to his theory.
+i: Yes, they applaud him and add on to his theory.
+q6: What does the man mentioning a bottle imply?
+a: People who claim to see shape shifters are intoxicated.
+i: People who claim to see aliens are intoxicated.
+q7: Why are the men discussing shape shifters?
+a: They think the idea is ridiculous.
+i: They think the idea has truth to it.
+q8: Do the men seem to believe in shape shifters?
+a: No.
+i: Yes.
+q9: Why does the man in the green shirt wave his arms at 0:19?
+a: He is trying to explain something that he is unsure about.
+i: He is dancing.
+q10: Who is mediating the conversation?
+a: The man in grey.
+i: The man in maroon. 

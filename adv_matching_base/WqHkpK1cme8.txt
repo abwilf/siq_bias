@@ -1,0 +1,20 @@
+
+
+q1:What is the tone of the woman?
+a: She is in disbelief.
+i: She is excited.
+q2:How does the woman feel about the first remodeling job done on her house? 
+a: She is angry that she did not get what she paid for. 
+i: She is glad that the first remodeling job made her realize that more work needed to be done.
+q3: Why does the man in the white take so long to respond to the man in the black shirt.
+a:He knows he is guilty and is struggling to come up with a response. 
+i: The man was distracted and didn't know he should respond.
+q4: What is dynamic between the two men talking?
+a: It is a confrontational dynamic.
+i: It is a friendly dynamic.
+q5:
+a:
+i:
+q6:
+a:
+i:

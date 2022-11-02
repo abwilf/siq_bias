@@ -1,0 +1,18 @@
+q1: Why does the woman purse her lips when she is done talking?
+a: She is indicating to the man that she is done talking and awaiting his response.
+i: She is trying not to cry by pursing her lips.
+q2: What is the woman's tone?
+a: She is serious, but also calm and inquisitve.
+i: Her tone is accusatory
+q3: How does the man with white hair feel when the woman asks him a question?
+a: He nods at an important point in her question and shows that he is engaged.
+i: He thinks her question is stupid and ignores answering it in his reply.
+q4: What does the expression the bald man with glasses has convey?
+a: He is listening intently and calmly to the other two speak.
+i: He is anxious and nervous and wants to interrupt.
+q5: Why does the man with white hair raise his eyebrows while he speaks?
+a: He is invested in what he is talking about and raises his eyebrows for emphasis at certain points.
+i: He is shockes about how the woman is acting while he is speaking.
+q6: Why does the woman look downward intermittently while she speaks?
+a: She is reading from notes she has on the table to help her properly get her point across.
+i: She is scared of the man she is speaking to.

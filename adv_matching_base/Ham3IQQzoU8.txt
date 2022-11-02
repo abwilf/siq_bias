@@ -1,0 +1,18 @@
+q1: 
+a: 
+i: 
+q2: Why does the woman place her hand on her chest?
+a: She is referring to herself
+i: She is touched by the story
+q3:
+a:
+i:
+q4:
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

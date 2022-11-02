@@ -1,0 +1,19 @@
+q1: Why does the man rub the cheek of the girl in the middle?
+a: To show affection.
+i: He is wiping a tear.
+q2: What is the family's dynamic like?
+a: Loving.
+i: Chaotic.
+q3: Why does the girl get frustrated with her father?
+a: Because of the manner in which he is telling the story.
+i: Because of the manner in which he is speaking to her mother.
+q4: Why does the man want to turn on the television? 
+a: To avoid answering his daughter.
+i: To catch up on the news.
+q5: Why does the woman on the right take offense to the girl asking if her first word was something rude?
+a: She feels that would be a reflection of their parenting.
+i: She feels that would go against their religious beliefs.
+q6: How does the man look at the girl in the middle?
+a: He looks at her endearingly.
+i: He looks at her with disdain.
+

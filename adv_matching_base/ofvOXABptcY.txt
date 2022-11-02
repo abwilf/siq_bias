@@ -1,0 +1,18 @@
+q1:Why is the woman in purple squinting her eyes and face when she asks about the mans security team?
+a:She is confused and looking for clarity on what exactly the security team is and does.
+i:She is conflicted and looking for clarity on what exactly the security team buys and sells.
+q2:Why does the audience laugh at the man explaining that he doesn't have to be diplomatic?
+a:The man is embracing his nerdy personality and the audience finds his humorous.
+i:The man is rejecting his nerdy personality and the audience finds this humorous.
+q3:Why does the woman in purple point her finger at the man in red?
+a:She is giving him a compliment and adding emphasis with her body language.
+i:She is giving him a complaint and adding insult with her body language.
+q4:How does the man in red feel about being in the hot seat?
+a:He feels excited to be there but he is keeping himself calm and focused.
+i:He feels indifferent to be there but he is keeping himself calm and focused.
+q5:Why does the man answer the first trivia question so quickly?
+a:He is sure of his answer and wants to get the question completed.
+i:He is unsure of his answer and wants to skip the question.
+q6:Why does the man in the red shirt look down when the woman in purple is reading the question?
+a:The man is focused on what his answer will be so he is concentrating.
+i:The man is lost on what his answer will be so he is shameful.

@@ -1,0 +1,18 @@
+q1: Is the shirtless man, sitting on the floor, happy?
+a: No, the shirtless man appears to be having a breakdown.
+i: Yes, he is yelling in excitement.
+q2: How does the man with black hair feel about the man with red hair?
+a: He values him and considers him a friend?
+i: He is indifferent toward him.
+q3: Does the man without a hat expect to die?
+a: No, he is only being dramatic as a joke.
+i: Yes, he is truly scared he is about to die.
+q4: Why do the two men run toward each other at 00:49?
+a: They are about to hug to show their appreciation of each other.
+i: They are about to fight each other out of anger.
+q5: Is the video serious?
+a: It is only serious in a comedec way and is actually silly and light-hearted.
+i: Yes, it is very serious and emotional.
+q6: Why does the red-haired man speak louder than normal in the beginning?
+a: He is being passionate about what he is saying.
+i: He is angry at the other man.

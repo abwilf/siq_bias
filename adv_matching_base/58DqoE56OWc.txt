@@ -1,0 +1,18 @@
+q1: How does the woman on the left show respect to the woman on the right?
+a: She doesn't interrupt her
+i: She doesn't laugh at her 
+q2: What is the purpose of the women communicating?
+a: To express their political views
+i: To express their religious views
+q3: What is the nature of the women's disagreement?
+a: Peaceful
+i: Hostile
+q4: How do the women treat each other?
+a: With respect
+i: With contempt
+q5: Why does the woman on the right stutter at 0:09?
+a: The woman on the left has challenged her
+i: The woman on the left has interrupted her
+q6: Why does the the woman on the left speak up at 0:03?
+a: To clarify
+i: To chastise

@@ -1,0 +1,18 @@
+q1: Why does the lady in the blazer raise her eyebrows while reading the value of the reward at :07?  
+a: She is skeptical of the substantial dollar value of the letter that the letter claims to be giving out. 
+i: She is pleasantly surprised at the generous number the letter proclaims it is awarding.
+q2: Why is the lady in the blazer hopeful to call the company? 
+a: She is excited to investigate the validity of the company and hopes to catch them in a lie. 
+i: She is excited about the new job position that they offered her and hopes to schedule an interview. 
+q3: Why does the lady in the blazer recite what the letter claims over the phone?  
+a: She wants on-camera documentation of the company's confirmation that they hold their claims to be true.  
+i: She wants to clarify exactly to remove any ambiguity because she was confused. 
+q4: What is the tone of this news report? 
+a: The tone is serious as the reporters investigate a fraudulent company. 
+i: The tone is casual as they cover a fun community event. 
+q5: Why does does the man yell "good afternoon"? 
+a: He is welcoming the group in order to energize the crowd. 
+i: He wants the group to respond to him and show they can be interactive.  
+q6: Who is the man holding the hidden camera at :54 talking to? 
+a: He is talking to the camera person and the viewer audience.  
+i: He is talking to some random strangers near him.

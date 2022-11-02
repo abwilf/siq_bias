@@ -1,0 +1,18 @@
+q1: How do the girls on the right feel as they enter the room?
+a: Excited
+i: Nervous
+q2: Why does the girl in the middle roll her eyes at 0:18?
+a: The other girl is boasting
+i: The other girl is cheating
+q3: Who is the most skeptical audience member?
+a: The girl in blue
+i: The girl in red
+q4: What is the girl in black and white's behavior when they announce it's science related?
+a: She acts smugly
+i: She acts disappointed
+q5: How do the presenters act, given that they don't know how their project works?
+a: Pretentiously
+i: Timidly 
+q6: How does the presenter on the left avoid questions about the project?
+a: In a clever manner
+i: In a vulgar manner

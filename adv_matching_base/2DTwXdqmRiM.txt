@@ -1,0 +1,18 @@
+q1: What is the man on the right apprehensive about?
+a: Going on stage
+i: Going on a date
+q2: What does the man on the left offer the man on the right?
+a: Encouraging words.
+i: A high-five.
+q3: What does the man attempt to do by referencing the women chanting?
+a: Give the other man a confidence boost.
+i: Make the other man panic.
+q4: Why does the man cover his mouth at the sight of the shorts?
+a: He is touched by the gift. 
+i: He is reminded of a rough experience.
+q5: Why does the man repeat his statement twice at 0:43?
+a: He is trying to make himself believe it.
+i: He is trying to make himself remember it.
+q6: Is the man on the left successful at raising the spirits of the man on the left?
+a: Yes, the man is now ready to perform.
+i: Yes, the man is now ready to go clubbing.

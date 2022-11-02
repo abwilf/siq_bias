@@ -1,0 +1,18 @@
+q1: How did the man feel about the first two episodes?
+a: They were inappropriate
+i: They were magical
+q2: Why does the man slap his leg at the beginning of the video?
+a: He is humored
+i: He made a mistake/is disappointed
+q3: Why influenced the man not wanting to do the show at first?
+a: He didn't want his mother to be uncomfortable
+i: He had misconceptions about his co-star
+q4: Why did the man decide to do the show?
+a: They were flexible with him
+i: He loved Sarah Jessica
+q5:
+a:
+i:
+q6:
+a:
+i:

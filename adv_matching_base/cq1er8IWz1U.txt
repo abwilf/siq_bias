@@ -1,0 +1,20 @@
+q1: Was the man accepting of advice to go to the emergency room?
+a: Yes
+i: No
+q2: Why is the man on the right quiet?
+a: He is being polite
+i: His focus is elsewhere
+q3: What led the man to the emergency room?
+a: An issue with his hand
+i: An issue with his foot
+q4: How does the man behave when retelling the story?
+a: He is very animated
+i: He gets very emotional
+q5: Why does the man on the left appear to be worked up?
+a: He is acting the part of people in his story
+i: He is angry recalling the events of his story
+q6: How did the man feel in the emergency room?
+a: A little embarassed
+i: A little anxious
+
+

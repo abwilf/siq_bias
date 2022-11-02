@@ -1,0 +1,18 @@
+q1: How does the younger girl communicate her opinion on the food?
+a: She communicates her opinion through facial expression and language.
+i: She yells when she doesn't like something and talks normal when she likes something.
+q2: Who appears to be more dominant in the relationship?
+a: The girl on the left because the girl on the right defers to her.
+i: The girl on the left because because she is physically larger.
+q3: How does the younger girl replicate the older girl's behaviors?
+a: She copies the older girl's actions and speech.
+i: She mocks the older girl's actions and speech.
+q4: At 0:19, why does the girl on the left chuckle?
+a: She chuckles because she is intrigued by the flavors.
+i: She chuckles because she is amused by the other girl.
+q5: At 0:42, what are the emotions of the girl on the right?
+a: The girl on the right is happy with the experience.
+i: The girl on the right is disappointed by the food.
+q6: How does the younger girl demonstrate that she agrees with the older sister?
+a: She echoes her older sister's opinions.
+i: The younger girl interrupts the older girl.

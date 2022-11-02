@@ -1,0 +1,18 @@
+q1: What is the tone of the video?
+a: The tone is melodramatic and silly
+i: The tone is serious and melancholy
+q2: How does the woman in the green dress react to the woman with brown hair?
+a: She reacts with great surprise and suspicion
+i: She reacts with great affection and joy
+q3: How does the woman wearing the fake mustache feel?
+a: She feels it's a shame that people are dying
+i: She feels happy to be included
+q4: What is the tone of the man in the brown jacket?
+a: The tone of the man in the brown jacket is falsely confident 
+i: The tone of the man in the brown jacket is nervous and unsure
+q5: How does the man in the red jacket feel about the idea of splitting up?
+a: He is incredulous in response the suggestion
+i: He is elated in response to the suggestion
+q6: How does the man in the brown jacket react to his idea being called into question?
+a: He reacts with conviction
+i: He reacts with regret

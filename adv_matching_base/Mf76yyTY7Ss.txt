@@ -1,0 +1,18 @@
+q1: Why does the man hit the car's window at 0:38?
+a: He has an issue with the people inside
+i: He begs for help from the people inside
+q2: How do the men react to the police's arrival during their illegal act?
+a: They do not care
+i: They are fearful
+q3: What do the actions of the men suggest about them?
+a: They are desperate
+i: They are caring
+q4: Why do the men carry on their act in the police's presence?
+a: They are shameless
+i: They are being encouraged
+q5:
+a:
+i:
+q6:
+a:
+i:

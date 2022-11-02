@@ -1,0 +1,21 @@
+q1: Why does the woman acknowledge the man on stage?
+a: She wants to celebrate his birthday.
+i: She wants to thank him for his music. 
+q2: What does the montage highlight about the man?
+a: That he is a very lively person.
+i: That he is a very generous person.
+q3: Why does the audience applaud?
+a: They are excited about the man's birthday.
+i: They are excited to meet the next guest.
+q4: How does the woman feel about the man?
+a: She appreciates his presence.
+i: She admires his hard-work.
+q5: Is the man uncomfortable being the center of attention?
+a: No, he loves to dance on stage.
+i: Yes, he giggles and lowers his face.
+q6: How does the man feel to be acknowledged by the host?
+a: He seems grateful.
+i: He seems embarrassed.
+
+
+

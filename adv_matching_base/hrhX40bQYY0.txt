@@ -1,0 +1,18 @@
+q1: What does the woman's vocal expression at 0:10 indicate?
+a: She is impressed
+i: She is caught off guard
+q2: Why do the men bow as they stand?
+a: They are saying goodbye to the pair
+i: They are greeting the pair
+q3: What does the woman's gesture at 0:31 indicate?
+a: That she is grateful
+i: That she is cold
+q4: Why does the woman hold up fingers to the camera?
+a: She is indicating the number of items she is giving away
+i: She is counting down the days until the giveaway
+q5: What is an indicator that the group of men on the right are friends with each other?
+a: They have a group saying
+i: They have matching hats and shirts
+q6:
+a:
+i:

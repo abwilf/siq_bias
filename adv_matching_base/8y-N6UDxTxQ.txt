@@ -1,0 +1,19 @@
+q6: What is the overall tone of the video?
+a: Motivational.
+i: Hopeful.
+q7: How do the two interact?
+a: In a friendly and playful manner.
+i: In a strictly professional manner.
+q8: How does the man feel at the end of the video?
+a: He is delighted with his experience.
+i: He is experiencing a feeling of betrayal.
+q9: How does the woman present herself?
+a: She is very poised.
+i: She is very frazzled.
+q11: How does the woman feel about college?
+a: She feels it is essential.
+i: She feels higher education should be free.
+q12: How does the man feel about the woman?
+a: He deeply values her opinion.
+i: He feels they don't have much in common.
+

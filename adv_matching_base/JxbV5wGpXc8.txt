@@ -1,0 +1,18 @@
+q1: What does the woman's expression at 0:05 convey?
+a: Nervousness
+i: Excitement
+q2: Why does the woman want to do well at the game?
+a: She wants the hospital to receive a donation
+i: She is a competitive person
+q3: Does the man think the woman's practice will pay off?
+a: No, he thinks you cannot practice for this game
+i: Yes, he thinks she will succeed at the game because of it
+q4: What can be assumed about the woman being that she is playing for money?
+a: She is generous
+i: She is struggling
+q5:
+a:
+i:
+q6:
+a:
+i:

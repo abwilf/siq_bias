@@ -1,0 +1,18 @@
+q1: Why do the women say "Go Philly" while pointing?
+a: They want the team to win.
+i: They want the team to leave.
+q2: Why does the woman kiss the ground?
+a: She is grateful to be visiting the field.
+i: She just had a near death experience.
+q3: Why does the woman comment on the man's smell?
+a: She is complimenting him.
+i: She is trying to embarrass him.
+q4: What does the woman mean when she says she is "throwing heat"?
+a: That she is a good pitcher.
+i: That she is attractive.
+q5: Is the team welcoming to the visiting woman?
+a: Yes, they make an effort to engage with her.
+i: Yes, they throw a party in her honor.
+q6: How does the woman in black react to the the interaction between the other woman and Chase? 
+a: She is impressed.
+i: She is jealous.

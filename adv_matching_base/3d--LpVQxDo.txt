@@ -1,0 +1,19 @@
+q1: What drives the man to take a bow?
+a: The audience cheering.
+i: The host's compliment.
+q2: Why is the man wiping his face?
+a: He is pretending to wipe away tears.
+i: He is pretending to wipe away sweat.
+q3: How can the man's reaction to the audience be characterized?
+a: As over-the-top.
+i: As bashful.
+q4: Is the man serious about his children having polio?
+a: No, he is making a joke about vaccines.
+i: No, he is talking about a hypothetical situation.
+q5: How does the audience react to the man saying his children have polio?
+a: They laugh.
+i: They begin to tear up.
+q6:
+a: 
+i: 
+

@@ -1,0 +1,18 @@
+q1:  How did the woman with the blue jacket react when she turned around and saw the man with glasses behind her?
+a: She was slightly startled, but then shocked and happy to see him.
+i: She was indifferent and seemed to not care that he was there.
+q2: What is the tone of the video?
+a: It is inspirational and uplifting.
+i: It is serious and professional.
+q3: Why did the man with glasses silently cheer when watching the woman with the blue jacket through a screen?
+a: He was proud of her for what she had done and what she was saying.
+i: He was proud of himself for watching her speak.
+q4: What is the relationship between the two people?
+a: The woman was excited to meet the man and it seemed as if it was their first time meeting, although she knew of him.
+i: They seem to be dating each other by the way they act.
+q5: Why does the woman cover her mouth with her hands?
+a: She is in shock and awe at meeting the man.
+i: She is trying not to cough on the man.
+q6: Does the man seem kind?
+a: Yes, he is smiling and treats the woman kindly and with respect.
+i: No, he treats the woman poorly and makes fun of her.

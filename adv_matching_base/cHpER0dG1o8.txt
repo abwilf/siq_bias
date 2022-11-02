@@ -1,0 +1,18 @@
+q1: What is the woman concerned about?
+a: Her dog's health
+i: Her child's health
+q2: Why did the woman let the dog sleep with them? 
+a: For his comfort 
+i: They were travelling
+q3: Who seems more worrisome?
+a: The woman
+i: The man
+q4: How did the woman feel about the dog sleeping with them?
+a: She felt it was manageable
+i: She felt it was unsanitary
+q5: What does the man feel about the dog's health?
+a: He is optimistic
+i: He is losing hope
+q6: How does the woman speak of her dog's health?
+a: With hope
+i: With confidence

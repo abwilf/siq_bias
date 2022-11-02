@@ -1,0 +1,18 @@
+q1: Why does the little boy nod at the beginning?
+a:He is answering yes to a question.
+i:He is gesturing towards his donut.
+q2: How does the little girl in pink feel about being at her daddy's office?
+a:She is excited to be there.
+i:She thinks it's boring.
+q3: How do the kids feel about bringing their father donuts?
+a:They are excited and happy to deliver him donuts.
+i:They are a bit upset because they don't want to share the donuts
+q4: How does the father react to receiving donuts?
+a: He complains about the type
+i:He scoops his children up in a huge
+q5: What is the overall mood of the grown woman?
+a:She is very happy to do something nice for her husband while he is at the office
+i:She is irritated that she had to take time out of her day to go to her husband's office
+q6: Why does the woman say that she is "such a mom?"
+a:She says this because she had a wet wipe available on hand
+i:She says this because she has all her kids in tow while delivering donuts.

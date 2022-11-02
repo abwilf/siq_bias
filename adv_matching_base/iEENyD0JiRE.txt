@@ -1,0 +1,18 @@
+q1: Does the woman in black like Instagram?
+a: Yes
+i: No
+q2: How does the woman in black respond to the other woman's congratulations?
+a: She thanks her
+i: She takes a bow 
+q3: Does the woman in purple think it is weird that the other woman calls herself "scrappy"?
+a: No
+i: Yes
+q4: Why did the woman wear pajamas outside the house?
+a: To be fashionable
+i: She had an emergency
+q5: Who does the woman give credit to for her confidence in wearing pajamas as an outfit?
+a: Zendaya
+i: Instagram
+q6: How does the woman in purple feel about the other woman's Instagram?
+a: She supports it
+i: She questions it

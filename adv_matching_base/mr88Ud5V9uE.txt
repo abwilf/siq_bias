@@ -1,0 +1,18 @@
+q1: What can be assumed the woman is passionate about?
+a: Animals
+i: Children
+q2: Does the woman have confidence in the app?
+a: Yes, she trusts it will do well
+i: No, she thinks it is a risky concept
+q3:
+a:
+i:
+q4:
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

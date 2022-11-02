@@ -1,0 +1,18 @@
+q1: How does the woman in orange react to the age of the company?
+a: The reacts with awe
+i: The reacts with disappointment
+q2: What is the relationship between the two women?
+a: The woman in orange is interviewing the woman in red about the product
+i: The woman in red is interviewing the woman in orange about the product
+q3: What is the purpose of the women's conversation?
+a: The women are attempting to sell the product to the audience
+i: The women are attempting to convince each other the product is viable
+q4: How does the woman in red feel about jewelery and belongings?
+a: The woman in red feels jewelery and belongings are precious
+i: The woman in red feels jewelery and belongings are excessive
+q5: How does the woman in red react to the sale lasting one hour?
+a: The woman in red reacts with shock
+i: The woman in red reacts with hilarity
+q6: How does the woman in red react to having so much jewlery?
+a: The woman in red feels lucky to have so much jewlery
+i: The woman in red feels ashamed to have so much jewlery

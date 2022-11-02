@@ -1,0 +1,21 @@
+q1: Why is the woman rubbing her stomach at the beginning of the video?
+a: She stained her shirt
+i: She is pregnant
+q2: How does the man in black say he will break the legs of the man in red?
+a: As a joke
+i: As a threat
+q3: Why does the man quickly lift his arms at 0:53?
+a: The sound startled him
+i: The dog startled him
+q4: How does the woman feel about the man suggesting she catch her own fish?
+a: Excited
+i: Offended
+q5: Do the people from the clips seem to enjoy each other's company?
+a: Yes
+i: No
+q6: What is the tone of the video?
+a: Lighthearted
+i: Serious
+
+
+

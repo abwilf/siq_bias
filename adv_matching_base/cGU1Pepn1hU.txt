@@ -1,0 +1,22 @@
+q1: What do the people have in common?
+a: They enjoy the same subject
+i: They enjoy the same sport
+q2: Why is the crowd applauding?
+a: The students are receiving awards
+i: They enjoyed the skit
+q3: What are the students receiving awards for?
+a: The math bee
+i: The science fair
+q4: What is the mood of the room?
+a: Joyous
+i: Serious
+q5: How does the man who won first place behave?
+a: He is humble
+i: He is elated
+q6: Why does the man in red point to the woman beside him?
+a: He is giving her credit for his award
+i: He thought she should have received an award
+
+
+
+

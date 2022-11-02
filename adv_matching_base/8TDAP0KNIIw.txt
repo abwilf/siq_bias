@@ -1,0 +1,19 @@
+q1: What does the man's pace of speaking suggest?
+a: He is relaxed.
+i: He is nervous.
+q2: Why does the woman nod at 0:41?
+a: She likes what the man is saying.
+i: She is accepting the man's invitation.
+q3: Why is the man knowledgable on the play?
+a: He has a role in it.
+i: He has watched it many times.
+q4: What does the man on the right think of the play in discussion?
+a: It is unique.
+i: It is controversial.
+q5: Who shows the most interest in the man speaking?
+a: The woman beside him.
+i: The woman on the left.
+q6: How do the others at the table behave while the man on the right is talking?
+a: They sit quietly.
+i: They start side conversations.
+

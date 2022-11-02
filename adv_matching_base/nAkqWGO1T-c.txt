@@ -1,0 +1,18 @@
+q1: How does the man in the blue shirt feel about making connections?
+a: He believes it is paramount
+i: It gives him anxiety
+q2: How is the man in the blue shirt feeling towards the situation?
+a: It confuses him
+i: It motivates him
+q3: What is the response of the man in the white shirt meant to do?
+a: Suggest a reason for the behavior
+i: Invalidate the other man's feelings
+q4: What does the man in the blue shirt think of people retreating from connections?
+a: They are missing out
+i: It is often the right move
+q5:
+a:
+i:
+q6:
+a:
+i:

@@ -1,0 +1,18 @@
+q1: What is the tone of the man in the striped tie?
+a:He is calm, confident and seems to enjoy being on stage.
+i:He is very excited to be able to perform on stage.
+q2:How does the audience react to the little boy's message?
+a:They find it humorous and laugh 
+i: They find it endearing and react with "awww" 
+q3: What is the demeanor of the little girl when answering the question?
+a: She is very confident in her answer and speaks in a knowledgeable manner
+i:She is unsure of how to answer because she doesn't know much about the question.
+q4:Does the little boy seem confident in his answers?
+a: No, he is hesitant in his answers.
+i: Yes, he is able to answer all of the questions right away.
+q5: How does the boy feel when he is asked what Trump did in office?
+a: Confused, hesitant.
+i: Confident and angry.
+q6:Why does the little boy look off to the side?
+a: He is thinking about what to say next.
+i: He is looking to his parents for answers.

@@ -1,0 +1,18 @@
+q1: What is the tone of the woman in red plaid and black jacket?
+a: She is neutral for the most part and doesn't show much emotion.
+i: She is is overcome with emotion about this story.
+q2: How does the woman in the red hoodie react to being told to run?
+a: She is hesitant and confused.
+i: She is excited because she had been waiting for that moment.
+q3: What is the tone of the woman in the red hoodie?
+a: She is nervous because she didn't expect to be on the show.
+i:She is scared because her boss caught her sitting on the couch instead of working.
+q4: How does the woman on the left feel about the woman on the right?
+a: She is grateful to the woman on the right.
+i: She is intimidated by the woman on the right because that is her boss.
+q5: How well do the women know one one another?
+a: The women have known each other for many years.
+i:The women do not know each other well because they only just met.
+q6: Why does the woman on the left put her hands to her head at :45?
+a:She does this because she is getting emotional.
+i: She does this because she is embarrassed.

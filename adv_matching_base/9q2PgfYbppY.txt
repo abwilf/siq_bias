@@ -1,0 +1,18 @@
+q1: How does the orange-haired man feel about the man with the blonde hair? 
+a: He feels inspired and motivated by the blonde haired man because he is hard-working. 
+i: He feels sorry for the man in the blond hair and finds him pitiful.
+q2: Why does the short haired man dress up as the blonde man?
+a: He is trying to live as the other man to gain empathy and understanding about the blonde man's life.
+i: He is mocking the blonde haired man.
+q3: Why is the man with the blonde hair crying? 
+a: He is talking about personal past experiences that have hurt him.
+i: He is arguing with the orange-haired man.
+q4: Why does the short haired man, dressed in the blonde wig, hold his mouth open for a while?
+a: He is looking around and in shock and awe of the situation.
+i: He is trying to sing but having trouble doing so.
+q5: What is the tone of the conversation between the blonde haired man and short haired man in the beginning?
+a: The conversation is serious and emotionally intense due to the topic at hand.
+i: The conversation is light-hearted and silly.
+q6: Why does the man with short hair touch his chest at 0:52?
+a: He is talking about himself in the moment and emphasizing this by pointing to himself.
+i: He is having heart pain and is holding his chest to express the pain.

@@ -1,0 +1,18 @@
+q1: Is the man supportive of the topic he is speaking about? 
+a: Yes, the man speaks highly about his positive experience the program. 
+i: No, the man is complaining about his bad experience with the program. 
+q2: What is the man's purpose for making this video? 
+a: He's trying to encourage people to join the program.  
+i: He's trying to warn others to avoid the program.  
+q3: Is the man sincere about the topic? 
+a: Yes, because the man states the facts of the program, the benefits and his opinions. 
+i: No, because the man does not care about the program and doesn't think it works. 
+q4: Why does the man sit still throughout the presentation? 
+a: He is calm and confident so he speaks directly to the camera without creating too many distractions. 
+i: He is very nervous so he focuses hard to avoid messing up his lines. 
+q5: Does the man feel passionate about the what he is saying? 
+a: Yes, because he had a positive experience and believes the program will be beneficial to others, so he wants others to try it. 
+i: Yes, because he had a negative experience and is very upset, so he does not others to waste their time. 
+q6: Does the man feel confident about the program helping others? 
+a: Yes the man believes the program will be beneficial to others. 
+i: No the man believes the program will not help others.

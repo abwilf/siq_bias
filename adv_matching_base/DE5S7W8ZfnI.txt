@@ -1,0 +1,18 @@
+q1: Is the man successful?
+a: The man is searching for success, but is doing well.
+i:
+q2: Does the woman understand what the man is saying?
+a: Yes, she is following him well.
+i:
+q3: Is the man confident?
+a: Yes he is confident with his answers.
+i:
+q4: What causes the man's uncertainty as to his decision?
+a: He is uncertain because he wants to pick the right company.
+i:
+q5: Why is the man in the checkered shirt there?
+a: He is explaining his position.
+i:
+q6: Why doesn't the woman speak much?
+a: She is respectful when interviewing him.
+i:

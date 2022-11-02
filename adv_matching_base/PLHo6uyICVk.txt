@@ -1,0 +1,19 @@
+
+q1:What is the tone of the man in the blue shirt?
+a: he is calm, cool and collected.
+i: He is enthusiastic and upbeat
+q2: How serious is the woman about the man's wife?
+a: She is not being serious at all.
+i: She is being very serious because she thinks that the wife if very important.
+q3: How does the audience react to the woman's question?
+a: They laugh because it's playful.
+i: They gasp because it's a prying question.
+q4: Why does the woman called the man's wife a cheater?
+a: She is being playful and doesn't actually think his wife is a cheater.
+i: The mans wife cheated when they had a push up competition.
+q5: What made the man stop fighting with his wife?
+a: He figured out that she was always right. 
+i: He didn't care to fight with her anymore
+q6: Does the man seem capable of handing stress?
+a: Yes, given his confident and calm demeanor, he seems capable of handing stress.
+i: No, given his fidgety and nervous demeanor, he seems like he would crumble unders stress.

@@ -1,0 +1,19 @@
+q1: What did the woman's visit to the show do for her?
+a: Grow her popularity.
+i: Get her a job offer.
+q2: How does the man end the conversation with the woman?
+a: In a dismissive manner.
+i: In an abrupt manner.
+q3: What does the woman think of the man's appearance?
+a: She finds him attractive.
+i: She finds him to look disheveled.
+q4: How does the man react to the woman's compliment?
+a: With slight arrogance.
+i: With a compliment in return.
+q5: What does the man assume about the woman's new followers?
+a: They are men.
+i: They aren't real accounts.
+q6: How does the woman feel about gaining followers?
+a: She is happy.
+i: She is overwhelmed.
+

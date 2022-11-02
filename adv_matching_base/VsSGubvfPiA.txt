@@ -1,0 +1,23 @@
+q1: Is the man in the suit confused?
+a: Yes, the man in the suit is confused because he encountered a new term he hasn't heard before.
+i: Yes, the man in the suit thinks he did well at the task and is confused why he's being criticized.
+
+q2: Why is the audience cheering?
+a: The audience cheers because they support what the man in black is saying.
+i: The audience cheers because they like the outfit the man in black chose.
+
+q3: Does the man in the suit think that the person in black takes himself seriously?
+a: No, but he plays along for the sake of the man-in-black's act.
+i: Yes, he thinks the man in black is quite arrogant.
+
+q4: How does the man in all black feel about what he is talking about?
+a: The man in black feels empowered by what he is talking about.
+i: The man in black feels distressed by what he is talking about.
+
+q5: How confident is the man-in-black feeling, really?
+a: He might not be very confident, he is turned away from suited man half the time they're talking.
+i: He is exceedingly confident, the man in black maintains direct eye contact with the suited man the entire time.
+
+q6: Why does the man in the suit question the man in all black?
+a: The man in the suit questions the man in all black because he wants to continue the joke at hand.
+i: The man in the suit questions the man in all black because he thinks the man in black stole something.

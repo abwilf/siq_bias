@@ -1,0 +1,19 @@
+q1: What does the man in the center think of the idea of Kylie Jenner?
+a: He thinks it's brilliant
+i: He thinks it's ridiculous
+q2: Why does the woman rub her chin at 0:11?
+a: She is curious about what the man is saying
+i: She is formulating an idea
+q3: How does the woman react to Kylie Jenner's photo getting 2 million likes?
+a: She seems to think it's ridiculous
+i: It seems to make her feel jealous
+q4: Why are the people gathered?
+a: They are brainstorming
+i: They are praying
+q5: Does the man in the center take offense to the woman's name calling?
+a: No
+i: Yes
+q6: Why does the man cover his eyes at 0:39?
+a: He is stressed
+i: He is in disbelief
+

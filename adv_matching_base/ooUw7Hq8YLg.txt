@@ -1,0 +1,18 @@
+q1:What is the attitude of the man in blue shirt?
+a:He is energetic and excited about the baseball game 
+i:He is irritated and indifferent about the baseball game
+q2:Does the man in the black shirt know the man in the blue shirt?
+a:No, that's why they shook hands when he entered the vehicle.
+i:Yes, that's why they shook hands when he entered the vehicle.
+q3:Does the man in black remember his childhood fondly?
+a:Yes, as he talks about his grandmother and where he grew up with a lighthearted tone.
+i:No, as he talks about his grandmother and where he grew up with a somber tone.
+q4:Do the two men seem to be having a good time?
+a:The men seem to be having a good time because they have things to talk about and are being respectful.
+i:The men seem to be having a bad time because they have nothing to talk about and are being awkward.
+q5:Why does the man in the blue shirt change his tone when he says "New York"?
+a:He raises his voice at the end of the word because this implies an inquisitive tone.
+i:He lowers his voice at the end of the word because this implies a suspicious tone.
+q6:Why doesn't the man in the black shirt look at the man in the blue shirt when he is asking him questions?
+a:Since they are driving in the car, he is focusing on what is happening around them.
+i:Since they are driving in the car, he cannot focus on what is happening around them.

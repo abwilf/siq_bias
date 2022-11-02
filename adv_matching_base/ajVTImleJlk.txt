@@ -1,0 +1,20 @@
+q1: How does the man in grey interrupt the other man?
+a: Politely
+i: Dramatically
+q2: Does the woman typically agree with President Trump?
+a: No
+i: Yes
+q3: Is the woman accepting of some people not voting for her?
+a: Yes
+i: No
+q4: Does the man in grey favor one guest over the other?
+a: No
+i: Yes
+q5: Why does the man in grey interrupt the man in the red tie?
+a: He wants the other man to stop talking.
+i: To add to his point.
+q6: What causes the man in grey to interrupt the other man?
+a: The man is straying too far from the question
+i: The man is avoiding the question
+
+

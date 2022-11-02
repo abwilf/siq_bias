@@ -1,0 +1,18 @@
+q1: What does the woman hope to see?
+a: Change
+i: Consequences
+q2: Does the woman have an optimistic view towards the future?
+a: Yes
+i: No
+q3: What does the woman think of the current state of healthcare?
+a: It is too expensive
+i: It is of low quality
+q4: 
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

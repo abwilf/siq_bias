@@ -1,0 +1,18 @@
+q1:Are the men working well together?
+a:Yes, they are being very agreeable towards each other and accepting ideas.
+i:No, they are being very aggressive towards each other and rejecting ideas.
+q2:Why does the man in the checkered shirt step back at 0:16?
+a:He steps back to move out of the way for the other man.
+i:He steps back in shock because the other man just offended him.
+q3:Why does the man in the checkered shirt repeat the word "right" after the other man says it?
+a:He is confirming that the other man understood what he said.
+i:He is confused why the other man cannot understand what he said.
+q4:Does the man in the checkered shirt seem like he wants to be there?
+a:Yes, he is happy to explain his ideas to the other man.
+i:No, he is annoyed to have to explain his ideas to the other man.
+q5:Why does the man in the checkered shirt have his hand on his hip while he is explaining something?
+a:It's a form of open body language while talking to show that he knows the information well.
+i:It's a form of closed body language while talking to show he is making up the information.
+q6:Who is the more dominant one in the conversation?
+a:The man with the checkered shirt is more dominant because he is speaking more confidently and giving the information.
+i:The man in the blue seater is more dominant because he is speaking more controlled and asking the questions.

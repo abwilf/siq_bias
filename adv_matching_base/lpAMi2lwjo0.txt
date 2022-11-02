@@ -1,0 +1,18 @@
+q1: What is the purpose of the man's comment about "a green belt"?
+a: It is meant to intimidate him
+i: It is meant to confuse him
+q2: Why does the man in red point to his wrist?
+a: He is referencing the time
+i: He is referencing an arrest
+q3: Does the man in red seem to care about his father?
+a: No, he didn't attend his funeral
+i: Yes, he was extremely emotional at his funeral
+q4: How does the man in red seem to handle being in a position of power?
+a: It has inflated his ego
+i: It has made him grateful to be able to make change happen
+q5: Is the man in white intimidated by his boss?
+a: No, he seems unfazed by his comments
+i: Yes, he seems nervous in his presence
+q6: How does the man react to the other man's comment about "a green belt"?
+a: He is confused
+i: He is intimidated

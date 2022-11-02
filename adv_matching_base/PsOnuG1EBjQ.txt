@@ -1,0 +1,19 @@
+
+q1: Are the 2 women familiar with one another?
+a: Yes, they are familiar with one another.
+i:No, They have only just met.
+q2: What is the dynamic between the women and the man?
+a: The man is interviewing the women.
+i: The man is the boss of the women.
+q3: Does the man dislike cellphones?
+a: No, but he doesn't want to see them in TV shows.
+i: Yes, he dislikes cell phones.
+q4:Why does the woman on the right ask some questions to the woman on the left? 
+a: She wants clarification from the other woman.
+i: She is interviewing the other woman.
+q5: Why does the man nod his head?
+a: He does this to show that he understands what is being said.
+i: He does this to answer the question that is being asked.
+q6: Is the woman on the left invested in the conversation?
+a:  Yes, she is invested because it's about her show.
+i: No, she is not invested which is why she doesn't say much.

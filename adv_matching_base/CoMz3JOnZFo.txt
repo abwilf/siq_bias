@@ -1,0 +1,19 @@
+q3: What does the girl's expression as she enters the room at 0:05 convey?
+a: Uncertainty
+i: Shock
+q4: Why is the girlplaying with her fingers at 0:11?
+a: She is feeling nervous
+i: She is feeling mischievous 
+q5: Why is the woman in red filming?
+a: The girl is about to be surprised
+i: The girl is about to do a magic trick
+q7: Is the woman afraid when she first sees the pirate?
+a: No, she walks toward him
+i: No, she waves to him
+q16: Why are the people gathered in the hallway?
+a: They want to witness the girl's reaction
+i: They want to surprise the girl
+q18: Why is the girl feeling curious?
+a: She doesn't know who she is going to meet
+i: She doesn't know who's team she will be on
+

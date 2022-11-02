@@ -1,0 +1,19 @@
+
+q1:Why does the man in the glasses put his fingers in the air?
+a: He is using air quotes to emphasize his point.
+i: He is telling the students the number of changes they get to talk in the debate.
+q2: Does the man expect for the children to change their minds?
+a: No, He doesn't expect them to change their mind.
+i: Yes, he believes that some of the children will change their mind.
+q3: Do all of the students seem intrigued by what the man is saying?
+a: No, some of the students seem indifferent.
+i: Yes, all of the students look intrigued by the task he is giving them.
+q4: Which student seems to be listening to the man the most?
+a: The student in the grey sweater.
+i: The student in the pink sweater.
+q5: What is the purpose of the man's message.
+a: He wants to make sure the students feel safe and know the rules of the exercise.
+i: He wants the students to take the debate seriously.
+q6:
+a:
+i:

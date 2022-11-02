@@ -1,0 +1,18 @@
+q1: Are the people in the video upset?
+a: No, they are all laughing and smiling.
+i: Yes, they all frown and avoid each other.
+q2: Why is the girl at 00:04 jumping over a rope?
+a: She is playing a game with the other kids to bond and have fun.
+i: The other children are trying to humiliate her by making her do so.
+q3: Why do all the people sit at a table together?
+a: They are enjoying a meal together to bond.
+i: They are trying to sort out a dispute.
+q4: What is the tone of the video?
+a: The tone of the video is light-hearted and inspirational.
+i: The tone of the video is professional and serious.
+q5: Do the children like the water they are swimming in?
+a: Yes, they eagerly jump into it to swim and play.
+i: No they avoid going in but are forced to eventually.
+q6: What is the relationship between the people like?
+a: They all get alone and enjoy each other's company.
+i: They are awkward and distance themselves from each other.

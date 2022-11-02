@@ -1,0 +1,18 @@
+q1: What does the man believe?
+a: Change needs to happen
+i: Change is overrated
+q2: How does the man portray Newton, Iowa?
+a: As a struggling town
+i: As a bustling town
+q3: Why is the man smiling at 0:21?
+a: He is amused by the woman's analogy
+i: He is amused by the woman's dance
+q4: How does the man feel towards the residents of Newton, Iowa?
+a: He feels pity
+i: He feels envy
+q5: Does the woman blame past presidents for the lack of change on this topic?
+a: No, she wonders if the issue may be too large to handle
+i: Yes, she thinks they lied about wanting to handle the issue
+q6:
+a:
+i:

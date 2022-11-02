@@ -1,0 +1,18 @@
+q1: Does the man seem very confident in his card trick?
+a: No
+i: Yes
+q2: Which observer is most enthusiastic about the trick?
+a: The man in white
+i: The man in black
+q3: How does the man feel to be doing a card trick for Will I Am?
+a: Grateful
+i: Childish
+q4: Why does the man ask if the audience is "captivated yet"?
+a: He is being sarcastic
+i: He wants feedback
+q5: How do the two observers of the card trick behave?
+a: They seem focused 
+i: They seem skeptical
+q6: What seems to excite the man the most about performing his card trick?
+a: His volunteer
+i: That he learned it from a movie

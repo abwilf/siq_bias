@@ -1,0 +1,18 @@
+q1: Are the men respectful?
+a: Yes, they listen to each other and do not interrupt each other.
+i: No, they are rude to each other.
+q2: Are the men upset about the topic?
+a: No, they are rationally discussing it.
+i: Yes, it is making them angry as they discuss it.
+q3: What is the attitude of the man with the pink tie?
+a: He is explanatory and patient.
+i: He is frustrated and agitated.
+q4: How does the man in the light suit feel while speaking?
+a: He feels confident in his points and wants people to listen to it.
+i: He is sad because no one listens to him.
+q5: Does the brown-haired man agree with the other man?
+a: Yes, he seems interested and expands on his explanation.
+i: No, he looks disinterested and doesn't care.
+q6: Is the man in the pink tie angry when he is interrupted?
+a: No, he doesn't care about the interruption and seems excited that the other man understands him.
+i: Yes, he tells the other man off and demands an apology.

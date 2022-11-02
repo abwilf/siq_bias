@@ -1,0 +1,19 @@
+
+q1:Why is the blonde woman in the second clip shocked?
+a: She is shocked to see the man behind her.
+i: She is shocked because 
+q2: Does the girl in the white coat seem excited at the ninja turtle?
+a: Yes, she is excited to see the ninja turtle
+i: No, she is indifferent to the ninja turtle.
+q3: How does the girl in the white coat show her surprise?
+a: she opens her mouth really wide 
+i: She screams.
+q4:What emotion do all the people in the video share?
+a: All the people in the videos are surprised and very happy.
+i: all the people in the videos are upset.
+q5:How does the woman see the man behind her?
+a: The woman sees the man behind her through the phone screen.
+i:The woman sees the man behind her when she turns around.
+q6: How does the blonde woman in the show her surprise in the second clip.
+a: She screams
+i: She jumps up and down.

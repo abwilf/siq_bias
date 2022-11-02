@@ -1,0 +1,27 @@
+q4: Does the woman welcome the challenge?
+a: Yes
+i: No
+q7: Why do the pair laugh together?
+a: The impersonations are fun
+i: They are poking fun at someone
+q15: Why does the woman fall on the ground?
+a: It's part of her act
+i: She was pushed
+q18: What is the man doing in the last half of the video?
+a: Impersonating a magician
+i: Impersonating a ballerina
+q21: How do the pair treat each other during the challenge?
+a: They are supportive
+i: They are manipulative
+q24: Why is the man jumping at 0:20?
+a: He is energizing himself
+i: He is impersonating a basketball player
+
+
+
+
+
+
+
+
+

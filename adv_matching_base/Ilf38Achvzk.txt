@@ -1,0 +1,18 @@
+q1: What can be assumed about the woman given her job?
+a: She cares about people
+i: She cares about animals
+q2: Do the majority of children show interest in the lesson?
+a: Yes
+i: No
+q3: What do the raised hands of the children indicate?
+a: Participation
+i: Neediness
+q4: 
+a: 
+i: 
+q5:
+a:
+i:
+q6:
+a:
+i:

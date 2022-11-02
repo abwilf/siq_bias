@@ -1,0 +1,18 @@
+q1: Why do the men state a word repetitively?
+a: The man on the left is trying to learn the man on the right's name
+i: The men are playing a game
+q2: How does the narrator portray the actor Chris Pine?
+a: As attractive
+i: As talented
+q3: Is the man in white aggravated that the other man can't pronounce his name?
+a: No, he tries to teach him
+i: Yes, he tells him to stop trying
+q4: What does the narrator think of Chris Pine's looks?
+a: They are universally appealing
+i: They warrant an acquired taste
+q5: What does the narrator think of Chris Pine having worked with his father?
+a: It was intriguing
+i: It must have been difficult
+q6:
+a:
+i:

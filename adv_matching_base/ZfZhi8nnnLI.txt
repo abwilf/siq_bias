@@ -1,0 +1,23 @@
+q1: How does the man in the black suit feel about the band?
+a: He thinks the band is incredible. 
+i: The man in the black suit made no comment about the band, actually.
+
+q2: How does the man in the black suit feel towards the trumpet player, in particular?
+a: He quite admires the trumpet player based on their hug. 
+i: He doesn't feel anything towards the trumpet player. 
+
+q3: Why does the audience laugh at the comments made about the correctness of the expression "been dug"?
+a: It seems completely out of place given the gravity of the words that came before it.
+i: They think that the comments about the correctness of the expression "been dug" are insipid.
+
+q4: Why is the crowd cheering the guest?
+a: To demonstrate for the guest its excitement for his appearance.
+i: They were paid to do this — nothing more.
+
+q5: Why is the man in black smiling?
+a: He truly enjoys talking with the man in blue.
+i: He smiles because he has facial muscular issues
+
+q6: Why does the man in black hug the man in jeans?
+a: He is friendly with the man in jeans.
+i: He felt compelled to do this, out of "social obligation."

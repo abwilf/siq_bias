@@ -1,0 +1,18 @@
+q1: Does the man show sympathy for the members of the administration being discussed?
+a: Yes, he understands the reason behind their feelings
+i: No, he thinks they are being dramatic
+q2:
+a:
+i:
+q3:
+a:
+i:
+q4:
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

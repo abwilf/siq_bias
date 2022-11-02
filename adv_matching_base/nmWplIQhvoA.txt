@@ -1,0 +1,18 @@
+q1: Why do the people want to take pictures with the man?
+a: They want to document their achievement
+i: They are a fan of his
+q2: Why are the people smiling?
+a: They are proud of themselves
+i: They are happy to see each other
+q3: What is the purpose of the man's speech?
+a: To praise the recipients of the award
+i: To distract the woman
+q4: Why did the woman begin blogging?
+a: As a hobby
+i: To fulfill a class requirement 
+q5:
+a:
+i:
+q6:
+a:
+i:

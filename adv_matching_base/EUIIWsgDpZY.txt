@@ -1,0 +1,18 @@
+q1: Does the man on the left seem aware of the other man's humor?
+a: Yes
+i: No
+q2: Does the man feel the country is united?
+a: No
+i: Yes
+q3: What is one thing the man on the left particularly aims to do in his job? 
+a: Be inclusive
+i: Be accurate
+q4: What amuses the man on the right?
+a: Fake news
+i: Political news
+q5: How does the man on the left portray the relationship between people and news?
+a: News is at people's fingertips
+i: News is largely overlooked by people
+q6: Does the man on the left seem to care about all people's feelings?
+a: Yes
+i: No
