@@ -1,0 +1,23 @@
+q1: How was the mood of the crowd?
+a: The crowd is intent on listening, but was not wont to remain calm.
+i: The crowd is loving and very connected to everyone.
+
+q2: Why was the man in the robes unhappy with the man in the suit?
+a: He was unhappy as the man in the suit made an inappropriate comment.
+i: He was unhappy because the man in the suit was talking too much.
+
+q3: Does the man in the blue tie appear to care about the issues?
+a: Yes, he gets very riled up. 
+i: Possibly, but he does blithely laugh at times. 
+
+q4: What level of confidence does the man with the blue/patterned tie have as he argues against his adversary?
+a: High levels, he shows no mercy in pursuing his opponent.
+i: Negligible, the man more/less left his neck open for his opponent to bite through.
+
+q5: What is the disposition of the legion of ladies who stood guard for the house speaker?
+a: The legion were stoic and serious, putting on a dutiful, conservative performance.
+i: The legion were lively and jovial, going so far as to beckon spectators to come forth.
+
+q6: Does it look like the politician with the blue/patterned tie believes in what he's claiming?
+a: It sure does: that eye contact he maintains with the person he's fluidly responding to, the entire time, portends as much.
+i: ´Can't really give him that kind of credit: breaking eye contact frequently, giving constant caveats...

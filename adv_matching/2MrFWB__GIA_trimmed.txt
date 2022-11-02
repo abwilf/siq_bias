@@ -1,0 +1,18 @@
+q1: What does the man have on his hand?
+a: A tattoo.
+i: Blood.
+q2: What is the relation between the pair?
+a: They are partners.
+i: The man is a client of the woman.
+q3: What did the woman try to do to the man?
+a: Remove his hair.
+i: Give him a tattoo.
+q4: Is the man hopeful that the waxing will work?
+a: No, he is indifferent.
+i: Yes, he is self-conscious.
+q5: How does the man feel about what the woman did to him?
+a: He thinks it was useless.
+i: He thinks it was beneficial.
+q6: How can the pair's treatment of the dog be viewed as?
+a: Loving.
+i: Abusive.

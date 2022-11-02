@@ -1,0 +1,18 @@
+q1:Why is the woman in pink narrating everything she does?
+a:She is intructing the audience and her guest on how to cook.
+i:She is absentmindedly talking out loud for no reason.
+q2:Why are the women both laughing at the end of the video?
+a:They find the noise the food is making funny.
+i:They told each other a funny joke.
+q3:How do the two women feel about each other? 
+a:They feel comfortable around each other as friendly acquaintances. 
+i:They feel awkward and uncomfortable around each other. 
+q4:Why is the woman in white holding her hands on the table at 0:26?
+a:She is waiting for her turn to help with the cooking.
+i:She is trying to hold the table in place so it doesn't roll away.
+q5:Why does the woman in the pink shirt let the woman in the white shirt stir the bowl? 
+a:She wants to make sure that the other woman is getting a chance to contribute as well. 
+i:The woman in the pink shirt is tired of doing all the work. 
+q6:Why does the woman in white flip her hair at the end of the video?
+a:She is jokingly being sassy about the noise the food is making.
+i:She was trying to look show the other woman how to flip her hair.

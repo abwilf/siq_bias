@@ -1,0 +1,18 @@
+q1: Why are the man and the boy yelling and screaming at the end of the video?
+a: They are reacting to and excited about what is happening in the game.
+i: They are so frustrated they let out their anger by yelling and screaming.
+q2: Why does the man hold his mouth open at 00:23?
+a: He is surprised, amused, and concentrating on what the character on screen is doing.
+i: He is tired so he is yawning.
+q3: Why does the man sometimes change his voice or accent?
+a: He is being silly and trying to amuse the kid.
+i: He is having trouble speaking properly.
+q4: Is the child bored?
+a: No, he is engaged in what he is doing and having a good time.
+i: Yes, he is quiet and shows no emotions.
+q5: Do the man and the boy enjoy each other's company?
+a: Yes, they are laughing and appear quite comfortable together.
+i: No, appear to be very competitive and irritated with each other. 
+q6: How does the man show that he is shocked and surprised at 00:15?
+a: He stops speaking mid-sentence, gasps, and widens his eyes.
+i: He shouts loudy about being surprised.

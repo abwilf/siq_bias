@@ -1,0 +1,18 @@
+q1: What is the attitude of the boy?
+a: He is excited and interested.
+i: He thinks the game is childish.
+q2: How does the girl react to the screen going black
+a: She screams because it scares her.
+i: She laughs because she thought it was cheesy. 
+q3:Why does the girl take off her headphones?
+a:She doesn't want to play anymore.
+i: She wants to greet her friend.
+q4:Why does the boy widen his eyes?
+a: He thinks he has figured out what to do
+i: The game scared him.
+q5: What is the tone of the girl?
+a:She is afraid of the game.
+i:She is having fun playing the game
+q6:Does the girl seem like she likes scary stuff?
+a: No, she does not like experiencing this feeling
+i: Yes, she looks forward to Halloween for this reason

@@ -1,0 +1,18 @@
+q1: How does the man in the black hoodie feel as he looks at the map?
+a: Overwhelmed
+i: Determined
+q2: Is the man in the black hoodie pretentious?
+a: No, he admits he is unsure
+i: Yes, he feigns confidence
+q3: What seems to confuse most of the people?
+a: The difference between a country and continent
+i: The difference between a country and state
+q4: How does the man at 0:44 react to being wrong?
+a: He is surprised
+i: He is in denial
+q5: Why does the woman at the end of the video laugh?
+a: She is embarrassed that she lacks knowledge
+i: She is satisfied that she proved her knowledge 
+q6:
+a:
+i:

@@ -1,0 +1,18 @@
+q1:  What is the nature of the relationship between the people in the video?
+a: They seem to be debating and arguing with each other, suggesting they have differing opinions.
+i: They seem to be agreeing with each other, suggesting they have the same opinion.
+q2: What does the body language and tone of the woman at 0:37 convey?
+a: She seems to be irritated and frustrated.
+i: She is excited to be taking part in the conversation.
+q3: Why does the man on the left question the people?
+a: He is interviewing them and wants to hear their opinions.
+i: He suspects them of wronging him and wants to know why.
+q4: What is the tone of the man on the left?
+a: His tone is strong and opinionated.
+i: His tone is indecisive and bored.
+q5: How does the man in the black shirt appear to feel during the video?
+a: He seems bored and aloof.
+i: He seems intent on listening and interested in the conversation.
+q6: Why is the man on the left so loud while he is speaking?
+a: He is strongly opinionated about the topic.
+i: He does not think the others can hear him if he doesn't talk loudly.

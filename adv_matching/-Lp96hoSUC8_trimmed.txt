@@ -1,0 +1,18 @@
+q1: Why is the man's cologne mentioned?
+a: His use of it is excessive.
+i: His use of it is unusual.
+q2: Which person speaks more harshly of the man?
+a: The man on the left.
+i: The man on the right.
+q3: What does "my hand to Steven up there" indicate about what the man is about to say?
+a: That his statement will sound unbelievable, but is true.
+i: That his statement will invalidate those of the others.
+q4: What is the purpose of the men discussing a man who is not present?
+a: They want to poke fun at him.
+i: They want to impress women.
+q5: How does the man on the right react to mention that the man being discussed may not actually watch his show?
+a: He takes offense to the idea.
+i: He feels he benefits from it if it's true.
+q6: What relation do the men on stage have to the man they are discussing?
+a: They are involved in business with him.
+i: They are friends from college.

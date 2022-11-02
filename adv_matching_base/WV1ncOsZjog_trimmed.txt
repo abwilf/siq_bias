@@ -1,0 +1,20 @@
+
+
+q1:Why does the woman in light pink smile at the beginning of the video?
+a: She smiles because the woman in dark pink is asking her a question.
+i: She smiles because the woman in dark pink said something amusing.
+q2: What is the tone of the woman in the light pink shirt?
+a: It is neutral.
+i: It is sad.
+q3: How does the woman in light pink feel about the bill?
+a: The woman feels the bill is a reasonable thing that is going through proper channels.
+i: The woman feels the bill is illegal and should be stopped.
+q4: What is the dynamic of the woman in dark pink and the woman in light pink?
+a: The woman in dark pink is interviewing the woman in light pink.
+i: The woman in light pink is interviewing the woman in dark pink.
+q5:
+a:
+i:
+q6:
+a:
+i:

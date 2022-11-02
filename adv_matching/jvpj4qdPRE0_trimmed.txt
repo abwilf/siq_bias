@@ -1,0 +1,18 @@
+q1: How does the man speak of the state attorney?
+a: He seems to be supportive of her
+i: He seems to be against her
+q2: How does the man portray the efforts for justice?
+a: As happening
+i: As stagnant
+q3: How do the people standing behind the man behave?
+a: They agree with him
+i: They bully him
+q4:
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

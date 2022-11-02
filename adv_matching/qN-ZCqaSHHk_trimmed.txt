@@ -1,0 +1,18 @@
+q1: Why is the man showing the woman different cars?
+a: To have her compare them
+i: To impress her
+q2: What does the woman's squinting at 0:18 convey?
+a: Suspicion
+i: Confusion
+q3: How does the woman feel about the second car? 
+a: That it's luxurious
+i: That it's cheap
+q4: Which car does the woman prefer?
+a: The second 
+i: The first
+q5: Why does the woman stutter at the end of the video?
+a: As to not insult the man
+i: As to not pronounce the word wrong
+q6: How does the man respond to the woman's reaction to the second car?
+a: He defends the first car
+i: He gets excited

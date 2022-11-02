@@ -1,0 +1,18 @@
+q1: Are the men upset with each other's opinions?
+a: No
+i: Yes
+q2: Does everyone present seem amused by the discussion? 
+a: No
+i: Yes
+q3: What opinion does the man on the left express?
+a: Uniforms are not always practical
+i: Uniforms are an easy solution
+q4:
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

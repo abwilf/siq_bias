@@ -1,0 +1,18 @@
+q1: Why is the man engaging with the women?
+a: To have fun
+i: To get their opinions
+q2: How does the man feel knowing he frightened the woman?
+a: He is humored by it
+i: He is troubled by it
+q3: How does the woman in black feel behind the glass?
+a: She feels uncomfortable there
+i: She feels most protected there
+q4: Who is most amused by the game?
+a: The man
+i: The woman
+q5:
+a:
+i:
+q6:
+a:
+i:

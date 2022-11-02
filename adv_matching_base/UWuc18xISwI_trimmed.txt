@@ -1,0 +1,18 @@
+q1: Why is the man holding the pen getting water shot at him? 
+a: Because the person at the podium disapproves of his comments.
+i:Because the person at the podium thinks his joke is really bad.
+q2: What is the tone of the person at the podium?
+a: They are Agressive and irritated 
+i: They are excited to be answering questions
+q3: How do the two people get along?
+a: They don't get along well at all due to differing opinons. 
+i:They get along great and seem to be really good friends.
+q4:How do the men make the audience laugh?
+a: The men make the audience laugh because they are parodying a real event and exaggerating it so that it is funny.
+i: The men make the audience laugh because they are telling jokes.
+q5: How does the reporter react to being squirted with water?
+a:He is surprised and upset
+i:He was prepared for it and couldn't wait for it to happen.
+q6: Why does the person pick up the podium?
+a: They are exaggerating their anger at the other man.
+i: They are moving it because it is in the way.

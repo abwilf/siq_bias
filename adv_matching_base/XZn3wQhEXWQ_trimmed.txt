@@ -1,0 +1,18 @@
+q1: How does the man speak about the topic?
+a:He is confident and serious with his answers 
+i:He is unsure how to articulate what he is thinking.
+q2: How does the woman on the left show that she is interested in the mans conversation?
+a: She is nodding her head and making eye contact.
+i: She is taking notes about what he is saying.
+q3:How does the woman on the right seem interested while the man is speaking?
+a:She seems interested at times but at other times, she seems distracted.
+i:She seems very interested in what the man is saying because she is constantly making eye contact.
+q4:How do the people feel around one another?
+a: They are comfortable around one another
+i: The three people are all in love and sharing their feelings.
+q5:What is the demeanor of the man?
+a:He is leaning back which indicates that he is very comfortable.
+i:He is uncomfortable on the couch and keeps fidgeting.
+q6: Why does the man shake his head at 0:40?
+a: He is answering a question he is asking through action.
+i: He wants to shake off something in his hair.

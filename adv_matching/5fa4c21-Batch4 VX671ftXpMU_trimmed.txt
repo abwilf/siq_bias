@@ -1,0 +1,23 @@
+q1: What's so mirthful about the piñata activity this family is engaging in?
+a: They are having a good time watching their kids play with the pinata.
+i: They are having a good time deciding what kinds of candy to put inside the piñata.
+
+q2: The family is...
+a: ...close-knit, they are conscientiously-engaging with each other and laughing.
+i: ...not well-tied together, they are all off in the corners not talking to each other, faces buried in their smartphones.
+
+q3: How does the boy in the black baseball cap feel when the other boy, with the red bandana on his head, got a piece of candy?
+a: The ball-capped boy has no emotion, in particular, about this — he opts to continue focusing on the task in front of him, instead.
+i: The ball-capped boy, feeling awash in the excitement of the festivities, giggles and celebrates!
+
+q4: Do the adults want to make this special occasion easy for the children?
+a: No — the adults decided to add an element of challenge here, in order for everyone to have some fun throughout.
+i: No — the adults decided to add an element of terror here, in order for everyone to feel suspense throughout.
+
+q5: What did the two men feel when they helped the baby hit the pinata?
+a: They felt that the experience was adorable since the baby can't hit it alone.
+i: They felt excited, wondering about the possibility that the baby will actually crack open the pinata.
+
+q6: At 0:49, the girl was... ______ at that time.
+a: ...Decidedly-unsure if it was okay for her to swing her bat
+i: ...Supremely-confident she could swing her bat

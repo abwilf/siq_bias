@@ -1,0 +1,18 @@
+q1: How does the girl on the left at 0:31 behave?
+a: She confidently asks questions
+i: She hesitantly asks questions
+q2: Why does the woman ask if she looks like a girl?
+a: She doesn't always feel like a girl
+i: She wants to appear feminine
+q3: How does the girl at 0:12 react to what the woman shares?
+a: She is accepting 
+i: She is judgmental 
+q4: Why does the woman share this information?
+a: To normalize it
+i: To convince people to vote
+q5: How does the woman address her feelings?
+a: She embraces them
+i: She struggles with them
+q6: Why does the girl at the end of the video shrug when asked how she knew she was a girl?
+a: It feels natural to her
+i: She has no answer

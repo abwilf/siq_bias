@@ -1,0 +1,18 @@
+q1: What does the woman's expression at 0:09 convey?
+a: Confusion
+i: Passion
+q2: Do the judges enjoy the first pitch?
+a: No
+i: Yes
+q3: What problem do the judge's have with the first pitch?
+a: It isn't creative
+i: It is too dramatic
+q4: How does the tone of the second pair effect their pitch?
+a: It makes it more dramatic
+i: It makes it more amusing
+q5: Are both pairs of presenters confident?
+a: Yes
+i: No
+q6: What seems to be true about the judges?
+a: They have a similar vision
+i: They have opposing visions

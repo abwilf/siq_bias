@@ -1,0 +1,18 @@
+q1: What was the attitude of the blonde woman?
+a: Jovial & lighthearted
+i: Annoyed & confused
+q2: What was the attitude of the woman with red hair?
+a: Annoyed & sarcastic
+i: Jovial & lighthearted
+q3: What was the disposition of the woman with purple hair?
+a: Honest & accountable
+i: Dissmissive & careless
+q4: How does the man in the white sweatshirt feel about the topic at hand?
+a: He is understanding but concerned
+i: He is close-minded and unconcerned
+q5: What was the attitude of the man in the red hat?
+a: Shocked and confused
+i: Bored and uninterested
+q6: What is the balding man in the grey shirt passionate about?
+a: recognizing sociopathic tendencies
+i: recognizing the tendency to dye your hair

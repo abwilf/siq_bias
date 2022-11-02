@@ -1,0 +1,18 @@
+q1: How do the people in the company feel about themselves?
+a: The people in the company pride themselves on being customer engagement experts
+i: The people in the company are just excited to make a lot of money
+q2: How does the woman feel about the measurable results?
+a: The woman feels the results are extraordinary
+i: The woman feels the results are about average
+q3: What is the woman's temperment?
+a: The woman is calm and knowledgable
+i: The woman is nervous and confused
+q4: What is the woman's motive in the conversation?
+a: The woman's motive is to be a successful and informative spokesperson for the company
+i: The woman's motive is to mislead the audience about the company's performance
+q5: What is the woman's focus regarding the company's improvements?
+a: The woman is focused on how the company's improvements benfit the customer 
+i: The woman is focused on how the company's improvements benefit itself
+q6: What does the woman think about the most engaged customers?
+a: The woman thinks the most engaged customers are the most profitable and influential
+i: The woman thinks the most engaged customers are the most demanding and hardest to work with

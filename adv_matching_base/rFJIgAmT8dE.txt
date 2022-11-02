@@ -1,0 +1,18 @@
+q1: What was the man in the grey suit's tone in the conversation?
+a: Accusatory
+i: Open-minded
+q2: What is the attitude of the man in the black suit?
+a: Earnest & stern
+i: Excited & jovial
+q3: Why are the thoughts of the man in the black suit?
+a: He is worried about their kids' futures
+i: He's not sure where the money is coming from
+q4: What are the man in the black suit's thoughts on federal funding of healthcare?
+a: He thinks it is grossly unfair
+i: He thinks it suits the people well
+q5: How did the man in the grey suit express his attitude towards the conversation?
+a: He spoke with his hands and used absolutist vocabulary
+i: He smiled at the camera and welcomed his guest on the show
+q6: Why did the man in the black suit's grin change to a stoic look?
+a: The man in the grey suit did not return his greeting
+i: The man in the grey suit did not compliment his attire

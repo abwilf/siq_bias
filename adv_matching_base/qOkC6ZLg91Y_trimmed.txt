@@ -1,0 +1,18 @@
+q1: What is the tone of the dark haired man suit?
+a: He is somewhat annoyed but is trying to make light of the situation.
+i: He is happy and cheerful because he enjoys the situation.
+q2: How does the blonde man feel about the media?
+a: He does not like or believe in the media.
+i:He thinks the media is good to convey what is happening around the world.
+q3:Why does the man put his hands out at :26?
+a:He is mocking the man with the blonde hair.
+i: He is emphasizing his anger with the blonde man.
+q4: How does the dark haired man feel about the blonde mans comments on Iran?
+a: He is confused by them because they don't make any sense.
+i: He is angered by them because he disagrees.
+q5:How does the dark haired man feel about the blonde man?
+a:He thinks he is ridiculous.
+i: He thinks he is logical and reasonable. 
+q6: What is the tone of the blonde man?
+a: He is serious and sincere.
+i: He is very sarcastic.  

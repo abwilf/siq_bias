@@ -1,0 +1,12 @@
+q1:Why does the man suddenly become quiet and put his hand on his lips?
+a:He is anticipating something that is about to happen.
+i:He is trying to shush the audience with his gesture.
+q2:How did the woman feel about the video that was shown?
+a:She found it amusing because it was a video of her in a funny mask.
+i:She was embarrassed because it was a video of her making a mistake.
+q4:Why was the woman laughing in the car?
+a:She found her appearance to be hilarious.
+i:She was watching a hilarious video on her phone.
+q6:Why did the woman take the video?
+a:She wanted everyone to understand the mask belongs to her
+i:She was hoping to enter a Halloween mask contest

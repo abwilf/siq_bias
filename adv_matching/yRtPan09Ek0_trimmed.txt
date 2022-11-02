@@ -1,0 +1,18 @@
+q1: What is the dynamic between the two men?
+a: The man in the suit is interviewing the other man.
+i: they are friends hanging out.
+q2: Is the man in the suit really afraid of the person they are talking about?
+a: No, he is pretending to be afraid of him
+i: Yes, he is terrified of him.
+q3: How does the man in the blue and black jacket react to the man in the suit saying he is afraid of the person they are talking about.
+a: He is amused by it.
+i: He is insulted by it. 
+q4:How does the man in the blue and black jacket feel about his knowledge of rappers?
+a: He is mildly disappointed.
+i: He is proud of his lack of knowledge on rappers.
+q5: Why does the man in the blue and black jack disagree with his daughter?
+a: He disagrees with her about his coolness.
+i: He disagrees with her on who the best rapper is.
+q6:How can you tell the man in the blue and black jacket is comfortable?
+a: He is relaxed in his chair and makes eye contact with the man in the suit.
+i: He is not comfortable and is actually visibly nervous.

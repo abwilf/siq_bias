@@ -1,0 +1,21 @@
+q2: How does the woman in black try to convince the audience to watch the movie?
+a: By pleading with them.
+i: By making them curious.
+q3: How do the women interact with each other?
+a: In a loving manner.
+i: In a catty manner.
+q5: What is the tone of the woman speaking at the end?
+a: Sincere.
+i: Patronizing.
+q6: How do the others react when the woman says they had the best time?
+a: They agree with her.
+i: They look confused.
+q7: How does the woman speaking at the end want the audience to feel?
+a: Included.
+i: Curious.
+q9: Do the women get along?
+a: Yes.
+i: No.
+
+
+

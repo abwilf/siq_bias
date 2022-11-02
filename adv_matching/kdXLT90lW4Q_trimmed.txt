@@ -1,0 +1,18 @@
+q1: Is the kid in the green hat scared?
+a: No, he seems calm.
+i: Yes, he shakes and looks nervous.
+q2: What is the mood of the video meant to be?
+a: It is meant to be funny and entertaining.
+i: It is meant to be spooky and nerve-wracking.
+q3: Why are both boys looking down at the objects in their hands?
+a: They are pretending to concentrate on what they are holding.
+i: They are confused about what they are holding.
+q4: Why does the boy in the green hat throw the book?
+a: He is pretending to be exasperated by the situation.
+i: He is trying to give the book to the kid in the yellow hat.
+q5: Why does the kid in the yellow hat stop talking and look up from his book at 00:29?
+a: The kid in the green asked him a question so the kid in yellow stops what he is doing to respond.
+i: He was frustrated by what he was doing and decided to take a break.
+q6: Why does the kid in the green hat yell at 00:36?
+a: He is trying to get the kid in the yellow hat to be quiet.
+i: He is too excited to keep his voice lower.

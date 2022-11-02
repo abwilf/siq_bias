@@ -1,0 +1,18 @@
+q1: How does the woman react to the other woman telling her that her feel-good activity is gross?
+a: She is amused
+i: She rolls her eyes
+q2: What can be assumed about the woman on the left's younger self?
+a: She was an anxious person
+i: She was reckless
+q3: How does the woman on the left feel about cheese?
+a: She is excited by it
+i: She is disgusted by it
+q4: Why does the woman on the right sigh at 0:25?
+a: She is thinking of an answer to the question
+i: She doesn't want to answer the question
+q5: Why is the woman on the left snapping her fingers at 0:34?
+a: To go along with the beat
+i: 
+q6: Do both women like the woman on the left's favorite karaoke song?
+a: Yes, the woman on the right joins in singing
+i: No, the woman on the right looks confused

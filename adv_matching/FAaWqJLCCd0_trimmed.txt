@@ -1,0 +1,18 @@
+q1: What are the children doing with the candy canes?
+a: Playing with them
+i: Eating them
+q2: Why does the man mix up the candy canes?
+a: To make the challenge a bit easier
+i: To make the challenge a bit harder
+q3: Does the boy sound disappointed that he dropped his candy cane?
+a: No
+i: Yes
+q4: Why does the boy on the right climb onto the table?
+a: To get a glimpse of the game
+i: To disrupt the game
+q5: What is the mood of the challenge?
+a: Cheerful
+i: Competitive
+q6: What does the girl sitting back from the candy canes at 0:09 suggest?
+a: That she is tired
+i: That she gave up

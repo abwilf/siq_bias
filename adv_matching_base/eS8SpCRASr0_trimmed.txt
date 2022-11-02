@@ -1,0 +1,18 @@
+q1: What does the man on the left believe needs to happen?
+a: Change needs to be prepared for
+i: Change needs to be halted
+q2: Do the people seem to share the same view point?
+a: Yes
+i: No
+q3: What do the people believe?
+a: Technology is changing rapidly
+i: Technology is causing issues
+q4: Do the people seem to be in favor of technology?
+a: Yes
+i: No
+q5: What is one thing in particular the woman believes has changed?
+a: The structure of data
+i: The structure of government
+q6: Who does the woman believe will need to adapt in the future?
+a: Government
+i: Citizens

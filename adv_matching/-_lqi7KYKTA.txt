@@ -1,0 +1,18 @@
+q1:Why is the woman standing in the blue and black dress pointing around the room?
+a:She is speaking to another woman and pointing out who she is talking about.
+i:She is telling the woman to leave the room and pointing toward the door.
+q2:How are the students at the desk acting?
+a:They are quietly concentrating on their work, in between interacting with the teacher.
+i:They are rowdy and loud, causing a commotion.
+q3:How does the woman in black being interviewed feel about what she is discussing?
+a:She is very passionate and happy about the topic.
+i:She is bored and indifferent about the topic.
+q4:Why does the girl on the left at 0:23 hold her head on her hand?
+a:She is concentrating on the work in front of her.
+i:She is upset and hiding her face because she is crying.
+q5:How do the students interact with the woman with black hair and glasses?
+a:They are interested and ask her questions while speaking with her.
+i:They are hostile and aggressive toward her and clearly do not like her.
+q6:Why does the woman with glasses nod at 0:28?
+a:She is showing the student to her right that her answer was correct.
+i:She is trying to get her hair out of her face.

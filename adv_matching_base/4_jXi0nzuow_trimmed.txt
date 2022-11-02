@@ -1,0 +1,18 @@
+q1: What is the relation between the men in the beds and the man standing?
+a: The man standing is their camp counsellor.
+i: The man standing is their sergeant. 
+q2: How does the man holding the flashlight make the audience laugh after the man wearing the hat makes snoring noises?
+a: He compares the noise to something else.
+i: He makes a noise louder than the snore.
+q3: How is the man in the hat feeling toward the other two men?
+a: He feels frustrated.
+i: He feels grateful.
+q4: Does the man in the right bed take the man wearing the hat seriously?
+a: No, he mocks his requests.
+i: Yes, he quickly falls asleep.
+q5: How does the man wearing the hat behave toward the men in bed?
+a: He acts in an authoritative manner.
+i: He acts in a dismissive manner.
+q6: Why has the man in the hat paid a visit to the men in beds?
+a: To make them go to sleep.
+i: To wake them up.

@@ -1,0 +1,18 @@
+q1:Does the pink haired woman think that the other woman has malicious intent?
+a:No, she just thinks that the blonde woman might play a joke on her or tease her.
+i:Yes, she thinks that the blonde woman might embarrass her or shame her.
+q2:Why is the pink haired woman shocked when she receives the award?
+a:She was not expecting it and doesn't believe it's really hers.
+i:She was not experiencing shock and knows it's not really hers.
+q3:Do the two women know each other well?
+a:Yes, they are comfortable opening up to each other and being silly.
+i:No, they are barely comfortable opening up to each other and being silly.
+q4:What does the pink haired woman mean when she says "Today is a good day"?
+a:She is referring to the fact that not all days with her husband are good.
+i:She is referring to the fact that all of the days with her husband are good.
+q5:Does the woman with pink hair want to be there being interviewed?
+a:Yes, she pays close attention to the questions and offers entertainment.
+i:No, she pays no attention to the questions and offers sarcasm.
+q6:Why does the blonde woman laugh when the pink haired woman says "because I know you"?
+a:She agrees that she can be tricky and sneaky sometimes.
+i:She disagrees that she can be tricky and sneaky sometimes.

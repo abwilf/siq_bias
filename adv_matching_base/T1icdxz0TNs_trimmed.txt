@@ -1,0 +1,18 @@
+q1: Why is the cloak special?
+a: The cloak is special because the woman that sang them in made the cloak
+i: The cloak is special because it is historically significant
+q2: What is the tone of the woman's speech?
+a: The woman's speech is calm and sentimental
+i: The woman's speech is distressed and sad
+q3: What did the woman think about the audience?
+a: The woman knew the audience was going to appreciate her speech
+i: The woman was surprised that the audience appreciated her speech
+q4: How does the woman feel about her speech being used in schools and universities?
+a: The woman is proud and happy about her speech being used in schools and universities
+i: The woman is shocked and nervous about her speech being used in schools and universities
+q5: How does the audience react to the woman's speech?
+a: The audience expresses their approval of the woman's speech with a standing ovation
+i: The audience expresses their approval of the woman's speech with laughter
+q6: What does the woman think about the speech meaning a lot to all of the people?
+a: The woman thinks it is very important that the speech means a lot
+i: The woman thinks it is very trivial that the speech means a lot 

@@ -1,0 +1,18 @@
+q1: Why does the man speak with an attitude?
+a: He is aggravated.
+i: He is mocking someone.
+q2: 
+a: 
+i: 
+q3: What does the man think the focus of republicans is?
+a: The rich.
+i: The middle class.
+q4: How does the man portray republicans?
+a: As a dishonest party.
+i: As a hard-working party.
+q5: How does the man feel about people who believed in republican leaders?
+a: He has no sympathy for them.
+i: He sympathizes with them.
+q6: What is the purpose of the man's message?
+a: For people to see the truth about republicans.
+i: For people to vote republican.

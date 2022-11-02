@@ -1,0 +1,16 @@
+q1:Why does the man in the blue shirt take the opportunity to ride the roller coaster?
+a:He does not want to be seen as a coward.
+i:He loves rollercoasters and is excited to ride it.
+q2:Why do the two men start yelling near the end of the video?
+a:They are both nervous to ride the rollercoaster and are expressing pent up anxiety.
+i:They are mad at a woman in line and are arguing with her.
+q3:Why does the man in blue punch the sign at 0:40?
+a:He is jokingly angry that the man in red has told him he is too short to ride.
+i:He is annoyed because the sign is in his way and he wants to get by it.
+q4:How do the two men react to having to ride the rollercoaster?
+a:They consider backing out.
+i:They cheer and throw their hands up
+q5:How do the men feel about the roller coaster in the beginning of the video?
+a:They are in awe of it
+i:They are unimpressed with it
+

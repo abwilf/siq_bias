@@ -1,0 +1,20 @@
+q1: What is the problem of the woman at 0:39?
+a: There wasn't enough juice for her.
+i: She doesn't believe in the vaccine.
+q2: Why does the man fill glasses with juice?
+a: It helps to visually represent his point.
+i: He is preparing for his friends to visit.
+q3: Why is the man doing the demonstration excited?
+a: Most children have been vaccinated.
+i: Most adults have been vaccinated.
+q4: What is the tone of the demonstration?
+a: Light-hearted.
+i: Serious.
+q5: How does the group react to the man?
+a: They are fascinated by what he's doing.
+i: They begin poking fun at what he's doing.
+q6: How do the people who are waiting to receive juice appear?
+a: Eager.
+i: Surprised.
+
+

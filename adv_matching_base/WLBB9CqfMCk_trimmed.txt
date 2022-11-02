@@ -1,0 +1,18 @@
+q1: Why does the man in the black jacket rub his hands together?
+a: He is ready to hear the results
+i: He is ready to read the results
+q2: Are the groups on stage supportive of other contestants?
+a: Yes, they clap for the winners
+i: Yes, they praise the winners
+q3: What does the woman covering her mouth indicate?
+a: She is overwhelmed
+i: She is tired 
+q4: Who is the most emotional person on stage?
+a: The woman in grey
+i: The woman in blue
+q5: What do the contestant's tears indicate?
+a: They are happy
+i: They are disappointed
+q6: Why are the people gathered on stage?
+a: To receive awards
+i: To receive feedback

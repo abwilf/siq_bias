@@ -1,0 +1,21 @@
+q1: Why does the man cover his eyes at 0:39?
+a: He is in disbelief
+i: He is getting emotional
+q2: How do the men in the office feel about Gerard Butler?
+a: They are jealous of the women he dates
+i: They are jealous of his car
+q4: What do the men in the office think of the magician?
+a: They think he is incredible 
+i: They think he is a phony
+q7: Why does the man at 0:17 hold his hand to the woman's forehead?
+a: As part of a magic trick
+i: To check if she has a fever 
+q9: Do the couple seem comfortable with the man joining their table?
+a: Yes
+i: No
+q10: How does the couple react to the magician's trick?
+a: They are amazed
+i: They are unimpressed
+
+
+

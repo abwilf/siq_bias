@@ -1,0 +1,18 @@
+q1: What is the man in the blue tie with orange skin wanting to accomplish?
+a: He wants to defend his own actions
+i: He wants to teach the woman
+q2: How does the woman respond to the clip of her conversation with the man with orange skin?
+a: She responds skeptically
+i: She couldn't bear to watch it
+q3: How did the woman use her body to communicate?
+a: She widens her eyes to express her exasperation
+i: She claps her hands to express her approval
+q4: How does the man behind the desk act towards the woman?
+a: He is friendly and is concerned for her
+i: He acts as if he is on the man's side
+q5: How does the woman respond to being the orange man's adversary?
+a: She feels as though it is unfair to have sustained personal insults
+i: She likes being at odds with him as it grows her popularity
+q6: What does the woman feel her responsibility is?
+a: She feels it is her responsibility to challenge politicians 
+i: She feels it is her responsibility to support her party's politicians 

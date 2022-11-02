@@ -1,0 +1,18 @@
+q1: What is the mood of the car ride?
+a: Upbeat
+i: Dreadful
+q2: Why are the men using loud voices for much of the video?
+a: They are having a great time
+i: They disagree with one another
+q3: How does the man feel about the woman's assessment of his dancing?
+a: Offended as indicated by his name calling
+i: In agreement as indicated by his grin
+q4: What does the driver suggest the man dressed in a particular way for? 
+a: To distract from his dancing
+i: To attract women
+q5:
+a:
+i:
+q6:
+a:
+i:

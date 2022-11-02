@@ -1,0 +1,20 @@
+
+
+q1: What is the tone of the man in the glasses?
+a: He is intellectual and confident
+i: He is patronizing and pretentious
+q2: Do the adults seem to care about their student?
+a: Yes, they care very much about their students.
+i: No, they seem indifferent towards their students.
+q3:Why does the man point his fingers when speaking?
+a: He does this to emphasize his point
+i: He does this because he is trying to seem smarter than he really is.
+q4: Do the three adults seem knowledgeable?
+a: Yes, they seem very educated on the topic they are speaking about
+i: No, the don't seem to know what to say next which indicates the don't know too much about what they are talking about.
+q5:
+a:
+i:
+q6:
+a:
+i:

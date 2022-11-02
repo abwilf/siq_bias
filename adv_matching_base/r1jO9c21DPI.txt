@@ -1,0 +1,20 @@
+q1: Why does the girl in red think people may be surprised about her using colored pencils a lot?
+a: She thinks it may seem a bit immature
+i: She is a very skilled artist
+q2: Why does the girl in purple mention that the notebooks are by Bethany Mota?
+a: She thinks it makes them more impressive
+i: She wants to encourage others to support her friend
+q3: How do the girls seem to feel about being in high school?
+a: They seem excited to be in this stage of life
+i: They are anxious to start a new chapter in the lives
+q4: Why does the girl in blue exclaim "oh my gosh"?
+a: She is explaining a mildly traumatic experience with her folder from last year
+i: She is explaining a mildly traumatic experience with her classmate from last year
+q5: How does the girl in blue react to the gum and mints?
+a: She is surprised that they are the same flavor
+i: She is surprised that she still has some left
+q6: What can be assumed about the girls as they reveal the contents of their bags
+a: They like to be prepared 
+i: They are quite disorganized
+
+

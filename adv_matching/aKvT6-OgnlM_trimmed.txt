@@ -1,0 +1,18 @@
+q1: What is the ambience of the setting? 
+a: The ambience is welcoming, happy, and energetic.
+i: The ambience is relaxed and calm.
+q2: How does the main woman with black hair feel about being in front of the audience? 
+a: She feels cheerful and confident, as it seems she has done this before.
+i: She feels nervous and seems as if this is something she has not done before.
+q3: Why does the woman hold out her arms?
+a: She holds out her arms to welcome the audience and appear more friendly.
+i: She wants to encourage her audience to cheer more. 
+q4: How does the audience regard the woman on stage?
+a: They see her as a respectable and welcoming person, standing to greet her and clapping when they see her.
+i: They regard her with an indifferent, nonchalant attitude. 
+q5: Does the little boy know the man he runs to and hugs?
+a: Yes, because he runs to him and hugs him excitedly, implying that they have a close relationship.
+i: No, because he reluctantly runs to him and hugs him in an awkward manner.
+q6: Why is the man sitting high up in the chair with the headphones on not clapping with the audience?
+a: He is a cameraman doing his job, so he cannot clap or he would interrupt his work.
+i: He is the only one in the room that does not like the woman on stage.

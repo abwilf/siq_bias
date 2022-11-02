@@ -1,0 +1,18 @@
+q1: What does the woman's expression at 0:14 convey?
+a: Disbelief
+i: Satisfaction
+q2: Why did the woman's father react differently to the second situation involving his daughter?
+a: It was more personal
+i: It was less concerning
+q3: How did the woman feel to learn that she needed the surgery?
+a: Devastated
+i: Optimistic
+q4: What did the woman in grey think about the news she received given what she had recently gone through?
+a: It was unfair
+i: It was a relief
+q5: Did the woman's parents feel any concern for their daughter?
+a: Yes
+i: No
+q6: Does the woman express worry for how the surgery could effect her career?
+a: No 
+i: Yes

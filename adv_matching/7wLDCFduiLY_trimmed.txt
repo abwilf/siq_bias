@@ -1,0 +1,23 @@
+q1: Why does the man on the right think the show is important?
+a: People win money that changes their lives.
+i: People get offered life-changing jobs.
+q2: What was the man on the right caught off guard by with the show?
+a: The people he would meet.
+i: The fame he would garner.
+q3: How does the man on the right react when the blonde man mentions music?
+a: He gets excited because its his passion.
+i: He gets excited because he loves to dance.
+q4: Are the two men engaged in the conversation?
+a: Yes, they are both highly energetic.
+i: No, they both glance awkwardly around the room.
+q5: What impresses the man on the left about the man on the right?
+a: His devotion.
+i: His sense of humor.
+q6: What point does the man on the right make at the end of the video?
+a: You can't judge people.
+i: You need to appreciate people.
+
+
+
+
+

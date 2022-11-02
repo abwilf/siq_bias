@@ -1,0 +1,18 @@
+q1:Why does the woman start crying?
+a:She is happy that the man with the blonde hair is unintentially hurting his reputation and giving bad answers.
+i:She is hurt by something the man said and becomes emotional over it.
+q2:What is the tone of the video?
+a:It is serious, but in a comedic and joking nature.
+i:It is serious and angry, with no comedic tone.
+q3:Why is the audience laughing throughout the video?
+a:The people in the video are trying to be comedic and make the audience laugh.
+i:The people in the video are making mistakes that make the audience laugh.
+q4:Why does the blonde man throw his hands out at 0:07?
+a:He is asking a question and using his hands to ask also.
+i:He is flicking something off of the table.
+q5:How does the woman in red feel about the interview?
+a:She thinks it is going well for her and bad for the blonde man.
+i:She hates it and thinks it is making her look bad.
+q6:Why is the man in glasses so serious?
+a:He is hosting the debate and remaining professional.
+i:He is angry at the woman for what she said.

@@ -1,0 +1,18 @@
+q1: Why do the people in the office become concerned?
+a: They just found out about something that endangers them and are upset about it.
+i: They do not want to be in the costumes they are wearing.
+q2: What are the emotions of the people in costumes as they listen to the man talking to them over the phone?
+a: The people are anticipating what he is saying because it is relevant to them.
+i: The people are uninterested and bored as they listen to the man speak to them.
+q3: Why does the woman in the purple costume hold her fingers to her chin?
+a: She is intently listening to what the man is saying and does so to help her concentrate.
+i: She is getting tired but does not want to look like she is nodding off so she holds her head up with her hands.
+q4: Why do the people in costumes hesitate to respond to the man at 00:20?
+a: They are processing what has been said and are all in shock.
+i: They are trying to ignore the man so he hangs up.
+q5: Why does the audience laugh?
+a: They are amused by the scenario.
+i: They are mocking the man in the suit to anger him.
+q6: What is the tone of the video?
+a: It is serious, but in a comedic way, as it is a comedy skit and the people are acting.
+i: It is serious, somber, and depressing.

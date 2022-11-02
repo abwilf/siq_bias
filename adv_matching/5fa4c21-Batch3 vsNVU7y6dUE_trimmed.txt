@@ -1,0 +1,23 @@
+q1: The music of this segment has a...
+a: ...Rather commercialized, disingenuine, forced feeling.
+i: ...Pretty wholesome, heart-felt, genuine feeling.
+
+q2: What is conveyed by the posture of the two girls?
+a: The girls' postures convey that they are comfortable and open around each other.
+i: The girls' postures convey that they are not very engaged in the task.
+
+q3: What do they ladies think about their endeavor?
+a: The ladies thinks their endeavor was fruitless.
+i: The ladies are unenthusiastic about their endeavor.
+
+q4: Does the woman like her new freckles?
+a: Yes, she is fairly enthusiastic about them.
+i: No, she immediately started crying when she saw them.
+
+q5: What do the ladies think of the result of their task?
+a: The ladies are bemused by this.
+i: The ladies are satisfied with this.
+
+q6: Why is the woman in red applying freckles to her face?
+a: She loves money, which she wants to earn through her televising platform.
+i: She loves being fashionable, which she can accomplish through this experiment.

@@ -1,0 +1,20 @@
+q1: How does Christmas make the brunette woman feel?
+a: Sad
+i: Grateful
+q2: How does the brunette woman feel when the blonde woman says they've created a family together?
+a: She feels offended
+i: She feels joy
+q3: Why is drinking alcohol the first thing the woman does at Christmas lunch?
+a: She does it in order to tolerate the day
+i: She does it to celebrate her favorite holiday
+q4: Why does the woman drink 200 dollar booze?
+a: It's what her family likes
+i: She is rich
+q5: Does the brunette woman seem satisfied with her life?
+a: No
+i: Yes
+q6: What does the brunette woman think of the idea of having the blonde woman as her life partner?
+a: She is against it
+i: She is considering it
+
+

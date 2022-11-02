@@ -1,0 +1,18 @@
+q1:Why does the woman on the left's voice waver in the beginning of the video?
+a:She is talking about an emotional topic that makes her sad and frustrated.
+i:She is trying to contain her anger and keep from raising her voice.
+q2:How does the woman on the right feel by the woman on the left.
+a:She admires her and looks up to her, happy to be interviewing her.
+i:She is annoyed by her presence and wants to get away from her.
+q3:What is the mood of the conversation?
+a:It is serious at first, but becomes lighthearted as it goes on.
+i:It is depressing and negative throughout. 
+q4:Is the woman on the left confident in her speaking to others?
+a:Yes, she is speaking cleary and with confidence.
+i:No, she seems shy and anxious.
+q5:Why is the woman on the left shaking her head back and forth as she speaks?
+a:She is emphasizing her dissatisfaction in relation to the story she is telling.
+i:She is trying to show the woman on the right she does not want to speak.
+q6:Why do the two women move their hands while they talk?
+a:They are adding emphasis to their words with their hand gestures.
+i:They are trying to point to things on the wall behind them.

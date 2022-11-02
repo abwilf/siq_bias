@@ -1,0 +1,18 @@
+q1:How does the baby react to the light being shone at it?
+a: The baby is slightly curious
+i: The baby is disturbed by it
+q2:Why does the woman in the beginning slowly swivel her head as she talks?
+a:She is scanning the audience as she talks to make a better connection.
+i:She is slightly distracted by what is going on beside her
+q3:What is the tone of the video?
+a:It is instructive and serious.
+i:It is comical and meant to be funny.
+q4:Why is the woman holding the baby?
+a:The woman holds the baby to comfort it.
+i:The woman holds the baby because it wants to escape
+q5:What is the mood of the men being interviewed?
+a:They are confident in what they talk about
+i:They seem disinterested in the questions
+q6:Why is the woman in the beginning at a podium?
+a:She wants to be in a position to hold the attention of the audience.
+i:She wants to sit higher up so that she can survey the audience.

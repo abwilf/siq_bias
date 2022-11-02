@@ -1,0 +1,18 @@
+q1: How does the woman respond to the man's request to jump over her?
+a: She makes excuses.
+i: She gets excited.
+q2: What is Andy's reaction to being called on stage?
+a: He seems burdened.
+i: He seems grateful.
+q3: Why is the man at 0:28 laughing?
+a: He is amused by his boss's joke.
+i: He is amused by the comedy show.
+q4: Why does the woman rest her hand on the man in black's arm?
+a: She wants to assure him that his request will be fulfilled.
+i: She wants to assure him that his participation is appreciated.
+q5: Who is the most athletic person in the video?
+a: The man in red shoes.
+i: The woman in purple shoes.
+q6: What is the nature of the woman's tap on Andy's shoulder?
+a: It's out of playfulness.
+i: It's out of pity.

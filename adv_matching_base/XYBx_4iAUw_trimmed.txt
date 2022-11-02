@@ -1,0 +1,18 @@
+q1: How is the attitude of the brown hair in the first half of the video?
+a:She is disappointed and disgusted at the lady in blue.
+i:She is happy and carefree because she loves to shop.
+q2: How does the brown haired woman feel about transgendered people?
+a: She supports the evolving world of Gender Identity.
+i: She is disappointed by it and doesn't understand it.
+q3: Does the brown haired lady get along with the lady in the blue shirt 
+a: No, she is disgusted by the lady in the blue shirt.
+i:Yes, she is thankful for the recommendations from the lady in the blue shirt
+q4:How does the dark haired lady react to the man in the suit?
+a:She is shocked because she wasn't expecting him but also releived that it was a prank.
+i:She is excited to seeh him because he is a long time friend. 
+q5: How does the woman in the brightly colored dress react to the lady in the blue shirt.
+a:She is upset and saddened by the situation and begins to cry.
+i: She is grateful for the constructive criticism.
+q6: Why does the dark haired lady apologize to the lady in the bright colored dress?
+a:She is apologizing for the lady in the blue shirts nasty behavior and rude comments.
+i:She is apologizing because she accidentally bumped into her when shopping.

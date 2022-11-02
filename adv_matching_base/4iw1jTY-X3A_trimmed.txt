@@ -1,0 +1,18 @@
+q1: How does the man in purple speak?
+a: In a condescending way.
+i: In an uplifting way.
+q2: How do the man in purple and the taller man in yellow feel about each other?
+a: They dislike each other.
+i: They are close-knit.
+q3: 
+a: 
+i:
+q4: Why does the man in purple look surprised?
+a: He did not expect the man in yellow to walk in.
+i: He did not expect the man in yellow to punch him.
+q5: How does the man in yellow display confidence?
+a: He directly approches the man in purple. 
+i: He bosses around the man in purple.
+q6: Does the woman in yellow like the man in purple?
+a: No, she rolls her eyes when he talks to her. 
+i: No, she groans when he talks to her.

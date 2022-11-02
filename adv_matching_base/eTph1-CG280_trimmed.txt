@@ -1,0 +1,18 @@
+q1: Does the man consider the woman credible?
+a: Yes
+i: No
+q2: What role does the man think the woman can play in his video?
+a: She can answer deeper questions
+i: She can critique portfolios
+q3: What does the man want from his audience?
+a: Feedback
+i: Donations
+q4: Why does the man trust the woman's expertise?
+a: She has hired many people
+i: She has fired many people
+q5: 
+a: 
+i:
+q6: How does the man feel about the woman?
+a: He is impressed by her work
+i: He is impressed by her style

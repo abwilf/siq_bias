@@ -1,0 +1,24 @@
+q1: What does the man's tone at 0:35 indicate?
+a: He doesn't know the answer
+i: He is confident in his knowledge on the subject
+q2: Why does the man say "Julianne can hold it" about the kangaroo?
+a: He is being polite
+i: He doesn't like animals
+q3: Is the woman being introduced to Jack?
+a: No
+i: Yes
+q4: What is the man known for?
+a: His long career with animals
+i: Raising awareness of bullying
+q5: How do the people on stage treat Jack?
+a: They give him a warm welcome
+i: They cringe at his jokes
+q6: Why does the woman tap the man at 0:23?
+a: She wants to share an observation about the kangaroo
+i: She wants to ask him a question about the kangaroo
+
+
+
+
+
+

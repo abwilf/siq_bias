@@ -1,0 +1,18 @@
+q1: How do the woman speak of the coat?
+a: Enthusiastically 
+i: Nonchalantly
+q2: What does the woman on the left seem to think of the coat?
+a: It's cozy
+i: It's cheap
+q3: What seems to impress the women the most about the coat?
+a: The fact that it's heated
+i: The fact that it's reversible
+q4: What point does the woman on the right make about the coat?
+a: It is affordable
+i: It is adaptable
+q5: Does the woman promote the coat as Soft & Cozy's signature product?
+a: No
+i: Yes
+q6: What do the women wish to do?
+a: Persuade the audience
+i: Humor the audience

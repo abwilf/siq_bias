@@ -1,0 +1,19 @@
+q1: 
+a: 
+i:
+q2: Why is this topic important?
+a: It will affect people
+i: It will affect the planet
+q4: Why are the men having this discussion?
+a: It is an important matter
+i: They both enjoy the sport
+q5: What is the tone of the video?
+a: Professional
+i: Comedic
+q6: Who wants to learn more about the matter?
+a: The man on the left
+i: The man on the right
+q8: Why does the man on the left point at the man on the right?
+a: He wants to interject
+i: He is referring to him
+

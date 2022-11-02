@@ -1,0 +1,18 @@
+q1: What was the audience's response to the boy's performance?
+a: They expressed awe at the boy's performance
+i: They expressed shock at the boy's use of inappropriate language
+q2: What affect did the performance have upon the man in black?
+a: He was very impressed by it
+i: He was very disappointed by the mistake made
+q3: How did the boy feel about the judges' responses
+a: He was moved and emotional
+i: He was downtrodden and upset
+q4: What was the point of the performance?	
+a: The performance was to express care for a girl
+i: The performance was meant to pay homage to Shakespeare
+q5: What was the conclusion of the man in black?
+a: He decided it was very easy for him to say yes to the boy
+i: He decided not to allow the boy to advance
+q6: Why did the boy not say the girl's name?
+a: He wants to respect her privacy
+i: He isn't sure he heard it right

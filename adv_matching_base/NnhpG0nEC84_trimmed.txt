@@ -1,0 +1,18 @@
+q1: What does the woman think business leaders and companies need to be doing?
+a: Adjusting to the existence of new issues
+i: Offering higher employee wages
+q2: How does the woman feel about sustainability efforts?
+i: She thinks they're great
+i: She thinks they're useless
+q4: How does the woman believe people should work?
+a: As a team
+i: Individually
+q6: 
+a: 
+i:
+q8: 
+a: 
+i:
+q9: 
+a: 
+i:

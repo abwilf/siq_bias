@@ -1,0 +1,18 @@
+q1: Who is the most aggressive person at the game?
+a: The coach
+i: The player in yellow
+q2: How does the coach treat his don during the game?
+a: He ignores him
+i: He pressures him
+q3: How does the coach treat the child who was knocked down during the game?
+a: He mocks him
+i: He motivates him
+q4: How does the coach's emotions manifest?
+a: He throws things
+i: He cries
+q5: How does Sam feel to not play in the game?
+a: Disappointed
+i: Relieved
+q6: Is the referee friendly with the coach?
+a: No
+i: Yes

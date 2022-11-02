@@ -1,0 +1,19 @@
+
+q1:Why does the man in the glasses stand with his eye closed?
+a: He is meditating.
+i: He is sleepy.
+q2: Why does the man in the plaid shirt reach his arms out at :10?
+a: He is emphasizing the point he is making.
+i: He is frustrated with his students.
+q3: How does the man in the plaid shirt's students feel about mindfulness?
+a: they are enthusiastic about mindfulness and want to practice it.
+i: They think it is pointless and a waste of time.
+q4: What is the tone of the man in the blue hat?
+a: He is calm while telling his story.
+i: He is upset while telling his story.
+q5: How does the woman in the red long sleeved shirt show that she is interested in the man in the blue hat's story?
+a: She nods her head to show that she is listening.
+i: She asks him questions to show that she is listening.
+q6:What does the man want the teenagers to learn from mindfullness meditation?
+a: He wants them to be able to empathize. 
+i: He wants them to become friends with everyone they meet. 

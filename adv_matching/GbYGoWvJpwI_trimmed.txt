@@ -1,0 +1,18 @@
+q1: What does the man's expression at 0:17 convey?
+a: Nervousness
+i: Confusion
+q2:
+a: 
+i:
+q3: 
+a: 
+i:
+q4: Do all of the participants appear enthusiastic about being in the debate?
+a: No
+i: Yes
+q5: What seems to make the candidate at 0:17 nervous?
+a: The attention being on him
+i: The controversial question
+q6: What can be assumed about all of the people introduced?
+a: They want to win
+i: They want to have fun

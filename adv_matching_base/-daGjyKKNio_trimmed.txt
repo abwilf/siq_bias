@@ -1,0 +1,18 @@
+q1: How does the woman behave during the sponsorship?
+a: She is unenthusiastic about it.
+i: She is passionate about it.
+q2: Are the pair comfortable on camera?
+a: Yes, they behave in a very laid back way.
+i: Yes, they make very inappropriate jokes.
+q3: What could be assumed from the woman's blank expression during the sponsorship? 
+a: That she is uninterested.
+i: That she is thinking about something else.
+q4: Is the woman persuasive in the presentation of the sponsorship?
+a: No, she is expressionless and doesn't speak.
+i: No, she questions the company and their intentions.
+q5: Why does the man close his eyes at 0:48?
+a: He is trying to grasp what the woman is referring to.
+i: He is feeling lightheaded.
+q6: Why does the woman mention a television show?
+a: She has found a similarity between the sponsor and an episode.
+i: She has just come across an ad online for an episode of it.

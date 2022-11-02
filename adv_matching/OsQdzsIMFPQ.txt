@@ -1,0 +1,18 @@
+q1:Why are all the people standing in front holding hands?
+a:They are demonstrating camaraderie and trying to set an example
+i:They are trying to keep the people behind them from moving past
+q2:How do the two men speaking feel about the video?
+a:Their smirks show their amusement
+i:Their furrowed brows show their confusion
+q3:Why does the first man in the video slightly dance?
+a:He does this because he is happy
+i:He does this because he has to use the bathroom
+q4:Why are the people in the background looking at books?
+a:They are concentrating on sheet music while they sing together.
+i:They are studying for a test and reciting practice answers out loud.
+q5:Why does the second man from the left in front smile at 0:57?
+a:He is amused by the way the other man is acting
+i:He saw somebody trip and is trying not to laugh
+q6:Why is the man at 0:24 moving his arms up and down beside him.
+a:He is imitating somebody and emphasizing who he is talking about by doing so
+i:He is preparing himself to jump up

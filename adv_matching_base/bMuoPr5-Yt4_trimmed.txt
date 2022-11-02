@@ -1,0 +1,22 @@
+q1: What does the woman feel towards her community?
+a: She feels it needs to improve
+i: She feels it is a safe place
+q2: Why does the man ask the woman at the end if she has seen the same challenges?
+a: To get a second perspective
+i: To get a third perspective
+q3: What does the woman express about rambler homes?
+a: That they are outdated
+i: That they would be useful
+q4: What does the woman's furrowed eyebrows express?
+a: Her concern
+i: Her confusion
+q5: Why does the woman pause after saying "bus route"?
+a: To let the information sink in
+i: She is confused by the man's accusation
+q6: What does the woman's tone throughout the video suggest?
+a: That she is feeling worrisome 
+i: That she is feeling confident
+
+
+
+

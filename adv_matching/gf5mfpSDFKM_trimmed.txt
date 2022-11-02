@@ -1,0 +1,20 @@
+q1: Does the first woman seem to be self-aware?
+a: Yes
+i: No
+q2: Why does the woman in the center deflect the question?
+a: She is having technical difficulties
+i: She feels it is too personal
+q3: Why does the group mention the bus as it passes?
+a: It is a mere annoyance
+i: They had a bad experience on one
+q4: How does the man speak of the change he has undergone?
+a: In a positive light
+i: In a negative light
+q5: How does the man feel the experience changed him?
+a: It humbled him
+i: It made him more caring
+q6: Why does the first woman state Sabrina's name?
+a: It's Sabrina's turn
+i: Sabrina is being disrespectful
+
+

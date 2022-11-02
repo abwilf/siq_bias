@@ -1,0 +1,18 @@
+q1: How does the woman feel about what the man is saying?
+a: The woman feels that the man's words are understandable and interesting.
+i: The woman detests the man's statements and feels he is completely wrong and unvalidated in his opinion.
+q2: Why does the man smile?
+a: He is showing he is finished speaking and wants to appear friendly and approachable.
+i: He thinks the woman is very good looking and cannot help but smile when he sees her.
+q3: Why does the woman nod her head at 0:14?
+a: She wants to show that she comprehends what the man is saying and knows what he is talking about.
+i: She is falling asleep and cannot keep her head still due to the man's words to be boring.
+q4: What is the woman's purpose in this video?
+a: She is prompting the man to discuss and give his opinion of the topic at hand.
+i: She is there to antagonize the man.
+q5: How does the man react to the question?
+a: He gets straight into discussing it and is not surprised by it.
+i: He is confused and astonished that she asked him.
+q6: How do the people act toward one another?
+a: They are professional and polite toward each other.
+i: They are rude and dismissive of each other.

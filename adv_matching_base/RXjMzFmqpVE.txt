@@ -1,0 +1,18 @@
+q1: What is the attitude of the man wearing the dark blue shirt?
+a: Facetious
+i: Annoyed
+q2: What is the attitude of the man wearing the white shirt?
+a: Inquisitive and lighthearted
+i: Negative and disinterested
+q3: What is the reaction of the audience?
+a: They feel the conversation is very funny
+i: They feel the conversation is very tense
+q4: Why does the audience feel the way they do about the conversation?
+a: They appreciate the man's sarcasm
+i: They appreciate the man's silly shirt
+q5: How does the man feel about his nievity?
+a: He is in disbelief of his prior nievity
+i: He is in denial of his prior nievity 
+q6: How does the man in the white shirt feel about the other man's responses to his questions?
+a: He is shocked by the man's responses
+i: He is ammused by the man's responses

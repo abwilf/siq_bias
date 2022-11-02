@@ -1,0 +1,20 @@
+
+
+q1:What is the tone of the video?
+a: It is sad and disappointing
+i: It is happy and positive
+q2: Why does the woman laugh?
+a: She laughs at the irony of the situation.
+i: She laughs because the man made a joke.
+q3: Does the man seem amused by the woman?
+a: No, he doesn't seem amused at all.
+i: Yes, he is amused by her and thinks she is funny.
+q4: Why does the woman wipe her eyes?
+a: She is trying to keep tears from falling down her face
+i: She is tired and is trying to find relief.
+q5: How do the 2 people feel about one another?
+a: They care deeply for one another
+i: They are angry with one another
+q6:What is the relationship between the two people?
+a: They are friends.
+i: They are in a relationship.

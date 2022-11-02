@@ -1,0 +1,18 @@
+q1: What is the tone of the blonde woman?
+a: She is serious
+i: She is sad
+q2: How does the blonde woman emphasize her speech?
+a: She emphasizes her speech by using hand gestures
+i: She emphasizes her speech by raising her voice
+q3: How does the woman in the white shirt acknowledge the blonde woman?
+a: The woman in white nods in agreement
+i: The woman in white makes a lot of eye contact
+q4: Why does the blonde woman play with the drawstrings on her sweatshirt?
+a: The blonde woman is nervous
+i: The blonde woman is excited
+q5: What is the tone of the narrater at the end of the video?
+a: The tone of the narrater is somber and informative
+i: The tone of the narrater is performative and happy
+q6: Why does the woman in the black and white shirt nod her head at 0:26?
+a: She is acknowledging someone's presence
+i: She is agreeing with someone 

@@ -1,0 +1,18 @@
+q1: Why does the blonde woman close her eyes while talking about the whiskey?
+a: It gives her a dreamy feeling.
+i: She is recalling a bad experience.
+q2: How does the blonde woman react to the brunette woman saying she mixed vodka and wine?
+a: She is confused as to why she mentioned it
+i: She is sympathetic as she has made the same mistake before
+q3: Why is the brunette woman rubbing her eyes?
+a: The alcohol was too strong
+i: She didn’t get enough sleep
+q4: What indicates the level of comfort the women have with one another?
+a: They are going to share their makeup
+i: They are going to share their diary entries
+q5: Why do the women wink at each other? 
+a: They are being playful. 
+i: They are flirting.
+q6: How does the blonde woman feel about the brunette woman? 
+a: She feels bonded with her.
+i: She feels that she betrayed her.

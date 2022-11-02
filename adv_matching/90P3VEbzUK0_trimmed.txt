@@ -1,0 +1,20 @@
+q1: How does the man on the right feel about associates calling his phone?
+a: He wants to be helpful
+i: He feels it is endless
+q2: How can the job that the man on the right explains be characterized as?
+a: It is very diverse
+i: It is very routine
+q3: Is the man on the right open about his work?
+a: Yes
+i: No
+q4: What does the man on the left wish for?
+a: To understand what a day in the other man's office is like
+i: To understand what a day in the other man's household is like
+q5: What tone are the two men speaking in?
+a: A professional one
+i: A lighthearted one
+q6: How does the man on the left feel about the work of the man in white?
+a: He is interested in it
+i: He is in awe of it
+
+

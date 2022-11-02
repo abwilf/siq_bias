@@ -1,0 +1,18 @@
+q1: Why do the people have so much La Croix?
+a: They are being sarcastic
+i: They are mocking people
+q2: How does the woman appear at 0:50 while the man speaks?
+a: She is annoyed
+i: She is amused
+q3: Why does the woman stick her tongue out?
+a: She wants to make the audience laugh
+i: She wants to catch snowflakes
+q4: Is the woman impressed by the man's summer home?
+a: No
+i: Yes
+q5: What is the tone of the video?
+a: Playful
+i: Serious
+q6: Why do the man and woman go back and forth about La Croix? 
+a: They try to outdo each other
+i: They disagree on it being tasty

@@ -1,0 +1,19 @@
+q1: Why does the woman in pink clap at 0:12?
+a: She is agreeing with the other woman.
+i: She is in awe of the other woman.
+q2: Why does the woman on the right point at 0:52?
+a: To acknowledge audience members.
+i: To direct the other woman.
+q3: How does the woman on the left feel about her committee?
+a: She feels they went above and beyond.
+i: She feels they treated her unfairly.
+q4: Who is the woman on the left thankful to?
+a: Those who helped her graduate.
+i: Those who helped her family immigrate.
+q5: How did the woman's committee help her?
+a: They gave her support.
+i: They gave her a place to live.
+q6: Why are the women smiling?
+a: It is a sentimental moment.
+i: They are joking around.
+

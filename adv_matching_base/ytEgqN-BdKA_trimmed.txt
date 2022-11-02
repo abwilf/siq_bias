@@ -1,0 +1,19 @@
+
+q1: Why does the man on the left slap the man on the right?
+a: He is just joking with the man on the right.
+i: He is angry with the man on the right.
+q2: Why does the man on the right stop pretending at :20?
+a: He does this because he thinks what they are pretending to do is not at all possible. 
+i: He doesn't want to pretend anymore because he is mad at the man on the left.
+q3:why does the man in the white start screaming?
+a: He is frustrated because the other man does not understand what he wants him to do..
+i: He does this to get the audience excited.
+q4: Why does the man in the white wave his finger in the air?
+a: He does this to empahsize that he disagrees
+i: He does this because he is dancing.
+q5: How does the audience react to the skit?
+a: They seemingly enjoy the skit and react with laughter and applause.
+i: They don't seem too interested in the skit and don't make much noise. 
+q6: Do the men appear to get along well?
+a: Yes, they are comfortable goofing around with each other. 
+i: No, they seem like they don't want to be doing the video. 

@@ -1,0 +1,19 @@
+q1: Why does the woman on stage open her mouth but not speak at 0:17?
+a: She is flattered by the woman's compliment
+i: She is recovering from the outburst
+q2: Why is the woman on stage hunched over?
+a: She is tense
+i: She can't stop laughing
+q3: Is the woman on stage relaxed?
+a: No 
+i: Yes
+q4: Did the woman on stage get the response she was hoping for?
+a: Yes
+i: No
+q5: Why does the woman on stage clench her fist at 0:51?
+a: She is excited 
+i: She is angry
+q6: How do the judges feel about the woman?
+a: They adore her
+i: They think she could improvement
+

@@ -1,0 +1,23 @@
+q1: How do the girls feel about their dad?
+a: They like him, but not as much as they like their mom
+i: They like him and prefer him to their mom
+
+q2: Do the girls enjoy being part of a large family?  
+a: They're happy except for minor things like chores.
+i: They're unhappy about the lack of individual attention.
+
+q3: How do the girls feel about being an only child?
+a: They think it would be boring and lonely.
+i: They think it would be better than having a lot of siblings.
+
+q4: How does the girl on the left present herself?
+a: She's enjoying herself and the experience.
+i: She's bored with the experience.
+
+q5: How do the girls feel about adoption?
+a: They would like to do it themselves
+i: They think it's nice but not for them
+
+q6: Do the girls see themselves with large or small families in the future?
+a: They both prefer large families
+i: They both prefer small families.

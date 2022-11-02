@@ -1,0 +1,21 @@
+q1: What does the man on the right think of actions Reagan took?
+a: He is in favor of them
+i: He thinks they were ill-mannered
+q2: What is the man on the right expressing about the republican party?
+a: It has changed over time
+i: It has always been destructive
+q3: Does the man on the left disagree with actions Reagan took?
+a: Yes
+i: No
+q4: Which person does the audience seem to agree with?
+a: The man on the right
+i: The man on the left
+q5: What did the man on the right appreciate about Reagan?
+a: He worked with people outside his party
+i: He didn't get involved with the media
+q6: Why does the man on the right ask the same question multiple times at the end of the video?
+a: He wants a straight-forward answer
+i: The other man is ignoring him
+
+
+

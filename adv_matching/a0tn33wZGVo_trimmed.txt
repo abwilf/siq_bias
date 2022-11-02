@@ -1,0 +1,19 @@
+q1: Why does the woman at 0:04 explain her view?
+a: She had a different interpretation than her siblings
+i: She has different priorities than her siblings
+q2: Why does the woman at 0:05 touch her hair and look to the side?
+a: She is giving a subjective opinion
+i: She is attracted to the man in the room
+q3: How does the woman at 0:15 feel?
+a: She is defensive of the lifestyle they grew up with
+i: She is happy about the lifestyle they grew up with
+q4: How does the woman at 0:15 describe their parents during their childhood?
+a: They didn't overindulge them
+i: They coddled them
+q5: Why does the woman on the far right have her hand on her chin?
+a: She is absorbing the woman's words
+i: She is suspicious of the woman's words
+q6: How does the woman at 0:05 seem to feel while giving her answer?
+a: She seems unsure of what the reactions will be
+i: She seems unsure if she actually believes it
+

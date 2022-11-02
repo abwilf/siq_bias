@@ -1,0 +1,23 @@
+q1: Why does the man with the t-shirt and gray cap get close to the boy in the white shirt's face?
+a: He gets close to the boy's face to scare and intimidate him
+i: He is trying to get a better look of the boy
+
+q2: Do the inmates succeed in their goal of scaring the kids?
+a: Yes, because the kids are quiet and feel scared of the inmates.
+i: No, because the kids are still rowdy.
+
+q3: How does the boy in the white shirt show he is nervous when the man in a t-shirt and gray cap is talking to him?
+a: He is licking his lips and not changing his facial expression.
+i: He looks away from the man and refuses to make eye-contact.
+
+q4: How does the small boy with the red striped polo feel?
+a: He is scared and intimidated by the inmates.
+i: He is happy with how the inmates are treating him.
+
+q5: Why are these people brought together? 
+a: A group of people are visiting a jail to see how inmates live on a daily basis.
+i: A group of people are visiting a jail and were just told very bad news.
+
+q6: Why is the kid in the red shirt looking at the other man seriously?
+a: The man is asking him sincere questions about his life.
+i: He is scared that the the other man will arrest him.

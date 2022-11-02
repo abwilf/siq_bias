@@ -1,0 +1,18 @@
+q1: What does the man on the left wish to do?
+a: He wants to voice his opinion.
+i: He wants to make people laugh.
+q2: How does the mayor feel about guns?
+a: He is against them.
+i: He loves guns.
+q3: How does the mayor think banning guns should make citizens feel?
+a: Safe.
+i: Outraged. 
+q4: Why is the mayor living in a low-income area notable?
+a: He has first-hand experience with gun violence.
+i: It shows that they do not pay him enough.
+q5: What word describes the mayor?
+a: Humble.
+i: Arrogant.
+q6: Why does the mayor feel personally touched by the Vegas tragedy?
+a: His mother was there during it.
+i: His son was there during it.

@@ -1,0 +1,18 @@
+q1: Why does the girl with long hair laugh when the short haired woman talks about her age? 
+a: She is nervous because the focus is turned to her briefly.
+i: She feels annoyed that the other woman is comparing her with the man. 
+q2: Is the man in the glasses arrogant?
+a: No, he is humble and modest as they speak of his accomplishments, but does not deny his success.
+i: Yes, he acts like he is better than everybody and brags about himself to the host.
+q3: How does the short-haired woman feel about the man? 
+a: She is interested in and impressed by his accomplishments and his background.
+i: She is really jealous of the man for being so successful and she resents him for that.
+q4: Why does the man in pink stumble over his words at 00:21?
+a: He is about to answer the questions, but is thinking of and correcting his answer before he continues.
+i: He is so scared he starts to stutter.
+q5: Why did the woman with short hair seem surprised near the end?
+a: The man gave her an answer that she did not expect.
+i: The man did something strange that startled her.
+q6: Why does the woman with long hair only laugh and not speak?
+a: She was only being introduced and shown to the audience, not asked a question.
+i: She was mad at the people on stage and ignoring them.

@@ -1,0 +1,18 @@
+q1: Why did the man in the hat keep tapping the woman at the end?
+a: He wants to ask her a question and is trying to get her attention.
+i: He is trying to hurt her because he is mad at her.
+q2: How did the woman in pink show her excitement at seeing the woman with white hair?
+a: She yelled happily, ran toward the woman, and hugged her.
+i: She quietly said hello and smiled.
+q3: Do the people dislike each other?
+a: No, they are all energetic and happy, having a good time.
+i: Yes, they are sullen and quiet, trying to avoid looking at each other.
+q4: Why does the woman with white hair have an open-mouthed smile as she walks toward the table?
+a: She is happy and excited at how happy the woman in pink is to see her.
+i: She is hearing something funny being said and laughing at it.
+q5: Why does everybody at the table stand up?
+a: They stand up to greet the white-haired woman and show their exitement.
+i: They stand up because there is not enough room at the table anymore to sit.
+q6: Why does the man in the hat stand to the side, away from the women while they hug?
+a: He is enjoying watching them greet each other and does not want to interrupt.
+i: He is disgusted by their actions.

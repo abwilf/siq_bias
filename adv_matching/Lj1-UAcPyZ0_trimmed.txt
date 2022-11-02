@@ -1,0 +1,18 @@
+q1: Are the two people comfortable with each other?
+a: Yes, they joke with each other and interact with ease.
+i: No, the two people speak very formally and stiffly throughout
+q2: What is the tone of the two people?
+a: The tone is light-hearted and jokingly serious.
+i: The tone is awkward and neutral because the two people in chairs do not have a lot in common.
+q3: Why does the audience laugh throughout the video?
+a: They know that the serious conversation is actually funny and a joke, and it amuses them.
+i: They find the two people awkward so they laugh in a nervous way.
+q4: Why does the man pause for a while at 00:04 before the woman asks him a question.
+a: He is considering how he is going to answer her before he does.
+i: He does not like the question and does not want to answer, but knows he has to.
+q5: Why does the woman move her hands as she speaks?
+a: It is a natural part of how she converses and adds emphasis to her words.
+i: She is embarrassed and is trying to distract the audience from her blushing.
+q6: Is the woman confused?
+a: No, she is only pretending to be concerned and confused as a joke.
+i: Yes, she wants to know what is going on because it greatly distresses her not knowing.

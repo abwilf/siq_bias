@@ -1,0 +1,18 @@
+q3: What is the man's goal?
+a: To educate people
+i: To provide safety
+q4: Why does the man give examples of how the words are not pronounced?
+a: He is aware of common mispronunciations
+i: He is trying to be funny
+q5: Does the man seem to enjoy his job?
+a: Yes
+i: No
+q7: Why does the man make a comparison to an unemployed brother?
+a: He is trying to be funny
+i: It's an issue he is personally dealing with
+q8: What does the man think of the way he teaches?
+a: He feels he points out things that others may not
+i: He feels he is more lenient than others may be
+q9: What is the tone of the lesson?
+a: Upbeat
+i: Monotonous

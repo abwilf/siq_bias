@@ -1,0 +1,18 @@
+q1: How does the man with glasses feel about the other man?
+a: He respects him and values his opinion.
+i: He does not like him very much and seems irritated listening to him.
+q2: What does the man in glasses feel about the subject matter being discussed?
+a: He is invested in it and thinks it is important
+i: He is unsure about the subject matter.
+q3: Are the two men hostile towards each other?
+a: No, because they are having a calm conversation.
+i: Yes, they act aggressive and yell at each other.
+q4: Is the man with purple socks authoritative?
+a: Yes, the man with glasses takes him seriously and is going to him for knowledge
+i: No, he does not carry himself confidently and seems uncertain about the topic
+q5: Why does the man with glasses use hand gestures?
+a: He wants to put emphasis on what he is saying.
+i: He is trying to make the other man laugh by being silly.
+q6: What is the tone of the conversation?
+a: It is professional and informative.
+i: It is funny and amusing.

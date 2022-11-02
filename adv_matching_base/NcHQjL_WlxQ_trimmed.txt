@@ -1,0 +1,18 @@
+q1: Why is the man surprised by the size of the piece?
+a: He can't imagine the man had space for it
+i: He expected it to be larger
+q2: Why does the man in glasses like Oculus? 
+a: It helped him create his art
+i: It brought him out of depression
+q3:
+a:
+i:
+q4:
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

@@ -1,0 +1,18 @@
+q1: How do the men behave around each other?
+a: They are playful
+i: They are professional
+q2: How is the man's joke about the playoff game received?
+a: Some members from the audience don't find it funny
+i: The audience members cheer in agreement
+q3: What is the cause of the man's hearty laughter at 0:37?
+a: He is amused by his own joke
+i: He is amused by the other man's jokes
+q4: What does the man in the striped shirt think of the Knicks?
+a: They aren't a good team
+i: They deserve a spot at the top
+q5: Why does the man on the right ask when to start paying attention?
+a: He isn't very invested in basketball
+i: He is concentrating on his work
+q6: What does the man imply in his joke about Ringling?
+a: The Knicks can't be taken seriously
+i: The Knicks set a high standard

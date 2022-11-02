@@ -1,0 +1,18 @@
+q1: What is the main tone of the conversation?
+a: The main tone is serious
+i: The main tone is sad
+q2: What is the point of the conversation?
+a: The man in the grey suit is interviewing the man in the blue suit
+i: The man in the blue suit is interviewing the man in the grey suit
+q3: How does the man in the grey suit feel about the other man's responses to his questions?
+a: He agrees with his responses
+i: He disagrees with his responses
+q4: How do the men feel about the topic of conversation?
+a: The men feel skeptical
+i: The men feel optimistic
+q5: How does the man in the blue suit briefly change the tone of the conversation?
+a: He changes the tone by making a joke
+i: He changes the tone by disagreeing with the man in the grey suit
+q6: How does the man in the grey suit empahsize his point at 0:35
+a: He emphasizes his point by using hand gestures
+i: He emphasizes his point by looking out at the audience

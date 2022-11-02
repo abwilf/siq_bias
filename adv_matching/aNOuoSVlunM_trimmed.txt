@@ -1,0 +1,22 @@
+q3: Is the boy terrified of the clown?
+a: No, he is smiling as he runs away
+i: Yes, he is crying as he runs away
+q5: Why does the girl lying down at 0:20 have a blank expression?
+a: She feels miserable around her prankster sister
+i: She feels miserable around her successful sister
+q7: What does the clown do to appear creepier?
+a: Cross its eyes
+i: Wiggle its eyebrows
+q10: Is the girl satisfied with her prank? 
+a: Yes
+i: No
+q11: Why is the girl sitting with her laptop?
+a: She is brainstorming
+i: She is doing homework
+q13: What made the girl decide not to be a housekeeper?
+a: The state of the bedroom
+i: The state of the kitchen
+
+
+
+

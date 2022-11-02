@@ -1,0 +1,18 @@
+q1: What is the attitude of the man at the very start of the video?
+a: He is in complete agreement with the woman
+i: He is in complete disagreement with the woman
+q2: What does the woman think about the situation with Kyle?
+a: She thinks it is the perfect opportunity 
+i: She thinks it is the worst opportunity
+q3: What does the woman expect childrens' the reaction to be?
+a: She expects them to listen
+i: She expects them to push back
+q4: How does the boy feel when he realizes he is alone in the car with the man?
+a: He feels confused
+i: He feels excited
+q5: Why were the mother and father surprised?
+a: They hadn't considered the idea of young children trying alcohol
+i: They hadn't considered the idea of getting a divorce
+q6: What was the boy's reaction to his father wanting to talk about something?
+a: He was nervous that he may have done something wrong
+i: He was excited that he may have done something right

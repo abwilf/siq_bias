@@ -1,0 +1,18 @@
+q1: How does the woman react to the man's interest in her gift?
+a: She pushes him away
+i: She gets emotional
+q2: Why is the man upset?
+a: He knows the woman's gift is better than his
+i: He feels the woman's gift is meant to make fun of him
+q3: Does the audience react well to the woman's gift?
+a: Yes
+i: No
+q4: Which gift is the audience less interested in?
+a: The man's gift
+i: The woman's gift
+q5: How does the man feel as the woman's gift is wheeled out?
+a: Upstaged
+i: Grateful
+q6: Was the man particularly confident in his gift before the woman introduced her's?
+a: No
+i: Yes

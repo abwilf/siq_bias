@@ -1,0 +1,18 @@
+q1: Why does the man in grey mock his grandmother in a dramatic way?
+a: To be entertaining
+i: To belittle her
+q2: Why is the audience laughing at the man on stage?
+a: His comedic act is successful
+i: He is performing badly
+q3: Why does the woman at 0:04 bury her face in her hands?
+a: She is hiding her laughter
+i: She feels second-hand embarrassment 
+q4: Why does the man stand from the table at 0:33?
+a: To show his approval of the man's performance
+i: To show his disapproval of the man's performance
+q5:
+a:
+i:
+q6:
+a:
+i:

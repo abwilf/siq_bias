@@ -1,0 +1,18 @@
+q1: Did the woman feel she benefited from the group?
+a: No
+i: Yes
+q2: Why did the woman leave the group?
+a: She felt it wasn't beneficial to her
+i: She felt they were a bad influence
+q3: Why does the man ask to call the woman by a different name?
+a: He sees her as an expert
+i: He is belittling her
+q4: Why does the woman take the man's proposal to call her by a different name?
+a: She sees it as flattering
+i: She sees it as offensive
+q5: Why does the man on the right address the audience?
+a: To offer contact 
+i: To thank them
+q6:
+a:
+i:

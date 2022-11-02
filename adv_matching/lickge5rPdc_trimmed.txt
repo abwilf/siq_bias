@@ -1,0 +1,23 @@
+q1: What does the man on the right's nod suggest?  
+a: That he agrees with the other man is saying.
+i: That he understands what the other man is saying.
+
+q2: How does the man on the left feel about the topic at hand?
+a: He is disappointed that this the topic is still being discussed. 
+i: He is annoyed that no one is agreeing with his opinion on this topic.
+
+q3: Is the man on the left upset about the sort of media attention that planned parenthood is getting?
+a: Yes, he thinks it is framed incorrectly and sensationalized.
+i: Yes, he believes it is being dismissed and ignored.
+
+q4: What caused the man on the left to look behind the desk?
+a: His phone was vibrating and interrupting the discussion.
+i: His papers were dropped and he needed them for the discussion.
+
+q5: How does the man on the right feel about the topic at hand?
+a: He is passionate about the topic and believes it is important to discuss.
+i: He is neutral about the topic but is discussing it because he has to.
+
+q6: Why did the man on the left extend out his palm?
+a: He was showing his confusion with what the man on the right said.
+i: He was asking the man on the right to pause.  

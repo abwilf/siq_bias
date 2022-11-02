@@ -1,0 +1,23 @@
+q1: What does the woman in the dress feel towards the man?
+a: The woman in the dress is supportive of the man.
+i: The woman in the dress is bored and tired of the man.
+
+q2: How does the man feel about his life?
+a: The man recognizes his life's problems but focuses on overcoming them.
+i: The man hates his life and pines for a different one.
+
+q3: How does the host feel about her guest? 
+a: The host reveres her guest, very much.
+i: The host loses no opportunity to belittle her guest, for any little thing.
+
+q4: What attitude does the man have towards adversity?
+a: The man feels that adversity can be fought through.
+i: The believes if things are tough you  are better off capitulating.
+
+q5: The audience ______ the guest.
+a: has nothing but love and sympathy for
+i: is not very thrilled with
+
+q6: The host igives off what kind of disposition?
+a: Confident, unbashed.
+i: Brash, negligent.

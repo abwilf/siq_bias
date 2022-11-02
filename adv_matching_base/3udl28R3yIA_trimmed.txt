@@ -1,0 +1,18 @@
+q1: Why are the people at the firehouse excited?
+a: They are on television.
+i: They just saved several lives.
+q2: Why does the woman at 0:12 continuously raise her hand in the air?
+a: She wants the group to cheer louder.
+i: She wants the group to follow behind her.
+q3: Why does the woman on stage hold the hand of the man beside her?
+a: She loves him.
+i: She is consoling him.
+q4: How does the captain feel about being called out?
+a: He seems delighted.
+i: He seems embarrassed.
+q5: What is impressive about the man at 0:27?
+a: The amount of time he has spent in his job.
+i: The amount of time he has been a Pittsburgh resident.
+q6: What do the people at the firehouse have in common?
+a: They all live in Pittsburgh.
+i: They all work as firefighters.

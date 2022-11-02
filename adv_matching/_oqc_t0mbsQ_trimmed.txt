@@ -1,0 +1,24 @@
+q1: Why is the woman in black surprised?
+a: She is confused because the girl in maroon looks different.
+i: She is confused because she didn't expect the girl to be in the room.
+
+q2: is the girl in purple happy to have been placed in the lamp?  
+a: yes, she feels comfortable in the new space
+i: no, she feels cramped in the small space
+
+q3: How does the lady in glasses react to the girl in maroon when she enters the room?
+a: She is surprised with what she sees.
+i: She is angry with what she sees.
+
+q4: Why does the same girl use two different tones of voice?
+a: She is playing two different characters.
+i: Her mood quickly changes within the clip.  
+
+q5: Why does the girl in purple seem upset?
+a: She does not have a lamp to go into.
+i: She doesn't like the girl in maroon.
+
+q6: Why is the girl in maroon annoyed?
+a: She does not want to deal with the girl in purple. 
+i: She thought the girl in purple was bringing lunch.
+

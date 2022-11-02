@@ -1,0 +1,18 @@
+q1: Did the man make an informed decision when choosing his major?
+a: Yes
+i: No
+q2: Why does the man express that he never changed his major?
+a: To convey his devotion
+i: To convey his regret
+q3: Was the woman familiar with the man prior to the interview?
+a: Yes
+i: No
+q4: 
+a: 
+i:
+q5: What does the man's major imply he has a love for?
+a: People
+i: Animals
+q6: How does the man feel since he has entered the work force?
+a: Content
+i: Overwhelmed

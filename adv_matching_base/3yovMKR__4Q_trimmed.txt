@@ -1,0 +1,18 @@
+q1: What kind of mood is the man on screen at 0:42 in?
+a: He seems excited and hyped up.
+i: He seems relieved and proud.
+q2: Why does the man change his tone at 0:34?
+a: He pretends to change the mood to serious and scary.
+i: He pretends to change the mood to light and funny.
+q3: What is the dynamic between the actors?
+a: Playful.
+i: Tense.
+q4: What is the brunette man's tone in the beginning of the video?
+a: Shocked.
+i: Joyful.
+q5: What is the overall mood of the blonde girl in the video?
+a: She seems excited, yet nervous.
+i: She seems excited, yet calm.
+q6: Who is the most excited person in the video?
+a: The man in orange.
+i: The woman in orange.

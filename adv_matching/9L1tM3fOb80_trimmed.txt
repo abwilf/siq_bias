@@ -1,0 +1,18 @@
+q1: What do they poke fun at about Biden?
+a: His appearance.
+i: His age.
+q2: What do the men think the stress of the campaign can cause?
+a: One to look older.
+i: One to have a decline in mental health.
+q3: How do the men respond to the sharing of opinions?
+a: Respectfully.
+i: They challenge each other.
+q4: Which election does the man on the right most fondly recall?
+a: The 2008 election.
+i: The 2012 election.
+q5: Why did the man in the middle decide to vote for Obama?
+a: He supported the previous candidates of the same party.
+i: The republican candidate made him reevaluate his party affiliation.
+q6: What do the men seem to be passionate about?
+a: Politics.
+i: Religion.

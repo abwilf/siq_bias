@@ -1,0 +1,18 @@
+q1: Why does the man back into the wall at 0:12?
+a: He is surprised
+i: He is sleepy
+q2: Why does the woman bump her chest into the man?
+a: She is picking a fight
+i: She is flirting with him
+q3: What makes the man feel frustrated with the woman in red?
+a: They don't speak the same language
+i: She doesn't believe him
+q4: What is the purpose of the man yell out what is happening in the bathroom?
+a: To distract the woman
+i: To embarrass the man
+q5: What does the man hope for as he turns back at 0:42?
+a: To not see the woman behind him
+i: To see the woman behind him
+q6: Why does the man blow into his hand at 0:57?
+a: He wishes to check his breath
+i: He wishes to warm his hands

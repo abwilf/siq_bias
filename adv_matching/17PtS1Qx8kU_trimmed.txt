@@ -1,0 +1,18 @@
+q1: 
+a: 
+i:
+q3:
+a: 
+i:
+q4: 
+a: 
+i:
+q6:
+a: 
+i: 
+q7: Why does the man on the right nod?
+a: To show he is following along.
+i: To show he agrees.
+q8: How do nerves of the man on the left manifest?
+a: Through fidgeting
+i: Through blushing

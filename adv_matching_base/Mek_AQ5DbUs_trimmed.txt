@@ -1,0 +1,18 @@
+q1: How does the woman speak to the children?
+a: She wishes to encourage them
+i: She wishes to correct their behavior
+q2: Why do the boys exclaim at 0:21?
+a: The girl was successful
+i: The girl broke the toy
+q3: Why does the girl bang on the desk at 0:34?
+a: She is excited by the game
+i: She is frustrated by the game
+q4: Why does everyone scream at 0:46?
+a: They are frightened by the balloon popping
+i: They are surprised to see the man under the costume
+q5: How do the children interact with each other during the game?
+a: They are joyous
+i: They are competitive
+q6:
+a:
+i:

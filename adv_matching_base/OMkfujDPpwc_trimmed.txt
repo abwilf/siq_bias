@@ -1,0 +1,18 @@
+q1:What is the intention of the people in the video?
+a:They want to assist applicants who apply to work for their company.
+i:They want to mislead applicants who apply to work for their company.
+q2:Do the three people respect each other?
+a:Yes, they let each other finish speaking and listen appropriately.
+i:No, they don't let each other finish speaking and don't listen appropriately.
+q3:Why does the woman in white keep smiling and moving her mouth as the man in black speaks?
+a:She feels a little awkward for filming this video and is trying to stay neutral.
+i:She feels a little guilty for making them film this video and is trying to stay positive.
+q4:Why does the woman in white move her hands around when she speaks?
+a:She is slightly nervous and is using her hands while speaking to make her feel more confident.
+i:She is slightly annoyed and is using her hands while speaking to make her feel more calm.
+q5:Why is the man in black bobbing his head as he does the quick version of the video?
+a:He is repeating what he already said so he is just emphasizing that he is hitting on certain points.
+i:He is repeating what he already said so he is just irritated that he has to hit on certain points again.
+q6:Why doesn't the blonde woman speak for the entire video?
+a:She was letting the other two speakers get their information out.
+i:She was letting the other two speakers get their argument over with.

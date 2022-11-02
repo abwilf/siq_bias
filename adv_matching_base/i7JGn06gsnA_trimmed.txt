@@ -1,0 +1,18 @@
+q1: How does the woman on the left portray the blanket?
+a: As convenient
+i: As affordable
+q2: What are the women attempting to do?
+a: Persuade buyers
+i: Make the bed
+q3: Who is the woman on the right trying to sell the blanket to?
+a: The other woman
+i: The audience
+q4: How does the woman on the right portray the blanket?
+a: As cozy
+i: As expensive
+q5:
+a:
+i:
+q6:
+a:
+i:

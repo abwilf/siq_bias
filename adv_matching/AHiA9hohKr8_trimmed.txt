@@ -1,0 +1,18 @@
+q2: Is the man calm?
+a: Yes
+i: No
+q6: How do the two individuals interact?
+a: In a formal way
+i: In a playful way
+q8: Why does the woman interrupt the man?
+a: To add to his point
+i: To cut to a break
+q10: What is the tone of the man?
+a: Professional
+i: Condescending
+q11: Does the woman agree with the man's point when she interrupts him?
+a: Yes
+i: No
+q15: What does the woman wish for these countries?
+a: That they will address issues
+i: That they will overcome conflict

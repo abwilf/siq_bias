@@ -1,0 +1,18 @@
+q1: Why does the audience laugh?
+a: The man speaking delivered a criticism in a witty and unexpected manner
+i: They find the silence awkward so they try to fill it
+q2: Why does the man pause at 00:43?
+a: He just told a joke and he is pausing to let the audience think and to add comedic timing.
+i: He does not understand what is going on and is trying to figure it out so he stops speaking to do so.
+q3: Why does the man move around and gesture a lot?
+a: He is a comedian, so he wants to be more familiar and more inclusive, and he is illustrating the movement involved.
+i: He is trying to point at and single out people in the audience.
+q4: Is the man angry?
+a: No, he is telling jokes to make the audience laugh and does not look like he is angry.
+i: Yes, he is screaming and stomping around.
+q5: How does the man feel about the topic he is talking about around 00:23?
+a: He does not like them and finds them ridiculous, making jokes about them.
+i: He loves them and is excited to tell his audience about them.
+q6: Does the man seem like he belongs where he is?
+a: Yes, he seems confident and the audience is attentive and enjoying him.
+i: No, he is looking around nervously and does not know what to say or do.

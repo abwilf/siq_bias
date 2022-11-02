@@ -1,0 +1,18 @@
+q1:Why does the man with the guitar nod when the man in the denim jacket speaks?
+a:He nods because he agrees with what he is saying.
+i:He nods to mock the man in the jacket.
+q2:Why does the audience laugh when the man in the striped sweater speaks?
+a:They think his joke is funny.
+i:It is nervous laughter because they are afraid of him.
+q3:Why does the man in white shirt stand up?
+a:He stands up because he wanted to give the other man a hug.
+i:He stands up because he is proud of himself. 
+q4:How do the people in red chairs treat each other?
+a:They are being cordial and respectful of each other.
+i:They are being very rude towards one another. 
+q5:Why does the man in the striped shirt push the red button?
+a:He is making an anologous joke and using the button as a prop for his joke.
+i:He was pushing the button to vent his anger.
+q6:What is the tone of the audience.
+a:They are cheerful and enjoying what is happening, as they are laughing and clapping.
+i:They are uncomfortable and feel awkward about what is happpening.

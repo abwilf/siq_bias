@@ -1,0 +1,18 @@
+q1: What does the woman think about the justice literature?
+a: It is overwhelming
+i: It is too predictable
+q2: What does the woman express about the theories?
+a: They can be daunting
+i: They captivate her interest
+q3: What does the woman wish for justice literature?
+a: For it to be more appealing to a newcomer
+i: For it to be more widely appreciated
+q4: How did the woman feel when first looking at the theories?
+a: She felt confused
+i: She felt they were outdated
+q5: 
+a: 
+i:
+q6:
+a:
+i:

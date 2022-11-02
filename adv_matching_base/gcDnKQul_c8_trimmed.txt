@@ -1,0 +1,18 @@
+q1: What does the woman in the red hat seem to believe about Governor Walker?
+a: He is misleading people
+i: He is fighting for people
+q2: What do the people in the street think of the situation?
+a: They think it's unfair
+i: They think it's comical
+q3: Why are people particularly upset about this bill? 
+a: It affects their income
+i: It affects their healthcare
+q4: Which person defends the bill?
+a: The woman at 0:18
+i: The woman at 0:45
+q5:
+a:
+i:
+q6:
+a:
+i:

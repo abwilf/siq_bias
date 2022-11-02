@@ -1,0 +1,18 @@
+q1:Does the man in the gray jacket mean it when he says "let's just give up"?
+a:No, he is being sarcastic and calling people out.
+i:Yes, he is being sincere and calling his friends out.
+q2:Why does the man in the white shirt sigh when the man in blue starts speaking?
+a:The subject matter is heavy and he is processing what they are speaking about.
+i:The subject matter is mundane and he is wishing they could speak about something else.
+q3:Why does the man in blue squint his eyes tightly when quoting someone?
+a:He is trying to remember exactly what was said and not repeat it wrong.
+i:He is trying to remember the exact lie that he used and repeat it badly.
+q4:What is the general attitude of the man in the blue jacket?
+a:His attitude is serious and slightly angry about the topic of discussion.
+i:His attitude is laid back and slightly relieved about the topic of dicussion.
+q5:Why does the man in blue point behind him when talking about gay people?
+a:He is referring to an event that happened in the past, so pointing behind him indicates this.
+i:He is referring to an event that hasn't happened yet, so pointing behind him indicates this.
+q6:Does the man in the blue suit like money?
+a:No, he thinks that money is the cause of many catastrophies.
+i:Yes, he thinks that money can save people from more catastrophies.

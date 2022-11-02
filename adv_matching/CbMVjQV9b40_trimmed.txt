@@ -1,0 +1,20 @@
+q1: How does the man feel to have created this game?
+a: Proud
+i: Exhausted
+q2: Why is the man sweating?
+a: He is nervous
+i: He was exercising
+q3: How does the man want to see children grow up?
+a: With awareness of the world 
+i: In safe homes
+q4: What does the man think of the game?
+a: He thinks it's enriching
+i: He thinks it's mindless
+q5: Why does the man laugh?
+a: He made a mistake
+i: The penguin is cute
+q6: What does the man want children to gain from his game?
+a: A better understanding of sounds
+i: Fluency in a second language
+
+

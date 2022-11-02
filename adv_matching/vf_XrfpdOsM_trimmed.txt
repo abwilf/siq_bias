@@ -1,0 +1,23 @@
+q1: How does the man with the white hair feel?
+a: He feels inspired and hopeful about the future of our country.
+i: He feels scared and angry about the future of our country.
+
+q2: Why does the man in blue insist his message isn't from rhetoric?
+a: He wanted his message to be more sincere and authentic.
+i: He wanted his message to be more impressive and powerful.
+
+q3: What changed the man in blue's mind about the state of his country?
+a: He witnessed displays of patriotism that made him change his mind.
+i: He witnessed displays of corruption that changed his mind.
+
+q4: Is the man with white hair a poor speaker?
+a: No, he is confident and sounds passionate.
+i: Yes, he mumbles and gestures too repetitively.
+
+q5: What displays of patriotism inspired the man with white hair? 
+a: He was inspired by others' desire to improve their country.
+i: He was inspired by others' desire to learn.
+
+q6: What is the tone of the man with black hair?
+a: His tone is curious and friendly. 
+i: His tone is sarcastic and inquisitive. 

@@ -1,0 +1,18 @@
+q1: Why is the woman posing this question?
+a: She wants a better understanding of the topic
+i: She wants people to reconsider their stance
+q2: What is the man express in his theory?
+a: It gives people a feeling of comfort
+i: It gives people a feeling of superiority
+q3: Why does the woman reference the Constitution?
+a: To show that politics were not meant to operate this way
+i: She wants to shame people
+q4: Does the woman express favor for considering religion in politics?
+a: No
+i: Yes
+q5: Why does the woman point at 0:46?
+a: She is directing her question at the man
+i: She is directing where to place the furniture
+q6:
+a:
+i:

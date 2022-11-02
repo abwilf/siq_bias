@@ -1,0 +1,18 @@
+q1: How do the pair feel about the man in discussion not attacking the woman?
+a: They are frustrated
+i: They are understanding
+q2: What does the woman in pink feel towards immigrants being in the country?
+a: She portrays it as a point of strength
+i: She finds them concerning
+q3: What did the pair hope for the debate?
+a: The man would confront the woman
+i: The man would drop out of the race
+q4:
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

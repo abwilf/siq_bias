@@ -1,0 +1,18 @@
+q1: What was the man in the green tie's attitude at the very start of the video?
+a: He was demeaning and sarcastic
+i: He was laid back and collected
+q2: What was the attitude of the man in the black tie?
+a: He was inquisitive and level-headed
+i: He was demeaning and sarcastic
+q3: What is the tone of the conversation?
+a: The conversation is friendly but contentious
+i: The conversation is hostile but exciting
+q4: What is the point of the conversation between the men?
+a: They are debating a topic together in order to understand it better
+i: They are arguing a topic with one another in order to prove the other wrong
+q5: Which of the men has a more hostile attitude?
+a: The man in the green tie
+i: The man in the black tie
+q6: What does the man in the green tie think is necessary?
+a: To explain to the coach why they were not penalties
+i: To explain to the coach why he should keep his job

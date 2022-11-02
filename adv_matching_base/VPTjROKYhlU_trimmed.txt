@@ -1,0 +1,18 @@
+q1: How does the man on the left feel about the information people have?
+a: He feels disappointed that people don't have has sufficient information for help.
+i: He feels that people have enough information but don't act on it.
+q2: Do they make an effective plea to get people to become involved?
+a: Yes, they make it easy to donate either food or funding at multiple donation sites. 
+i: No, they are not informed enough themselves to educate others on the food drive and are picky about what they will accept.
+q3: Why are these two men talking to this woman? 
+a: They feel a responsibility to share the word about the food drive.
+i: To learn more about her and her work. 
+q4: What makes the woman excited as she talks to the man on the right?
+a: She is excited to hear about the food drive and is happy to bring the information to her audience.
+i: She is excited that the interview will end after she talks to the man on the right. 
+q5: Is the man on the right disappointed with the donations received?
+a: No, he is pleased that the fire stations in the area have received many donations.
+i: Yes, he is frustrated that the stations haven't received more donations.
+q6: Why is this woman talking to these two men?
+a: Because she wants to know more about the food drive at this fire station. 
+i: To apply for a job at the fire station. 

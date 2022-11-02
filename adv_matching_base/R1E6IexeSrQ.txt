@@ -1,0 +1,18 @@
+q1: What is the woman struggling with?
+a: She is struggling with handling her story
+i: She is struggling with a breakup
+q2: Why does the audience "Aww" at 0:28?
+a: The woman in the sparkly black jacket is embarrassed
+i: They think the black dog is cute
+q3: What is the man's demeanor?
+a: The man is jovial
+i: The man is inquisitive
+q4: How did the woman feel about her publication?
+a: She felt it was a mistake
+i: She felt it could help others
+q5: How does the woman feel about her appearance?
+a: The woman is feeling insecure about her looks
+i: The woman is feeling confident in her outfit
+q6: Why is the woman insecure at the end of the video?
+a: She feels embarrassed by the explicit image shown to her by the man
+i: She feels as if she is becoming less attractive as she ages

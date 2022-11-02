@@ -1,0 +1,18 @@
+q1: Why does the woman close her hands at 0:48?
+a: She wants to show a visual of the word 'grasp' she is using to better get her point across.
+i: She likes the feel of her thumbs.
+q2: Are the three people respectful to each other?
+a: Yes, they build upon whatever the last person said to give a meaningful discussion. 
+i: No, they continuously interrupt each other and snicker when the others talk.
+q3: Why does the woman widen her eyes at 0:40?
+a: She agrees with the statements just made and wants to show her agreement.
+i: She is shocked by how the man talking to her is acting.
+q4: Is the man in the gray tie interested in the conversation?
+a: Yes, he brings up a related point that he  thinks is interesting.
+i: No, he doesn't talk very much and looks bored.
+q5: How do the people feel about the topic they are discussing?
+a: They feel interested and focused on the topic.
+i: They feel bored and annoyed by the topic.
+q6: Who dominates the conversation?
+a: Nobody, they all seem to be equals in the conversation.
+i: The man in the grey tie, as he talks the entire time.

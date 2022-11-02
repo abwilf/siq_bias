@@ -1,0 +1,18 @@
+q1:Does the man wearing the black shirt with no hat eating the burger care about what the man in the red shirt is saying?
+a:No, he is focused on eating and is not paying attention to what the man in the red shirt says.
+i:Yes, he is focused on eating but is also paying close attention to what the man in the red shirt says.
+q2:How does the man in red feel about the conversation?
+a:At first he was confident with challenging the man in the hat but then he got uncomfortable.
+i:At first he was uncomfortable with challenging the man in the hat but then he got confident.
+q3:Is the man in the hat getting defensive?
+a:Yes, because he starts explaining why the other people are wrong and repeating questions.
+i:No, because he starts exploring why the other people are right and rejecting the product.
+q4:Do the men eating the burger like the taste of it?
+a:Yes, they can tell it's not what they thought but they are enjoying it.
+i:No, they can tell it's not what they ordered and they aren't enjoying it.
+q5:Why does the man in the hat lean forward towards the man in red at 0:05?
+a:He is moving closer to hear his question more clearly.
+i:He is moving closer to intimidate the man clearly.
+q6:Why does the man in the black hat look at the man with earrings when the man in red is speaking to him?
+a:He is trying to see his reaction to trying the burger.
+i:He is trying to see his reaction to trying the phone.

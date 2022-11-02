@@ -1,0 +1,18 @@
+q1: What are the girls excited for?
+a: To visit a city
+i: To visit a friend
+q2: What do the girls at 0:06 bond over?
+a: Their first time visiting Philadelphia
+i: Their first time visiting Pittsburgh
+q3: What can be assumed about the girl at 0:20's family?
+a: They are religious
+i: They are into politics
+q4: Why are the women visiting Philadelphia?
+a: For a political reason
+i: For a religious reason
+q5: What does the woman at 0:24 want from the other women?
+a: To be accepted
+i: To be envied
+q6: How do the women greet the woman entering the van?
+a: Warmly
+i: Coldly

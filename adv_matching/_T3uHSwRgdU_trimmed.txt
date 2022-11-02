@@ -1,0 +1,20 @@
+q1: What is the narrating actor's overall sentiment toward the drama school?
+a: He is passionate about his involvement.
+i: He is disappointed by its inequality.
+q2: Why is the actor talking about the drama school?
+a: To promote the organization.
+i: To expose the organization.
+q3: What is an indicator that the drama school takes their shows seriously?
+a: The number of people involved in them.
+i: The amount of money spent on them.
+q4: How can those involved in the drama school be described as?
+a: Dedicated.
+i: Immature.
+q5: Is the drama school a highly active organization?
+a: Yes, they have several shows a year.
+i: No, they usually do not have enough actors.
+q6: Why is the man in the gray turtleneck speaking in an unnatural tone?
+a: He is doing improv acting.
+i: He is doing a strenuous activity.
+
+

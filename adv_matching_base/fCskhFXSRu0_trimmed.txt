@@ -1,0 +1,18 @@
+q1: What is the tone of the conversation?
+a: It is serious and professional, but also comedic in nature.
+i: It is hostile and aggressive.
+q2: Is the man in the gray suit angry at the other man?
+a: He is frustrated about the topic he is speaking about, but does not act angry toward the other man.
+i: Yes, he is being hostile toward the other man and wants to fight him.
+q3: Why does the audience laugh?
+a: They found what was said to be funny.
+i: They are making fun of the two man talking.
+q4: Why does the man on the right keep moving his hands?
+a: He is using hand gestures as a visual cue to emphasize his point as he speaks.
+i: He is trying to play a game with the other man.
+q5: Are the men paying attention to each other?
+a: Yes, they both watch the other as they speak and do not interrupt.
+i: No, they look away from each other and interrupt one another.
+q6: Why does the man on the left nod his head?
+a: He is responding to the other man's question both verbally and visually with his head movement.
+i: He is trying to distract the other man while he speaks.

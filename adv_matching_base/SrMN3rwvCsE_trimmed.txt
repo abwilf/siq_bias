@@ -1,0 +1,18 @@
+q1: What doesn't the woman want?
+a: The woman doesn't want people in bad places to watch the show and be in a worse place
+i: The woman doesn't want people in good places to watch the show and be in a better place
+q2: What is the woman's objective in making the video?
+a: The woman's objective is to be inquisitive and informative
+i: The woman's objective is to be judgemental and subjective
+q3: What is the tone of the video?
+a: The tone of the video is heavy
+i: The tone of the video is careless
+q4: What does the woman think the benefit of the show is?
+a: The woman thinks the benefit of the show is to use graphic content to stir necessary discussion
+i: The woman thinks the benefit of the show is to put people in a better place
+q5: Does the woman feel the show deserves credit?
+a: Yes, the woman feels the show deserves credit
+i: No, the woman feels the show does not deserve credit
+q6: How does the woman emphasize her words?
+a: The woman uses hand gestures and facial expressions to emphasize her words
+i: The woman raises her voice and uses profanity to emphasize her words

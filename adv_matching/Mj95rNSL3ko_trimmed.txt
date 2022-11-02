@@ -1,0 +1,18 @@
+q1: How does the man with the beard feel about what the man with the red tie says?
+a: He agrees verbally and smiles while the man talks, showing he feels it valid and insightful.
+i: He is angry about what the man in the red tie says.
+q2: Is the woman answering a question at 00:46?
+a: No, she just shows that she agrees that what the man said was correct.
+i: Yes, that is why she answers the man verbally.
+q3: Why does the man with the spotted red tie seem concerned?
+a: He is invested in what he is speaking about and concerned about the subject.
+i: He is worried about the way the woman is acting.
+q4: Are the people angry?
+a: No, they are smiling and speaking politely.
+i: Yes, they are shouting and scowling.
+q5: What is the tone of the video?
+a: It is formal, professional, and informative.
+i: It is fun and laid back, meant to be entertaining.
+q6: Why does the man stare upward at 00:48?
+a: He is thinking about what he is going to say as he speaks.
+i: He is distracted by something on the ceiling.

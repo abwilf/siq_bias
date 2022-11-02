@@ -1,0 +1,18 @@
+q1:Does the man agree with the current agenda?
+a:No, the man thinks the current agenda is bad for everyone.
+i:No, the man thinks the current agenda is bad for him personally.
+q2:Why is the man smiling at 0:27?
+a:He used a slang term for a bill he doesn't like.
+i:He used the official term for a bill he likes.
+q3:Why does the man nod as he says the last few words of his speech?
+a:He is letting the interviewer know that he is done speaking.
+i:He is letting the interviewer know that he needs to leave.
+q4:How is the tone of the woman in pink while she interviews the man?
+a:She has a professional and respectful tone towards the man.
+i:She has a persuasive and reactive tone towards the man.
+q5:Is the woman in pink pleased with the man's responses?
+a:She is indifferent to his response because that is her job.
+i:She is pleased with his response because that is her job.
+q6:Is the man annoyed that he is being interviewed?
+a:He is not annoyed because he is happy to have a chance to explain his thoughts on the bill.
+i:He is annoyed because he is busy and doesn't have time to explain his thoughts on the bill.

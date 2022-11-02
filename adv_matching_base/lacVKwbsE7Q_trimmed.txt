@@ -1,0 +1,18 @@
+q1: Why does the girl cross her arms at 0:09?
+a: She is angry
+i: She is protecting herself
+q2:
+a: 
+i: 
+q3: Why does the girl decide to get in the pool at 0:18?
+a: She is aggravated with the other girl
+i: She wants to cool off
+q4: Why does the girl flail her arms at 0:50?
+a: She doesn't like being in the water
+i: She is drowning in the water
+q5:
+a:
+i:
+q6:
+a:
+i:

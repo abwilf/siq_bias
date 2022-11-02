@@ -1,0 +1,18 @@
+q1: What are the men planning to do?
+a: Recreating an experiment
+i: Create a multi-player game
+q2: Why do the men want to recreate the experiment?
+a: To experience it for themselves
+i: To prove the method unreliable
+q3: What are the men interested in learning about?
+a: Emotions
+i: Data structures
+q4: Do the men seem nervous about experiencing emotions?
+a: No
+i: Yes
+q5: Do the men agree on how the experiment should be carried out?
+a: Yes
+i: No
+q6: How do the men discuss the experiment?
+a: With a bit of immaturity
+i: With a bit of worry

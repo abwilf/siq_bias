@@ -1,0 +1,15 @@
+q2: What does the woman believe about climate change?
+a: She believes that we should fight it.
+i: She believes that it doesn't exist.
+q4: How does the woman share her opinion?
+a: She does it in a lighthearted way.
+i: She does it in a forceful way.
+q5: Are the pair respectful of one another?
+a: Yes.
+i: No.
+q10: What does the woman wish to convince people of?
+a: That the stereotype of people who believe in climate change is wrong.
+i: That the stereotype of people in the republican party is wrong.
+q11: Why does the man say he needs to ask his family?
+a: He is politely deflecting the woman's invitation.
+i: He thinks the woman is flirting with him.

@@ -1,0 +1,18 @@
+q1: Why doesn't the man want anyone to eat yet?
+a: He wants to first give an introduction
+i: He wants to first take pictures
+q2: How can the man's comment to not eat yet be considered?
+a: As hypocritical
+i: As rude
+q3: Why is the man on the right shaking his head at 0:18?
+a: The man in the center made a mistake
+i: The man in the center made a bad joke
+q4: What does the woman think of the zesty buffalo sauce?
+a: She thinks it's strange
+i: She's excited to try it
+q5: What does the man in the center's reaction to the hotdogs convey?
+a: Surprise
+i: Excitement
+q6: What are the people excited for?
+a: To eat together
+i: To cook together

@@ -1,0 +1,18 @@
+q1:Why does the interviewer apologize to the man in the blue tie?
+a:He apologizes for making the man in the blue tie uncomfortable and doesn't want him to get upset.
+i:He apologizes for making the man in the blue tie tell a lie and doesn't want him to get caught.
+q2:Why does the man in the blue tie wave his hands around while speaking?
+a:He is using his body language as a way to supplement what he is saying.
+i:He is using his body language as a way to distract from what he is saying.
+q3:Does the man in the blue tie like the questions that the interviewer is asking him?
+a:No, he thinks they are odd and surprising.
+i:Yes, he thinks they are creative and visionary.
+q4:What is the attitude of the interviewer as he apologizes to the man in the blue tie?
+a:His attitude is indifferent as he continues on questioning him.
+i:His attitude is somber as he continues on questioning him.
+q5:What emotions does the man in the blue tie have as he is being asked questions?
+a:He feels nervous and put on the spot while being interviewed.
+i:He feels excited and put on the spot while being interviewed.
+q6:Do the two men know eachother well?
+a:The two men are not close, as they have a very formal way of speaking to each other
+i:The two men are very close, as they have a very friendly way of speaking to each other.

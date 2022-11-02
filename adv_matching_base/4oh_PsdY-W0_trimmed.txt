@@ -1,0 +1,18 @@
+q1: 
+a: 
+i:
+q2: Why are these people hosting this panel?
+a: They want to address the audience's questions.
+i: They want to debunk rumors.
+q3: Why does the woman in red nod her head at 0:39?
+a: She agrees with what is being said.
+i: She is confirming that she would like water.
+q4: Why does the man in green make hand motions at 0:30?
+a: To illustrate the things he is listing.
+i: He is doing sign-language.
+q5: 
+a: 
+i:
+q6: Why is everyone quiet when the man in green finishes speaking at 0:35?
+a: They have no more comments regarding the subject.
+i: They disagree with his comments on the subject.

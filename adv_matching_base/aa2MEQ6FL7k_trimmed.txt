@@ -1,0 +1,18 @@
+q1: What is the tone of the man?
+a: Nostalgic and serious, but in a light-hearted manner.
+i: Rude and aggressive.
+q2: Why does the woman only speak once?
+a: She is asking him a question and does not want to interrupt his response.
+i: She is scared of the man so doesn't want to talk to him.
+q3: Does the man seem to know what he is talking about?
+a: Yes, he gives calculated and confident answers while he speaks.
+i: No, he stutters and speaks so softly he is barely heard.
+q4: What is the tone of the conversation?
+a: Professional and curious, with the man seeming nostalgic. 
+i: Sad and depressing.
+q5: Does the woman enjoy listening to the man?
+a: Yes, she sits facing him, does not interrupt him, and listens attentively.
+i: No, she sits with her arms crossed with a scowl on her face and does not face him.
+q6: Why does the woman move her arms out in front of her while she talks to the man?
+a: She is using gestures to emphasize what she is saying.
+i: She is afraid and trying to keep the man from getting close to her.

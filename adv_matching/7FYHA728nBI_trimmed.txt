@@ -1,0 +1,22 @@
+q1: What does the man on the left think of his work?
+a: He is confident in it.
+i: He is insecure about it.
+q2: Is the man on the left bored?
+a: No, he is interested in sharing about his field of work.
+i: Yes, he is rolling his eyes as the other men ask him questions.
+q3: Why does the man on the right ask the man on the left to explain the process?
+a: He wants to understand how technology ties in.
+i: He wants to understand their business model.
+q4: What is the dynamic between the men?
+a: The men on the right are learning from the man on the left.
+i: The man on the left is learning from the men on the right.
+q5: Why does the man mention someone finding out that they had cancer?
+a: To show how crucial his company's work can be.
+i: To show how precious life can be.
+q6: What does the man's comment about 23 and Me imply?
+a: He feels his company is more impactful. 
+i: Many of his initial ideas were inspired by their company.
+
+
+
+

@@ -1,0 +1,23 @@
+q1: How does the woman in the black and white top feel about the situation?
+a: She doesn't really know what to think.
+i: She is very excited to be participating.
+
+q2: How does the lady in the blue patterned-blouse feel towards the man in the white robe?
+a: She is puzzled by him. 
+i: She feels close to him. 
+
+q3: For what reason did the host of the show emphasize the home owner's unique name?
+a: He wished to bias his audience against the home owner — in an attempt to justify his future treatment against her.
+i: He wished to clarify, for his audience, the correct pronunciation of this name — in an attempt to prevent the home owner any embarrassment later.
+
+q4: What made the lady, in the blue patterned-blouse, smile when hearing the robed man's declaration of intent?
+a: Incredulous: she didn't believe he was actually being serious!
+i: Highly entertained: she never *heard* such a funny joke before!
+
+q5: The robed man sure is...
+a: ...Presumptuous and brazen!
+i: ...Shy and timid!
+
+q6: Why doesn't the man in the suit speak?
+a: Cognizant of the present situation, he opts not to speak unless spoken to.
+i: He is distracted by a balloon float parade that's passing by.

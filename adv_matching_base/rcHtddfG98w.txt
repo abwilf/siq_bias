@@ -1,0 +1,15 @@
+q1: How does the man feel about the quote?
+a: He is conflicted because he agrees with some parts and disagrees with others
+i: He is disgusted that someone could be so homophobic
+q2: How does the man feel about corporatist democrats?
+a: He feels annoyed by their disposition
+i: He feels enlightened by their ideas
+q3: Why is the man frustrated?
+a: He wants people to understand the importance of voting in the primaries
+i: He received the least amount of votes in the primaries
+q4: How does the woman show she is listening?
+a: She expresses her attentiveness by looking the man in the eyes and nodding
+i: She expresses her attentiveness by repeating the man's words
+q6: How does the man think people feel about the choices they have?
+a: He thinks people are disappointed with the candidates in the election
+i: He thinks people are inspired by the candidates in the election

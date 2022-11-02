@@ -1,0 +1,21 @@
+q1: Why were people bullying Kanye about his hat?
+a: They don't support its message
+i: They don't support the designer of it
+q2: What does the man imply about Kanye being that he wore the item all week?
+a: He doesn't care about others
+i: He is unhygenic
+q3: Why is Kanye's hat worth mentioning?
+a: It's offensive
+i: It's an unusual material
+q4: Why does the man in orange mention his own outfit?
+a: He regrets wearing it
+i: He feels self-conscious wearing it
+q5: Is the man in orange insecure about his looks?
+a: No
+i: Yes
+q6: Does the man in orange hate Kanye's hat?
+a: Yes
+i: No
+
+
+

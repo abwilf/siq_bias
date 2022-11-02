@@ -1,0 +1,18 @@
+q1: Which man expresses the most excitement?
+a: The man on the left
+i: The man on the right
+q2: Does the guest seem to be controversial?
+a: Yes
+i: No
+q3: Why is the man's experience of Hurricane Katrina of interest to the other man?
+a: Because he was in a position of authority
+i: Because he was a survivor
+q4: 
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

@@ -1,0 +1,18 @@
+q1: Why does the woman gasp at 0:15?
+a: She is shocked at the story
+i: She is shocked at the food
+q2: Which memory is the man recalling?
+a: One from childhood
+i: One from his wedding day
+q3: Why does the audience groan at 0:48?
+a: The food is unappealing
+i: The food fell on the floor
+q4: What does the man imply about kids who are "up at this hour"?
+a: They are already making mistakes
+i: They have anxiety
+q5: How did the man feel when the firetrucks arrived?
+a: He felt remorseful
+i: He felt proud
+q6: Why did the man begin reading his bible?
+a: He wanted to please his father
+i: He wanted to be more religious

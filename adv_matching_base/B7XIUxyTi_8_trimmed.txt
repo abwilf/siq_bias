@@ -1,0 +1,26 @@
+q1: Is the woman serious about the names she proposes?
+a: No
+i: Yes
+q2: What is the mood of the dialogue?
+a: Lighthearted
+i: Formal
+q3: Why did the woman come up with baby names for the man?
+a: To be funny
+i: To be helpful
+q4: What does the woman losely make fun of?
+a: The man's surname
+i: The name the man chose
+q5: Why does the man squint at 0:19?
+a: The name is unusual
+i: He is looking for an audience member
+q6: Why does the little girl in pink scream?
+a: She is excited
+i: She is frustrated
+
+
+
+
+
+
+
+

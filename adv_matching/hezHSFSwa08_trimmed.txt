@@ -1,0 +1,18 @@
+q1: Why does the man cross his fingers?
+a: He is wishing for something
+i: He is demonstrating the closeness of his pets
+q2: What is the man wishing for as he crosses his fingers?
+a: A mistake to have been made
+i: That he can pull off the surprise
+q3: How does the man feel about Trump's presidency?
+a: Disappointed
+i: Confident
+q4: Does the audience seem to side with the man's political stance?
+a: Yes
+i: No
+q5: Does the man's comment about republicans imply that he is one?
+a: No
+i: Yes
+q6: How can the audience's vocal reaction to Trump being introduced be characterized as?
+a: As divided
+i: As supportive

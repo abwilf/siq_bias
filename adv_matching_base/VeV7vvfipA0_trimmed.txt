@@ -1,0 +1,23 @@
+q1: Why did the man with the bow tie close his eyes while nodding?
+a: He was agreing with what the man with the glasses said. 
+i: He was tired and trying to stay awake.
+
+q2: What does the man with the bow tie's tone and pace suggest?
+a: That he is comfortable with talking about the subject.
+i: That he is nervous with talking about the subject and wants to finish the discussion quickly.
+
+q3: Why does the man in the striped shirt interject while the other man is talking?
+a: He interjects in agreement to a point being made.
+i: He interjects in objection to a point being made.
+
+q4: Why did the man with glasses ask so many questions so quickly?
+a: He is excited about the answers to all of these questions.
+i: He has no patience with the other man.
+
+q5: Why is the host asking the guest questions?
+a: He wants to learn more about the topic being discussed.
+i: He wants to confuse the guest by asking hard questions.
+
+q6: Why is the man in the bow tie answering these questions?
+a: He is knowledgeable about the topic and wants to educate others. 
+i: He is knowledgeable about the topic and wants to hear himself talk.

@@ -1,0 +1,23 @@
+q1: Who is the man in a grey suit talking to primarily?
+a: He mainly converses with the woman with the red jacket.
+i: He is addressing everyone equally.
+
+q2: Does the woman with a red jacket acknowledge the man in the brown jacket's statements?
+a: No, she just moves the conversation forward.
+i: Yes, she provides feedback on what he said.
+
+q3: Are the people all engaged in the discussion?
+a: Yes, they seem to be engaged in listening or speaking
+i: No, some people are bored with the subject matter.
+
+q4: Who is leading this discussion?
+a: The woman in the red jacket is leading the discussion.
+i: The man in the grey suit is leading the discussion.
+
+q5: What do the people think about the subject matter being discussed?
+a: The people seem to be thinking that there is not enough awareness about this topic.
+i: Thee people seem to be thinking that it is an exciting topic to discuss.
+
+q6: Why does the woman with the red jacket occasionally say "mmm" as the man in a grey suit is speaking?
+a: To show that she was interested in what he said. 
+i: To show that she agrees with a point he made.

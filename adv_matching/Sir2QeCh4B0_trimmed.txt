@@ -1,0 +1,18 @@
+q1: What is the tone of the conversation at the start of the video?
+a: The tone is informative
+i: The tone is sarcastic
+q2: What does the woman want to do?
+a: She wants to improve the effectiveness of their teaching
+i: She wants to change school policies
+q3: Who is the leader of the interaction?
+a: The leader is the blonde woman
+i: The leader is the man in the white and red shirt
+q4: How do the children react to what the blonde woman has to say?
+a: The children are bored but attentive
+i: The children are excited and negligent
+q5: How does the tone of the blonde woman change throughout the video?
+a: Her tone changes from informative to inquisitive 
+i: Her tone changes from inquisitive to informative
+q6: Why does the woman want to improve their teaching?
+a: The children are struggling to learn
+i: The children are learning at an accelerated pace

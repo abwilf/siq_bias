@@ -1,0 +1,18 @@
+q1: What is the tone of the interaction?
+a: Serious
+i: Cheerful
+q2: Has the blonde haired woman been pressuring the other woman to share?
+a: No
+i: Yes
+q3: Is the blue haired woman typically open to sharing her struggles?
+a: No
+i: Yes
+q4: How did the blue haired woman deal with her issues?
+a: She isolated herself
+i: She relied on family
+q5: What has the blue haired woman recently found?
+a: Inspiration
+i: Love
+q6: Does the blue haired woman trust the other woman?
+a: Yes
+i: No

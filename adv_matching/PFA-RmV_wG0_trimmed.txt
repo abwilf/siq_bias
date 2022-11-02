@@ -1,0 +1,20 @@
+
+
+q1: How does the audience feel about the man in the grey button down shirt?
+a: They are highly amused by the man.
+i: They are very uncomfortable by the man
+q2: Is the man in the black sweater impressed?
+a: Yes, he is impressed with the man's performance
+i: No, he is quite bored and unenthusiastic by the man's performance.
+q3:Why does the man in the black sweater hold the toy in both hands?
+a: He is following directions from the man in the grey shirt
+i: It is a fragile toy and he doesn't want to break it.
+q4: Is the man in the grey button down shirt confident? 
+a: Yes, he is very confident during his performance/ 
+i: No, he is awkward and shy during his performance.
+q5: What is the tone of the blonde woman at the beginning of the video?
+a: She is shocked 
+i: She is bored.
+q6: How does the woman at :29 show her suprised?
+a: She gasps and puts her hand on her mouth
+i: She widens her eyes and her mouth.

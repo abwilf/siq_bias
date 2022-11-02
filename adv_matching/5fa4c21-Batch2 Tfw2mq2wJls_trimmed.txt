@@ -1,0 +1,23 @@
+q1: What was intended by the gesture which the guest made at 0:18?
+a: He wished the visually replicate the mindset of those who demonstrate willful ignorance.
+i: He wished to visually replicate the mindset of those who demonstrate celebratory mania.
+
+q2: Why did the man on the right furrow his brows?
+a: He was thinking and concentrated.
+i: He was doubtful and condescending.
+
+q3: How do the men feel about their conversation?
+a: Their conversation is productive, hypotheses are confirmed.
+i: Their conversation goes nowhere, resolving nothing.
+
+q4: The guest's head nods towards the host suggest the guest is...
+a: ...enthralled, following along with what the host says.
+i: ...disengaged, passive-aggressively suggesting he is tired of listening to the host talk.
+
+q5: How are the host and guest getting on with each other?
+a: They are very cordial towards one another, discussing their topic normally.
+i: They are very belligerant towards one another, on the verge of blows.
+
+q6: Are the guest and host staying on topic?
+a: They are, they enjoy what they're discussing and display a razor-sharp focus.
+i: They are not, they enjoy what they're discussing but constantly go off on tangents.

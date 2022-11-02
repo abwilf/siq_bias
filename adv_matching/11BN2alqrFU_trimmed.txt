@@ -1,0 +1,18 @@
+q1: How does the man portray himself?
+a: As an introvert.
+i: As an extrovert.
+q2: Why is the man in a good mood at the end of the video?
+a: He is imagining a happy scenario.
+i: He has been nominated for an award.
+q3: Why does the woman ask the man what he would be doing if he were retired?
+a: She wants to know what he truly enjoys.
+i: She wants to convince him to keep working.
+q4: How can the man's ideal day be characterized as?
+a: Relaxing.
+i: Adventurous.
+q5: Is the man a gregarious person?
+a: No, he is more reserved.
+i: Yes, he loves parties.
+q6: How does the man feel about the men he sat next to for the movie?
+a: He is very fond of them as they have history together.
+i: He was irritated by their constant chatting.

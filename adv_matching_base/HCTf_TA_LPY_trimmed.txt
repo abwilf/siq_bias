@@ -1,0 +1,18 @@
+q1: Is the man in the suit acting arrogant?
+a: No, he is personable and kind, and talks about how thankful and grateful he is.
+i: Yes, he scoffs and rolls his eyes while talking in a rude manner.
+q2: Why does the man in the suit stutter?
+a: He is thinking of what to say next.
+i: He is trying to be funny.
+q3: Are the two men relaxed with each other?
+a: Yes the men address each other by first name and speak causally with each other.
+i: No the men address each other formally and act like strangers.
+q4: Why does the man in the suit look downward while the bald man asks him a question?
+a: He is listening to the bald man and concentrating on what he is saying.
+i: He thinks the bald man is gross and doesn't want to look at him.
+q5: Why does the audience laugh?
+a: The bald man said something funny that made everybody laugh.
+i: The bald man did something embarrassing that they are laughing at.
+q6: Is the man in the suit scared?
+a: No, he seems confident and happy.
+i: Yes, he seems anxious and nervous.

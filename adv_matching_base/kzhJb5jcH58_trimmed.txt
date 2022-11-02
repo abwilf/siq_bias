@@ -1,0 +1,18 @@
+q1: How does the woman describe herself?
+a: As self-reflective
+i: As self-deprecating 
+q2: What does the woman's tone and pace of speech suggest?
+a: That she is relaxed
+i: That she is nervous
+q3: What did the woman think of her parents not answering the phone?
+a: It was hypocritical
+i: It was worrying
+q4:
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

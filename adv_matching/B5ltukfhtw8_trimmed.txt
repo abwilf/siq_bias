@@ -1,0 +1,18 @@
+q1: What did the woman from the exchange program appreciate?
+a: The cheap travel 
+i: The educational experience
+q2: How does the woman on the right feel about the pair's Europe travels?
+a: She feels a little jealous
+i: She feels that it's a little dangerous
+q4: Is the pair open-minded?
+a: Yes, they want to experience other cultures
+i: Yes, they love adrenaline-rush experiences
+q7: Which person seemed particularly fond of the Sir Walter Scott monument?
+a: The man
+i: The woman
+q8: What did the couple prioritize after the exchange program ended?
+a: Visiting other countries
+i: Visiting their families
+q9: Do the pair feel the program had an impact on them as people?
+a: Yes
+i: No

@@ -1,0 +1,18 @@
+q1: 
+a: 
+i: 
+q2: What does the man hope to achieve with his lesson plan?
+a: To target development in several areas.
+i: To boost standardized test scores.
+q3: 
+a: 
+i: 
+q4: 
+a: 
+i: 
+q5: What is the man's goal?
+a: To prep students for more advanced material.
+i: To prep students for the college application process.
+q6: Does the man care about the education of his students?
+a: Yes, he has developed a well-thought-out lesson plan.
+i: Yes, he has written a textbook that pairs with his course.

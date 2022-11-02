@@ -1,0 +1,20 @@
+q1: What is the overall behavior of the man on the left?
+a: He is reserved
+i: He is energetic
+q2: Who is more amused by the cards being read?
+a: The man on the right
+i: The man on the left 
+q3: What does the expression when he tastes the beer imply? 
+a: He likes it
+i: It tastes bad
+q4: How does the man on the left react when the man on the right asks him if he needs the medicine?
+a: He seems uncomfortable
+i: He seems grateful
+q5: How does the man on the left seem when stating that his son is in the service?
+a: Humble
+i: Very proud
+q6: Why does the man on the left look down at 0:49?
+a: He feels the other man overshared
+i: He feels shamed by the other man
+
+

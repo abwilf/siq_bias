@@ -1,0 +1,18 @@
+q1: How do the pair feel after the flight?
+a: Uncomfortable
+i: Energized
+q2: Why do the women on the left repeat the other woman's words at 0:09?
+a: To let her know they understand
+i: To let her know they are pondering her comment
+q3: Why does the woman on the left give a thumbs up at 0:48?
+a: The woman is new to speaking the language
+i: The woman is new to being a journalist
+q4: Do the pair speak positively about their flight?
+a: No
+i: Yes
+q5:
+a:
+i:
+q6:
+a:
+i:

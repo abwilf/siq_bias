@@ -1,0 +1,20 @@
+
+
+q1: Why does the man in glasses point around the room with his fingers?
+a: He is emphasizing his point about travelling.
+i: He is pointing at different objects around the room.
+q2: What is the tone of the men?
+a: They are very calm.
+i: They are excited and upbeat.
+q3:Why does the man with the long hair laugh at 0:19?
+a: He finds the other man's recounting of a happening funny.
+i: He is uncomfortable with what the other man is saying and is laughing nervously.
+q4: Do the two men seem to have a busy life?
+a: Yes, they have a really busy and tight schedule.
+i: No, they have a lot of leisurely, down time.
+q5: How does the blonde man feel about interacting with his fans?
+a: He is disappointed that he doesn't get to interact with them. 
+i: He is grateful that he doesn't have to interact with them.
+q6:Why does the blone man interrupt the dark haired man at :08?
+a: He wants to clarify what the dakr haired man is talking about.
+i: He disagrees with what the dark haired man said.

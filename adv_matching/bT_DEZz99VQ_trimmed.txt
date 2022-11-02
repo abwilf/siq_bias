@@ -1,0 +1,18 @@
+q1: Why are the people in front of the man in the suit yelling?
+a: Because they are trying to be entertaining.
+i:
+q2: How does the bald man feel about the woman with the pink shirt on? 
+a: He feels that she is a nice woman and is able to joke around with her. 
+i:
+q3: Why was the man in the suit not ready for the yelling?
+a: Because it is not typical for people to yell like that.
+i:
+q4: Why does the bald man have his mouth open after the group of people give their chant? 
+a: He was surprised by the intensity of their chant. 
+i:
+q5: How does the group of people standing behind the podiums feel about being there? 
+a: They are very excited to be there. 
+i:
+q6: Why is everyone laughing at the woman in the violet dress?
+a: Because she sounded like she was a prostitute.
+i:

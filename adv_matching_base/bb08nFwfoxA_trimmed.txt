@@ -1,0 +1,23 @@
+q1: How can the woman's parents be described?
+a: As open-minded
+i: As strict
+q2: What type of childhood did the woman have?
+a: An adventurous one
+i: An unstable one
+q3: Why does the woman take a moment to recall when she first went abroad?
+a: She's travelled many times
+i: It was insignificant to her
+q4: How does the woman speak about her time in New England?
+a: She speaks of it in a nostalgic way
+i: She speaks of it in a boring way
+q5: How does the woman feel about the memories she has of childhood?
+a: She is grateful for them
+i: She wants to forget them
+q6: How does the man act towards the woman?
+a: He asks thoughtful questions
+i: He rushes through questions
+
+
+
+
+

@@ -1,0 +1,18 @@
+q1: Who is in control of the game?
+a: The woman on the right, because she distributes the tools and is asking the questions related to the game.
+i: The man, because he is quiet and watching the women.
+q2: Why does the man keep repeating himself at the end?
+a: He is defending his answer with a repeated explanation.
+i: He is repeating as he thinks he isn't being heard.
+q3: Why are the people holding paddles in their hands?
+a: The paddles are part of the game they're playing and are visual representations of the answers they give.
+i: They are about to fight each other with the paddles.
+q4: Why did the woman in the middle touch the man when she talked to him?
+a: She is surprised at the answer he gave.
+i: She is trying to push him away because he smells bad.
+q5: How do the three people feel about each other?
+a: They feel friendly and comfortable with one another.
+i: They are uncomfortable and ready to leave.
+q6: Are the three people enjoying playing the game together?
+a: Yes, as they are all smiling throughout it.
+i: No, as they struggle to remember the rules.

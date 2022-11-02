@@ -1,0 +1,18 @@
+q1: How does the man in the hat like to portray himself?
+a: He likes to portray himself as eccentric and jovial
+i: He likes to portray himself as elusive
+q2: Why is the situation humorous?
+a: The men are an unlikely duo
+i: The men are pulling a prank
+q3: Why is the audience excited at the end of the video?
+a: They want a t-shirt from the launcher
+i: They want to see the men dance
+q4: Why does the audience "aww" at 0:34
+a: To express their approval of the man's story
+i: They feel bad for the two men
+q5: Why do the men touch their glasses together?
+a: To express togetherness to one another
+i: To compare the colors of their drinks
+q6: Why does the man behind the desk ask the man in the hat if he wants to say something?
+a: He wants to be considerate and inclusive
+i: He is worried the man is angry with him

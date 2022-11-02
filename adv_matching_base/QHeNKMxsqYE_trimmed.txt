@@ -1,0 +1,18 @@
+q1: How does the couple feel about adoption?
+a:They are open and will to adopt.
+i:They don't disagree with adoption, they just don't feel like it's the right option for them.
+q2:How does the man look at the woman next to him?
+a:He looks at her with love and and approval.
+i:He looks at her with curiosity 
+q3: Do the couple agree with each other?
+a: Yes, the both agree and are on the same page with one another.
+i:No, the woman does not feel the same way as the man about having kids.
+q4: How did the couple react when they found out about the childs heart condition.
+a:They felt overwhelmed but loved the child regardless. 
+i: They regretted adopting the child because they didn't know how they would afford it's health care.
+q5:Why does the woman shrug her shoulders at :15?
+a: To indicate that the decision to adopt came kind of spontaneously and that they just went with the flow
+i: Because she was feeling defeated about the childs heart condition.
+q6: How did the woman in the grey cardigan know something was wrong with her child?
+a: She felt the child was not growing normally .
+i: The child would not stop crying.

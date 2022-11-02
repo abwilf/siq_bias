@@ -1,0 +1,18 @@
+q1: Why do the pair embrace at the beginning of the video?
+a: The man is greeting the woman
+i: The man is thanking the woman
+q2: Does the woman express confidence in her outfit?
+a: No
+i: Yes
+q3: Why did the woman choose her outfit?
+a: For practical reasons
+i: For style purposes
+q4: How does the woman express in response to the man's compliment on her outfit?
+a: Surprise
+i: Flattery
+q5: Has the woman been on the show before?
+a: Yes
+i: No
+q6: What does the man think of the woman's outfit?
+a: It stands out
+i: It looks cozy

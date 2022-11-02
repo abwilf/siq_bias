@@ -1,0 +1,18 @@
+q1:Why does the woman in grey hold her hands together over the object she is holding.
+a:She is demonstrating how the product works.
+i:She is saying a prayer.
+q2:Does the woman in grey appear to be knowledgeable about what she is talking about?
+a:Yes, she seems quite calm and confident when speaking about the topic.
+i:No, she sounds anxious and nervous when speaking about the topic.
+q3:Why does the woman in blue smile and nod?
+a:She is agreeing with what the woman in grey is saying.
+i:She is trying to contain her annoyance at being unable to speak.
+q4:What is the overall tone of the video?
+a:The tone is light and professional.
+i:The tone is stark and angry.
+q5:How do the two women interact with each other.
+a:They interact in a polite, professional, calculated way.
+i:They act relaxed and silly, trying to make each other laugh.
+q6:Why does the lady in grey laugh at 0:27?
+a:She just made a joke.
+i:She is laughing at the lady in blue who made a mistake.

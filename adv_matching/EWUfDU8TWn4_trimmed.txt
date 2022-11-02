@@ -1,0 +1,18 @@
+q1: Why does the man in white hit the arm of the man in black at 0:45?
+a: It is a friendly gesture
+i: The man made a rude comment
+q2: Why are the people interacting?
+a: They are playing a game
+i: They are having a debate
+q3: What does the vocal expression of the man in black at 0:32 indicate?
+a: That he agrees with the woman
+i: That he disagrees with the woman
+q4: Why does the man snap his fingers at 0:59?
+a: He wants the woman to finish his statement
+i: He wants to support the woman's statement
+q5: What does the woman's vocal expression at 0:42 convey?
+a: Disappointment
+i: Excitement
+q6: Who is mediating the game?
+a: The man in white
+i: The man in black

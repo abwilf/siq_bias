@@ -1,0 +1,18 @@
+q1:What is the tone of the video?
+a: Lighthearted and fun
+i: Very serious and sincere.
+q2: Why does the man in the suit ask the same question over and over?
+a: He does this for comedic effect
+i: He does this because the man in the grey will not answer him.
+q3: What is the reaction of the man with the glasses at :57?
+a: He is surprised that the wall is spinning
+i: He is not surprised that the wall is spinning because he knew there was a secret room in the house.
+q4: What is the demeanor of the man in the grey shirt throughout the video
+a: He is stoic and doesn't speak much.
+i: He is happy to show the man in the glasses around his house. 
+q5: Why does the audience cheer at 0:19?
+a: They cheer because they think the man with glasses is clever.
+i: They cheer because they are happy about what is happening.
+q6: Is the man in the grey amused by the man in the suit at the beginning of the video?
+a: Yes, he finds the man in the glasses amusing
+i: No, not at all, he seems more annoyed than anything.

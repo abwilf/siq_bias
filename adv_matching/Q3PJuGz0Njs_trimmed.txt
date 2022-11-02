@@ -1,0 +1,18 @@
+q1: How does the teacher encourage the group? 
+a: Through words
+i: Through gestures
+q2: What does the teacher stating Dan's name indicate?
+a: She would like him to present
+i: She would like him to leave
+q3: Is Dan comfortable with presenting?
+a: Yes, he begins immediately
+i: No, he slowly walks to the front of the room
+q4: What does the teacher hope for the group?
+a: That they can support each other
+i: That they can become life-long friends
+q5: Does the group work well together?
+a: Yes
+i: No
+q6: How does the man react to the woman's news at the end of the video?
+a: Calmly
+i: Bitterly 

@@ -1,0 +1,18 @@
+q1: What is the attitude of the conversation? 
+a: Relaxed and inquisitive
+i: Tense and conflicting
+q2: What is the relationship between the three men?
+a: The man in the blue shirt is the expert and the other two men are learners
+i: The man in the blue shirt is the learner and the other two men are experts
+q3: What does the man like to do when he is approaching the goal straight on?
+a: He likes to finnesse it 
+i: He likes to abandon it
+q4: What temperment does the man in the blue shirt have towards the game being played?
+a: He is competitive
+i: He is casual
+q5: Why does the man in the blue shirt like to split up his games?
+a: Otherwise he gets tired
+i: Otherwise he doesn't have enough time
+q6: How does the man in the plaid respond to the man in the blue shirt's answers to his questions?
+a: He repeats the answers to make sure he understands properly
+i: He moves on to the next question after assuming he understands properly

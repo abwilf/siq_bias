@@ -1,0 +1,21 @@
+q1: Why does the man mention that there were two paragraphs about conjoined twins?
+a: To express that there wasn't much information available about them.
+i: To describe his first time ever hearing about the condition.
+q2: Was the couple confident in their daughters' fate?
+a: Yes.
+i: No.
+q3: What was unusual about the daughters at birth?
+a: There were healthy.
+i: They weren't conjoined as expected.
+q4: How did the family keep things lighthearted at the birth?
+a: With humor.
+i: With singing.
+q5: Why were the nurses giggling?
+a: They felt happy to see the family in good spirits.
+i: They were making cruel jokes.
+q6: What was the couple's attitude upon learning they were going to have conjoined twins?
+a: They were optimistic.
+i: They felt burdened.
+
+
+

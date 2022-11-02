@@ -1,0 +1,18 @@
+q1: What made the audience laugh while the guinea pig was shown?
+a: The man holding the guinea pig made hilarious and exaggerated comments about it.
+i: The guinea pig did something hilariously silly.
+q2: Why does the man in the suit lick the tip of the pen he is holding?
+a: He is pretending to take notes as a joke.
+i: He is pretending to eat with it.
+q3: Is the man in the hat afraid of the animals?
+a: No, he is holding them close to his body and does not show any anxiety or fear of them.
+i: Yes, he is demonstrating a very anxious behavior due to being in proximity of them.
+q4: How did the audience react when the guinea pig first showed up?
+a: They thought he was adorable and made noises to show this.
+i: They thought it was surprising and gasped to show this.
+q5: Why does the man in the hat pause often while describing the guinea pig?
+a: He was pausing for comedic affect after each line he delivered, to give the audience a chance to absorb his words.
+i: He was having difficulty figuring out how to creatively describe the animal.
+q6: Why does the man in the suit nod at the end?
+a: He was showing his surprise and understanding of what the other man had just explained.
+i: He was answering a question the other man asked him.

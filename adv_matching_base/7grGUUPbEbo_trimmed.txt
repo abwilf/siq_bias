@@ -1,0 +1,21 @@
+q1: Why does the man in brown say "Nashville" in a scared voice?
+a: He wants to make people laugh.
+i: He wants to confuse people.
+q2: How does the man in black perceive the couple?
+a: He thinks they are opposites.
+i: He thinks they are just alike.                                      
+q3: How does the man in brown react to the other man's assessment of him and his wife?
+a: With a joke. 
+i: With a scowl.
+q4: How does the couple feel about Nashville?
+a: They love it.
+i: They feel uninspired there.
+q5: Are the couple invested in the show?
+a: Yes, they have put a lot of time into it.
+i: No, they prefer working on their singing careers.
+q6: What is evident about the couple from the video?
+a: They have a sense of humor.
+i: They don't tolerate nonsense.
+
+
+

@@ -1,0 +1,18 @@
+q1: What are the man's intentions with the speech he is making.
+a: He is trying to spread knowledge and get the audience interested in what he is speaking about.
+i: He is telling the audience off and wants them to be ashamed of themselves.
+q2: Is the man passionate?
+a: Yes, he seems to really enjoy what he is talking about and wants to get others to enjoy it as well
+i: No, he is merely trying to explain something that he isn't particularly interested in.
+q3: Why does the man gesture towards the camera as he speaks?
+a: He is indicating towards the audience, who he wants to convince of his argument.
+i: He is angry and trying to punch the camera.
+q4: Why does the man keep looking away from the camera as he speaks?
+a: He is doing this as his thought process when he is trying to decide what to say next.
+i: He is keeping an eye on something that is happening off camera.
+q5: What is the tone of the video?
+a: It is personable, knowledgable, and informative, and the man is inviting and kind.
+i: It is annoying and overactive, with too much happening at once.
+q6: Does the many seem angry?
+a: No, he is always smiling or talking with a kind and steady, moderate voice.
+i: Yes, he is yelling and balls his fists up in anger.

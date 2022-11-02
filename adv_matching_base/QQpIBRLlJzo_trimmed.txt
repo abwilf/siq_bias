@@ -1,0 +1,18 @@
+q1: What is the nature of conversation between the 2 men?
+a: It is lighthearted and fun.
+i: It is serious yet passionate.
+q2: How does the man on the right react the other man when he talks about the clip?
+a: He responds with sarcasm.
+i: He is thankful for the man bringing the clip.
+q3: How does the man in the glasses feel about the carnival attraction he ran?
+a: He wasn't fond of it because it wasn't popular and the prizes didn't smell good.
+i: He enjoyed it because he was able to meet new people and get free carnival food.
+q4: Why does the man with glasses laugh at the end of the video?
+a: The man across from him made a joke that he found funny.
+i: He is laughing about something funny that happened at the carnival.
+q5: Did the man in the glasses ever feel like he had enough with the carnival?
+a: Yes, he was tired of the atmosphere.
+i: No, he really misses the carnival and would love to work there again.
+q6: Why does the man wave his finger in the air at :45?
+a: He is describing a ride from the carnival.
+i: He is describing the crazy man who worked an attraction next to his.

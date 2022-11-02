@@ -1,0 +1,18 @@
+q1: What is awkward about the conversation at the beginning of the video?
+a: The man standing behind him
+i: The man interrupting him
+q2: What does the man in the black t-shirt wish to do?
+a: Convince the other man 
+i: Comfort the other man
+q3: What upsets the man in the black shirt?
+a: People animal consumption
+i: People plastic consumption
+q4: Is the man disappointed that he failed the challenge?
+a: No
+i: Yes
+q5: What do the gestures of the man in the black t-shirt convey?
+a: Passion
+i: Angst
+q6: Why do the men shake hands at 0:30?
+a: To introduce themselves
+i: They have come to an agreement

@@ -1,0 +1,18 @@
+q1: Why did the man write the book?
+a: To teach others about hockey
+i: To teach others about basketball
+q3: Which audience did the man have in mind when writing the book?
+a: Younger people
+i: Older people
+q4: Is the memory of the man having to have his jersey stitched up a good one?
+a: Yes
+i: No
+q5: Why did the man have to have his jersey stitched?
+a: He was too skinny
+i: It tore during a game
+q7: How does the man recall times long ago in his career?
+a: He recalls them with ease
+i: He struggles to remember
+q9: How do we know the man loved his career?
+a: He wrote a book about it
+i: He is filming a movie about it

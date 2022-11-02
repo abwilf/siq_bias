@@ -1,0 +1,18 @@
+q1: Why does the woman change her tone at 0:42?
+a: She is mocking the man.
+i: She wants to lighten the mood.
+q2: What causes the girl's eyes to widen at 0:15?
+a: The level of insults
+i: The level of inappropriate flirting
+q3: How does the woman at 0:30 feel about the scuffle?
+a: Entertained
+i: Stressed
+q4: How does the woman behave in the argument?
+a: Aggressively
+i: Submissive
+q5: Why does the woman in white gesture to the woman in green?
+a: She wants to leave
+i: She wants to chat
+q6: Who does the woman in white imply her support for?
+a: The woman
+i: The man

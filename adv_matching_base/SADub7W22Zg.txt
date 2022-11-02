@@ -1,0 +1,18 @@
+q1: What is the man in black's attitude at the very start of the video?
+a: Incredulous and tired
+i: Agreeable and calm
+q2: What is the reaction of the man in the black and white t-shirt?
+a: He reacts with optimism and humor
+i: He reacts with pessimism and somber
+q3: Why does the man in the black shirt feel the way he does about the situation?
+a: He is exasperated because he has to drive back after dropping off the man 400 miles away
+i: He is looking forward to driving back after dropping the man off 400 miles away
+q4: Why did the audience respond the way they did while the men were inside the convenience store?
+a: They were acting in a childish manner
+i: They couldn't find the items they were looking for
+q5: How do the men respond to the snacks in the convenience store?
+a: With excitement and joy
+i: With lament and dissapointment
+q6: Why does the man in the black and white t-shirt ask if the other man wants antifreeze?
+a: He was making a sarcastic remark about the situation they're in
+i: He was concerned about the mechanical operation of their vehicle

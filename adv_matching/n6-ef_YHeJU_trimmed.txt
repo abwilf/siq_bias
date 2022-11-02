@@ -1,0 +1,18 @@
+q1: Why does the man rip the paper while singing?
+a: He has made his hiring decision
+i: To be entertaining
+q2: Why does the man hold up his hand at 0:15?
+a: He doesn't want the man to continue
+i: He wants to be included
+q3: What is the last straw for the man in purple?
+a: The man's singing
+i: The man's joke
+q4: What seems to be the problem with the man's interview?
+a: He is not being serious
+i: He is underqualified 
+q5:
+a:
+i:
+q6:
+a:
+i:

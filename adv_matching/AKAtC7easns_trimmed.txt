@@ -1,0 +1,19 @@
+q1: Why does the woman struggle to ask her first question?
+a: It's an awkward topic
+i: It's a particularly sensitive topic
+q2: Is the man shy?
+a: No
+i: Yes
+q3: Why does the woman not complete her first question?
+a: She wants the man to catch on without having to ask
+i: She realized the man wasn't listening to her
+q4: Which person seems more uncomfortable with the conversation?
+a: The woman
+i: The man
+q5: Why does the woman feel uncomfortable?
+a: They're discussing a topic personal to the man
+i: They're discussing a topic that brings up old memories
+q6: Why does the man double over at 0:55?
+a: He finds the joke particularly funny
+i: He has a stomach ache
+

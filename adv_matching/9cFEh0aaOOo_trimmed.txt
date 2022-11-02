@@ -1,0 +1,18 @@
+q1: Why does the man wiggle his fingers at 0:32?
+a: He is implying that he doesn't believe what was said in the broadcast.
+i: He is teasing the woman by pretending he is going to tickle her.
+q5: Why does the man ask questions to both of the women? 
+a: He wants to hear different perspectives.
+i: He is hoping to pit them against each other.
+q7: Why is the blonde woman upset? 
+a: She wants better for the community.
+i: She wants her family to have a better life.
+q9: What does the blonde woman want for the community?
+a: Regular updates.
+i: Heavier policing.
+q14: Was the brunette woman surprised by the broadcast?
+a: No.
+i: Yes.
+q15: How does the brunette woman react to the man's question?
+a: She is not surprised by it.
+i: She is caught off guard by it.

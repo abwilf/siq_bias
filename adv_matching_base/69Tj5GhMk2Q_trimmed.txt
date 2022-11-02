@@ -1,0 +1,18 @@
+q1: How does the man with the glasses act?
+a: He acts very strange and quirky.
+i: He acts very sophisticated and formal.
+q2: How does the audience feel about getting poked by the man in glasses?
+a: They feel good, laughing and clapping about it, holding up their hands hoping they will get poked by him.
+i: They are scared of him poking them and shy away when he comes near.
+q3: Why does the man in the suit laugh at the man in glasses?
+a: He thinks he is silly and funny.
+i: He is mocking the man in glasses because he hates him.
+q4: How does the man in the suit feel when the man in glasses disappears?
+a: He becomes worried about the whereabouts of the an in glasses.
+i: He was glad that the man in glasses disappeared.
+q5: Why does the man in glasses keep making strange noises?
+a: They are being made for comedic effect to make people laugh.
+i: He is having trouble breathing.
+q6: How does the audience show that they are enjoying the antics of the man in glasses?
+a: They are cheering and clapping for him.
+i: They are lining up to hug him.

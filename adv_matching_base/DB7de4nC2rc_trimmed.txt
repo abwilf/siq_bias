@@ -1,0 +1,18 @@
+q1: Why does the girl on the right think she will like the second product?
+a: It's flavor comparable to a coffee drink she likes
+i: Its scent is comparable to a candle she likes
+q3: What do the girls think of the candy?
+a: It's delicious
+i: It's too sweet
+q5: How do the girls feel to test the snacks?
+a: Excited
+i: Skeptical
+q7: What does the girl on the left scrunching up her face at the end of the video imply?
+a: She doesn't like green tea
+i: She got a whiff of the green tea scent
+q12: What excites the girl's to try the blueberry pretzel?
+a: Its scent
+i: Its color
+q19: Which girl enjoyed the blueberry pretzel more?
+a: The girl on the left
+i: The girl on the right

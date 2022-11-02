@@ -1,0 +1,18 @@
+q1: What is the tone of the video?
+a: The tone is anxious but fun
+i: The tone is serious but easy
+q2: What is the attitude of the child on the left?
+a: The attitude of the child on the left is determined
+i: The attitude of the child on the left is unmotivated
+q3: How does the child on the right feel about getting chomped
+a: The child on the right feels afraid of being chomped
+i: The child on the right feels excited about getting chomped
+q4: How does the child on the left feel after getting chomped?
+a: The child on the left feels pain and disappointment
+i: The child on the left feels happiness and pride
+q5: What is the relationship between the two childeren?
+a: The children are opponents
+i: The children are team mates
+q6: What is the objective of the children?
+a: The objective of the children is to win the game
+i: The objective of the children is to learn how to play

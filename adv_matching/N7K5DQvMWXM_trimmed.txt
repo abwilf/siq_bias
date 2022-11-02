@@ -1,0 +1,18 @@
+q1: What does the expression of the man in red at 0:21 suggest?
+a: He approves of the woman's solution
+i: He is horrified by the woman's solution
+q2: Why does the man in red cover his mouth at 0:29?
+a: He covers his mouth in disgust
+i: He covers his mouth to be polite
+q3: Why is the man in green sharing the woman's story?
+a: He thinks it is remarkable
+i: He thinks it is ironic
+q4: How did the woman in the story deal with her issue? 
+a: By drawing from her past experiences
+i: By seeking help from her father
+q5: Why does the man in red repeat the woman's age toward the end of the story?
+a: He thinks she was young to have had such a traumatic experience
+i: He thinks she was young to have had such remarkable achievements
+q6: 
+a: 
+i: 

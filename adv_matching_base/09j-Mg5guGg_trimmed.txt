@@ -1,0 +1,18 @@
+q1: How can Ryan be described?
+a: As a jokster.
+i: As a prankster.
+q2: What makes Ryan particularly likable in the video?
+a: He makes people laugh.
+i: He is nice to everyone.
+q3: What do the people in the studio think of Ryan wearing a pink shirt?
+a: They think it makes him attractive.
+i: They think it makes him look too feminine.
+q4: Why does the man clap at 0:15?
+a: He likes his guest's confidence.
+i: He is welcoming his guest.
+q5: How did people feel to hear that Brad Pitt would be in the film?
+a: Excited.
+i: Disappointed.
+q6: Is Ryan display arrogance?
+a: No, he is able to poke fun at himself.
+i: Yes, he makes jokes at the expense of others.

@@ -1,0 +1,18 @@
+q1: What does the woman's express as a family value?
+a: Healthcare
+i: Quality time
+q2: How does the man feel about his younger brother?
+a: He is grateful for the work he is doing
+i: He is annoyed by his indecisiveness 
+q3: Is the man bitter that his younger brother is doing better than him professionally?
+a: No
+i: Yes
+q4: How does the woman react to the man's news of his younger brother?
+a: She is impressed
+i: She is devastated
+q5: What does the woman's tone and facial expression convey when asking John about Samantha?
+a: Uncertainty
+i: Concern
+q6: How does the woman show her surprise at 0:24?
+a: Her eyes widen
+i: She gasps

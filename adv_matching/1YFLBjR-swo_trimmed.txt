@@ -1,0 +1,18 @@
+q1: Does the man on the left seem to be a supporter of Hillary?
+a: No, he speaks negatively about her church visits. 
+i: Yes, he commends her ability to problem solve.
+q2: Why has the man at 0:11 attached a pin to his jacket?
+a: To represent his patriotism.
+i: To represent his company.
+q3: Why does the man on the left repeat the other man's statement about Hillary?
+a: He finds it difficult to believe.
+i: He wants to reinforce the power of it.
+q4: What does the man on the left think of Hillary's church visits?
+a: They are not genuine. 
+i: They are appreciated by the community.
+q5: Why is the man straight-faced at 0:38?
+a: The candidate he supports is being mocked.
+i: The candidate he supports is losing.
+q6: Do the two men agree?
+a: No, they seem to be from opposing political parties.
+i: Yes, they seem to support the same candidate.

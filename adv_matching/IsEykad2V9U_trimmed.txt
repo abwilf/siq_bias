@@ -1,0 +1,18 @@
+q1: Who does the woman side with in her argument?
+a: Professors
+i: Universities
+q2: Is the woman timid in her disagreement?
+a: No
+i: Yes
+q3: How does the woman portray the group that the man speaks of?
+a: As oblivious
+i: As intelligent
+q4: How does the woman seem to think of higher education?
+a: As valuable
+i: As a scam
+q5: Does the woman show support for professors?
+a: Yes
+i: No
+q6: 
+a:
+i:

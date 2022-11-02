@@ -1,0 +1,21 @@
+q1: What may the woman suffer from based on her struggle?
+a: Social anxiety.
+i: Obsessive compulsive disorder.
+q2: Which person assists the other?
+a: The man helps the woman.
+i: The woman helps the man.
+q3: How does the man feel about helping others?
+a: Enthusiastic.
+i: Burdened.
+q4: Why is the man able to help the woman?
+a: He is confident in approaching others to talk.
+i: He is confident in approaching others to make sales.
+q5: Does the woman demonstrate arrogance?
+a: No, she admits an area she has trouble in.
+i: Yes, she boasts that she doesn't need his tips.
+q6: Is the woman trusting of the man?
+a: Yes, she has benefited from his tips.
+i: No, his tips got her into a difficult predicament. 
+
+
+

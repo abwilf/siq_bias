@@ -1,0 +1,18 @@
+q1: What makes the male's religious work unusual?
+a: His age.
+i: His culture.
+q2: How does the boy present his message to others?
+a: With conviction.
+i: With arrogance.
+q3: Is Reverend Hercules Jones supportive of the boy?
+a: Yes, he commends his work.
+i: No, he is critical of his work.
+q4: How does the boy prepare for his sermons?
+a: By speaking to God.
+i: By speaking to his father.
+q5: Does the boy feel he has a direct connection with God?
+a: Yes, he says God guides him through the Bible.
+i: Yes, he says God speaks to him about his future.
+q6: What demonstrates the level of value the boy places on the messages God is sending him?
+a: That he takes the time to speak them to others.
+i: That he takes the time to document them for a book he will publish.

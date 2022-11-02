@@ -1,0 +1,23 @@
+q1: Does the woman believe that she's knowledgeable?
+a: Yes, because she's comfortable giving advice to the audience. 
+i: No, she seems hesitant and therefore uncertain. 
+
+q2: Why does the man in red laugh?
+a: Because he thinks it is funny whenever people overreact to someone asking them for a proposal. 
+i: Because the man they are talking with says a funny joke, to which he cannot resist laughing.
+
+q3: Why aren't the woman and the man in the red shirt facing each other during their discourse?
+a: It is more comfortable, that way: they are addressing an audience — not each other. 
+i: As it so happens, they clearly despise one another; yet, they push on anyway.
+
+q4: How does the woman answer the man in black's question?
+a: The woman changes subjects so as not to express a preference for one side or another.
+i: The woman addresses the man's question directly and transparently.
+
+q5: What was the purpose of the man-in-grey's gesture, at 0:53, when the woman responds to him?
+a: Because he is showing that he is paying attention to her. 
+i: Because he disagrees with what she is saying and is trying to get her attention. 
+
+q6: Why are the woman and the man in the red shirt giving advice?
+a: They want to help people with their career.
+i: They are bored and have nothing better to do.

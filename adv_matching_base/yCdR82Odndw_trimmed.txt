@@ -1,0 +1,18 @@
+q1:How does the ban in the black collared shirt feel about the fox?
+a: He doesn't show much emotion towards the fox.
+i: He loves the fox and wants to pet it.
+q2: Is the man in the tie comfortable being around a fox?
+a: He is uneasy about being around the fox.
+i: Is is completely comfortable because he loves animals.
+q3: How does the man holding the fox feel about the blood on his arm?
+a:He is casual about it and shrugs it off.
+i: He is flustered about it.
+q4:Why does the man holding the fox laugh at :29?
+a:The man in the tie makes a joke about how the fox smells.
+i:The man in the tie makes a joke about the man in all black being afraid of the fox.
+q5: How is the group of men getting along?
+a:They are comfortable with one another and get along well.
+i:The man in the black collared shirt is uneasy with the fox so he is standoffish towards the other men.
+q6:Why does the man put the fox on the ground.
+a: He puts the fox down because it wont sit still in his lap.
+i:He puts the fox down to show the size of it while standing up. 

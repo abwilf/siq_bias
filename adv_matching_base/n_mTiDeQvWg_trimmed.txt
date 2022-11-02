@@ -1,0 +1,18 @@
+q1: How does the man in the blue striped tie portray Mexican negotiators?
+a: As clever
+i: As allies 
+q2: What does the man in the blue striped tie feel towards illegal immigrants being in the country?
+a: He finds them concerning
+i: He is sympathetic toward them
+q3: What does the man in the blue striped tie wish to do?
+a: Protect his country
+i: Challenge his country
+q4:
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

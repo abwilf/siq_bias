@@ -1,0 +1,19 @@
+q1: What is unique about the man's character?
+a: They have the same name
+i: They have the same passion
+q2: Do the people show interest in the man's character?
+a: Yes
+i: No
+q3: How does the man feel about getting mistaken for Michael J. Fox?
+a: He seems to take it as a compliment
+i: He seems to take it offensively
+q4: How does the man portray the life of the character?
+a: He has been having a hard time
+i: He has been having a great time
+q5:
+a: 
+i: 
+q6:
+a:
+i:
+

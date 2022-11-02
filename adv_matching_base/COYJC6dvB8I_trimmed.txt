@@ -1,0 +1,19 @@
+q2: How does the interaction between the two men go?
+a: The situation escalates when the man hands over his rights card
+i: The situation is resolved when the man hands over his identification
+q4: How do the authorities treat the immigrants?
+a: Aggressively
+i: Respectfully
+q5: Why does the man want the woman's name?
+a: To search if she is an illegal immigrant
+i: To check if her visa has expired
+q6: How does the man feel towards the woman?
+a: He is frustrated with her
+i: He is attracted to her
+q7: What is the mood of the room?
+a: Tense
+i: Lighthearted
+q8: Why doesn't the woman speak?
+a: She is in a risky situation
+i: She is shy
+

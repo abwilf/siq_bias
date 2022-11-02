@@ -1,0 +1,18 @@
+q1: Is the woman holding her head on her head while listening to the man because she is bored?
+a: No, she is just relaxed and is listening to what he is saying so she can answer effeciently 
+i: Yes, she gives the man a sarcastic answer afterwards and clearly barely listened to him properly.
+q2: Why does the woman cross her arms before she answers the first question?
+a: She is concerned that the answer she is about to give is not going to be satisfying.
+i: She is mad at the man beside her.
+q3: What is the tone of the video?
+a: It is serious and professional and a bit tense.
+i: It is hyper and happy.
+q4: Why does the man sitting next to the woman stay quiet the whole time?
+a: He is listening to the other people speak and does not want to interrupt.
+i: He is scared to speak.
+q5: How does the woman show she understands what the man is asking her as he is asking?
+a: She stares at him intently and then answer his question thoroughly after he is finished asking.
+i: She verbally tells him she understands while he is asking it.
+q6: Why does the woman pause for a while while she is answering the man?
+a: She is carefully thinking of and choosing her words before she speaks.
+i: She is so angry at the man she is having trouble answering him.

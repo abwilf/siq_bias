@@ -1,0 +1,18 @@
+q1: How does the man on the left feel about the discussion?
+a: He is enjoying himself.
+i: He is getting frustrated.
+q2: How do the people behave toward the sharing of opinions?
+a: They all agree with each other.
+i: They challenge each other.
+q3: 
+a: 
+i: 
+q4: What is meant by the man in green's comment at 0:21?
+a: He is implying that very few people dress as the characters did.
+i: He is implying that very few people are interested in how the characters dressed.
+q5: What did the woman with red hair enjoy about Lenny Kravitz's character?
+a: His makeup.
+i: His stunts.
+q6: Why is the character wardrobe worth mentioning?
+a: The outfits are unusual.
+i: The outfits are stunning.

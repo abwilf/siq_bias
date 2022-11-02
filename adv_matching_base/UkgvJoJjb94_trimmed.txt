@@ -1,0 +1,18 @@
+q1: How does the woman feel about being picked up and dropped to the ground?
+a: She doesn't like it because it's uncomfortable
+i: She thinks it's funny and is having a good time
+q2: Does the man seem to enjoy picking up and dropping the woman?
+a: Yes, he seems to think it is funny.
+i: Yes, as he is helping her practice a trick.
+q3: Why does the woman put her hands out in front of her at :07?
+a: She is gesturing because she disagrees with what the man is saying.
+i: She is gesturing because she doesn't want the man to pick her up anymore. 
+q4: How does the man feel about the woman's pain? 
+a: He doesn't seem to be concerned
+i: He wants to make sure she is ok
+q5:Why is the man clapping the woman's hands?
+a: He is clapping her hands because he wants her to make a specific sound.
+i: He is clapping her hands because he thinks his joke was worth acknowledgment
+q6: How does the Man feel about the joke the woman made at :24?
+a: He didn't think is was a very good joke.
+i: He thought it was a hilarious joke

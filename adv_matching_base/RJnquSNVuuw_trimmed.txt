@@ -1,0 +1,18 @@
+q1: How are the man and woman getting along?
+a: They are happy and getting along very well.
+i: They are frustrated but making an effort to get along.
+q2: Why are the man and the woman laughing at the beginning of the video?
+a: The safe space won't let them say certain things.
+i: A cute dog was brought into the safe space for comfort.
+q3: Does the woman think safe-spaces are effective?
+a: Yes, she feels recharged when she goes there. 
+i: No, she thinks they are pretentious.
+q4: Does the man seem to understand the woman's feelings about safe spaces?
+a: Yes, he acknowledges her feelings and continues to play along with her
+i: No, he thinks her issues that lead her to safe spaces should be resolved with therapy
+q5:Why did the woman not get mad at the man?
+a: She recognized that he was in a place where he could say anything and not be judged for it. 
+i: She recognized that he was drunk and didn't mean what he was saying.
+q6: Why does the woman gesture towards cake and margaritas?
+a: They are the loves of her life.
+i: She is referencing how unhealthy they are.

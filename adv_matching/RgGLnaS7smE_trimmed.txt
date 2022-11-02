@@ -1,0 +1,18 @@
+q1: What is the dynamic of the two individuals?
+a: They are friendly with each other.
+i: They are awkward around each other.
+q2: Why does the woman nod her head toward the audience at 0:18
+a: She is asking for understanding	 
+i: She is answering a question from an audience member
+q3: Is the man interested in the conversation?	
+a: Yes, he is nodding along and responding with interest.	
+i: No, he is bored and trying to bring the conversation to an end.
+q4: Why does the woman throw her head back and laugh?
+a: The man made a funny joke.
+i: She is amused at her own joke.
+q5: What is the tone of the woman?
+a: She is very bubbly and excited
+i: She is very shy and reserved.
+q6: Who is more dominant person in the conversation?
+a: The man is more dominant as he interrupts and talks over the woman.
+i: The woman is more dominant as she interrupts and talks over the man.

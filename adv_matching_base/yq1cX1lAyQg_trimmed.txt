@@ -1,0 +1,18 @@
+q1:What is the tone of the man in white?
+a: He comes off child like.
+i:He comes off playful and fun
+q2: What is the relationship between the two men?
+a:They are friends at a sleep over.
+i: They are in a romantic relationship.
+q3:Why do both men ask the other if they are awake?
+a: This is done for comedic effect.
+i: They cannot have the conversation if the other man is asleep.
+q4: How does the man in green react to hearing about the other man seeing his math teacher at the store?
+a: He is shocked that he saw a teacher outside of school.
+i: He doesn't care because he saw the teacher at a store too.
+q5: What is the purpose of the video?
+a: The two men are pretending to be children and talking about thethings that kids belive.
+i:The two men are on a camping trip and asking questions to learn more about each other.
+q6: How does the audience react to hearing the man in glasses threory about cats and dogs?
+a: They laugh because it's a silly thing to think.
+i: They gasp because they can't believe that the man thinks that.

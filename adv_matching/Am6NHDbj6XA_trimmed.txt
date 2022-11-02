@@ -1,0 +1,20 @@
+q1: What does the man in black imply about the other man's life?
+a: It is busy
+i: It is luxurious
+q2: Does the man on the left like the Internet?
+a: No
+i: Yes
+q3: How can the man's reason for staying off of the Internet be described as?
+a: Self-aware
+i: Precautionary
+q4: How does the man on the left feel about the Internet?
+a: He avoids it
+i: He's addicted to it
+q5: Why does the man on the left avoid the Internet?
+a: He doesn't want to see bad things said about him
+i: It's too time consuming
+q6: How does the man in black feel about the other man's accomplishments?
+a: He is impressed
+i: He is envious
+
+

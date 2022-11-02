@@ -1,0 +1,18 @@
+q1: Why does the man on the right hesitate to open the letter the man on the left handed him? 
+a: He thinks the man on the left misunderstood the situation and is giving him the letter by mistake.
+i: He is angry that the man on the left handed him the letter.
+q2: Why does the man on the right wipe his hand over the man on the left's shoulder in the beginning?
+a: He is trying to help the man keep a clean and professional appearance.
+i: He is trying to sabotage the man on the left's appearance by dirtying his clothing.
+q3: How does the man on the right feel after he reads the letter the man on the left gave him?
+a: He is shocked and surprised by the contents.
+i: He is bored and couldn't care less.
+q4: Are the two men hostile towards each other?
+a: No, the two men are friendly and seem to have a close relationship.
+i: Yes, they don't seem to like each other.
+q5: Why does the man on the right look around at 0:12?
+a: He is nervous and looks around due to the anxiety.
+i: He is waiting for somebody to arrive and is looking for that person.
+q6: Why is everybody dressed so nicely?
+a: They are at a formal and fancy occassion and are dressed to suit the atmosphere.
+i: They are at a funeral and are in mourning.

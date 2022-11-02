@@ -1,0 +1,18 @@
+q1: What is the man trying to portray on the call with the woman?
+a: Urgency.
+i: Irritation.
+q2: What can be inferred from the fact that the men wanted to surprise the woman?
+a: They care about her.
+i: They're trying to frighten her.
+q3: Why are the men having a surprise party for the woman?
+a: To celebrate her accomplishment.
+i: To celebrate her birthday.
+q4: What is the mood of the room before the woman enters?
+a: Anticipative.
+i: Somber.
+q5: Why does the man end the call without giving the woman a chance to speak?
+a: He doesn't want to allow time for questions.
+i: He doesn't want to be in a relationship with her any longer.
+q6: Why does the man holding the cake wave his arm at 0:21?
+a: He wants the men to be quiet.
+i: He wants to end the conversation.

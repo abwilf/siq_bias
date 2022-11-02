@@ -1,0 +1,18 @@
+q1: What does the man's posture suggest about his confidence?
+a: He is confident and sure of what he is talking about.
+i: He is nervous and feels intimidated.
+q2: Why does the man raise his eyebrows at times?
+a: To emphasize his point while he is speaking.
+i: Because he is confused about what is happening.
+q3: Why does the man pause while each photo comes on the screen?
+a: He is waiting for each photo to show up as a visual cue before he speaks about them.
+i: He is confused about what he is supposed to be saying.
+q4: Does the man seem to be speaking naturally?
+a: No, he seems to be reading off a script because his words are overly calculated.
+i: Yes, he seems to have a natural thought process by the way he speaks.
+q5: Why does the man move his hands as he talks?
+a: He is gesturing as he talks to emphasize what he is saying and look more professional.
+i: He is dancing while he talks.
+q6: How does the man seem to feel about what he is talking about?
+a: He seems to be neutral about the topic as he does not show much emotion while he speaks.
+i: He is very passionate and upset about the topic.

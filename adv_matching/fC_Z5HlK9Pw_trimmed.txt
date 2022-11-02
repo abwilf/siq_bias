@@ -1,0 +1,18 @@
+q1: Is the man in the jacket eager to answer the first game question?
+a: No
+i: Yes
+q2: How does the man in the jacket feel to raise his sign?
+a: Embarrassed
+i: Proud
+q3: What is the reason for the reaction of the man in the jacket when the woman asks the first game question?
+a: It's a personal question
+i: It's a frequently asked question
+q4: Why does the man ask for clarification on the first game question?
+a: He seems to want to avoid answering
+i: He seems genuinely confused
+q5: How does the woman portray the game?
+a: As simple
+i: As intricate
+q6: Why does the man hit the arm of the man beside him?
+a: He knows what his answer will be
+i: He has an idea

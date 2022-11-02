@@ -1,0 +1,18 @@
+q1: Why is the man in black shaking his finger at the boy?
+a: He is giving him orders
+i: He is scolding him
+q2: How does the boy feel when the man demands he call his mother?
+a: Amused
+i: Nervous
+q3: Why do the jaws of the audience members drop?
+a: They are touched by the boy's surprise
+i: They are touched by the boy's music
+q4: Why does the boy appear speechless at 0:48?
+a: He is caught off guard
+i: He is being accused of something 
+q5: Why does the man call the boy's mother?
+a: He wants to mislead him
+i: He is misbehaving
+q6: Is the boy excited to see his mother?
+a: Yes
+i: No

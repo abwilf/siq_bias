@@ -1,0 +1,18 @@
+q1: Why does the woman want to answer these personal questions?
+a: For her audience to get to know her better.
+i: In order to prove her innocence.
+q2: How does the woman show her Christmas enthusiasm?
+a: She dresses as a reindeer.
+i: She dresses as a snowman.
+q3: What is a good indicator of how the woman feels toward Christmas?
+a: Her participation in festivities.
+i: Her rant about people who participate in festivities.
+q4: What activity does the woman enjoy?
+a: Reading.
+i: Writing.
+q5: Why has the woman been reading books?
+a: For her own entertainment.
+i: For her literature class.
+q6: Is the woman comfortable speaking about herself?
+a: Yes, she shares several aspects of her life.
+i: No, she avoids answering questions in detail.

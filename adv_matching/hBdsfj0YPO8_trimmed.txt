@@ -1,0 +1,19 @@
+q1: Why does the man repeat the orders?
+a: To ensure accuracy
+i: To relay them to the chef
+q2: How surprises the woman feel when her food is brought to the table?
+a: The efficiency
+i: The portion size
+q3: Why does the woman with dark hair look to the other women?
+a: She wants to follow their lead
+i: She is hoping for a compliment
+q4: How does the woman in pink feel after the plates are dropped off at the table?
+a: Curious if her friend will eat
+i: Curious if her friend will stay
+q5: How do the starving guests behave toward the waiter?
+a: They are respectful
+i: They are demanding
+q6: Why does the woman contemplate whether she should start eating?
+a: She doesn't want to be inconsiderate
+i: She is unsure when her guest will arrive
+

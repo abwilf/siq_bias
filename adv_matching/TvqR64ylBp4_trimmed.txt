@@ -1,0 +1,20 @@
+
+
+q1: What is the dynamic between the man and the woman?
+a: The woman is interviewing the man.
+i: The man is interviewing the woman.
+q2: How does the man feel about Jimmy Fallon?
+a: He believes Jimmy will do great.
+i: He is not enthusiastic about Jimmy Fallon
+q3: Why the man excited about his future?
+a: He is excited because he will be able to go out during the week now
+i: He is excited because he get's to go home and write more jokes.
+q4:Why did the guest change his accent in the video?
+a: To be funny and represent how people from his hometown talk.
+i: To mock people in a negative manner
+q5: What is the tone of the man?
+a: He is relaxed and cool
+i: He is nervous and fidgety.
+q6:
+a:
+i:

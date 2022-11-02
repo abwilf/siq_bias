@@ -1,0 +1,18 @@
+q1: Why is the woman hesitant to enter the vehicle?
+a: She feels it fits a certain stereotype
+i: She doesn't know the man in the backseat
+q2: Why does the woman look upwards at 0:08?
+a: She expected there to be a grab bar
+i: She she felt a droplet of rain
+q3: What does the woman's silence as she enters the vehicle indicate?
+a: She is not happy with the situation
+i: She is a bit shy 
+q4: What does the woman's tone during the last mention of the stranger's name indicate?
+a: She thinks it is ridiculous
+i: She thinks it is fancy
+q5: What is the woman's behavior toward meeting her son's friend for the first time?
+a: She is insulting 
+i: She is welcoming
+q6: Why is the woman rude to her son's friend?
+a: She wanted quality time with her son
+i: He is disrespecting her in front of her son

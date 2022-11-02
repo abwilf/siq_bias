@@ -1,0 +1,18 @@
+q1: How do the men behave in their disagreement?
+a: They shout in a lighthearted way
+i: They shout in an angry way
+q2: Which man is rooting for Santa?
+a: The man on the left
+i: The man on the right
+q3: How does the man on the right portray Santa?
+a: As innocent
+i: As ridiculous
+q4:
+a:
+i:
+q5:
+a:
+i:
+q6:
+a:
+i:

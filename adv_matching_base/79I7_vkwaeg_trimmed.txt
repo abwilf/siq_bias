@@ -1,0 +1,20 @@
+q1: What is the man on the left thankful for?
+a: Mexican cuisine
+i: Mexican liquor
+q2: What does the man on the right think about the man on the left thanking Mexican Americans?
+a: He thinks it is an interesting point
+i: He thinks it is unnecessary 
+q3: Why is the man on the left talking about tacos?
+a: He is defending them against burritos
+i: He is defending them against tamales
+q4: How does the man on the right look when the man on the left says what his argument comes down to?
+a: He looks curious
+i: He looks disapproving
+q5: Why does the man on the left pause before saying "original"?
+a: He is adding suspense
+i: He is unsure of his answer
+q6: Why does the man on the right tell the man on the left to shake a taco? 
+a: He thinks burritos are better than tacos
+i: He thinks tacos are worse than burritos
+
+

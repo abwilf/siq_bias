@@ -1,0 +1,25 @@
+q1: Why do the girls have a very emotional response to the woman?
+a: They are fans of her.
+i: They have been hurt by her.
+q2: What causes the girls to scream?
+a: The girls are screaming out of excitement.
+i: The girls are screaming out of fear.
+q3: Why does the girl put her hands to her neck at 0:04?
+a: She is expressing her emotions.
+i: She is having trouble breathing.
+q4: What does the salute from the woman to the girls indicate about them?
+a: They are part of a sorority.
+i: They are part of the military.
+q5: Why does the woman make the delta gamma salute?
+a: To relate to the girls.
+i: To intimidate the girls.
+q6: To what does the woman express slight frustration?
+a: The girls not calming down.
+i: The girls not showing appreciation.
+
+
+
+
+
+
+

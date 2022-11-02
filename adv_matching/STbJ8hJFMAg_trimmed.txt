@@ -1,0 +1,18 @@
+q1: What was the mwoman in black's motive to start the initiative?
+a: The woman in black's motive was to help people in crisis
+i: The woman in black's motive was to make a lot of money
+q2: What is the relationship between the two women?
+a: The blonde woman is interviewing the woman in black
+i: The woman in black is interviewing the blonde woman
+q3: What type of people does the woman in black want to help?
+a: The woman in black wants to help people in dire situations
+i: The woman in black wants to help people she knows
+q4: What is the tone of the woman in black?
+a: The tone of the woman in black is serious
+i: The tone of the woman in black is light
+q5: What did the woman in black become confused about?
+a: The woman in black was confused about what defines a dire situation
+i: The woman in black was confused about how to speak to the blonde woman
+q6: Why was this situation the hardest one for the woman in black?
+a: This was the hardest situation for the woman in black because people told her she couldn't go there
+i: This was the hardest situation for the woman in black because people refused to tell her what to do

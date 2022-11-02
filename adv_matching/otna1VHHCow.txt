@@ -1,0 +1,18 @@
+q1:How does the little girl act on the trampoline?
+a:She is smiling and happy because she enjoys jumping on it.
+i:She is scared and apprehensive, so she sits instead of jumping on it.
+q2:Why does the girl next to the gerbil hold her mouth open?
+a:She wants to feed the gerbil and mimes the action she wishes to see.
+i:She is preparing to to eat the leaf she is holding.
+q3:Why does the woman in pink in the beginning keep nodding?
+a:She is having a conversation with the other woman and is using her body language to communicate.
+i:She is listening to music and nodding along with the beat.
+q4:What is the tone of the narration in the video?
+a:The tone is professional and educational to match the topic of discussion
+i:The tone is comedic to ease into the topic of discussion
+q5:How does the woman react to the gerbil?
+a:She wants to pet the gerbil and enjoy its company.
+i:She is scared of the gerbil and hesitant to touch it.
+q6:Why does the man kiss the boy on the forehead?
+a:He is tucking him into bed and wants to wish him goodnight in a loving way.
+i:The boy hit his head and the man is trying to comfort him by kissing the wound.

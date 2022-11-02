@@ -1,0 +1,29 @@
+q1: What does the man think of the woman?
+a: He thinks she does her job well.
+i: He thinks she needs to put more effort into her job.
+q2: What is the man trying to do?
+a: Make video marketing appeal to the woman.
+i: Make video marketing seem less appealing to the woman.
+q3: Why does the man want the woman to be interested in video marketing?
+a: He thinks she would benefit from it.
+i: He wants her to join his team.
+q4: Is the woman confident?
+a: Yes, she agrees with the man's compliments of her.
+i: No, she struggles to embrace her strong suits.
+q5: How does the woman prefer to connect with people?
+a: In person.
+i: Remotely.
+q9: Why does the woman nod throughout the video if she is not sold on what the man is saying?
+a: She is nodding to show that she is listening and receptive.
+i: She is nodding quickly, implying that she wants the man to finish talking.
+
+
+
+
+
+
+
+
+
+
+

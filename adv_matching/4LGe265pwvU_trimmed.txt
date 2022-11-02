@@ -1,0 +1,18 @@
+q1: How does the man with the blue computer bag react to the flight attendants announcements?
+a: He is getting increasingly frustrated.
+i: He is understanding of them.
+q2:
+a: 
+i:
+q3: Why does the man with the blue computer bag put his hand out after getting pushed?
+a: To call out after the woman who pushed him.
+i: To prevent the woman from pushing him again.
+q4: Why does the man with the blue computer bag raise his voice?
+a: He wants to board the plane as soon as possible.
+i: He wants to board the train as soon as possible.
+q5: Why does the man in the vest sip his drink?
+a: To further agitate the bald man.
+i: He has a sore throat.
+q6: How do the bystanders react?
+a: They have neutral facial expressions.
+i: They are getting increasingly frustrated. 

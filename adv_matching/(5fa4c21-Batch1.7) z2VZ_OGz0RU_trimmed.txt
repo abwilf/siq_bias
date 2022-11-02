@@ -1,0 +1,23 @@
+q1: What compelled the man on the left-hand side to growl, suddenly?
+a: His disappointment in himself, he'd gotten an answer about his compatriot wrong.
+i: His surprise, that the man on the right-hand side had startled him!
+
+q2: Why does the blond man air quotes "mean"?
+a: The man was about to crack an offensive joke.
+i: He just wanted his audience to know he was citing his source.
+
+q3: How do the men feel about reading the paper they are holding?
+a: The men are excited to read what is on the paper.
+i: The men are embarrassed about reading the paper.
+
+q4: Which of the two gentlemen seems to be the leader of the pair?
+a: The gentleman on the left, he is enthusiastic and cracking jokes.
+i: The gentleman on the right, he is fairly forceful and goes about keeping their conversation on topic.
+
+q5: Is the man on the right looking forward to reviewing the information cards?
+a: Actually, he isn't: the man fears what they'll reveal.
+i: The man strongly coaxes his compatriot to give him the cards.
+
+q6: Regarding the movie his parents allowed him to act in as a kid, the man on the right ______.
+a: did show some embarrassment and regret regarding
+i: was quite boastful about the whole affair, and wished he'd featured in more.

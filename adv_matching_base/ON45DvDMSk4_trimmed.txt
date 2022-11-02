@@ -1,0 +1,18 @@
+q1:Why does the man's facial expression change at 0:03?
+a:He thought of a question to ask the officer and is making an inquisitive face.
+i:He thought of a question to ask the officer and is making an annoyed face.
+q2:Is the police woman acting in a professional manner?
+a:Yes, she is giving out resources and performing her job duties.
+i:No, she is hiding resources and slacking on her job duties.
+q3:In what manner does the police woman have her hands resting on her belt while speaking?
+a:She is resting her hands on her belt in a relaxed and respectful manner.
+i:She is resting her hands on her belt in an anxious and annoyed manner.
+q4:Why does the police woman stumble over her words as she is explaining the program?
+a:She is trying to remember all of the details of the program to explain to the man.
+i:She is trying to remember all of the lies about the program she was supposed to tell the man.
+q5:Why does the man raise his hands to the woman at 0:51?
+a:He is speaking with his hands to show open body language when giving the woman good news.
+i:He is speaking with his hands to show sympathetic body language when giving the woman bad news.
+q6:What is the reason behind these two people having this conversation?
+a:They are putting together an advertisement to show women and children how to become police officers.
+i:They are putting together an advertisement to show elderly people how to become volunteer officers.

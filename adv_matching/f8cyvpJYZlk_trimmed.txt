@@ -1,0 +1,18 @@
+q1: How does the lady with reddish-brown hair feel about the bald man interrupting her? 
+a: She does not feel that it is a big deal and does not mind.
+i: She is upset that he spoke over her.
+q2: Why do the people being interviewed start to shrug?
+a: They are unsure of the answer to the question.
+i: They don't want to talk to the women asking the questions.
+q3: Why do the woman with the black hair and man with a black jacket scrunch up their eyebrows at each other? 
+a: They are looking at each other for agreement and affirmation and thinking of an answer to the question.
+i: They are making funny faces to make each other laugh.
+q4: Is the group of three woman confident in their answer?
+a: Yes, they answer immediately and all nod in agreement.
+i: No, they hesitate to answer.
+q5: How do the people in the background walking by act toward the people talking?
+a: They ignore the people talking, never stopping or saying anything.
+i: They are excited and stop to stare at the people talking.
+q6: Why does the woman in the glasses pull her hair back and then look into the camera?
+a: She is showing the audience the glasses she put on and is adding dramatic effect.
+i: She is self-conscious about her appearance and trying to fix herself up to feel better.

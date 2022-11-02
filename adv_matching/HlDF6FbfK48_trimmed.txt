@@ -1,0 +1,20 @@
+q1: Why is the woman in dark brown shouting?
+a: She is angry with those to deny God.
+q1: Why is the woman in dark brown shouting?
+a: she is angry at the lady across the table.
+i: She is very excited by what the woman in grey is saying.
+q2: Why does the woman at 0:33 turn to her left?
+a: She is speaking to someone on her left.
+i: She hears someone on her left trying to talk to her.
+q3: How does the woman in beige feel about the argument?
+a: She thinks it is worth the yelling and wishes for it to continue.
+i: She feels that the argument should not be happening and tries to intervene.
+q4: Why does the woman at 0:09 get cut off while speaking?
+a: Another woman is unhappy with her and does not want her to speak.
+i: The lady in brown wants to add on and agree with her.
+q5: Is the woman in grey angry?
+a: No, she is calm and collected.
+i: Yes, she is also shouting and angry.
+q6: Why do the rest of the group of people quiet?
+a: They are listening to the other people speak and do not want to interrupt.
+i: They are scared of the woman in grey and do not want to upset her.

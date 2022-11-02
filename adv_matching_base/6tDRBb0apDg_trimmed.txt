@@ -1,0 +1,18 @@
+q1: Are the two men angry at each other?
+a: No, they are just acting for a skit.
+i: Yes, they are truly angry and about to fight.
+q2: What is the tone of the video?
+a: The tone of this video is comedic and they are jokingly fighting.
+i: The tone is somber and depressing.
+q3: Why do the men keep pulling out different objects?
+a: They are part of the skit and used to amuse the audience.
+i: They are gathering all of the objects to sell to each other.
+q4: What is the relationship between the two men?
+a: They seem to know each other and be friends, because they are making a skit and working well together.
+i: They seem to have just met and not know each other.
+q5: Why are the two men fighting?
+a: They are not actually fighting, they are just making a funny video.
+i: The man in grey insulted the man in black.
+q6: Why does the man chase the other in the grass?
+a: He is jokingly chasing the man to emphasize a verbal joke he has made.
+i: He is trying to stop the man from stealing his stuff.

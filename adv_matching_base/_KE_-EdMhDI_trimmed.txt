@@ -1,0 +1,18 @@
+q1: What is the atmosphere in the room like?
+a: It is full of suspense
+i: It is one of coziness
+q2: Why does the bald man gesture at 0:03?
+a: The phone didn't unlock as expected
+i: The phone didn't ring as expected
+q3: Why does the black-haired man on stage put on glasses?
+a: He is imitating the other man
+i: He wants a better look at the phone
+q4: How does the man react to his glasses being mocked?
+a: He thinks it's funny
+i: He thinks it's offensive
+q5: What is the reaction of the woman in red to the phone unlocking?
+a: She is shocked and impressed
+i: She is confused and unamused
+q6: Why does the man in grey at 0:30 clasp his hands at his mouth?
+a: He is anxious to see what will happen next with the phone
+i: He is debating whether to pass the contestant to the next round

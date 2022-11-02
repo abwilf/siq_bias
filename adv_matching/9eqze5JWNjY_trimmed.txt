@@ -1,0 +1,19 @@
+q1: What does the African-American man value in the workplace?
+a: Safety.
+i: A sense of community.
+q2: What is the tone of the African-American man when describing the accident?
+a: Solemn.
+i: Guilty.
+q3: Why is the African-American man giving a presentation to his coworkers?
+a: He cares for them.
+i: He wants them to make more sales. 
+q4: How does the man on the left at 0:49 feel about the man's jokes?
+a: He thinks they're ridiculous.
+i: He thinks they're clever.
+q5: How do the office members respond to the safety presentation?
+a: They don't take it seriously.
+i: They find value in the lessons.
+q6: How can the act of the man in the yellow shirt pumping his fist into the air be characterized?
+a: As inappropriate.
+i: As encouraging.
+

@@ -1,0 +1,18 @@
+q1: Why does the man in the cowboy hat get upset?
+a: He feels frustrated and wronged.
+i: His mother was in a car accident.
+q2: Do the man in the cowboy hat and the interviewer seem to be getting along?
+a: No, the man in the cowboy hat is feeling offended.
+i: Yes, the man in the cowboy hat is excited to share his passion.
+q3: what is the tone of the man in the glasses at the beginning?
+a: He seems to be in a bit of disbelief at what he's talking about.
+i: He is excited to talk about the reaction of the man in the cowboy hat
+q4: How does the man in the plaid react to the man in the cowboy hat getting upset?
+a: He remains calm and emotionless.
+i: He feels bad for making the man in the cowboy hat upset.
+q5: Why did the man in the cowboy hat raise his voice?
+a: He raised his voice because he was passionate about what he was saying
+i:The man raised his voice because he was excited about the topic
+q6: Why does the man in the cowboy hat nod?
+a: He nods because he is engaged and responding to the question he was being asked.
+i: He nods because he thinks the man interviewing him has made a good point

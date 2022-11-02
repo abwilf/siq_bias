@@ -1,0 +1,18 @@
+q1: How does the boy feel about having a part in the video?
+a: The boy was excited to be a part of the video
+i: The boy was nervous to be a part of the video
+q2: Why does the man in the hat cover his mouth with his fist at 0:10?
+a: He is expressing his disbelief that he almost gave away the secret
+i: He is stopping himself from coughing
+q3: How does the man in the white shirt feel about the secret mission?
+a: The man in the white shirt feels the secret mission was awesome
+i: The man in the white shirt feels the secret mission was unnecessary
+q4: How does the boy feel about having seen the train?
+a: The boy was in awe of having seen the orange train
+i: The boy was disappointed in having seen the orange train
+q5: What is the tone of the video?
+a: The tone is very light and jovial
+i: The tone of the video is very daunting and downtrodden
+q6: Who is the leader of the activity the people are doing?
+a: The man in the hat is the leader of the activity
+i: The boy is the leader of the activity

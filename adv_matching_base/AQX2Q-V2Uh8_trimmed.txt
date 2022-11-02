@@ -1,0 +1,24 @@
+q1: How does the bald man feel to be restrained in the room?
+a: He seems calm
+i: He seems angry
+q2: What is the interaction between the woman and the first man at the table?
+a: She is interrogating him
+i: She is serving him
+q3: What is the atmosphere like in the room?
+a: Tense
+i: Upbeat
+q4: How does the man in black feel about the other man's sarcasm at 0:13?
+a: Frusturated
+i: He thinks it's funny
+q5: How does the man and woman's approaches differ toward the first man?
+a: The woman is more clam
+i: The man is more calm
+q6: Does the man in black trust the two men being interviewed?
+a: No
+i: Yes
+
+
+
+
+
+

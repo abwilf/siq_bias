@@ -1,0 +1,18 @@
+q1:How does the bald man in the yellow shirt react to the testimonial given by the man in the striped shirt?
+a:He laughs, smirks, and smiles throughout, not taking the man in the striped shirt seriously.
+i:He is straight-faced and stoic throughout.
+q2:Why are the people discussing the topic?
+a:They are in court and trying to disolve a disupte.
+i:They are at a gathering having a friendly conversation together.
+q3:What mood does the man in the black seem to be in throughout the video?
+a:He seems to be annoyed, but serious.
+i:He seems jovial and wants to celebrate.
+q4:Why is the audience quiet throughout the video?
+a:They are listening to the people talking and are only there to watch what is happening.
+i:They are waiting for their turn to speak after the people are done talking.
+q5:Why is the man in black asking the people standing up questions?
+a:He is the judge in a trial and wants to gether information from them.
+i:He is curious about how their day went and wants to find out.
+q6:Why does the bald man in the yellow shirt roll his eyes.
+a:He is in disbelief at the answer the man in the striped shirt gave.
+i:He is annoyed by a joke the man in the striped shirt told.

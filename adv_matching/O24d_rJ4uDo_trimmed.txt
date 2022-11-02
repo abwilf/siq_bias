@@ -1,0 +1,18 @@
+q1:Why does the woman in red stare and smile at the man in the black tracksuit when he talks?
+a:She is listening to what he is saying intently to be respectful.
+i:She is listening to what he is saying intently to be flirtatious.
+q2:Why does the man in the black tracksuit laugh when the interviewer asks the longer haired blonde man about the track?
+a:He knows it's supposed to be a joke, because the longer haired blonde man isn't an athelete.
+i:He knows it's supposed to be a joke, because the longer haired blonde man is retired from running.
+q3:Does everyone in the conversation like each other?
+a:Yes, they are all agreeable with each other and have a lighthearted conversation.
+i:No, they are all disagreeing with each other and having a depressing conversation.
+q4:Is everyone engaged in the longer haired blonde man's story?
+a:Yes, everyone is quietly listening and waiting to hear what comes next.
+i:No, everyone is quietly zoning out and waiting to hear the finish.
+q5:What does the longer haired blonde man mean by "anti-training"?
+a:Him and his brother participated in a night of partying before the marathon.
+i:Him and his brother participated in an ancient form of training before the marathon.
+q6:Why does the interviewer have his mouth open at 0:53?
+a:He cannot believe the story that the longer haired blonde man just told.
+i:He cannot believe the lie that the longer haired blonde man just told.

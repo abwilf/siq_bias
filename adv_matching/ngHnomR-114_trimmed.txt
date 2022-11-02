@@ -1,0 +1,18 @@
+q1: Who seems more enthusiastic about the girl's party?
+a: The mother
+i: The daughter
+q2: Why is the mother helping their friends with the party?
+a: She felt bad for them
+i: She is excited about the event
+q3: What expectation does the girl sitting on the bed have for the party?
+a: That it won't be fun
+i: That it will be fun
+q4: Why does the girl groan at 0:36?
+a: She doesn't want to go to the party
+i: She doesn't want to help her mother
+q5: What confuses Trina about the party?
+a: There are no guests
+i: There is no food
+q6: Why are the kids hiding from Trina?
+a: They want to surprise her
+i: They don't want to play with her

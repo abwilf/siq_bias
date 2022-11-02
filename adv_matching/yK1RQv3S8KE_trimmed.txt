@@ -1,0 +1,18 @@
+q1: Why is the man in the blue shirt and yellow tie waving his hand in the air?
+a:He is trying to emphasize his point.
+i:He is scolding the person next to him.
+q2: How does the man in the red tie feel about his children?
+a: He loves them but wouldn't wrong else for them.
+i: He loves them and would step on anyone else to help them.
+q3: What is the tone of the man with the red tie.
+a:He is passionate about his stance on the topic.
+i: He is pensive and reflective about the topic.
+q4: Are the two men in the ties agreeable to one another?
+a:Yes, they whole heartedly agree with each other.
+i:No, they do not agree with each other at all.
+q5: How does the group get along?
+a: They are respectful of each others opinion
+i: They are angry with one another and get into a heated debate
+q6: Does the man without the tie agree with the men who are debating?
+a: He does not give an opinion on the matter.
+i: Yes, He agrees with the man in the red tie on the matter.

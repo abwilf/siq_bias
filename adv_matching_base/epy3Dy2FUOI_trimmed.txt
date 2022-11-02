@@ -1,0 +1,18 @@
+q2: What makes the woman seem credible?
+a: She supports her claims with evidence
+i: She references her background 
+q3: What does the woman think of the information the man provides?
+a: She thinks it's interesting
+i: She thinks it's ridiculous
+q7: Is the man confident?
+a: Yes
+i: No
+q8: What is the woman's sentiment toward the discussion?
+a: Positive
+i: Negative
+q10: What is the man's role?
+a: To relay information
+i: To represent his alma mater
+q11: Is the woman upset with the man?
+a: No
+i: Yes

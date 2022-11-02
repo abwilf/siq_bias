@@ -1,0 +1,18 @@
+q1:Why is the man with the black rimmed glasses using his hands while he speaks?
+a:He believes what he is saying and trying to show that it's important to the story.
+i:He doesn't believe what he is saying and trying to distract from the story.
+q2:Does the woman in the black sweater mean to interrupt the man with the black rimmed glasses?
+a:No, she knew he was about to be done speaking and she jumped in to begin answering his question.
+i:Yes, she knew he was about to ask her to lie and she jumped in to prevent him from asking his question.
+q3:Why does the woman in the black sweater sway her head around when she talks about people buying sports cars?
+a:She is mocking those kind of people because she disagrees with what they have done.
+i:She is admiring those kind of people because she wishes she could do what they have done.
+q4:Does the woman in the black sweater seem confident in what she is saying?
+a:Yes, she speaks with pride and focus.
+i:No, she speaks with fear and caution.
+q5:Why does the woman in green interrupt at 0:55?
+a:The woman in green interrupts because she felt she had something pertinent to add to the conversation.
+i:The woman in green interrupts because she does not want the subject matter to be discussed.
+q6:Does the woman in black think that it's smart to hire family members?
+a:No, she thinks it's dangerous and can have bad results.
+i:Yes, she thinks it's smart and can have amazing results.

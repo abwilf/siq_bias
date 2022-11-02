@@ -1,0 +1,18 @@
+q1: What do these people value?
+a: The Lord
+i: Science
+q2: Why are the people gathered?
+a: They are of the same religion
+i: They are of the same town
+q3: Why does the man hold up his hand at 0:54?
+a: He wants to speak
+i: He doesn't want the woman to continue
+q4: Do the people believe in what the woman is saying?
+a: Yes
+i: No
+q5: How does the mood of the video shift toward the end?
+a: It shifts from confident to concerned
+i: It shifts from concerned to confident
+q6: What is important to these people?
+a: Going to heaven
+i: A good sense of humor

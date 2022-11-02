@@ -1,0 +1,18 @@
+q1: Why did the woman lie about her ethnicity?
+a: To improve her life
+i: To impress others
+q2: Did the woman lying about her ethnicity get her in trouble?
+a: No
+i: Yes
+q3: Is the man surprised that the woman has seen changes in her life?
+a: Yes
+i: No
+q4: Why does the woman clap at 0:09?
+a: To represent a combination
+i: She is enjoying the interaction with the man
+q5: How does the man portray the woman's early career?
+a: As difficult
+i: As suspicious
+q6:
+a:
+i:

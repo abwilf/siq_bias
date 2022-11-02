@@ -1,0 +1,18 @@
+q1: Why do the people put their arms up?
+a: The people want to increase their confidence
+i: The people are excited to be on television
+q2: What is the reaction of the woman in white?
+a: The woman in white is surprised
+i: The woman in white is disappointed
+q3: How do the people feel about what the man in the suit is saying?
+a: They feel as though what the man in the suit is saying is surprising
+i: They feel as though what the man in the suit is saying is stupid
+q4: How does the man in the suit feel about what he is saying?
+a: He feels conviction and novelty about what he is saying
+i: He feels doubtful and embarrassed about what he is saying
+q5: What is the attitude of the people?
+a: The people are in awe and are interested
+i: The people are doubtful and are ignorant
+q6: How does the man in the plaid shirt express himself?
+a: He expresses agreement by outlining his own experiences
+i: He expresses his disagreement by outlining his own experiences

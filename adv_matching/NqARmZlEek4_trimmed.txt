@@ -1,0 +1,18 @@
+q1: What is the purpose of the people sitting at the desk?
+a: They are there to introduce the topics and people speaking to the audience.
+i: They are judging the woman in blue on how well she speaks.
+q2: How does the blonde woman in glasses feel about what she is talking about?
+a: She is passionate and happy about it, glad to be talking about it.
+i: She feels annoyed that she has to talk about it because she does not care.
+q3: Why are the people in the chairs at 00:56 all facing the man in the white hat?
+a: They are listening to what he is saying and have shifted to be able to better see him.
+i: They do not want to look at the audience, which is to the front of them, so they look elsewhere.
+q4: Why does the blonde woman speaking at 00:09 look down?
+a: She stumbled over a word and was slightly embarrased and trying to get back on track.
+i: She saw something by her feet that distracted her.
+q5: Are the people at the desk confident?
+a: Yes, they speak clearly and do not show any signs of nervousness.
+i: No, they stutter and look scared.
+q6: What is the tone of the woman in the blue shirt?
+a: It is very professional.
+i: It is relaxed and fun.

@@ -1,0 +1,18 @@
+q1:Why is the man in the red tie staring ahead?
+a:He is saddened by the events that have taken place and is trying to be professional.
+i:He is indifferent to the events that have taken place and is trying to be unnoticed.
+q2:What is the tone of the man speaking into the microphones?
+a:His tone is calm and professional, while he gives facts to reporters.
+i:His tone is brash and condescending, while he gives facts to reporters.
+q3:Why are there hands holding up electronic devices next to the man speaking?
+a:They are trying to get the information from the man onto a recording device.
+i:They are trying to get the information from the man to fix their device.
+q4:What is the general tone in the atmosphere around the man speaking?
+a:The tone is somber, because a terrible tragedy has occurred and people are devastated.
+i:The tone is angry, because a terrible tragedy has occurred and people are irate.
+q5:Is the man speaking into the microphone surprised that this event occurred?
+a:Yes, he cannot believe this happened and was not planning for it at all.
+i:No, he believed this would happen and was planning for it all.
+q6:Why does the man in the back with the red stripe on his hat cover his mouth at 0:14?
+a:He is coughing and needs to cover his mouth since he is in public.
+i:He is crying and needs to cover his emotions since he is in public.

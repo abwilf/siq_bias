@@ -1,0 +1,18 @@
+q1: Why does the man on the left move his hand in front of his face at 0:33?
+a: He is describing his hair style
+i: He is pretending to hide
+q2: How do the men speak of the movies?
+a: Nostalgically
+i: Critically
+q3: Do the men seem to bond with each other?
+a: Yes, they have similar memories
+i: Yes, they both love fishing
+q4: How did the man on the left feel about The Terminator film?
+a: He was heavily influenced by it
+i: He felt it was unrealistic
+q5: What does the man on the right think of the step cut hairstyle?
+a: It is a new concept to him
+i: He had one as a child
+q6:
+a:
+i:

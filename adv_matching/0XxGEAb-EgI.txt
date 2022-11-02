@@ -1,0 +1,18 @@
+q1:Who is the interviewer in the video?
+a:The man on the right, because he is asking the other man questions.
+i:The man on the left because he is answering questions.
+q2:What is the tone of the video?
+a:It is professional and instructional.
+i:It is light-hearted and silly.
+q3:What is the tone of the man on the right?
+a:Professional, curious, and attentive.
+i:Inattentive and bored.
+q4:Why is the man on the right quiet while the man on the left is speaking?
+a:He is listening to the question the other man is asking before he speaks.
+i:He is falling asleep out of boredom.
+q5:Why do the men sit upright with good posture?
+a:They are conducting a professional interview with each other.
+i:They are trying to strengthen their backs.
+q6:How does the man on the right show he understands the question?
+a:He nods when he understands.
+i:He exclaims out loud that he understands.

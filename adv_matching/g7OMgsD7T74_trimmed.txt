@@ -1,0 +1,18 @@
+q1: What does the man on the left seem to enjoy?
+a: Science
+i: Tennis
+q2: Does the man on the right expect the other man to have all of the answers?
+a: Yes
+i: No
+q3: Does the man on the left find the other man's impersonation of him funny?
+a: No
+i: Yes
+q4: What does the man's gestures at 0:52 indicate?
+a: He is struggling to express himself through words
+i: He is deep in thought
+q5: What does the man behave after his comment about June's moon?
+a: He seems pleased with himself
+i: He seems embarrassed
+q6: What does the tone of the man on the right convey at the end of the video?
+a: Frustration
+i: Flattery

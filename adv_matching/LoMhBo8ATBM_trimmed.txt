@@ -1,0 +1,23 @@
+q1: How does the audience show they agree with Hillary?
+a: They applaud her when she says something they strongly agree with.
+i: They nod at her when she says something they strongly agree with. 
+
+q2: How does Hillary communicate her message?
+a: She includes facts to support her message. 
+i: She includes emotions to support her message.
+
+q3: What was the atmosphere like in the room?
+a: The crowd appeared to be cheerful and positive of the discussion.
+i: The crowd appeared to be hostile to both the man and woman.
+
+q4: How does the host show he agrees with Hillary? 
+a: He verbally tells her he agrees.
+i: He gives her a thumbs up.
+
+q5: Is the man sympathetic to what the woman said?
+a: Yes. He was supportive to what the woman said.  
+i: No. He was joking about what the woman said.
+
+q6: How did the woman present herself when talking? 
+a: She was serious and collected.
+i: She anxious and scattered. 

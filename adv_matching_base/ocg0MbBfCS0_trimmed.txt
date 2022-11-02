@@ -1,0 +1,18 @@
+q1:Why does the man with curly hair keep closing his eyes during the presentation?
+a:He is underwhelmed and is falling asleep during the presentation.
+i:He is overwhelmed and is trying to process information during the presentation.
+q2:Does the man with curly hair really think he had a "good experience"?
+a:No, he is indifferent towards the experience and has a dismissive attitude.
+i:Yes, he is amazed by the experience and has a thoughtful attitude.
+q3:Why does the man in plaid sit up in the chair?
+a:So he could focus better on what he is saying and look like he is paying attention.
+i:So he could feel better about what he is saying and look like he is not in pain.
+q4:Why is the woman with her back against the wall smiling while the man in the plaid shirt is talking?
+a:She feels awkward and is thinking of what to say when it's her turn to talk.
+i:She feels guilty and is thinking of what to say when it's her turn to talk.
+q5:Why does the man in plaid look at the person holding the camera when he is done talking?
+a:He is looking for acknowledgment that he can be done speaking now.
+i:He is looking for encouragement that he should keep speaking now.
+q6:How is it shown that the man in the black shirt is nervous to speak?
+a:He shows he is nervous by not looking into the camera and speaking with a cautious tone.
+i:He shows he is nervous by staring into the camera and speaking with an angry tone.

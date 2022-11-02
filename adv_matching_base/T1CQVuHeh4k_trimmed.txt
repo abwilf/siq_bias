@@ -1,0 +1,18 @@
+q1: Why does the man want the video to be turned off?
+a: He is embarassed by his actions
+i: He is in a hurry to leave
+q2: How does the woman react to the man's actions on video?
+a: The woman is annoyed and disappointed
+i: The woman is amused and impressed
+q3: What is the woman's attitude towards the man after watching the video?
+a: The woman is suspicious of the man
+i: The woman is attracted to the man
+q4: How does the man feel while drinking?
+a: The man feels elated and euphoric
+i: The man feels sad and depressed
+q5: How does the man react to all of the woman's questions?
+a: The man lies in order to not further distress the woman
+i: The man confesses his indescretions to console the woman
+q6: Why does the woman react the way she does to the man's actions on video?
+a: She reacts with annoyance because the man was immature and disrespectful
+i: She reacts with amusement because the man was funny and entertaining 

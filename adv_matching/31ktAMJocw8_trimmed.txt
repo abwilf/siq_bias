@@ -1,0 +1,18 @@
+q1: Does the woman like the congressman from an opposing political party?
+a: Yes
+i: No
+q2: Does the woman refuse to work with opposing political parties?
+a: No
+i: Yes
+q3: How does the woman feel about democrats?
+a: She wants to see them in office
+i: She wants to see them stay out of office
+q4: How does the woman feel about the retiring congressman?
+a: She is grateful for the assistance he gave
+i: She is grateful for the guidance he gave
+q5: Does the woman think the question the man asks is offensive?
+a: No, she responds calmly
+i: Yes, she refuses to engage further
+q6: What is the relationship between the man and the woman?
+a: Interviewer and interviewee
+i: Coworkers

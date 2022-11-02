@@ -1,0 +1,18 @@
+q1:Why are the men talking over each other?
+a:They are debating a topic and are in heated conversation about it.
+i:They are each trying to keep the other from talking.
+q2:Why does the man in the grey sweater hold up his hand toward the other man?
+a:He is arguing a point and stopping the man from talking so that he can explain his point.
+i:He is trying to block the other man from looking at him.
+q3:What is the tone of the conversation?
+a:It is tense and serious, as they are politely debating a topic.
+i:It is laid back and relaxed, as they are having a casual conversation.
+q4:Why does the man in black sit facing the other man?
+a:He is listening to the other man speak and giving him his full attention.
+i:He wants to catch the other man's reaction to his story.
+q5:How does the man in grey behave while he is talking?
+a:He is concentrating and serious, but does not act angry.
+i:He is relaxed and trying to make the other man laugh.
+q6:Why did the man on the left keep moving his hands?
+a:He is passionate about what he is talking about.
+i:He is trying to start a fight with the interviewer.
